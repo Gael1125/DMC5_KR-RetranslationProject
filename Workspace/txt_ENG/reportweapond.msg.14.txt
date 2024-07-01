@@ -9,7 +9,7 @@
 <string>Dante modded this shotgun into<lf>an anti-demon weapon.<lf><lf>Compared to the sheer beauty of<lf>my grandma's guns, this thing's<lf>barbaric! Have you SEEN what this<lf>thing is like inside!?<lf>It's like blowing up a dam to put<lf>out a campfire.<lf><lf>Don't get me wrong, I could make<lf>something just as gnarly...and<lf>pretty to look at, to boot. Doubt<lf>Dante would gave two shakes about<lf>that, though.
 <string>I built this here Devil Arm based<lf>off Daddy's old research. Got the<lf>name Faust from the demon I based<lf>this design concept off of.<lf><lf>It fires crystallized demon blood<lf>like bullets...y'know, Red Orbs?<lf>I also made sure it causes any<lf>demon it hits to cough up a butt-<lf>load of blood.<lf><lf>Amazing, ain't it!? You'd have to<lf>be a few beers short of a six-<lf>pack to pass up a Devil Arm<lf>like this.
 <string>A multipurpose missile launcher,<lf>and Lady's bosom buddy. She named<lf>it after her dear departed momma.<lf><lf>It was designed and built by some<lf>other craftsman, but after they<lf>passed away I've been the one she<lf>comes to for tune-ups. Believe you<lf>me, she's real attached to this<lf>thing.<lf><lf>Whoever made this, I can tell they<lf>knew what they were doing, and<lf>then some. Sure wish I'd gotten<lf>the chance to meet 'em.
-<string>A replica of Lady's Kalina Ann<lf>I fashioned from memory.<lf><lf>Don't like the "II" fool you, it's<lf>not an upgrade on the original.<lf>I made sure it didn't stray too<lf>far from the source material.<lf><lf>Still, this IS me we're talking<lf>about here...so I added a fun little<lf>something extra for when the<lf>original Kalina Ann surfaces.<lf>Might be a bit much for Lady...<lf>But Dante? Heh heh...
+<string>A replica of Lady's Kalina Ann<lf>I fashioned from memory.<lf><lf>Don't let the "II" fool you, it's<lf>not an upgrade on the original.<lf>I made sure it didn't stray too<lf>far from the source material.<lf><lf>Still, this IS me we're talking<lf>about here...so I added a fun little<lf>something extra for when the<lf>original Kalina Ann surfaces.<lf>Might be a bit much for Lady...<lf>But Dante? Heh heh...
 <string>HA! I knew Dante had it in 'im!<lf>He found the Kalina Ann and<lf>brought it back!<lf><lf>Now that coupling mechanism I<lf>hid in my Kalina Ann II won't go<lf>to waste...I bet you can guess<lf>what that's for now?<lf><lf>BOOM! Throw the two Kalina Anns<lf>together to discharge an insanely<lf>high-powered heat ray!<lf><lf>Still, a girl needs her secrets,<lf>right? So, uh...don't tell Lady<lf>about this, m'kay?
 <string>
 <string>The demon sword Sparda used to<lf>seal away the demon king Mundus.
@@ -33,7 +33,7 @@
 <string>All-purpose artillery
 <string>Latest model of mayhem
 <string>Ultimate ordnance tag-team
-<string>Saws that sunder evil
+<string>Saws That sunder evil
 <string>
 <string>
 <string>

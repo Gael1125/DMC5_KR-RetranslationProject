@@ -64,7 +64,7 @@
 <string>The devil sword Sparda was concealing Dante's presence.
 <string>How does one friggin' guy have so much luck, huh!?
 <string>Uhh, V?
-<string> No no no, get a grip on yourself now, c'mon!
+<string>No no no, get a grip on yourself now, c'mon!
 <string>If only you could defeat Urizen...
 <string>If only... No.
 <string>V? No no no...

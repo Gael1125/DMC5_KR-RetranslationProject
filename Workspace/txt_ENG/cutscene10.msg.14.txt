@@ -15,7 +15,7 @@
 <string>The 15th...of June.
 <string>A month?
 <string>No wonder I'm so stiff.
-<string>Right, sunshine, now put a fire under it. <lf>
+<string>Right, sunshine, now put a fire under it.<lf>
 <string>We gotta get going, 'cause that annoying pimple Nero<lf>is making a beeline for Urizen.
 <string>And if he gets there he's gonna—
 <string>Smashed like a bug!!
@@ -42,7 +42,7 @@
 <string>...if it really is you.
 <string>
 <string>Well, well... O king of stench and filth. I'm impressed!
-<string>Those are two of the most badass woman in the world.
+<string>Those are two of the most badass women in the world.
 <string>
 <string>And I only know one other guy who can defeat 'em...
 <string>Jackpot!

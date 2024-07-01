@@ -32,7 +32,7 @@
 <string>Shadow Quality
 <string>Dynamic Object Shadows
 <string>Shadow Cache
-<string>Ambient Occlusion Type
+<string>Ambient Occlusion
 <string>Ambient Occlusion
 <string>Bloom
 <string>Lens Flare
@@ -42,34 +42,34 @@
 <string>Chromatic Aberration
 <string>Color Range
 <string>Cutscene Depth of Field Quality
-<string>Adjust the screen resolution.
-<string>Adjust the refresh rate.
-<string>Adjust the display mode.
-<string>Adjust the field of view.
-<string>Adjust the framerate.
-<string>Toggle synchronization between the<lf>framerate and refresh rate on and off.
-<string>Adjust the rendering method.
-<string>Adjust rendering resolution scaling<lf>based on the screen resolution.
-<string>Adjust the texture quality.
-<string>Adjust the texture sharpness.<lf>Ultra: ANISO x16<lf>High: ANISO x8<lf>Medium: ANISO x4<lf>Low: ANISO x2<lf>Minimum: Trilinear
-<string>Adjust the mesh quality.
-<string>Adjust the setting for smoothing edges.
-<string>Toggle motion blur effects.
-<string>Adjust the visual effect quality.
-<string>Turn depth of field on or off.
-<string>Adjust shadow quality.
+<string>Change the screen resolution.
+<string>Change the monitor refresh rate.
+<string>Change the display mode.
+<string>Change the field of view.
+<string>Change how many frames are rendered<lf>per second.<lf><lf>Variable allows the game to run<lf>at framerates above 60.
+<string>Turn monitor refresh rate and frame<lf>rate synchronisation on or off.
+<string>Change the method used to render<lf>the game.
+<string>Change the resolution scaling factor based<lf>on the screen resolution.
+<string>Change the quality of object textures.
+<string>Change the clarity of object textures.<lf><lf>Ultra: Anisotropic Filtering x16<lf>High: Anisotropic Filtering x8<lf>Medium: Anisotropic Filtering x4<lf>Low: Anisotropic Filtering x2<lf>Minimum: Trilinear Filtering
+<string>Change the quality of polygonal meshes.
+<string>Change the aliasing smoothing technique.
+<string>Toggle motion blur effects on or off.<lf><lf>Motion blur is automatically disabled in<lf>gameplay.
+<string>Change the visual effect quality.
+<string>Turn the effect that adjusts focus<lf>depending on the distance of objects<lf>on or off.
+<string>Change the quality of shadows.
 <string>Turn dynamic object shadows on or off.
-<string>Turn the caching of static object<lf>shadows on or off.<lf>Turning this off increases available<lf>VRAM memory, but may slow performance.
-<string>Adjust the type of shadows cast by<lf>indirect lighting.
-<string>Adjust indirect lighting shadows.
-<string>Turn bloom on or off.
-<string>Turn lens flare on or off.
-<string>Adjust volumetric light quality.
-<string>Adjust the setting for improved<lf>reflection rendering.
-<string>Adjust the setting for improved<lf>skin rendering quality.
+<string>Turn the caching of static object<lf>shadows on or off.<lf><lf>Turning shadow cache off increases<lf>available VRAM, however may decrease<lf>game performance.
+<string>Change the type of shadows cast<lf>by indirect lighting.
+<string>Change indirect lighting shadows.
+<string>Turn bleed from bright light sources<lf>on or off.
+<string>Turn the effect that shows light<lf>scattering on the lens on or off.
+<string>Change the quality of volumetric lighting.
+<string>Turn the effect for improved reflection<lf>rendering on or off.<lf><lf>Screen space reflections are automatically<lf>disabled in gameplay.
+<string>Turn the effect for improved skin<lf>rendering quality on or off.
 <string>Turn chromatic aberration on or off.
-<string>Adjust the color range.
-<string>Adjust the resolution for depth of field<lf>expressions, such as background blur<lf>during cutscenes.
+<string>Change the color range.
+<string>Change the resolution for depth of field<lf>expressions, such as background blur<lf>during cutscenes.
 <string>Auto-detect
 <string>Fullscreen
 <string>Window
@@ -99,16 +99,16 @@
 <string>Medium
 <string>High
 <string>OFF
-<string>SSAO (Variable)
 <string>SSAO
-<string>HBAO+ (Variable)
-<string>
+<string>SSAO
+<string>HBAO+
+<string>HDAO
 <string>None
 <string>Low
 <string>High
 <string>ON
 <string>OFF
-<string>Variable
+<string>ON
 <string>SRGB
 <string>BT.709
 <string>50%

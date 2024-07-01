@@ -18,7 +18,7 @@
 <string>do a man's job.
 <string>Hey, wait! I'm not done talking yet—
 <string>Okay, you get some rest.
-<string>By the way...I guess owe you one.
+<string>By the way...I guess I owe you one.
 <string>
 <string>Is it Halloween already?
 <string>Sparda...!

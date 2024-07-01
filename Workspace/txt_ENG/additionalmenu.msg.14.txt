@@ -6,8 +6,8 @@
 <string>VERGIL
 <string>UNLEASH VERGIL
 <string>
-<string>Embark with Nero, Dante, and V through the events of DMC V.
-<string>Embark with Vergil through the events of DMC V.
+<string>Embark with Nero, Dante, and V through the events of DMC5.
+<string>Embark with Vergil through the events of DMC5.
 <string>A mode tailored for highly skilled players.<lf>Hordes of demons await.
 <string>A mode tailored for highly skilled players.
 <string>Purchase Vergil as a playable character from the online store.

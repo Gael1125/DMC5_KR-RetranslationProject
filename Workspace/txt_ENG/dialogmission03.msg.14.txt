@@ -1,5 +1,5 @@
 <string>
-<string>So this Qliphoth... Screw it.<lf>We're taking that fucking thing down.
+<string>So this Qliphoth... Screw it.<lf>We're taking this fucking thing down.
 <string>Use the wire hook to your advantage,<lf>unless you wanna stretch your arm out.
 <string>
 <string>Think I'll handle the closer one first.<lf>Gotta start somewhere...

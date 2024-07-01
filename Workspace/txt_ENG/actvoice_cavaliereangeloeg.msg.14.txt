@@ -11,4 +11,4 @@
 <string>Come!
 <string>You! What are you doing!?
 <string>My spear shall pierce though thy flesh!
-<string>May my lightening burneth thy flesh!
+<string>May my lightning burneth thy flesh!
