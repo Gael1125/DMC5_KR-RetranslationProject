@@ -1,0 +1,20 @@
+<string>
+<string>No hard feelings guys, but this is my gig!
+<string>Trust me, Nero... This one's gonna be<lf>a little too much for ya.
+<string>
+<string>Leave at once!
+<string>Only kings of the Underworld may enter these gates!
+<string>You shall not pass!
+<string>Easy there, fella. Hey...I remember<lf>a stinky little pooch just like you.
+<string>You insult me, foul-scented creature!
+<string>Looks like your master's got you on a pretty short leash.
+<string>Come on, little puppy. I'll take you<lf>out for a walk, c'mon! Let's go!
+<string>You have fought our kin in the past...
+<string>But I am king of the Cerberus tribe!
+<string>They were weak!
+<string>But WE will feast on your flesh,
+<string>and gnaw on your bones!
+<string>So, you're the strongest in the litter.
+<string>Looks like we're gonna need a bigger leash. Come on!
+<string>
+<string>Guess I'm the first one here. I like that!

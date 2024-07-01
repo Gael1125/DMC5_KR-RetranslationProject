@@ -1,0 +1,37 @@
+<string>
+<string>出口を探さねばな…
+<string>おっとォ！　何だ、こりゃァ！？
+<string>上で暴れてやがンのか！<lf>天井にゃ気を付けな、<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>！
+<string>踏み潰されるトコだったな！<lf>ヘシ折っちまうか？
+<string>これでネロも多少、楽になるか…
+<string>ハヒー！　坊やのお手伝いか！<lf>優しいこって！
+<string>上は坊やに任せとけよ！<lf>こっちは下からＧＯだ！
+<string>これを潰さねば通れんか…
+<string>こっちか…
+<string>どこかに抜け道があるはずだ…
+<string>しかしバカデカい船だな…
+<string>裏道か！　イイねェ！
+<string>穴ッポコだ…入ってみる？
+<string>やっぱ外はイイな！　電話もあるしよ！
+<string>
+<string>時を操るとは…<lf>あの馬の力か
+<string>ってコトはゲリュオンか…！<lf>ダンテがブッ殺したと思ったがよ！
+<string>希少種だが絶滅は免れていたらしい<lf>それも今日までだがな
+<string>
+<string>気を付けろよ、<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>！<lf>さすがに馬力がありやがる！
+<string>あの突進の勢いを利用して…<lf>手痛い一撃を喰らわせてやるさ
+<string>
+<string>弱いな…力なき者よ
+<string>だとさ…何か反論アル？
+<string>”想いこそが無限を満たす”…だそうだ
+<string>ポエム読んでる場合か…ッ！？<lf>で、どういう意味？
+<string>為せば為るという事だ…行くぞ！
+<string>
+<string>…手を貸してくれ
+<string>了解 そこで待ってろ
+<string>
+<string>ニコか…
+<string>ヤバそうだな すぐ行く
+<string>
+<string>
+<string><RUBY><RB>V</RB><RT>ブイ</RT></RUBY>だな？待ってろ

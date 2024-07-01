@@ -1,0 +1,351 @@
+<string>
+<string>OPTIONS
+<string>GAME OPTION
+<string>SOUND
+<string>BRIGHTNESS
+<string>CONTROL
+<string>LANGUAGE
+<string>NETWORK
+<string>CUTSCENE CUSTOMIZE
+<string>PC OPTIONS
+<string>CUTSCENE SELECT
+<string>NPC COSTUME
+<string>
+<string>ゲームに関する設定を変更します
+<string>サウンドの設定を変更します
+<string>画面の明るさの設定を変更します
+<string>コントローラーの設定を変更します
+<string>言語の設定を変更します
+<string>ネットワークの設定を変更します
+<string>カットシーンの各種設定を行います
+<string>キーボードとマウス操作、グラフィックの設定を行います
+<string>カットシーンのタイプを変更します
+<string>カットシーンのNPCコスチュームを変更します
+<string>コントローラーの設定を変更します
+<string>
+<string>
+<string>GAME OPTION
+<string>LOCK-ON MARKER
+<string>CAMERA（LEFT/RIGHT)
+<string>CAMERA（UP/DOWN）
+<string>CAMERA SPEED
+<string>AUTOMATIC ASSIST
+<string>TUTORIAL DISPLAY
+<string>INTRODUCTION
+<string>VIBRATION
+<string>CAMERA SPEED（LEFT/RIGHT)
+<string>CAMERA SPEED（UP/DOWN）
+<string>CAMERA DISTANCE
+<string>CAMERA TRACKING SPEED
+<string>ATTENTION CAMERA
+<string>ロックオンマーカーの表示・非表示を切り替えます
+<string>カメラの左右操作の設定を変更します
+<string>カメラの上下操作の設定を変更します
+<string>カメラの移動速度を調整します。
+<string>オートマチックアシスト設定を変更します
+<string>チュートリアル表示の設定を変更します
+<string>紹介演出表示の設定を変更します
+<string>コントローラーの振動設定を変更します
+<string>カメラの左右操作の移動速度を調整します。
+<string>カメラの上下操作の移動速度を調整します。
+<string>プレイヤーとカメラの距離を調整します。
+<string>プレイヤーの背後に追尾するカメラの設定を変更します。
+<string>一部の演出された注目カメラの設定を変更します。
+<string>コントローラーの振動設定を変更します
+<string>ON
+<string>OFF
+<string>NORMAL
+<string>REVERSE
+<string>ロックオンマーカーを表示します。
+<string>ロックオンマーカーを表示しません。
+<string>カメラ操作方向を標準設定にします。<lf>（左入力で左向き、右入力で右向き）
+<string>カメラ操作方向を標準設定の逆向きにします。<lf>（左入力で右向き、右入力で左向き）
+<string>カメラ操作方向を標準設定にします。<lf>（上入力で上向き、下入力で下向き）
+<string>カメラ操作方向を標準設定の逆向きにします。<lf>（上入力で下向き、下入力で上向き）
+<string>カメラの移動速度を調整します。<lf>目盛り量を増やすと高速になります。
+<string>オートマチック操作を使用しません。<lf><lf>オートマチック操作とは、<lf>連携技を手軽に繰り出せる補助機能です。<lf>ＯＮにすると<trc id="0">連打で<lf>さまざまな技が自動的に発動します。<lf>（<ICON ACT_RStP>長押しでＯＮ／ＯＦＦ切り替え）
+<string>オートマチック操作を使用します。<lf><trc id="0">連打で手軽に連携技が繰り出せます。<lf><lf>ただし、ＯＦＦ時より<lf>得られるリザルトボーナスが<lf>少なくなります。<lf>（<ICON ACT_RStP>長押しでＯＮ／ＯＦＦ切り替え）
+<string>ゲーム進行中、適切なタイミングで<lf>チュートリアル（操作ガイド）を<lf>表示します。
+<string>チュートリアルを一切表示しません。
+<string>初めて得たアイテムや<lf>初登場の敵キャラクターなどの<lf>紹介演出を表示します。
+<string>紹介演出を表示しません。
+<string>コントローラーの振動を有効にします。
+<string>コントローラーの振動を有効にします。
+<string>コントローラーの振動を無効にします。
+<string>コントローラーの振動を無効にします。
+<string>目盛り量を増やすと高速になります。
+<string>目盛り量を増やすと高速になります。
+<string>目盛り量を増やすと距離が遠くなります。
+<string>カメラがプレイヤーの背後に<lf>自動で回り込みます。
+<string>カメラがプレイヤーの背後に<lf>自動で回り込みません。
+<string>一部の演出された注目カメラを<lf>有効にします。
+<string>一部の演出された注目カメラを<lf>無効にします。
+<string>
+<string>SOUND
+<string>BGM VOLUME
+<string>SE VOLUME
+<string>VOICE VOLUME
+<string>DYNAMIC RANGE CONTROL
+<string>BGMの音量を調整します
+<string>効果音の音量を調整します
+<string>ボイスの音量を調整します
+<string>視聴環境に合わせて音量の幅を調整します
+<string>LARGE
+<string>SMALL
+<string>目盛を増やすと<lf>BGMの音量が大きくなります。
+<string>目盛を増やすと<lf>効果音の音量が大きくなります。
+<string>目盛を増やすと<lf>ボイスの音量が大きくなります。
+<string>ダイナミックレンジの幅を大きくします。<lf>音のメリハリがより強調されます。
+<string>ダイナミックレンジの幅を小さくします。<lf>音量の急激な変化が抑えられます。
+<string>
+<string>BRIGHTNESS
+<string>HDR BRIGHTNESS
+<string>画面の輝度設定を行います（1/4）
+<string>画面の輝度設定を行います（2/4）
+<string>画面の輝度設定を行います（3/4）
+<string>画面の輝度設定を行います（4/4）
+<string>内側と外側の図形の明るさがちょうど同じになる境目に合わせてください。
+<string>白い部分を左右に移動させて、赤（暗部）と青（明部）のバランスを調整してください。（初期位置推奨）
+<string>画面を見る角度によって映像の見え方が異なることがあります。<lf>画面の正面から見ることをお勧めします。
+<string>模様が一番薄く表示されるように、目盛を調整して下さい。
+<string>模様が一番薄く表示されるように、目盛を調整して下さい。
+<string>目盛を調整し、模様が条件を満たすようにして下さい。
+<string>見えない
+<string>わずかに見える
+<string>最大輝度値
+<string>暗部を強調
+<string>明部を強調
+<string>
+<string>CONTROL NERO
+<string>コントローラーに割り当てられた各操作の変更を行います
+<string>MELEE ATTACK
+<string>GUN ATTACK
+<string>JUMP
+<string>DEVIL BREAKER
+<string>DEVIL BRINGER
+<string>BREAK AWAY 
+<string>TARGET CHANGE
+<string>LOCK-ON
+<string>EXCEED
+<string>RESET CAMERA
+<string>DEVIL TRIGGER
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>(UNUSED)
+<string>近距離武器で攻撃します。
+<string>遠距離武器で攻撃します。
+<string>空中へ跳びあがります。
+<string>デビルブレイカーを利用して攻撃します。
+<string>デビルブリンガーを利用して攻撃します。
+<string>装備中のデビルブレイカーを切り離します。
+<string>ロックオン対象を切り替えます。
+<string>対象をロックオンします。
+<string>イクシードを使用します。
+<string>カメラの向きを定位置に戻します。
+<string>デビルトリガーを発動します。<lf>（デビルトリガーゲージが３つ以上必要）
+<string>敵を挑発します。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>
+<string>
+<string>決定
+<string>
+<string>割り当てる<trc id="0">を押してください（<ICON BtnD>/<ICON BtnR>/<ICON BtnL>/<ICON BtnU>/<ICON LB>/<ICON LT>/<ICON RB>/<ICON RT>/<ICON Dir>）
+<string>割り当てる<trc id="0">を押してください（<ICON BtnD>/<ICON BtnR>/<ICON BtnL>/<ICON BtnU>）
+<string>割り当てる<trc id="0">を押してください（<ICON LB>/<ICON LT>/<ICON RB>/<ICON RT>）
+<string>割り当てる<trc id="0">を押してください（<ICON DirU>/<ICON DirD>/<ICON DirL>/<ICON DirR>）
+<string>割り当てる<trc id="0">を押してください（<ICON LStP>/<ICON RStP>）
+<string>割り当てる<trc id="0">を押してください（一部の<trc id="0">は割り当てられません）
+<string>割り当てるキーを押してください（一部のキーは割り当てられません）
+<string>
+<string>割り当てた<trc id="0">が重複しています
+<string>割り当てたキーが重複しています
+<string>
+<string>CONTROL DANTE
+<string>コントローラーに割り当てられた各操作の変更を行います
+<string>MELEE ATTACK
+<string>GUN ATTACK
+<string>JUMP
+<string>STYLE ACTION
+<string>DEVIL TRIGGER
+<string>TARGET CHANGE
+<string>LOCK-ON
+<string>CHANGE SWORD
+<string>CHANGE GUN
+<string>CHANGE STYLE TS
+<string>CHANGE STYLE RG
+<string>CHANGE STYLE GS
+<string>CHANGE STYLE SM
+<string>RESET CAMERA
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>近距離武器で攻撃します。
+<string>遠距離武器で攻撃します。
+<string>空中へ跳びあがります。
+<string>スタイルに応じた攻撃を行います。
+<string>デビルトリガーを発動します。<lf>（デビルトリガーゲージが３つ以上必要）
+<string>ロックオン対象を切り替えます。
+<string>対象をロックオンします。
+<string>近距離武器を切り替えます。
+<string>遠距離武器を切り替えます。
+<string>トリックスターにスタイルチェンジします。
+<string>ロイヤルガードにスタイルチェンジします。
+<string>ガンスリンガーにスタイルチェンジします。
+<string>ソードマスターにスタイルチェンジします。
+<string>カメラの向きを定位置に戻します。
+<string>敵を挑発します。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>
+<string>CONTROL V
+<string>コントローラーに割り当てられた各操作の変更を行います
+<string>SHADOW
+<string>GRIFFON
+<string>NIGHTMARE
+<string>JUMP
+<string>TARGET CHANGE
+<string>LOCK-ON
+<string>FINISH BLOW
+<string>DT RECOVER
+<string>AUTO DIRECTION
+<string>RESET CAMERA
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>シャドウに攻撃を指示します。
+<string>グリフォンに攻撃を指示します。
+<string>ナイトメアを呼び出します。<lf>（デビルトリガーゲージが３つ以上必要）
+<string>空中へ跳びあがります。
+<string>ロックオン対象を切り替えます。
+<string>対象をロックオンします。
+<string>リザイン状態（あと一撃で倒せる状態）<lf>の敵にとどめをさします。
+<string>デビルトリガーゲージを回復させます。<lf>（対応したスキルの習得が必要）
+<string>従者の魔獣たちに自動攻撃を指示します。
+<string>カメラの向きを定位置に戻します。
+<string>敵を挑発します。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>カメラを操作します。<lf>※場所によって機能しません。
+<string>
+<string>LANGUAGE
+<string>SUBTITLES DISPLAY
+<string>SUBTITLES LANGUAGE
+<string>VOICE LANGUAGE
+<string>字幕の表示／非表示を切り替えます
+<string>字幕の言語設定を変更します
+<string>キャラクターボイスの言語設定を変更します
+<string>ON
+<string>OFF
+<string>日本語
+<string>英語
+<string>フランス語
+<string>イタリア語
+<string>ドイツ語
+<string>スペイン語
+<string>中国語（繁体）
+<string>中国語（簡体）
+<string>韓国語（ハングル）
+<string>ポーランド語
+<string>ブラジルポルトガル語
+<string>ロシア語
+<string>字幕を表示します。
+<string>字幕を表示しません。
+<string>字幕表示を日本語にします。
+<string>字幕表示を英語にします。
+<string>字幕表示をフランス語にします。
+<string>字幕表示をイタリア語にします。
+<string>字幕表示をドイツ語にします。
+<string>字幕表示をスペイン語にします。
+<string>字幕表示を中国語（繁体）にします。
+<string>字幕表示を中国語（簡体）にします。
+<string>字幕表示を韓国語（ハングル）にします。
+<string>字幕表示をポーランド語にします。
+<string>字幕表示をブラジルポルトガル語にします。
+<string>字幕表示をロシア語にします。
+<string>キャラクターボイスを日本語にします。
+<string>キャラクターボイスを英語にします。
+<string>
+<string>NETWORK
+<string>NETWORK
+<string>RESTRICTION
+<string>FRIEND PRIORITY
+<string>UNIQUE INFORMATION
+<string>PRIVACY POLICY
+<string>通信の許可／不許可を切り替えます
+<string>未入手情報の制限設定を変更します
+<string>マッチングのフレンド優先設定を変更します
+<string>固有データの送信設定を変更します
+<string>プライバシーポリシーを確認します
+<string>ON
+<string>OFF
+<string>
+<string>
+<string>フレンド優先あり
+<string>フレンド優先なし
+<string>ON(LIMITED)
+<string>他のユーザーとのマッチングなど<lf>各種すべての通信データの送受信を行います。
+<string>マッチングデータなどの送受信を行いません。
+<string>通信相手のデータに<lf>自身の未入手情報が含まれていた場合、<lf>キャラクターの外観などに<lf>フィルター処理が行われます。<lf>（未入手武器はフィルターされません）
+<string>通信相手のデータに表示制限を設けません。<lf>キャラクターの外観などの未入手情報を<lf>不意に知る可能性があります。
+<string>フレンド優先でマッチングを行います。
+<string>全ての対象にマッチングを行います。
+<string>このゲームの固有設定情報や<lf>使用統計データなどを送信します。
+<string>データを送信しません。
+<string>他のユーザーとマッチングはしませんが<lf>非同期の通信データのみ送受信を行います。
+<string>プライバシーポリシーの詳細内容について<lf>確認します。<lf>ネットワークへの接続が必要です。<lf><lf>プライバシーポリシー<lf>https://www.capcom.co.jp/privacy/game/
+<string>
+<string>CUTSCENE CUSTOMIZE
+<string>CUTSCENE SELECT
+<string>GALLERY CHARACTER CUSTOMIZE
+<string>SELECT NPC COSTUMES
+<string>SELECT CUTSCENE TYPE
+<string>ギャラリーキャラクターカスタマイズ
+<string>カットシーンに登場するNPCのコスチュームを切り替えます。
+<string>カットシーンタイプを切り替えます。
+<string>キャラクターのコスチュームを切り替えて鑑賞します
+<string><ICON BtnR>切り替え画面
+<string>ORIGINAL
+<string>VIDEO CONTINUITY
+<string>NPCコスチュームの<lf>切り替え画面に移行します。
+<string>カットシーンをオリジナル版で再生します。
+<string>カットシーンをビデオコンテ版で再生します。<lf>開発中の実写映像が表示されます。<lf>（一部のデモは非対応です）
+<string>キャラクターのコスチューム切り替え画面に<lf>移行します。<lf>（ここでの変更はギャラリー内のみ有効です）
+<string>規約文の最後に、同意するかどうかの選択肢があります
+<string>プライバシーポリシー

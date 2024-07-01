@@ -1,0 +1,299 @@
+<string>
+<string>
+<string>
+<string>
+<string>컨트롤 가이드
+<string>나무 뿌리 장애물
+<string>니코의 전화
+<string>
+<string>
+<string>
+<string>
+<string>거베라 장착: <ICON ACT_BtnR> 또는<lf><ICON ACT_LS>+<ICON ACT_BtnR> 누르기
+<string>쟈키<lf><lf><ICON ACT_BtnR>를 눌러 앞쪽으로<lf>충격파를 발사합니다.<lf>(몇몇 원거리 적들에게 영향)<lf><ICON ACT_LS>+<ICON ACT_BtnR>를 눌러 빠르게 움직입니다.
+<string>거베라 장착:<lf><ICON ACT_BtnR> 홀드 후 놓기
+<string>스테이먼 레이 / 페탈 레이<lf><lf>땅에서는 스테이먼 레이로<lf>에너지 광선을 발사합니다.<lf>공중에서는 페탈 레이로<lf>손끝에 충격파를 모아<lf>주변의 벽과 바닥에 튕겨지는<lf>관통 레이저를 발사합니다.
+<string>
+<string><SIZE 180>D</SIZE>EMO
+<string>DEMO
+<string>
+<string>CONTROL GUIDE
+<string>컨트롤 가이드
+<string>- <ICON CenR>으로 일시 중지 메뉴를 열어 화면<lf>오른쪽 위 모서리에서 입력 컨트롤을<lf>확인할 수 있습니다.<lf><lf>- 다양한 동작의 컨트롤 또한 일시<lf>정지 메뉴의 스킬 목록에서 확인할<lf>수 있습니다.
+<string> (파란색)
+<string> (초록색)
+<string>파괴적인 충격파
+<string>우수한 공중 민첩성
+<string>(빨간색)
+<string>고공 헤이메이커
+<string>
+<string>데모 버전에서는 "시도" 기능을 사용할 수 없습니다.<lf>전체 게임에서 "시도"를 선택하면 새로운 스킬을 <lf>구매하기 전에 사용해 볼 수 있습니다.<lf>
+<string>
+<string>타이틀 화면으로 돌아가시겠습니까?<lf>다시 시작하면 미션 처음으로 돌아갑니다.
+<string>메인 게임에서는 트레일러에 입장하여 스킬 및<lf>데빌 브레이커를 커스터마이징할 수 있습니다.<lf>(데모에서는 이 기능을 사용할 수 없습니다.)
+<string>타이틀 화면으로 돌아가시겠습니까?
+<string>모든 미션 진행을 초기화하시겠습니까?
+<string>
+<string>스킬 명령 목록<lf><lf>서로 다른 입력 조합은 다양한 스킬<lf>액션을 해제할 수 있게 합니다. <lf>간단한 스킬 몇 가지를 시험삼아 <lf>시도해 보십시오.<lf>(전체 게임에서는 더 많은 스킬을<lf>사용할 수 있습니다.)
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>TITLE SCREEN
+<string>타이틀 화면으로 돌아갑니다.
+<string>
+<string>BUY NOW
+<string>풀버전을 구매합니다.
+<string>PlayStation™Store로 이동.
+<string>Xbox Games 스토어로 이동.
+<string>스토어로 이동.
+<string>
+<string>EXIT
+<string>게임을 그만둡니다.
+<string>
+<string>CONTROLS
+<string>언제든지 일시 정지 메뉴에서 컨트롤을 확인하십시오.
+<string>참고: 이 컨트롤은 기본 설정에 포함되어 있습니다.
+<string>
+<string>악마의 피가 크리스탈처럼 변한<lf>마법의 빨간색 돌이야.<lf>이것들을 새로운 무기나 <lf>스킬로 교환할 수 있어.
+<string>
+<string>DMC가 돌아왔습니다!!
+<string>눈부신 스타일을 보여줄 때입니다!
+<string>
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>SIDE ROLL
+<string>
+<string>PROVOCATION
+<string>RAINBOW
+<string>SPEED
+<string>WIRE SNATCH
+<string>WIRE SNATCH 2
+<string>WIRE BOUND
+<string>AIR HIKE
+<string>ENEMY STEP
+<string>
+<string>RED QUEEN COMBO A
+<string>RED QUEEN COMBO C
+<string>AERIAL COMBO
+<string>ROULETTE SPIN
+<string>HIGH ROLLER
+<string>EX HIGH ROLLER
+<string>STREAK
+<string>EX STREAK
+<string>SPLIT
+<string>DOUBLE DOWN
+<string>CALIBUR
+<string>SHUFFLE
+<string>EX CALIBUR
+<string>EX SHUFFLE
+<string>
+<string>NORMAL SHOT
+<string>COLOR UP
+<string>HIGH SHOT
+<string>
+<string>EXCEED
+<string>EX-Act
+<string>EXCEED 2
+<string>
+<string>BREAK AGE
+<string>BREAK AWAY
+<string>SCAPEGOAT
+<string>
+<string>BATTERY
+<string>EXPLODER
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>JET GADGET
+<string>BOOST KNUCKLE
+<string>NEO BUSTER
+<string>SUPER BUSTER
+<string>
+<string>무브
+<string>카메라
+<string>록온
+<string>점프
+<string>킥 점프
+<string>사이드 롤
+<string>
+<string>프로버케이션
+<string>레인보우
+<string>스피드
+<string>와이어 스내치
+<string>와이어 스내치 2
+<string>와이어 바운드
+<string>에어 하이크
+<string>에너미 스텝
+<string>
+<string>레드 퀸 콤보 A
+<string>레드 퀸 콤보 C
+<string>에어리얼 콤보
+<string>룰렛 스핀
+<string>하이 롤러
+<string>엑스 하이 롤러
+<string>스트리크
+<string>엑스 스트리크
+<string>스플릿
+<string>더블 다운
+<string>칼리버
+<string>셔플
+<string>
+<string>노멀 샷
+<string>컬러 업
+<string>하이 샷
+<string>
+<string>익시드
+<string>엑스 액트
+<string>익시드 2
+<string>
+<string>브레이크 에이지
+<string>브레이크 어웨이
+<string>스케이프고트
+<string>브레이커 플러스
+<string>배터리
+<string>익스플로더
+<string>쟈키
+<string>스테이먼 레이 / 페탈 레이
+<string>
+<string><ICON ACT_LS> 기울이기
+<string><ICON ACT_RS> 기울이기
+<string><ICON ACT_RB> 누르고 홀드
+<string>땅에서 <ICON ACT_BtnD> 누르기
+<string>점프 중에 벽과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 가로 방향 +<ICON ACT_BtnD> 누르기
+<string>
+<string><ICON ACT_CenL> 누르기
+<string>뛰는 중에 <ICON ACT_CenL> 누르기
+<string>아무 방향으로나 <ICON ACT_LS> 홀드
+<string><ICON ACT_RB>+<ICON ACT_BtnR> 누르기
+<string>와이어 스내치의 일반 공격 업그레이드
+<string><ICON ACT_RB>로 특정 무거운 적들을 록온 후,<lf><ICON ACT_BtnR> 누르기
+<string>점프 중에 <ICON ACT_BtnD> 누르기
+<string>공중에서 적과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><lf>누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU><lf>누른 다음, <ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 누르고 홀드 후,<lf>왼팔이 빛나면 놓기
+<string>불릿 게이지가 찼을 때<lf><ICON ACT_BtnL> 누르기
+<string>
+<string>익시드 게이지가 채워질 때까지 <ICON ACT_LT>를<lf>여러 번 누르고 홀드
+<string>공격 후 <ICON ACT_LT> 누르기
+<string>익시드의 일반 공격 업그레이드
+<string>
+<string>데빌 브레이커 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후 오른팔이 더 빛나면<lf>놓기
+<string>데빌 브레이커 장착:<lf><ICON ACT_LB> 누르고 홀드
+<string>공격 받는 도중에 <ICON ACT_BtnR>을 누르거나, <lf>데빌 브레이커 장착 중에 <lf><ICON ACT_BtnR> 홀드한 채로 공격 받기
+<string>
+<string>오버추어 장착:<lf><ICON ACT_BtnR> 누르기
+<string>오버추어 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>거베라 장착:<lf><ICON ACT_BtnR> 또는 <ICON ACT_LS>+<ICON ACT_BtnR> 누르기
+<string>거베라 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>펀치 라인 장착: 올라타려면 공중 회수 중<lf><ICON ACT_BtnR> 홀드.<lf><ICON ACT_BtnL><ICON ACT_BtnU><ICON ACT_BtnR><ICON ACT_BtnD>으로 다양한 움직임이 가능합니다.
+<string>펀치 라인 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>버스터 암 장착:<lf><ICON ACT_BtnR> 누르기
+<string>버스터 암 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>
+<string>무브<lf><lf><ICON ACT_LS>을 기울이면 캐릭터가 그 방향으로 <lf>움직입니다. 크게 기울이면 빨리 움직입니다.
+<string>카메라<lf><lf>카메라를 움직여 주변을 봅니다. <lf><ICON ACT_RStP>을 누르면 캐릭터 뒤에서 보는<lf>기본값으로 돌아갑니다. 
+<string>록온<lf><lf>적과 특정 물체에 록온합니다.<lf><ICON ACT_RB>를 홀드하면 공격하고, <lf><ICON ACT_LStP>을 누르면 록온 타겟이 <lf>변경됩니다.
+<string>점프<lf><lf>공중으로 점프합니다. 점프 높이는<lf><ICON ACT_BtnD>을 누르는 시간에 따라 달라집니다.
+<string>킥 점프<lf><lf>벽을 박차면서 한 번 더 점프합니다.
+<string>사이드 롤<lf><lf>옆으로 굴러 적의 공격을<lf>피합니다. <ICON ACT_BtnL>을 눌러<lf>피하면서 쏠 수 있습니다.
+<string>
+<string>프로버케이션<lf><lf>땅이나 공중에서 적을 다양하게<lf>도발합니다. 도발 종류는<lf>현재의 스타일리시<lf>랭크에 따라 달라집니다.
+<string>레인보우<lf><lf>달리던 위치에서 강력한<lf>드롭킥을 날립니다.
+<string>스피드<lf><lf><ICON ACT_LS>으로 같은 방향으로 계속 움직이면 <lf>속도가 빨라집니다.<lf>달리는 중에 <ICON ACT_BtnU>을 누르면<lf>레드 퀸 콤보 A로 연계할 수 있습니다.
+<string>와이어 스내치<lf><lf>오른팔에서 와이어를 발사해<lf>멀리 있는 적을 낚아챕니다.<lf>크거나 무거운 적은 끌어올 수 없습니다.
+<string>와이어 스내치 2<lf><lf>와이어 스내치의 업그레이드로<lf>사정거리가 길어집니다.
+<string>와이어 바운드<lf><lf>끌어 올 수 없는 무거운 적에게 <lf>와이어 고리를 사용하면 자기 <lf>자신이 대신 그 상대를 향해<lf>끌려가게 됩니다. 
+<string>에어 하이크<lf><lf>마법 에너지를 발 아래에<lf>집중해 이중 점프로 더 높은 곳에<lf>도달할 수 있습니다.
+<string>에너미 스텝<lf><lf>공중에서 적을 디딤돌 삼아<lf>이중 점프를 합니다.
+<string>
+<string>레드 퀸 콤보 A<lf><lf>빠르고 비정한 4단 검 콤보입니다.
+<string>레드 퀸 콤보 C<lf><lf>화려한 검 콤보로<lf>보다 넓은 범위에 걸쳐<lf>적들을 해치웁니다.
+<string>에어리얼 콤보<lf><lf>연쇄적인 공중 검 공격입니다.
+<string>룰렛 스핀<lf><lf>공중에서 레드 퀸의 칼날을 회전시켜<lf>적을 썰어버립니다.<lf>몸이 약간 떠오릅니다.
+<string>하이 롤러<lf><lf>적을 공격해 공중으로 날려버립니다.<lf>계속 <ICON ACT_BtnU>을 홀드하면<lf>적을 쫓아 올라갑니다.
+<string>엑스 하이 롤러<lf><lf>레드 퀸의 익시드 시스템으로<lf>강화된 하이 롤러입니다. 익시드 게이지<lf>레벨에 따라 회전 속도가 증가합니다.
+<string>스트리크<lf><lf>멋진 돌진 공격으로 주변의<lf>적들을 쓸어버립니다.
+<string>엑스 스트리크<lf><lf>레드 퀸의 익시드 시스템으로<lf>강화된 스트리크입니다. 익시드 게이지<lf>레벨에 따라 회전 속도가 증가합니다.
+<string>스플릿<lf><lf>적을 무지막지한 공격으로<lf>내려쳐 정확히 둘로 갈라버립니다.
+<string>더블 다운<lf><lf>익시드 시스템을 통해 추진제가<lf>발화되면서 레드 퀸의 칼날이<lf>적을 내려쳐 온몸을 찢어버립니다.<lf>익시드 게이지 레벨에<lf>따라 공격 범위가 증가합니다.
+<string>칼리버<lf><lf>공중에서 적에게 돌진해<lf>강력한 한방을 날립니다. 
+<string>셔플<lf><lf>백스텝으로 공격을 피한 후,<lf>앞으로 돌진하면서 빠르고<lf>강력한 카운터를 날립니다.
+<string>엑스 칼리버<lf><lf>레드 퀸의 익시드 시스템으로<lf>강화된 칼리버 버전으로, 익시드 게이지<lf>레벨에 따라 공격 거리가 증가합니다.
+<string>엑스 셔플<lf><lf>익시드 시스템으로 강화된 셔플로,<lf>익시드 게이지 레벨에 따라<lf>공격 횟수가 증가합니다.
+<string>
+<string>노멀 샷<lf><lf>두 발을 한번에 발사합니다.
+<string>컬러 업<lf><lf>일반 총알보다 강력한 특수 총알을<lf>장전합니다. <ICON ACT_BtnL>을 홀드하면 불릿<lf>게이지가 채워지고, 완충 시 한번에 <lf>세 발을 발사합니다.
+<string>하이 샷<lf><lf>일반 총알보다 강력한 특수 총알을<lf>발사합니다. 여러 번 명중하면<lf>적이 기절합니다.
+<string>
+<string>익시드<lf><lf>칼날의 추진제를 발화시켜 강력한<lf>공격을 가합니다. 익시드 게이지<lf>한 칸을 소모해 1레벨<lf>익시드 동작을 발동합니다.
+<string>엑스 액트<lf><lf>공격 후 익시드를 발동시켜<lf>익시드 게이지 한 칸을 채웁니다.<lf><lf>타이밍이 어긋나면<lf>조금만 충전됩니다.
+<string>익시드 2<lf><lf>익시드 시스템의 업그레이드입니다.<lf>익시드 게이지 두 칸을 소모해 2레벨<lf>익시드 동작을 발동합니다.
+<string>
+<string>브레이크 에이지<lf><lf>장착한 데빌 브레이커의 힘을<lf>분출시켜 재앙에 가까운<lf>공격을 합니다. 이 기술의 강한 힘에<lf>장착하고 있는 모든 팔이<lf>파괴됩니다. <ICON ACT_BtnR> 홀드 중에는 <lf>모든 대미지를 받습니다.
+<string>브레이크 어웨이<lf><lf>현재의 데빌 브레이커를 희생해<lf>그 안에 내재된 에너지를<lf>폭발시킵니다. 이 기술로 빠르게<lf>몸을 피할 수 있습니다.
+<string>스케이프고트<lf><lf>데빌 브레이커를 사용하거나 브레이크<lf>에이지를 발동할 때 공격을 받아도 <lf>비틀거리지 않습니다. 대미지를<lf>어느정도 받고 나면 착용 중인 팔이<lf>파괴될 것입니다.
+<string>
+<string>배터리<lf><lf>오버추어 손바닥에서<lf>전기파를 발사합니다.<lf>적 상태에 따라 방향이 바뀝니다.
+<string>익스플로더<lf><lf>오버추어에 담긴 에너지를 폭발시켜<lf>폭탄으로 바꿉니다. 적에게 내던지면<lf>일정 시간 후 폭발합니다. 한 번에 <lf>여러 개를 던질 수 있습니다.<lf>직접 폭파시킬 수 있는 불릿이나<lf>다른 공격이 후속타로 뒤따릅니다.
+<string>쟈키<lf><lf>거베라의 손바닥에서 충격파를 쏩니다. <lf><ICON ACT_BtnR>을 눌러 앞에 있는 적을 공격합니다.<lf>이 공격은 적 발사체를 막거나 반사할 수<lf>있습니다. <ICON ACT_BtnR>+<ICON ACT_LS>을 눌러 충격파를 추진력으로<lf>바꾸어 이동할 수 있습니다. 
+<string>스테이먼 레이 / 페탈 레이<lf><lf>땅에서는 스테이먼 레이로<lf>강력한 폭발을 일으킵니다.<lf>공중에서는 페탈 레이로<lf>손끝에 충격파를 모아<lf>관통 레이저를 발사합니다.<lf>주변의 벽과 바닥에 튕겨집니다.
+<string>제트 가젯<lf><lf>펀치 라인을 로켓처럼 발사합니다.<lf>발사 후 소환하려면  <ICON ACT_BtnR>을 누르고, 그 다음에<lf><ICON ACT_BtnR>을 홀드하면 돌아올 때 올라탈 수 있습니다.<lf>올라탔을 때  <ICON ACT_BtnL> <ICON ACT_BtnU>또는 <ICON ACT_BtnR>을 누르면 묘기를<lf>펼칠 수 있으며, 내릴 때는 <ICON ACT_BtnD>, <lf>폭파하려면 <ICON ACT_LB>을 누릅니다. 스타일리시<lf>랭크가 높으면 더 오래 탈 수 있습니다.
+<string>부스트 너클<lf><lf>펀치 라인의 추진 잠재력을<lf>끌어내 강펀치를 날립니다.<lf>깨끗하게 명중하면 훨씬 더 큰<lf>적도 뒤로 밀어냅니다.
+<string>네오 버스터<lf><lf>데빌 브링어의 버스터 공격을<lf>연상시킵니다. 위력은 강하지만<lf>발동 중에 공격을 받으면<lf>버스터 암이 파괴됩니다.
+<string>슈퍼 버스터<lf><lf>데빌 브링어의 버스터 공격을<lf>연상시킵니다. 이 능력이 활성화되면<lf>공격 후 비틀대지 않고, 버스터도<lf>더 쉽게 발동됩니다.<lf>한 번 사용 후 파괴됩니다.
+<string>
+<string>DODGE
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 가로 방향 +<ICON ACT_BtnD> 누르기
+<string>
+<string>Devil May Cry 5 한정 체험판
+<string>데빌메이크라이 5 체험판
+<string>
+<string>SAMPLE SUBTITLE (TEMP - KOR)
+<string>이미 시작됐다.
+<string>최악의 악몽을
+<string>보여주마!
+<string>절망과 죽음을
+<string>선사해주마!
+<string>좋아, 제대로 놀아볼까.
+<string>소용 없어요. 쟤는 악마 해치우는 걸 좋아하니까.
+<string>제가 저 끝내주는 팔을 왜 달아줬는데요...<lf>저러라고 달아준 거죠.
+<string>둘로 갈라지는 게 낫겠어.
+<string>...더 샅샅이 살펴볼 수 있지. 좋은 생각이야.
+<string>좋아, 셰익스피어. 이것만 기억해.
+<string>너나 나나 사는 게 좋아.
+<string>그러니 이것들을 잽싸게 해치워줘.<lf>그건 내 취미는 아니니까!
+<string>어떤 악마가 숨어있든...
+<string>없애버려야 해.
+<string>V... 그럼, 무슨 일인지<lf>자세히 말해볼까?
+<string>강력한 악마가 부활하려 해요.<lf>당신의 도움이 필요합니다, 단테.
+<string>뭐, 당신도 간다는 건가?
+<string>이 일을 끝내는 게 제 의무죠.
+<string>이 일을 끝까지 도와요.
+<string>단테의 전쟁을.
+<string>이리 온, 멍멍아. 산책 가자!
+<string>레이디한테 돈 받고 만든 거야.<lf>그러니 빌려간다 생각해.
+<string>뭐야? 어떻게 돌아가는 거야!?
+<string>V, 네로를 내보내! 너무 무모했어!
+<string>네로, 어서 가! 넌 방해만 돼.

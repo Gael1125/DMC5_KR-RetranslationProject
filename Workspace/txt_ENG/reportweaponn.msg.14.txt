@@ -1,0 +1,87 @@
+<string>
+<string>Sticking a combustion engine on a<lf>sword to add some oomph to<lf>its blows...pretty slick idea.<lf>Seems like Daddy drew up the<lf>base design.<lf><lf>You took the design and souped it<lf>up to make this here Red Queen.<lf>I gotta tell ya, I couldn't help<lf>but laugh the first time I saw it.<lf>No one in their right mind would<lf>dream up a rig like this. Without<lf>demon blood in your veins, dang<lf>thing'd go flyin' outta your hand<lf>instead of into some bad guy!
+<string>Red Queen and Blue Rose...<lf>Lookin' at these two monsters,<lf>I can't tell if you're a genius<lf>or just freakin' crazy.<lf><lf>A six-chamber revolver that fires<lf>two shots at a time? What kinda<lf>whackjob thinks up something like<lf>that?<lf><lf>And the way the bottom shell<lf>breaks through armor first, only<lf>for the top shell to follow up<lf>and pierce the target's body...<lf>Who the hell came up with that<lf>crazy idea!? ...Ahhh, who am I<lf>kiddin'? I love it!
+<string>The first arm I made for your<lf>sorry ass after you lost your<lf>old one.<lf><lf>It's got a plain-Jane design you<lf>can wear just about anywhere<lf>without drawing too many<lf>glances. Still, if they knew<lf>about the electric generator I<lf>jammed inside that puppy, they'd<lf>be shocked—maybe literally!<lf>Still, should be more than<lf>enough to take out any scrub<lf>demons you come across.<lf><lf>Like the name implies, the<lf>Overture is just the prelude to<lf>the other beauties I've got<lf>knocking around the ol' brain<lf>box. Best believe this ain't all<lf>I got in store!
+<string>Bending the laws of time and<lf>space is a hell of a feat, even<lf>for someone as awesome as me.<lf>But thanks to this Geryon chunk<lf>V brought back, I've done it—<lf>I've weaponized time itself!<lf><lf>Great, ain't it?<lf>AMAZING, aren't I??<lf><lf>This'll stop even the peskiest<lf>demon in its tracks...! Until it<lf>wears off, anyway.<lf><lf>Man, processing that material<lf>takes some fancy handiwork.<lf>I can't make a bunch of these,<lf>so use it wisely...and I DO mean<lf>WISELY, m'kay?
+<string>There was this weird slide in the<lf>park near my house when I was a<lf>kid, see? That's where I got the<lf>inspiration for this design.<lf><lf>The simple design concentrates<lf>all the power into the tip<lf>to really drill the point home to<lf>your enemies. It has a kind of<lf>beautiful precision, don't you<lf>think?<lf><lf>I made sure it's able to grab<lf>stuff, but just barely...in all<lf>honesty, I kinda wanna take out<lf>that function. Really streamline<lf>the thing, y'know?
+<string>I thought up this beauty while<lf>gazing at a bed of flowers—<lf>African daisies, to be precise.<lf>What? Can't a girl have a little<lf>grace in her gear box!?<lf><lf>The petal-shaped parts act as a<lf>complex reverberatory furnace.<lf>That furnace generates an intense<lf>heat that can be shot out as<lf>a shockwave.<lf><lf>And that shockwave ain't no one-<lf>trick pony, lemme tell ya. Attack,<lf>defense, even movement—this<lf>baby can do it all!
+<string>I analyzed that sample we got<lf>from Goliath and used the<lf>materials to make this powerhouse.<lf><lf>The propellant injection device<lf>is based on the combustion<lf>mechanism in that numbskull's<lf>demon tummy.<lf><lf>It's basically a rocket-powered<lf>punch, but I bet a show-off like<lf>you could go along for the ride<lf>if ya like.
+<string>I only had one goal in mind with<lf>this beast: recreate the demonic<lf>arm that bastard stole from you.<lf>I bet ya been itching to chuck<lf>around baddies again, am I right?<lf><lf>Well rejoice! I did it!<lf>This arm lets you toss around<lf>demons like a boss, even slam<lf>them into the ground if you have<lf>the hankering!<lf><lf>...For a little while, anyway.<lf>But that's as tough as I can make<lf>this sucker, dammit! I swear!
+<string>That underworld metal we got off<lf>of Gilgamesh is known for the<lf>shocks it produces. But get this:<lf>instead of just using it to shoot<lf>more shockwaves, I developed an<lf>arm that stretches out into a<lf>thin, powerful weapon!<lf><lf>It's stronger than your wire, too,<lf>so I bet some of the enemies you<lf>can't normally pull in won't pose<lf>much of a problem with this one.<lf>Course, you could always just<lf>wind it around one and slice them<lf>to ribbons. Hey, whatever turns<lf>your crank.
+<string>Uh, I think I might've overdone it<lf>this time.<lf><lf>I wanted to craft somethin' to<lf>power up your sword and gun, but<lf>the output on this thing borders<lf>on absurd. You might even have a<lf>little trouble wrangling it.<lf><lf>But hey, what guy doesn't like a<lf>piece that's a little hard to handle?<lf>Treat her right and she's bound to<lf>come around.
+<string>When I was a kid, there was this<lf>superhero who'd fight evil by<lf>changing his arm into all kinds<lf>of weapons. Man, I loved that<lf>little fella! Heck, I might not even<lf>be here helping ya today if not<lf>for that scrappy little guy.<lf><lf>Anyway, this arm is a tribute<lf>to the arm of that noble hero.<lf>A spitting image, if I do say<lf>so myself. Think you got what<lf>it takes to rock it, man?
+<string>This bad boy's something else.<lf>I upgraded the Gerbera at the<lf>request of another legendary<lf>artisan, Kawamori.<lf><lf>This guy has a flair for flash,<lf>let me tell ya. The color scheme<lf>was all his idea.<lf><lf>Something like this doesn't come<lf>along every day. You best treat<lf>it with respect.
+<string>Say, remember that time I saw you<lf>fumbling all over yourself trying<lf>to chow down on some pasta?<lf>Man, I couldn't believe my eyes.<lf>Like, who has trouble with a freaking<lf>bowl of noodles!?<lf><lf>...Anyway, you best do a better job<lf>with the newest dish I've cooked<lf>up. Take a "stab" at it, if ya<lf>get my drift.
+<string>.........No comment.
+<string>
+<string>A general-purpose Devil Breaker. Blow<lf>enemies away with an electric blast or thrust<lf>it into foes and detonate from a distance.
+<string>A Devil Breaker that controls time.<lf>Projects a special field that slows<lf>all objects within its range.
+<string>This Devil Breaker makes up for a lack<lf>of range with superior piercing power.<lf>Use it to break through enemy guards.
+<string>A mobile Devil Breaker letting you<lf>cancel attacks with shockwaves or fire<lf>a converged beam of powerful energy.
+<string>This Devil Breaker runs rampant, offering<lf>powerful strikes and flying rocket punches.<lf>You can even mount it to move around.
+<string>A Devil Breaker that can execute a one-hit<lf>kill using the Devil Bringer "Buster"<lf>technique. Its incredible power makes it<lf>fragile and prone to breakage.
+<string>Boasts the widest attack range. Use the<lf>metal whip for a long-distance strike,<lf>or to reel in certain heavy enemies.
+<string>A Devil Breaker with hidden power that lets<lf>you power up Blue Rose and Red Queen.<lf>You can adjust the power up duration.
+<string>Mega Man's buster in Devil Breaker form.<lf>Specializes in long-range combat, and<lf>alters some actions when equipped.
+<string>A Devil Breaker colored by Shoji Kawamori.<lf>Excels in mobility, using shockwaves to<lf>allow for freer movement.
+<string>An odd Devil Breaker made to help Nero<lf>eat pasta. The end spins, but it is not<lf>very practical.
+<string>A Devil Breaker made with Kyrie in mind.<lf>The pliable materials are gentle on the<lf>skin, and it vibrates to sooth away pain.
+<string>A Devil Breaker with a banana motif. Who<lf>knows what possessed Nico to build this?<lf>The bunch rotates, but is mostly useless.
+<string>EMPTY
+<string>
+<string>Blade with a combustion engine
+<string>Special multi-barreled revolver
+<string>Successor to the Devil Bringer
+<string>Manipulator of time
+<string>Steel-piercing power
+<string>Shockwaves that rock the heavens
+<string>Fist of destruction
+<string>Devastating grappling power
+<string>Long-reaching whip
+<string>Weapon augmentation device
+<string>Old faithful
+<string>Demonic brush with brilliance
+<string>Buono!
+<string>A helping hand
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Overture
+<string>Overture Transformed
+<string>Gerbera
+<string>Gerbera Transformed
+<string>Punch Line
+<string>Punch Line Transformed
+<string>Tomboy
+<string>Tomboy Transformed
+<string>Helter Skelter
+<string>Helter Skelter Transformed
+<string>Ragtime
+<string>Ragtime Transformed
+<string>Rawhide
+<string>Rawhide Transformed
+<string>Buster Arm
+<string>Buster Arm Transformed
+<string>Mega Buster
+<string>Mega Buster Transformed
+<string>Gerbera GP01
+<string>Gerbera GP01 Transformed
+<string>Pasta Breaker
+<string>Pasta Breaker Transformed
+<string>Sweet Surrender
+<string>Sweet Surrender Transformed

@@ -1,0 +1,6 @@
+<string>
+<string>Now Playing
+<string>Playing Story mode
+<string>Playing Bloody Palace mode
+<string>Viewing the Gallery
+<string>Training in the Void

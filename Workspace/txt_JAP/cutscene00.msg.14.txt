@@ -1,0 +1,96 @@
+<string>
+<string>“それは 昼も夜も成長を続け<lf>やがて輝く林檎の実を付けた”
+<string>ここまで手こずるとは――
+<string>珍しいな
+<string>大丈夫か ダンテ…
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>助けに来たのに 無事とはね
+<string>あの悪魔を甘く見るな
+<string>ヤツはお前の右腕を奪い――
+<string>強大な<RUBY><RB>力<RT>ちから</RUBY>を得たはず
+<string>先行する
+<string>ついて来い
+<string>了解
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>か… <lf>怪しい野郎だ
+<string>今は従ってやるけどな
+<string>
+<string>
+<string>
+<string>ヤる気か？ 来いよ！
+<string>
+<string>なんで 戻ってきた？
+<string>お前なしで勝てる相手じゃない
+<string>おい ヒーロー！<lf>ここは任せて先に行きな！
+<string>
+<string>
+<string>無駄足にならずに済んだワケだ
+<string>おい クソ野郎！
+<string>“人の物は盗むな” …常識だろ？
+<string>悪いな ダンテ
+<string>俺が頂くぜ！
+<string>
+<string>もうダメだ！ オシマイだ！
+<string>
+<string>ラウンド２だ
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>！ ネロを連れて行け！
+<string>俺はまだ やれる！
+<string>足手まといだ！
+<string>どけ！
+<string>行くんだ！
+<string>離せ！
+<string>予想以上の力だ！ 退くぞ！<lf>
+<string>“足手まとい”だと！？<lf>舐めやがって！
+<string>
+<string>悔しいなら<RUBY><RB>力<RT>ちから</RUBY>を付けてみろ
+<string>“ユリゼン”を倒すだけの<RUBY><RB>力<RT>ちから</RUBY>を
+<string>ヤツの名か
+<string>そうだ 魔王ユリゼン――
+<string>それが お前の腕を奪った悪魔だ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>何があった？
+<string>ダンテは？
+<string>長くは もたないだろう
+<string>ダンテが負けるってのか？
+<string>よせ 今は退くしかない
+<string>行くぞ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

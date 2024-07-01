@@ -1,0 +1,34 @@
+<string>
+<string>We're alive, we made it!
+<string>It's our lucky day, V! Let's go find a game of cards.
+<string>These Qliphoth roots... They're everywhere.
+<string>Well, we ARE underground.
+<string>Then I guess we have some clearing up to do.
+<string>And me without my garden shears.
+<string>
+<string>Malphas... Of course, more trouble.
+<string>Not sure about that one, though.<lf>Never seen him before―
+<string>―not in the Underworld, anyway!?
+<string>Search for the devil sword Sparda. You know where it is...
+<string>He told me to leave it be,<lf>but I'm afraid it still concerns me.
+<string>As long as there is a blood descendant of Sparda...
+<string>I cannot take any chances.
+<string>Do you understand!? 
+<string>Find it, and destroy it!
+<string>Only then will his reign be truly realized!
+<string>I see. I know what you are.
+<string>Don't worry,
+<string>I'll be gentle.
+<string>
+<string>V!
+<string>I'm fine... 
+<string>I must chase him.
+<string>If the devil sword Sparda still exists,<lf>it may very well be our only hope.
+<string>V, uhhh, think about this for a minute now.<lf>What will you do if you find it?
+<string>
+<string>You gotta be strong in mind and body to<lf>wield the Sparda, and you, sir, are neither.
+<string>Hate to break it to you, but the Sparda<lf>will just be too much for ya.
+<string>For me, yes. But what of the boy...
+<string>Nero?
+<string>Let's go.
+<string>Once we are near the Sparda, even I<lf>should be able to sense its presence.

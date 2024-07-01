@@ -1,0 +1,32 @@
+<string>
+<string>
+<string>STYLISH PTS
+<string>TIPS
+<string>Confirm destination
+<string>Hold <ICON ACT_RStP>
+<string>SAVING
+<string>LOADING
+<string>STARRING
+<string>WAITING FOR PARTNER(S)
+<string>
+<string>PUSH <ICON ACT_BtnR>
+<string>
+<string>Edgelord
+<string>Dismal
+<string>Crazy
+<string>Badass
+<string>Apocalyptic!
+<string>Savage!
+<string>Sick Skills!
+<string>Smokin' Sexy Style!
+<string>
+<string>E
+<string>D
+<string>C
+<string>B
+<string>A
+<string>S
+<string>SS
+<string>SSS
+<string>
+<string>{0}<lf>{1}

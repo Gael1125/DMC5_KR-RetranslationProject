@@ -1,0 +1,26 @@
+<string>
+<string>USE ORBS?
+<string>RED ORBS
+<string>GOLD ORB
+<string>GIVE UP
+<string>レッドオーブを使用して復活します
+<string>ゴールドオーブを使用して復活します
+<string>復活をあきらめ、ゲームオーバーとなります
+<string>
+<string>RED ORBS:
+<string>体力を{0}マス分回復して復活します。<lf>（復活ごとに、必要なレッドオーブ量が<lf>増加します）
+<string>体力を{0}マス分回復し、<lf>デビルブレイカーを{1}個補充して復活します。<lf>（復活ごとに、必要なレッドオーブ量が<lf>増加します）
+<string>周囲の敵にダメージを与え、<lf>体力を全回復して復活します。<lf>（復活ごとに、必要なレッドオーブ量が<lf>増加します）
+<string>周囲の敵にダメージを与え、<lf>体力の全回復とデビルブレイカーを<lf>最大まで補充して復活します。<lf>（復活ごとに、必要なレッドオーブ量が<lf>増加します）
+<string>周囲の敵にダメージを与え、<lf>体力とＤＴゲージを全回復して復活します。<lf>（復活ごとに、必要なレッドオーブ量が<lf>増加します）
+<string>体力回復量
+<string>NEXT
+<string>
+<string>The last judgment draweth nigh…
+<string>最後の審判が近付いている
+<string>CHECKPOINT
+<string>RETRY MISSION
+<string>MAIN MENU
+<string>最後のチェックポイントからやり直します
+<string>ミッションの最初からやり直します
+<string>メインメニューに戻ります

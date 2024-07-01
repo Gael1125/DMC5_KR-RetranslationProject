@@ -1,0 +1,6 @@
+<string>
+<string>현재 플레이 중
+<string>스토리 모드 플레이 중
+<string>블러디 팰리스 모드 플레이 중
+<string>갤러리 보는 중
+<string>보이드에서 훈련 중

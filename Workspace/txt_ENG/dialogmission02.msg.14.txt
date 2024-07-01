@@ -1,0 +1,52 @@
+<string>
+<string>What're you, lonely? Hurry up and get moving!
+<string>Sorry, but I need alone time. Get going, crybaby!
+<string>
+<string>What a mess...
+<string>Not making it easy for me, huh?
+<string>Trying to stop me? Oh, whatever shall I do?
+<string>Huh... Yeah, I can make this work.
+<string>Shoulda just hacked my way through.
+<string>This again...?
+<string>Oh man... I'm getting sick of this.
+<string>That was the floor's fault, not mine.
+<string>I'm getting really sick of this stupid tree...
+<string>Exit's gotta be around here somewhere.
+<string>I should get rolling.
+<string>Wait... Which way did I come from again?
+<string>Still no V, huh?
+<string>Oh nice, loot. I'll take that.
+<string>What are demons doing in a city like this...?<lf>There something to this place?
+<string>V doesn't seem like a demon to me...
+<string>Not gonna lie...this new arm is pretty sweet.
+<string>
+<string>Now THERE's a big one...
+<string>What're these scribbles...?
+<string>Don't forget to set your Devil Breaker before you leave.
+<string>I need to catch up to V, fast.
+<string>
+<string>You'll be sorry for this!
+<string>Yeah, maybe I will. Sorry I'm about to kill ya!
+<string>Insolent human! You're the one who's going to die!
+<string>
+<string>Hahahahaaa! Tremble before my might!
+<string>It's your grave... Jack it up all you want.
+<string>The next thing to shatter will be your bones!
+<string>
+<string>You're eating garbage now? You got some weird tastes.
+<string>You mock me, you die!
+<string>
+<string>H-how could a mere human do this!?
+<string>Says a mere demon... How about we wrap this up?
+<string>Damn you!
+<string>
+<string>Eat dirt, you scum!
+<string>Heed my power!
+<string>Is that all, you puny human?
+<string>Death upon you!
+<string>The fruit is mine!
+<string>Stop buzzing around!
+<string>
+<string>Guess the phone still works...
+<string>Took ya long enough, dumbass!<lf>What happened to the third-ring rule?
+<string>Tell ya what, you call ME from now on,<lf>and I'll hustle on over.

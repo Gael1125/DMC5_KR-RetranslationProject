@@ -1,0 +1,49 @@
+<string>
+<string>Well, looks like no one's worse for wear.
+<string>I'm just gonna double-check.
+<string>Hey, where did that garbage god go? What is Urizen after?
+<string>He's at the top of the Qliphoth.
+<string>It's the other way around, Dante.
+<string>This is the lowest level of the Qliphoth's upper echelon.
+<string>
+<string>Human blood is the source of demons' power.
+<string>The fruit born through the Qliphoth is even more dense<lf>than the blood that created it.
+<string>Its power is unparalleled.
+<string>Even the almighty Mundus used it<lf>to become the king of the underworld.
+<string>V told me everything.
+<string>Yeah, well, that's a lovely story and all,<lf>but...as long as we know where to find him.
+<string>Whoa! You...are the infamous Dante!
+<string>Um, I'm Nicoletta Goldstein. 
+<string>Sound familiar?
+<string>My grandmother is Nell Goldstein...
+<string>The gunsmith that made all your<lf>fancy weapons that you got...
+<string>strapped...back there...
+<string>
+<string>Yeah, there she is!
+<string>You don't much look like her...
+<string>Yeah, I got my looks from my Daddy.<lf>That's about all I got from him.<lf>
+<string>But based on his research, I-I-I managed to cobble this—
+<string>Um...it—it—
+<string>
+<string>Consider it a gift! In honor of us finally meeting!<lf>
+<string>Meeting.
+<string>I'll take that.
+<string>Dante!
+<string>I'm gonna go, too.
+<string>Why don't you sit this one out?
+<string>Oh, let you call me dead weight again? No thanks.
+<string>I've got all the power I need. Right here.
+<string>You don't understand. It's not what I mean—
+<string>
+<string>Let him go, Dante.
+<string>Time is a luxury that we can no longer afford.
+<string>We must chase after him, post-haste.
+<string>
+<string>What, does that mean you're going, too?
+<string>I have a duty to see this through.
+<string>Well that's all you had to say, Mr. Poetry.
+<string>I'm gonna go my way, and you guys can go yours.
+<string>Let's just say that's the best for the cause.
+<string>
+<string>
+<string>Looks like we still got a long ways to go.

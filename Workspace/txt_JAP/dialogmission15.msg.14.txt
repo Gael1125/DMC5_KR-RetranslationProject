@@ -1,0 +1,44 @@
+<string>
+<string>結局、また別行動か<lf>その方が気楽だけどな
+<string>ずいぶん気前がいいな…
+<string>分かれ道か…<lf>どっちに進むかな…
+<string>飛べりゃ進めそうだ…アレの出番か？
+<string>この気配…何かあるな
+<string>悪いな、ダンテ…<lf>魔王は俺がやる！
+<string>悪魔の気配か…<lf>邪魔するならブッ殺す！
+<string>それを使え！
+<string>拾え。預かりものだ…
+<string>無駄にするなよ…
+<string>わざわざ、ありがとよ
+<string>まかせろ、これで決める
+<string>供物として死ぬがいい！
+<string>
+<string>フォハハハ！　捉えきれまい…！愚かな人間の眼ではな！
+<string>ニオイで分かるさ。お前ら、くせェからな
+<string>
+<string>魔界随一の魔術…見せてやろう！
+<string>キョアアアアアアッ！
+<string>つまんねェな…マジックショーの方がまだマシだ
+<string>
+<string>飼い主がダウンだぜ、ひよこちゃん
+<string>ギャアーッギャギャギャアー
+<string>ん？　お前の方がご主人様か？どっちでもいいけどよ！
+<string>
+<string>さあ立て、このままでは終わらん！
+<string>
+<string>絶望をくれてやる！
+<string>蘇れ！　漲る我が力と共に！
+<string>しつけぇな…とっとと終わらせるぜ
+<string>
+<string>何をする！
+<string>エスコートされるのは初めてかい？
+<string>
+<string>ば…ばかな！？
+<string>目覚ましにはちょうどいいだろ
+<string>目覚ましにはちょうどいいだろ
+<string>
+<string>貴様は終わりだっ！
+<string>くせぇ息で喚くなよ。男が逃げるぜ。
+<string>
+<string>まさか…！？
+<string>隙のある女は付け入られるぜ？

@@ -1,0 +1,11 @@
+<string>
+<string>We will not be conquered...
+<string>I am king of the Cerberus tribe!
+<string>
+<string>Ha! You cannot get close to me!
+<string>Try to touch me if you dare!
+<string>Feel my thunder!
+<string>I'll burn you to death!
+<string>My flame will consume you!
+<string>Behold, a king's power!
+<string>Your flesh will freeze!

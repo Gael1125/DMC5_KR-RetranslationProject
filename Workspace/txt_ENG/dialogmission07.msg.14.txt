@@ -1,0 +1,54 @@
+<string>
+<string>You can follow if you want, but I'm going ahead.
+<string>A dead end.
+<string>This WAS the right way! Nailed it.
+<string>Gotta push on ahead.
+<string>Okay... Guess I'm goin' down.
+<string>Welcome to the party, partner! You ready to dance?
+<string>Can Nico even make it out here?
+<string>What a warm welcome! How sweet.
+<string>What's wrong, V? Why the long face?
+<string>Ahh, don't mind him, he's just being moody!
+<string>It's just that the armored bastard<lf>reminds him of an old friend of his!
+<string>Sounds like a hell of a guy...<lf>I'd like to meet him someday.
+<string>Better to split up... We can cover more ground.
+<string>It's a fucking maze in here...<lf>But we still gotta search every corner!
+<string>Indeed.
+<string>Careful, V... Something in here stinks.
+<string>This way.
+<string>Beee-yootiful! NOW it's a party!
+<string>The Qliphoth has grown this large...<lf>How much blood has been sacrificed?
+<string>Hey, how's it goin'?
+<string>...Can't complain.
+<string>Still alive, kid? You're a tough one, huh!?
+<string>Zip it up, will ya? 'Less you wanna<lf>end up in a frying pan.
+<string>...Apparently so.
+<string>
+<string>Irritating creatures!
+<string>So aggro... That's not like you...<lf>This another one of your old friends?
+<string>Let's just get this over with.
+<string>All right.
+<string>
+<string>Hey, hey, we're working our tail feathers off over here!<lf>Stop slacking off, kid!
+<string>Apparently they're not fond of loud-mouthed critters,<lf>either. Maybe you should try shutting up?
+<string>
+<string>Oh, they just love me! What'd I ever do to them?
+<string>Draw their focus for a while. We'll kill them one by one.
+<string>
+<string>Bored? I've got a job for you.
+<string>All right let's hear it, what you got?
+<string>
+<string>Uh, Nico?
+<string>Spit it out. Whattaya want?
+<string>
+<string>I need you to get over here.
+<string>You, in a twist? Wow, did hell just freeze over?
+<string>
+<string>Can you meet me over here?
+<string>Help has arrived! Got any cash?
+<string>
+<string>...You're up.
+<string>Okay. What're we doin'?
+<string>
+<string>Need you to double-time it.
+<string>I took the express, just for you!

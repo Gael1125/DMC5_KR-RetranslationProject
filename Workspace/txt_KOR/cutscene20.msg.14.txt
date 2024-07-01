@@ -1,0 +1,77 @@
+<string>
+<string>여보세요?
+<string>네로? 너야, 네로?
+<string>무슨 일 있어?
+<string>키리에...
+<string>어릴 때, 난... 혼자였잖아.
+<string>너랑 크레도뿐이었지.
+<string>그런데 나한테 갑자기 가족이 생겼대.
+<string>이제 어떡해야 하는 걸까?
+<string>
+<string>넌 뭐가 옳고 그른지 늘 알고 있었어.
+<string>자신을 의심하지 마.
+<string>
+<string>고마워...
+<string>그 말을 들으니 확실히 알겠어.
+<string>
+<string>마지막으로 처리할 일이 하나 있는데...
+<string>끝내고 집으로 갈게.
+<string>
+<string>난 크레도를 지켜주지 못했어.
+<string>그 뒤로도 힘이 없던 나를 계속 미워만 했지.
+<string>하지만 이번엔 달라.
+<string>절대로!
+<string>둘 다 죽게 놔두지 않겠어!
+<string>
+<string>이게... 무슨?
+<string>네로?
+<string>이건 대체 무슨 힘이지?
+<string>어떻게... 이런?
+<string>이 싸움은 내가 끝낸다.
+<string>네로, 잘 들어. 이미 말했지만 이건...
+<string>당신이나 들어, 걸리적거리지 말고.
+<string>둘이 서로를 죽이는 건 용납 못 해.
+<string>문제가 있으면 다른 방법으로 해결해.
+<string>형제끼리 싸우는 건 여기서 끝이야.
+<string>고작 그것 때문에 여기까지 온 거냐?
+<string>버질... V... 당신이 자신을 뭐라 부르든...
+<string>단테는 여기서 안 죽어. 당신도 마찬가지고.
+<string>불만 있어?
+<string>안 죽기는 개뿔.
+<string>아까 그 한 방에 죽을 뻔했다고.
+<string>
+<string>내가 네로를 이기면...
+<string>너한테도 이긴 게 되는 거다. 알겠냐, 단테?
+<string>마음대로 해. 상관없으니까.
+<string>난 좀 쉬어야겠어.
+<string>내가 이기면, 시키는 대로 하는 거야...
+<string>아버지.
+<string>
+<string>재미있군...
+<string>아, 형.
+<string>힘 좀 얻겠다고 아들 팔까지<lf>잘라 가 놓고, 또 진 거야?
+<string>빌어먹을, 그만해!
+<string>마계가 점점 커지고 있어.<lf>너무 늦기 전에 손을 써야 한다고.
+<string>네로 말이 맞아. 포털을 닫아야 돼.
+<string>어이, 졌으니까 시키는 대로 하자고.
+<string>난 아직 싸울 수 있어.
+<string>하지만 저 뿌리가 도시 전체로 퍼지면<lf>우리가 싸우는 데도 방해되겠지.
+<string>오, 지금까지 한 말 중에 제일 똑똑했어.
+<string>그럼 서두르자... 끝내고 결판을 내야 하니까.
+<string>당연하지.
+<string>기다려, 어디 가는 거야?
+<string>마계에서 클리포트의 뿌리를 잘라내야 돼.
+<string>그다음 야마토로 포털을 닫을 거다.
+<string>
+<string>잠깐, 그랬다간 못 돌아올 텐데.
+<string>그래서 나도 가잖아.<lf>네 늙다리 아버지를 돌봐주러.
+<string>나보고 여기서 구경이나 하라는...
+<string>네가 여기 있어야 우리가 가지. 
+<string>이쪽 일은 잘 부탁한다. 알았지?
+<string>서둘러, 단테.
+<string>어, 알겠어.
+<string>이봐, 기다려!
+<string>몸조심해, 네로. 안녕.
+<string>다음엔 봐주지 않아.
+<string>그때까지 잘 간직해 둬라.
+<string>멍청이들...

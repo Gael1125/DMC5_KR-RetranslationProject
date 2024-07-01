@@ -1,0 +1,4 @@
+<string>
+<string>Mission S Ranks achieved
+<string>Gold Orbs obtained
+<string>Skill unlock progress

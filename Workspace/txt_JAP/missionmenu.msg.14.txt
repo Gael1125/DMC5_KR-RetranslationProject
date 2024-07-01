@@ -1,0 +1,11 @@
+<string>MISSION MENU
+<string>MISSION START
+<string>PLAYER SELECT
+<string>CUSTOMIZE
+<string>MAIN MENU
+<string>OPTIONS
+<string>ミッションを開始します
+<string>操作するプレイヤーを選択します
+<string>プレイヤーのカスタマイズを行います
+<string>メインメニューに移動します
+<string>ゲーム内の各種設定を行います

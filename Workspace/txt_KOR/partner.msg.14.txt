@@ -1,0 +1,8 @@
+<string>
+<string>EVALUATION
+<string>
+<string>함께 싸운 시간들
+<string>
+<string>"스타일리시!"로 평가
+<string>평가 안 함
+<string>사용자 정보 보기

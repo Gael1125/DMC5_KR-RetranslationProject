@@ -1,0 +1,299 @@
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>With Gerbera equipped:<lf>Press <ICON ACT_BtnR> or <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>Press <ICON ACT_BtnR> to fire a shockwave in<lf>front of you (can reflect some<lf>long-range enemy attacks).<lf>Press <ICON ACT_LS>+<ICON ACT_BtnR> to move around quickly.
+<string>With Gerbera equipped:<lf>Hold and release <ICON ACT_BtnR><lf>
+<string>While on the ground, Stamen Ray<lf>fires a thick energy beam. In<lf>mid-air, Petal Ray gathers<lf>shockwaves in your fingertips<lf>for a more penetrating laser that<lf>ricochets off of walls and floors.
+<string>
+<string><SIZE 180>D</SIZE>EMO
+<string>DEMO
+<string>
+<string>CONTROL GUIDE
+<string>
+<string>- Open the Pause Menu with <ICON CenR> to check<lf>the input controls in the upper-right<lf>corner of the screen.<lf><lf>- You can also check controls for<lf>various actions in the Skill List on the<lf>Pause Menu.
+<string> (blue)
+<string> (green)
+<string>Demolishing shockwave
+<string>Superior aerial agility
+<string> (red)
+<string>High-flying haymaker
+<string>
+<string>The "Try" function cannot be used in the demo version.<lf>Selecting "Try" in the full game lets you try out new skills<lf>before you purchase them.
+<string>
+<string>Return to the title screen? <lf>Restarting will take you back to the start of the mission.<lf>
+<string>In the main game, you can enter the trailer<lf>to customize skills and Devil Breakers.<lf>(This feature is not available in this demo.)
+<string>Return to the title screen? 
+<string>Reset all mission progress?
+<string>
+<string>Skill Command List<lf><lf>Different input combinations let<lf>you unleash a variety of skill<lf>actions. Try out some simple<lf>skills to start off.<lf>(More skills are available in the<lf>full game.)
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>TITLE SCREEN
+<string>Return to the title screen.
+<string>
+<string>BUY NOW
+<string>Purchase the full version.
+<string>Go to PlayStation™Store.
+<string>Go to the Xbox Games Store.
+<string>Go to the Store.
+<string>
+<string>EXIT
+<string>Quit the game.
+<string>
+<string>CONTROLS
+<string>Check the controls at any time from the Pause Menu.
+<string>Note: These controls are from the default setting.
+<string>
+<string>A magical red stone of<lf>crystallized demon blood.<lf>Exchange these for new weapons<lf>and skills.
+<string>
+<string>DMC is BACK!!
+<string>Way to show that sensational style!
+<string>
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>SIDE ROLL
+<string>
+<string>PROVOCATION
+<string>RAINBOW
+<string>SPEED
+<string>WIRE SNATCH
+<string>WIRE SNATCH 2
+<string>WIRE BOUND
+<string>AIR HIKE
+<string>ENEMY STEP
+<string>
+<string>RED QUEEN COMBO A
+<string>RED QUEEN COMBO C
+<string>AERIAL COMBO
+<string>ROULETTE SPIN
+<string>HIGH ROLLER
+<string>EX HIGH ROLLER
+<string>STREAK
+<string>EX STREAK
+<string>SPLIT
+<string>DOUBLE DOWN
+<string>CALIBUR
+<string>SHUFFLE
+<string>EX CALIBUR
+<string>EX SHUFFLE
+<string>
+<string>NORMAL SHOT
+<string>COLOR UP
+<string>HIGH SHOT
+<string>
+<string>EXCEED
+<string>EX-Act
+<string>EXCEED 2
+<string>
+<string>BREAK AGE
+<string>BREAK AWAY
+<string>SCAPEGOAT
+<string>
+<string>BATTERY
+<string>EXPLODER
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>JET GADGET
+<string>BOOST KNUCKLE
+<string>NEO BUSTER
+<string>SUPER BUSTER
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Tilt <ICON ACT_LS>
+<string>Move <ICON ACT_RS>
+<string>Press and hold <ICON ACT_RB>
+<string>While on the ground, press <ICON ACT_BtnD>
+<string>During a jump, press <ICON ACT_BtnD> near a wall
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> horizontally +<ICON ACT_BtnD>
+<string>
+<string>Press <ICON ACT_CenL>
+<string>Press <ICON ACT_CenL> while running
+<string>Hold <ICON ACT_LS> in any direction
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR>
+<string>Normal attack upgrade for Wire Snatch
+<string>Lock on to certain heavy enemies with <ICON ACT_RB>,<lf>then press <ICON ACT_BtnR>
+<string>During a jump, press <ICON ACT_BtnD>
+<string>In mid-air, press <ICON ACT_BtnD> near an enemy
+<string>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU>, then <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU>, then <ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>
+<string>Press <ICON ACT_BtnL>
+<string>Press and hold <ICON ACT_BtnL>, then release when your<lf>left arm glows
+<string>Press <ICON ACT_BtnL> with stock in the Bullet Gauge
+<string>
+<string>Press and hold <ICON ACT_LT> several times until<lf>the EX-Gauge is filled
+<string>Press <ICON ACT_LT> after an attack
+<string>Normal attack upgrade for Exceed
+<string>
+<string>With a Devil Breaker equipped:<lf>Press and hold <ICON ACT_BtnR> then release when your<lf>right arm sparks with more power
+<string>With a Devil Breaker equipped:<lf>Press and hold <ICON ACT_LB>
+<string>Press <ICON ACT_BtnR> while getting attacked,<lf>or get attacked while holding <ICON ACT_BtnR><lf>with a Devil Breaker equipped
+<string>
+<string>With Overture equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Overture equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Gerbera equipped:<lf>Press <ICON ACT_BtnR> or <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>With Gerbera equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Punch Line equipped: Hold <ICON ACT_BtnR><lf>during aerial recovery to ride it. Perform<lf>various maneuvers with <ICON ACT_BtnL><ICON ACT_BtnU><ICON ACT_BtnR><ICON ACT_BtnD>.
+<string>With Punch Line equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Buster Arm equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Buster Arm equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>
+<string>Tilt <ICON ACT_LS> in any direction to move<lf>the character in that direction.<lf>Tilt further to move faster.
+<string>Move the camera around to view your<lf>surroundings. Press <ICON ACT_RStP> to return the<lf>camera to the default position behind you.
+<string>Lock on to enemies and certain objects.<lf>Hold <ICON ACT_RB> to strafe, and press <ICON ACT_LStP><lf>to change lock-on target.
+<string>Jump into the air. The height of your jump<lf>changes depending on how long you hold <ICON ACT_BtnD>.
+<string>Jump again by pushing off of a wall.
+<string>Evade an enemy attack by rolling to the<lf>side. Press <ICON ACT_BtnL> while evading to shoot.
+<string>
+<string>Taunt enemies in various ways on the<lf>ground or in mid-air. The taunt executed<lf>depends on your current Stylish Rank.
+<string>Perform a savage dropkick from a running<lf>position.
+<string>By continuing to move in the same<lf>direction with <ICON ACT_LS>, your footspeed<lf>will increase.<lf>While running, you can press <ICON ACT_BtnU><lf>to chain into Red Queen Combo A.
+<string>Extend a wire from the right arm to reel<lf>in foes from a distance. Large or heavy<lf>enemies cannot be pulled in.
+<string>An upgrade to Wire Snatch with a<lf>longer reach.
+<string>Using Wire Hook against heavy enemies<lf>that cannot be pulled in will pull you<lf>towards them instead. 
+<string>Concentrate demonic power into the area<lf>under your feet to perform a double jump<lf>that can reach higher locations.
+<string>In mid-air, use an enemy as a stepping<lf>stone to execute a double jump.
+<string>
+<string>A quick and dirty 4-hit sword combo.
+<string>A flashy sword combo versatile enough to<lf>lay out unsuspecting foes over a wider<lf>area.
+<string>A series of mid-air sword slashes.
+<string>Spin the Red Queen's blade in mid-air,<lf>cutting up enemies. This attack will<lf>allow you to gain a little altitude.
+<string>Cleave into an enemy, launching them skyward.<lf>Continue holding <ICON ACT_BtnU> to follow the enemy<lf>into the air.
+<string>High Roller powered-up by the Red Queen's<lf>Exceed system. Revolutions increase<lf>depending on the Ex-Gauge level.
+<string>A magnificent rushing attack that sweeps<lf>up surrounding enemies.
+<string>Streak powered-up by the Red Queen's<lf>Exceed system. Revolutions increase<lf>depending on the Ex-Gauge level.
+<string>A violent descending slash that slams<lf>through an enemy and splits them right<lf>down the middle.
+<string>The propellant ignited on the blade of<lf>the Red Queen by the Exceed system powers<lf>the weapon downwards, eviscerating the enemy.<lf>The attack area increases depending on the<lf>Ex-Gauge level.
+<string>Streak towards your foe in mid-air and<lf>strike with a heavy blow.
+<string>After avoiding an attack by backstepping,<lf>rush forward and counter with a fast,<lf>powerful blow.
+<string>A version of Calibur powered by the Red<lf>Queen's Exceed system, increasing its<lf>distance depending on the Ex-Gauge level.
+<string>The Exceed system powers up the Shuffle<lf>skill, increasing the number of hits<lf>depending on the Ex-Gauge level.
+<string>
+<string>Fire two bullets at once.
+<string>Load up special bullets with more power<lf>than regular bullets. Hold <ICON ACT_BtnL> to fill up<lf>the Bullet Gauge, letting you fire three<lf>shots once the gauge is full.
+<string>Fire special bullets more powerful than<lf>your regular ammo. Multiple hits will<lf>stun the enemy.
+<string>
+<string>Unleash powerful attacks by igniting<lf>propellant in the blade. Consume one stock<lf>of Ex-Gauge to use level 1 Exceed moves.
+<string>Activate Exceed after an attack to fill<lf>one stock of your Exceed gauge.<lf><lf>If your timing is off, you only gain a<lf>small amount of charge.
+<string>An upgrade to the Exceed system. Consume<lf>two stocks of the Ex-Gauge to use level 2<lf>Exceed moves.
+<string>
+<string>Unleash the power of your equipped<lf>Devil Breaker to perform a devastating<lf>attack. The sheer power of this technique<lf>will destroy any arm you currently have<lf>equipped, as will taking any damage while<lf>holding down <ICON ACT_BtnR>.
+<string>Rip off your current Devil Breaker to<lf>create an explosion from the energy held<lf>within. Use this to quickly escape from<lf>damage.
+<string>Attacks won't stagger you while using a<lf>Devil Breaker, or while preparing to use<lf>Break Age. You still take some damage,<lf>and your current arm will be destroyed.
+<string>
+<string>Fire an electric burst from the palm of<lf>the Overture. The direction changes<lf>depending on the state of the enemy.
+<string>Overload the energy inside Overture to<lf>turn it into a bomb. Shove it into an<lf>enemy and it explodes after a set amount<lf>of time. Multiple units can be placed at<lf>once. Follow up with a bullet or other<lf>attacks to detonate it manually.
+<string>Release a shockwave from the palm of the<lf>Gerbera. Press <ICON ACT_BtnR> to attack in front of<lf>you. This attack can negate or reflect<lf>enemy projectiles. Press <ICON ACT_BtnR>+<ICON ACT_LS> to change<lf>the shockwave into thrust to move around.
+<string>While on the ground, Stamen Ray unleashes<lf>a powerful blast. In mid-air, Petal Ray will<lf>gather shockwaves in your fingertips for a<lf>more penetrating laser. Ricochets off of<lf>walls and floors around you.
+<string>Launches the Punch Line like a rocket.<lf>Press <ICON ACT_BtnR> after launch to call it back,<lf>then hold <ICON ACT_BtnR> when it returns to ride it.<lf>Press <ICON ACT_BtnL> <ICON ACT_BtnU> or <ICON ACT_BtnR> while riding it to do<lf>tricks, drop off with <ICON ACT_BtnD>, and blow it up<lf>with <ICON ACT_LB>. You can ride it longer at<lf>higher Stylish Ranks.
+<string>Unleash the Punch Line's propulsion<lf>potential in a haymaker punch.<lf>Even larger enemies will be knocked<lf>back by a clean hit.
+<string>Reminiscent of the Devil Bringer's Buster<lf>attack. Packed with power, but being<lf>attacked while executing the move will<lf>cause the Buster Arm to shatter.
+<string>Reminiscent of the Devil Bringer's Buster<lf>attack. Attacks won't cause you to flinch<lf>while this is activated, making Busters<lf>easier to execute. Breaks after one use.
+<string>
+<string>DODGE
+<string>On the ground, press <ICON ACT_RB>+<ICON ACT_LS> horizontally+<ICON ACT_BtnD>
+<string>
+<string>Devil May Cry 5 Xbox Exclusive Demo
+<string>Devil May Cry 5 Demo
+<string>
+<string>SAMPLE SUBTITLE (TEMP)
+<string>It has begun.
+<string>I will show you...
+<string>your worst nightmares!
+<string>I will give you...
+<string>despair and death!
+<string>All right, time to kick some ass.
+<string>Don't crap yourself. He likes to kill demon things.
+<string>That's why I built him that well-functioning<lf>arm... To kick demon ass.
+<string>I think we should split into two groups.
+<string>...And cover more ground. Good idea.
+<string>Okay Shakespeare. Just remember this:
+<string>You and I like to exist.
+<string>So get rid of those demons quick,<lf>'cause killin' them ain't my shtick!
+<string>What evil lurks...
+<string>I must destroy.
+<string>V... Why don't you tell me<lf>everything about this job?
+<string>A powerful demon is about to resurrect,<lf>and we need your help, Dante.
+<string>What, does that mean you're going, too?
+<string>I have a duty to see this through.
+<string>And you need to see this through.
+<string>Dante's war.
+<string>Come on, little puppy.<lf>I'll take you out for a walk!
+<string>Made it for Lady and she paid for it,<lf>so consider it a rental.
+<string>What? What's happening now!?
+<string>V, get Nero out of here! This was a bad move!
+<string>Nero, go! You're just dead weight.

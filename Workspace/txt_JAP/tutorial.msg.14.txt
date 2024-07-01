@@ -1,0 +1,407 @@
+<string>
+<string>TUTORIAL
+<string>
+<string><ICON CenR>閉じる
+<string>
+<string>PLAYER CHANGE -NERO-
+<string>PLAYER CHANGE -DANTE-
+<string>PLAYER CHANGE - V -
+<string>SEALS
+<string>MORRISON'S LETTER
+<string>THE SHOP
+<string>STYLISH RANK
+<string>SECRET MISSION
+<string>TELEPHONE BOOTHS
+<string>DEMON TREE BLOOD CLOTS
+<string>DIVINITY STATUES
+<string>MOVEMENT
+<string>CAMERA
+<string>JUMPING
+<string>KICK JUMP
+<string>LOCK ON
+<string>CHANGE LOCK ON
+<string>DODGING
+<string>NORMAL ATTACK
+<string>SPECIAL ATTACKS
+<string>MELEE ATTACK
+<string>RANGED ATTACK
+<string>HIGH ROLLER
+<string>COLOR UP
+<string>EXCEED
+<string>EX-ACT
+<string>WIRE BOUND 1
+<string>DEVIL BREAKER
+<string>BREAK AGE
+<string>BREAK AWAY
+<string>PICKING UP DEVIL BREAKERS
+<string>WIRE SNATCH
+<string>WIRE BOUND 2
+<string>GRIM GRIP
+<string>DEVIL TRIGGER
+<string>BUSTER
+<string>DUAL BUSTER
+<string>SHADOW
+<string>CHECKMATE
+<string>GRIFFON
+<string>FORCED MOVE
+<string>BOOK
+<string>GAMBIT
+<string>NIGHT MARE
+<string>STALEMATE
+<string>DEVIL TRIGGER
+<string>CHANGING WEAPONS
+<string>CHANGING WEAPONS 2
+<string>STYLE ACTION
+<string>TRICKSTER
+<string>GUNSLINGER
+<string>SWORDMASTER
+<string>ROYALGUARD
+<string>DEVIL TRIGGER
+<string>SIN DEVIL TRIGGER
+<string>TIPS
+<string>DESTINATION VIEW
+<string>REEQUIPPING DEVIL BREAKERS
+<string>HEAVEN OR HELL
+<string>HELL AND HELL
+<string>BLOODSTREAMS
+<string>JET GADGET
+<string>TIPS
+<string>AUTOMATIC ASSIST
+<string>Dr.FAUST
+<string>CAVALIERE
+<string>DEVIL SWORD DANTE
+<string>KING CERBERUS
+<string>TELEPHONE BOOTHS
+<string>TELEPHONES
+<string>CALLING NICO
+<string>MEMORIAL PHOTO
+<string>GOOD
+<string>BLOODY PALACE
+<string>SUSPEND
+<string>REDORB BONUS
+<string>REDORB BONUS
+<string>WARMING UP
+<string>CUSTOMIZE
+<string>THE VOID
+<string>LIFE GAUGE
+<string>CONTROL GUIDE
+<string>DEVILBREAKER REFILL
+<string>MIXER INTERACTIVITY
+<string>DESTINATION VIEW
+<string>MELEE ATTACK
+<string>MIRAGE BLADE
+<string>UPPER SLASH
+<string>TRICK ACTION
+<string>GRIM TRICK 2
+<string>CHANGING WEAPONS
+<string>CONCENTRATION
+<string>DOPPELGANGER 
+<string>SIN DEVIL TRIGGER
+<string>WORLD OF V
+<string>TRAILER
+<string>STATUE OF SPARDA
+<string>GRIM TRICK 1
+<string>
+<string>プレイヤーチェンジ　-　ネロ　-
+<string>プレイヤーチェンジ　-　ダンテ　-
+<string>プレイヤーチェンジ　-　Ｖ　-
+<string>封印結界
+<string>モリソンからの手紙
+<string>デビルブレイカーの購入／編集
+<string>スタイリッシュランク
+<string>シークレットミッション
+<string>電話ボックス
+<string>魔界樹の弱点部位「血溜まり」
+<string>時空神像
+<string>移動
+<string>カメラ操作
+<string>ジャンプ
+<string>キックジャンプ
+<string>ロックオン
+<string>ロックオン切り替え
+<string>回避
+<string>攻撃
+<string>特殊攻撃
+<string>近接攻撃（レッドクイーン）
+<string>遠距離攻撃（ブルーローズ）
+<string>ハイローラー
+<string>カラーアップ
+<string>イクシード
+<string>イクシード （ＥＸアクト）
+<string>ワイヤーバウンド 1
+<string>デビルブレイカー
+<string>ブレイクエイジ
+<string>ブレイクアウェイ
+<string>デビルブレイカーの入手
+<string>ワイヤースナッチ
+<string>ワイヤーバウンド 2
+<string>グリムグリップの起動
+<string>デビルトリガー
+<string>バスター
+<string>デュアルバスター
+<string>シャドウ召喚／攻撃
+<string>チェックメイト
+<string>グリフォン召喚／攻撃
+<string>フォースドムーブ
+<string>ブック
+<string>ガンビット
+<string>ナイトメア召喚
+<string>ステイルメイト
+<string>デビルトリガー
+<string>武器切り替え
+<string>武器切り替え②
+<string>スタイル
+<string>トリックスター
+<string>ガンスリンガー
+<string>ソードマスター
+<string>ロイヤルガード
+<string>デビルトリガー
+<string>真魔人
+<string>ティップス
+<string>目的方向の注視
+<string>※デビルブレイカーの再装着
+<string>ヘブン オア ヘル
+<string>ヘル アンド ヘル
+<string>魔動脈
+<string>ジェットガジェット
+<string>ＴＩＰＳ
+<string>オートマチックアシスト
+<string>Dr.ファウスト
+<string>キャバリエーレ
+<string>魔剣ダンテ
+<string>キングケルベロス
+<string>電話ボックス
+<string>電話の利用
+<string>電話でニコを呼び付ける
+<string>撃破記念写真
+<string>「いいね！」について
+<string>ブラッディパレスとは
+<string>ブラッディパレスの中断
+<string>レッドオーブボーナス
+<string>
+<string>到達済みステージの練習
+<string>カスタマイズ
+<string>「THE VOID」とは
+<string>体力ゲージ
+<string>操作ガイド
+<string>デビルブレイカーの補充
+<string>ミキサーインタラクティビティ
+<string>目的方向の注視
+<string>近距離攻撃
+<string>幻影剣
+<string>抜刀斬り上げ
+<string>トリックアクション
+<string>グリムトリック2
+<string>武器切り替え
+<string>コンセントレイション
+<string>ドッペルゲンガー
+<string>真魔人
+<string>ワールドオブV
+<string>トレーラー
+<string>スパーダ像
+<string>グリムトリック1
+<string>
+<string><ICON ACT_LS> 
+<string><ICON ACT_BtnD> 
+<string>ジャンプ後　壁の近くで<ICON ACT_BtnD> 
+<string><ICON ACT_RS> 
+<string><ICON ACT_BtnU> で攻撃
+<string><ICON ACT_BtnL> で射撃
+<string><ICON ACT_RB>+<ICON ACT_LS>後方+<ICON ACT_BtnU> 
+<string><ICON ACT_BtnL> 長押し
+<string><ICON ACT_RB>  を押し続ける
+<string><ICON ACT_RB> +<ICON ACT_LStP>
+<string><ICON ACT_BtnR> で攻撃
+<string><ICON ACT_BtnR> 長押し後はなす
+<string><ICON ACT_LB> を押す
+<string>デビルブレイカーに触れる
+<string><ICON ACT_RB>＋<ICON ACT_BtnR> （ジャンプ中も可）
+<string><ICON ACT_LT> を繰り返し押す
+<string><ICON ACT_LT> を各攻撃の直後に押す
+<string><ICON ACT_RB>+<ICON ACT_LS>横方向+<ICON ACT_BtnD> 
+<string><ICON ACT_RB>で敵をロックオン後<ICON ACT_BtnR> 
+<string>グリムグリップを<lf><ICON ACT_RB> でロックオン後<ICON ACT_BtnR> 
+<string>ターゲットを攻撃後<lf><ICON ACT_RB>＋<ICON ACT_BtnR> 
+<string><ICON ACT_BtnU> で攻撃
+<string>仮死状態の敵に近づき<ICON ACT_BtnR> 
+<string><ICON ACT_BtnL>で攻撃
+<string><ICON ACT_RB>＋<ICON ACT_LS>横方向＋<ICON ACT_BtnD>
+<string><ICON ACT_RT>を押し続ける
+<string><ICON ACT_RB>+<ICON ACT_BtnR> 
+<string>
+<string>DTゲージ３つ以上時　<ICON ACT_LB> 
+<string><ICON ACT_LT>＋<ICON ACT_BtnU> <lf>または<ICON ACT_LT>＋<ICON ACT_BtnL>
+<string><ICON ACT_LT>/<ICON ACT_RT> 
+<string>
+<string>
+<string>
+<string><ICON ACT_DirU><ICON ACT_DirD><ICON ACT_DirL><ICON ACT_DirR>でスタイル切り替え<lf><ICON ACT_BtnR>でスタイルアクション
+<string>スタイル切り替え：<ICON ACT_DirU><lf>スタイルアクション：<ICON ACT_BtnR>
+<string>スタイル切り替え：<ICON ACT_DirL><lf>スタイルアクション：<ICON ACT_BtnR>
+<string>スタイル切り替え：<ICON ACT_DirR><lf>スタイルアクション：<ICON ACT_BtnR>
+<string>スタイル切り替え：<ICON ACT_DirD><lf>スタイルアクション：<ICON ACT_BtnR>
+<string>ＤＴゲージが３つ以上のとき<ICON ACT_LB>
+<string>
+<string>
+<string>ＤＴゲージが３つ以上のとき<ICON ACT_Dir>
+<string>敵が体勢をくずしたとき、近くで<ICON ACT_RT>
+<string><ICON ACT_LB>を長押しすることで<lf>ＤＴゲージをＳＤＴゲージに変換
+<string>ＳＤＴゲージを最大まで溜めて<lf><ICON ACT_LB>を長押し
+<string>足のもろい所を破壊しグリムグリップを出現させる<lf>スナッチ（<ICON ACT_RB>+<ICON ACT_BtnR> ）で頭上の弱点を狙う
+<string><ICON ACT_LStP>長押し
+<string>魔人化中に敵の近くで<ICON ACT_RT><lf>（分身も近くにいる必要あり）
+<string>パンチライン射出後<lf><ICON ACT_BtnR> 長押しで回収
+<string><ICON ACT_BtnR> で潜り込む
+<string>DT（<ICON ACT_LT>＋<ICON ACT_BtnU> または<ICON ACT_BtnL>）で従者の自動攻撃発動<lf>遠方の敵への追攻撃ができる
+<string><ICON ACT_RStP>長押し
+<string><ICON ACT_LB> を押す<lf>デビルブレイカー消費で脱出
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>パンチライン射出後<lf><ICON ACT_BtnR> 長押しで回収
+<string><ICON ACT_LStP>長押し
+<string><ICON ACT_BtnU> で攻撃
+<string><ICON ACT_BtnL> で幻影剣を放つ
+<string><ICON ACT_RB>+<ICON ACT_LS>後方+<ICON ACT_BtnU> 
+<string><ICON ACT_RB>+<ICON ACT_LS>横方向+<ICON ACT_BtnD> 
+<string><ICON ACT_BtnR> で移動
+<string>グリムグリップを<lf><ICON ACT_RB> でロックオン後<ICON ACT_BtnR> 
+<string><ICON ACT_LT>/<ICON ACT_RT> 
+<string>
+<string>
+<string>ＤＴゲージが３つ以上のとき<ICON ACT_LB>または<ICON ACT_DirU>
+<string>ＤＴゲージが３つ以上のとき<ICON ACT_LB>または<ICON ACT_DirU>
+<string><ICON ACT_LB>を長押しすることで<lf>ＤＴゲージをＳＤＴゲージに変換
+<string>ＳＤＴゲージを最大まで溜めて<lf><ICON ACT_LB>を長押し
+<string><ICON ACT_RB>＋<ICON ACT_LS>一回転＋<ICON ACT_BtnR>
+<string>足のもろい所を破壊しグリムグリップを出現させる<lf>グリムトリック（<ICON ACT_RB>+<ICON ACT_BtnR> ）で頭上の弱点を狙う
+<string>
+<string>プレイヤーがネロに替わります。<lf><lf>ＨＰゲージや所持しているオーブは<lf>そのまま引き継がれますが<lf>スキルはネロ用に取得する必要があります。
+<string>プレイヤーがダンテに替わります。<lf>多彩な武器や技を使いこなし、<lf>華麗なアクションを組み立てましょう。<lf><lf>ＨＰゲージや所持しているオーブは<lf>そのまま引き継がれますが<lf>スキルはダンテ用に取得する必要があります。
+<string>プレイヤーが<RUBY><RB>Ｖ</RB><RT>ブイ</RT></RUBY>に替わります。<lf>つき従う３体の魔獣を攻防の要とし、<lf>戦況を見極めながら立ち回りましょう。<lf><lf>ＨＰゲージや所持しているオーブは<lf>そのまま引き継がれますが<lf>スキルはＶ用に取得する必要があります。
+<string>進路が結界により封じられ<lf>戦闘が始まる場合がある。<lf>出現するすべての敵を倒せば<lf>封印が解かれ、先に進める。
+<string>ミッションを進めていくと、「モリソンの手紙」など<lf>さまざまな情報が確認できるようになる。<lf>メインメニュー内の<RUBY><RB>GALLERY</RB><RT>ギャラリー</RT></RUBY>から<RUBY><RB>LIBRARY</RB><RT>ライブラリー</RT></RUBY>を<lf>チェックしてみよう。
+<string>デビルブレイカーは、レッド<lf>オーブを消費して補充できる。<lf>カスタマイズメニューから選び<lf>補充や装備順の編集を行おう。
+<string>ミスなく様々な技を組み入れ<lf>華麗に立ち回ることで<lf>スタイリッシュポイントが<lf>加算され、ランク表示される。<lf>ランクはミッションクリア時の<lf>評価に影響する。<lf>より高いランクを目指そう。
+<string>ミッション進行中、<lf>風景のさまざまな場所<lf>（壁や天井、地面など）に<lf>特徴的なシンボルマークが<lf>描かれていることがある。
+<string>シンボルマークは、その周辺に<lf>ある「赤く光る場所」に立ち、<lf>アングルを調整して覗くことで<lf>正しい形として認識できる。<lf>認識できれば、<lf>シークレットミッションの<lf>挑戦が可能になる。
+<string>シークレットミッションでは<lf>さまざまな挑戦課題が示され、<lf>成功すると報酬を得られる。<lf>何度でも再挑戦可能。<lf>一度発見したシークレット<lf>ミッションは、メインメニュー<lf>からも再度選択できる。
+<string>各所にある「電話」の中には<lf>回線が生きているものがある。<lf>近づいて調べてみよう。
+<string>呼び付けたトレーラーに入り、<lf>レッドオーブと引き換えに<lf>スキルやアイテムを得られる。<lf>「電話」を見つけたら、<lf>ニコを呼ぶチャンスだ。
+<string>各所にはびこる魔界樹の根の<lf>一部に赤く膨れた「血溜まり」<lf>があり、破壊すると<lf>レッドオーブが得られる。<lf>同時に連接した一部魔界樹の根<lf>が消失し、通路の開通や仕掛け<lf>連動が起こる場合がある。
+<string>時空神像では<lf>レッドオーブと引き換えに<lf>スキルやアイテムが得られる。
+<string><ICON ACT_LS>を倒した方向に移動。<lf>倒し具合によって<lf>移動速度を調整できる。
+<string><ICON ACT_RS>でカメラを操作し、<lf>周囲を見渡せる。<lf><ICON ACT_RStP>でカメラ位置を<lf>正面方向に戻す。<lf>【OPTION】で設定変更ができる。
+<string><ICON ACT_BtnD>で空中に飛び上がる。<lf>短く押すと低く、押し続けると<lf>高くジャンプする。
+<string>ジャンプ後、壁近くで<ICON ACT_BtnD>を<lf>押すと再度ジャンプする。
+<string><ICON ACT_RB>で敵または特定対象物に<lf>狙いを定めて固定する。<lf>ターゲットマーカーで<lf>対象の残りＨＰを確認できる。
+<string><ICON ACT_RB>＋<ICON ACT_LStP>で<lf>ロックオン対象を切り替える。
+<string>
+<string>
+<string><ICON ACT_BtnU> で攻撃。<lf>押す回数やタイミングで<lf>さまざまな技に派生する。
+<string><ICON ACT_BtnL>で装備中の銃を発射。<lf>空中射撃もできる。
+<string>基本攻撃のほかに、強力な<lf>コマンド技も使用できる。<lf><lf>例：ハイローラー<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU> <lf>敵を斬り上げ、上空に打ち上げる。<lf><ICON ACT_BtnU> を押し続けて自身も上空に舞い上がる。
+<string><ICON ACT_BtnL>を長押しすると左腕が光り、<lf>バレットゲージが溜まって<lf>弾丸の威力がアップする。<lf>長押し後に、<ICON ACT_BtnL>を離すと<lf>高威力の弾丸を発射する。
+<string><ICON ACT_LT>を押し込み<lf>ＥＸゲージを溜めると<lf>レッドクイーン（剣）が<lf>強化される。
+<string>各攻撃直後の特定タイミングで<lf><ICON ACT_LT>を押すと<lf>一気にＥＸゲージが溜まる。<lf>（タイミングがずれても<lf>ＥＸゲージが少量溜まる）
+<string>横方向に敵の攻撃をかわす。<lf>低い攻撃なら<lf>ジャンプでもかわせる。
+<string><ICON ACT_BtnL>を長押しして<lf>弾丸の威力をアップできる。<lf>長押し後に<ICON ACT_BtnL>を離して<lf>高威力の弾丸を発射する。
+<string><ICON ACT_BtnR>でデビルブレイカーごとの<lf>特長ある攻撃を行う。<lf>この攻撃中にダメージを<lf>受けると、装備中の<lf>デビルブレイカーは失われる。
+<string>攻撃を溜めることで<lf>さらに強力な技を繰り出せる。<lf>ただし一度きりの使用で壊れ、<lf>装備中のデビルブレイカーは<lf>失われる。
+<string>デビルブレイカーを強制的に<lf>切り離すことで、<lf>内部のエネルギーを爆発させて<lf>緊急脱出として使用し<lf>ダメージ状態から抜け出すことが<lf>できる。
+<string>進路上に置かれている<lf>デビルブレイカーに近づくと<lf>自動的に入手し、装備中の<lf>ものと差し替わる。<lf>マガジンに空きがない場合は<lf>入手できない。
+<string>ロックオンした敵を<lf>近くに引き寄せる。<lf>一部の重い敵に対しては、<lf>自身が接近する技（ワイヤー<lf>バウンド）に変化する。
+<string>グリムグリップへの<lf>ロックオンと引き寄せ操作は、<lf>自身の移動に利用できる。
+<string>周りに敵がいない状況で<lf>赤い炎が灯った円型の台座に<lf>乗ると、炎が青く変化し、<lf>空中にグリムグリップが<lf>出現する。
+<string>グリムグリップに<lf>ロックオンし、引き寄せ操作を<lf>することで、遠方の特定場所に<lf>一気に移動できる。<lf>台座を見つけたら、安全を<lf>確保してから利用しよう。
+<string>攻撃をヒットさせることで<lf>グリムグリップとして<lf>起動する箇所がある。
+<string>新しい力に目覚めたネロは<lf>魔人化の能力を得る。<lf>３ゲージ以上溜まれば<lf><ICON ACT_Dir>で魔人に変身できる。
+<string>敵が体勢をくずしたとき<lf>近くで<ICON ACT_RT>をヒットさせると<lf>強烈なダメージを与える<lf>投げ技「バスター」を繰り出せる。<lf>
+<string>バージル戦のネロが魔人化中に<lf>分身が近くにいる状況で<lf><ICON ACT_RT>ボタンを入力すると<lf>同時に２体の敵を<lf>さばくことができる。
+<string>召喚したシャドウに<lf><ICON ACT_BtnU> で近接攻撃指示ができる。
+<string>シャドウの攻撃では<lf>魔物にとどめを刺せない。<lf>仮死状態（リザイン）の敵に<lf>Ｖ自身がとどめ攻撃を行う<lf>必要がある。
+<string>召喚したグリフォンに<lf><ICON ACT_BtnL>で遠距離攻撃指示ができる。
+<string>シャドウを従えた回避行動をとる。<lf>より高速で長距離の移動が行える。
+<string>戦闘時にＤＴゲージを回復させる。<lf>回復操作中は無防備になるので<lf>注意。
+<string>ロックオンした対象の目前に<lf>瞬時に移動する。<lf>空中の対象にも有効。<lf>移動先にリザイン状態の敵が<lf>いればそのままとどめを刺す。
+<string>敵に攻撃をヒットさせたり<lf>敵からの攻撃を受けると<lf>デビルトリガーゲージ<lf>（ＤＴゲージ）が蓄積する。
+<string>ＤＴゲージ３つ以上蓄積時に<lf><ICON ACT_LB>でナイトメアを召喚。<lf>呼び出されたナイトメアは<lf>周囲の敵を自動攻撃する。<lf>ゲージが尽きると消える。
+<string>従者達は一定以上のダメージを<lf>受けると、しばらくの間<lf>行動不能状態となる。<lf>従者の体力状況は画面左上の<lf>ゲージで確認できる。<lf>動向には常に気を付けよう。
+<string>行動不能状態になった従者は<lf>時間経過で自然回復する。<lf>Ｖが近づくことで、より<lf>回復速度を早められる。
+<string>ＤＴゲージを１つ消費して<lf>シャドウとグリフォンが<lf>一定時間自動で敵を攻撃する。<lf>（ボタンにそれぞれ対応）<lf>発動中は攻撃力もＵＰする。<lf>同コマンド入力で時間延長。<lf>（ＤＴゲージを追加消費）
+<string>使用武器はいつでも<lf>瞬時に切り替えられる。<lf><ICON ACT_LT>で遠距離武器、<lf><ICON ACT_RT>で近接武器が順送りで<lf>切り替わる。<lf>カスタマイズ画面で使用武器の<lf>選択と並びの編集ができる。
+<string><ICON ACT_LT>／<ICON ACT_RT>を長押しすると<lf>武器の切り替えを逆送りする。<lf>使いこなせばより素早く<lf>目的の武器を選択できる。
+<string>ダンテは<ICON ACT_DirU><ICON ACT_DirD><ICON ACT_DirL><ICON ACT_DirR>で<lf>いつでもスタイルを<lf>切り替えられる。<lf>選んだスタイルにより、<lf><ICON ACT_BtnR>のアクションが変化する。
+<string>トリックスター<lf>移動能力が向上するスタイル。<lf>縦横無尽の立ち回りが特長。
+<string>ガンスリンガー<lf>遠距離戦が得意なスタイル。<lf>敵を寄せ付けずに戦える。
+<string>ソードマスター<lf>接近戦で優位なスタイル。<lf>連続コンボで斬り伏せられる。
+<string>ロイヤルガード<lf>防御に徹したスタイル。<lf>劣勢からの反撃が強力。<lf>防御時にＤＴゲージを消費して<lf>敵からの攻撃を無効化する。
+<string>ＤＴゲージを３つ消費して<lf><ICON ACT_LB>で魔人状態となる。<lf>魔人化中はＨＰが徐々に回復し、<lf>攻撃力・防御力・移動スピードも上昇する。<lf><ICON ACT_LB>を再度押して解除できる。
+<string>ＤＴゲージ上部には<lf>シンデビルトリガーゲージ<lf>（ＳＤＴゲージ）がある。<lf>蓄積には、<ICON ACT_LB>長押しによる<lf>ＤＴゲージからの移し替えが<lf>必要となる。
+<string>ＳＤＴゲージの最大蓄積時に<lf><ICON ACT_LB>長押しで<lf>真魔人に変身できる。<lf>超絶的な攻撃力を得られるが<lf>ＨＰ回復はなく、途中解除も<lf>できない。
+<string>ここでは、レッドオーブを使って<lf>スキルの習得やアイテムの補充<lf>装備の入れ替えなど<lf>戦いを有利に進めるための様々な<lf>準備が行えます。
+<string>上段のタブを切り替えて<lf>カスタム項目を選びます。
+<string>SKILLS【スキル】<lf><lf>技（スキル）や能力（アビリティ）を<lf>追加します。<lf>一度取得すると、払い戻すことはできません。<lf>まずは「試す」で内容を確かめてみましょう。
+<string>DEVIL BREAKERS【デビルブレイカー】<lf><lf>特異な能力を秘めた消耗型装具<lf>「デビルブレイカー」を補充します。<lf>連戦に備え、充分な数を揃えましょう。
+<string>EQUIPMENT【イクイップメント】<lf><lf>持ち出す武器や装具を整えます。<lf>「編集」でベストな組み合わせを探り、<lf>自分なりの戦闘スタイルを究めましょう。
+<string>ITEMS【アイテム】<lf><lf>ＨＰ（体力）の上限を増やしたり、<lf>力尽きた時に復活できるオーブを購入します。
+<string>カスタマイズは<lf>ミッション開始前のメニューから選べます。<lf>スタイリッシュプレイのためにも、<lf>入念な準備を忘れずに！
+<string>クリフォトの内部を貫く管。<lf>人間界から集めた血液が<lf>激流となって満ちている。<lf>潜り込めば一気に深部へと<lf>移動できるが、後戻りは<lf>できないので注意が必要だ。
+<string>どこに行くか迷ったら、<lf><ICON ACT_LStP>を長押しすることで<lf>進むべき方向に<lf>カメラが向き直る。<lf>（戦闘中は使用できない）
+<string>装備中のデビルブレイカーが<lf>壊れると、マガジンにセット<lf>した次のデビルブレイカーが<lf>新たに装着される。
+<string>マガジンの装備が尽きても、<lf>ミッション中の探索によって<lf>不足を補える可能性がある。<lf>不利な状況でもあきらめず<lf>戦闘を乗り越えよう。  
+<string>プレイヤーと敵、双方ともに<lf>「一撃死」のスリルの中で戦うモードです。<lf>最初に用意された３つのゴールドオーブを<lf>使い切る前に、ミッションクリアを目指してください。<lf><lf>（一部ミッションでの通信同時プレイはできません）
+<string>敵の体力はそのままに、プレイヤーのみが<lf>「一撃死」のハンデを背負い戦うモードです。<lf>最初に用意された３つのゴールドオーブを<lf>使い切る前に、ミッションクリアを目指してください。<lf><lf>（一部ミッションでの通信同時プレイはできません）
+<string>ジェットガジェットを利用して<lf>急斜面を登ることができる。<lf>スタイリッシュランクを<lf>上げれば搭乗時間を延ばせる。
+<string>【仮】操作説明はポーズメニューから<lf>いつでも確認可能です。<lf><lf>
+<string>攻撃入力を連続で行うだけで<lf>簡単にスタイリッシュな技が<lf>繰り出せる。<lf><ICON ACT_RStP>長押しで<lf>いつでも切り替えることができる。<lf>有効時は画面右上に<lf>「AUTO」が表示される。
+<string>【仮】トレーラーにアクセスすることで<lf>アイテムやスキルを購入することができますが<lf>今回のDEMO版では、使用できません。
+<string>ブラッディパレスは、<lf>次々と現れる敵を倒しながら<lf>制限時間が尽きるまでに<lf>より多くのステージクリアを<lf>目指すモードだ。<lf>スタイリッシュに戦うほど、<lf>制限時間はより延長される。
+<string>ブラッディパレスの進行は<lf>一時中断できる。<lf>敵が出現していない状況で<lf>ポーズメニューから<lf>SUSPENDを選ぼう。
+<string>特定ステージをクリアすると<lf>レッドオーブボーナスを<lf>獲得できる。<lf>制限時間の残量が多いほど<lf>オーブ獲得量は増える。<lf>スタイリッシュに敵を倒して<lf>制限時間を稼ごう。
+<string>
+<string>メニューのWARMING UPから<lf>到達済みのステージを選んで<lf>自由に練習ができる。<lf>苦手なステージを克服して<lf>ブラッディパレスの完全制覇を<lf>目指そう。
+<string>Dr.ファウストは、攻撃時に<lf>レッドオーブを消費する。<lf>所持オーブが不足していると<lf>多くの攻撃が使用不可になる。<lf>攻撃時に消費したオーブ量は<lf>画面右上に表示される。<lf>増減には注意を払おう。
+<string>Dr.ファウストの技の一つ<lf>セットハット<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnL> <lf>を使えば、より多くの<lf>レッドオーブを稼げる。<lf>帽子を敵にヒットさせて、<lf>積極的に攻撃を仕掛けよう。
+<string>キャバリエーレの技の多くは、<lf>車輪の回転によって<lf>連続ダメージを与えられる。<lf>武器性能を生かすために<lf>できるだけ連続して回転部分を<lf>ヒットさせ、攻撃を繋げよう。
+<string>リベリオンと魔剣スパーダの<lf>基本性能を引き継ぎつつ、<lf>ソードマスター時に<ICON ACT_BtnR>を<lf>押すことで、魔力の剣による<lf>独自攻撃が行える。<lf>剣本体と魔力の剣による<lf>絶え間ない波状連撃が可能。
+<string>魔剣ダンテを所持した状態で<lf>デビルトリガーを発動すると、<lf>魔力の剣が選択中のスタイルに<lf>応じて様々なサポートを行う。<lf>機動力アップ、同時追撃、<lf>自動迎撃、防御性能アップなど<lf>その能力は多岐に渡る。
+<string>ヌンチャク、棍、三節棍と<lf>三つの異なる形態を持つ武器。<lf><ICON ACT_BtnU> で氷のヌンチャク、<lf>ソードマスター時に<ICON ACT_BtnR>で<lf>炎の棍、<ICON ACT_BtnU> または<ICON ACT_BtnR>を<lf>押し続けた後にボタンを離して<lf>雷の三節棍を操る。
+<string>周りに敵がいない状況で<lf>赤い炎が灯った円型の台座に<lf>乗ると、炎が青く変化し、<lf>空中にグリムグリップが<lf>出現する。
+<string>グリムグリップに<lf>ロックオンし、引き寄せ操作を<lf>することで、遠方の特定場所に<lf>一気に移動できる。<lf>台座を見つけたら、安全を<lf>確保してから利用しよう。
+<string>敵を撃破した際の記録写真は<lf>レポートに飾って残せる。<lf>ギャラリーの「ニコレポート」<lf>から閲覧しよう。<lf>後から撮り直しも可能だ。
+<string>マッチングした相手に対し<lf>評価を送ることができる。<lf>好感触のプレイには<lf>「いいね！」を送り称えよう。<lf>評価が一定量溜まると、<lf>ゴールドオーブが獲得できる。
+<string>マッチメイキングした相手に対し<lf>評価を送ることができる。<lf>好感触のプレイには<lf>「いいね！」を送り称えよう。<lf>評価が一定量溜まると、<lf>ゴールドオーブが獲得できる。
+<string>THE VOIDでは、プレイヤーを<lf>自由に操作してスキルや技を<lf>試すことができる。<lf>専用メニューをカスタマイズ<lf>して、好みの練習環境を<lf>設定しよう。
+<string>画面左上のゲージは、<lf>プレイヤーキャラクターの<lf>体力を示している。<lf>ダメージを受けてゲージが<lf>尽きるとダウン状態となり、<lf>復活に必要なオーブがなければ<lf>ゲームオーバーとなる。
+<string><ICON CenR>でポーズメニューを開き<lf>画面右上で入力操作の確認が<lf>できる。<lf><ICON ACT_RStP>長押しで<lf>オートマチックアシストの<lf>ＯＮ／ＯＦＦを切り替えられる。
+<string>ブラッディパレス開始直後や<lf>特定のステージクリアで<lf>デビルブレイカーを補充できる<lf>専用ステージに移動できる。<lf>補充タイミングは限られるので<lf>計画的に運用しよう。
+<string>Mixer Interactivity使用中は<lf>Mixerによる動画配信中に<lf>視聴者のタッチ操作を画面に<lf>波紋として反映します。
+<string>画面内の同一箇所に集中して<lf>タッチする視聴者が多い場合、<lf>波紋が大きく表示され<lf>色が変化します。<lf>この機能はSparkを消費しません。
+<string>Mixer とは<lf>視聴者がリアルタイムでライブ ゲーム ストリーミングに参加できるストリーミング サービスです。<lf><lf>使用はOPTIONからMixer InteractivityをONにしてください。<lf>
+<string><ICON ACT_LS>を倒した方向に移動。<lf>倒し具合によって<lf>移動速度を調整できる。<lf><lf>※キーボード入力では低速移動<lf>（歩き）が行えません。 
+<string>どこに行くか迷ったら、<lf><ICON ACT_LStP>を長押しすることで<lf>進むべき方向に<lf>カメラが向き直る。<lf>（戦闘中は使用できない）
+<string><ICON ACT_BtnU> で攻撃。<lf>押す回数やタイミングで<lf>さまざまな技に派生する。
+<string><ICON ACT_BtnL>で幻影剣を放つ。
+<string>抜刀からの斬り上げにより、<lf>相手を瞬時に打ち上げる。
+<string>横方向に敵の攻撃をかわす。<lf>低い攻撃なら<lf>ジャンプでもかわせる。
+<string>高速移動を行う。<lf>トリックアップ<ICON ACT_BtnR><lf>真上に移動<lf>エアトリック<ICON ACT_RB> +<ICON ACT_BtnR><lf>ロックオン対象に接近
+<string>周りに敵がいない状況で<lf>赤い炎が灯った円型の台座に<lf>乗ると、炎が青く変化し、<lf>空中にグリムグリップが<lf>出現する。
+<string>グリムグリップに<lf>ロックオンし、トリックアクションを<lf>することで、遠方の特定場所に<lf>一気に移動できる。<lf>台座を見つけたら、安全を<lf>確保してから利用しよう。
+<string><ICON ACT_LT>で近距離武器の装備を左回りに、<lf><ICON ACT_RT>で近距離武器の装備を右回りに切り替える。
+<string>無駄な行動をとらず、<lf>回避やエアトリックなどを成功させることで、<lf>バージルの集中力が増加する。<lf>集中ゲージの状態を高く保つことで<lf>バージルの攻撃アクションがより強力になる。<lf>走る、ダメージを負う、攻撃を外すなどで<lf>集中ゲージは減少する。
+<string>デビルトリガーゲージ<lf>（ＤＴゲージ）を３つ消費して<lf><ICON ACT_LB>または<ICON ACT_DirU>で分身・閻魔刀魔人を生み出す。<lf>分身はバージルの動きに呼応して移動・攻撃する。<lf><ICON ACT_LB>または<ICON ACT_DirD>で解除できる。
+<string>分身が追従して行動するタイミングを<lf>切り替えることができる。<lf>標準：<ICON ACT_DirU><lf>早く：<ICON ACT_DirR><lf>遅く：<ICON ACT_DirL>
+<string>ＤＴゲージ上部には<lf>シンデビルトリガーゲージ<lf>（ＳＤＴゲージ）がある。<lf>蓄積には、<ICON ACT_LB>長押しによる<lf>ＤＴゲージからの移し替えが<lf>必要となる。
+<string>ＳＤＴゲージの最大蓄積時に<lf><ICON ACT_LB>長押しで<lf>真魔人に変身できる。<lf>攻撃力・防御力・移動スピードが上昇し、<lf>超絶的な技を繰り出せるようになる。<lf><ICON ACT_LB>を再度押して解除できる。
+<string>人と魔を別つ閻魔刀の力で、<lf>一時的にVとなって攻撃する。<lf>発動時に体力を回復し、<lf>倒した敵からのグリーンオーブ<lf>出現確率が上昇する。
+<string>特定のトレーラーには<lf>時空神像が設置されている。<lf>レッドオーブと引き換えに<lf>スキルやアイテムが得られる。
+<string>伝説の魔剣士スパーダの石像。<lf>周りには4つの水槽が設けられ、<lf>血が溜まっている水槽は<lf>重さで少し下がっている。<lf>心なしか石像も動いているようだが<lf>連動する仕掛けがあるのだろうか。

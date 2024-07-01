@@ -1,0 +1,46 @@
+<string>
+<string><RUBY><RB>二手<RT>ふたて</RUBY>に別れるか
+<string>そうだな その方が早い
+<string>天才の仕事だ
+<string>金を払え
+<string>材料はこっち持ちで さらに金？
+<string>一流の仕事には対価がいるのさ
+<string>すぐブッ壊れるくせに…
+<string>お前が無能だからだろ
+<string>もういい
+<string>これは もはや芸術作品だ
+<string>芸術家ぶっちゃって！
+<string>文句あるか ヒヨッコ？
+<string>祖母は“４５口径の芸術家”…<lf>伝説のガンスミスだ
+<string>私もいずれそうなる<lf>伝説の職人にな
+<string>私が作れば何でも芸術だ
+<string>料理用の鉄鍋でも芸術になる
+<string>反論あるか？
+<string>…“鳥肉”ちゃん
+<string>先に出発する
+<string>道が重なる場所か――
+<string>クリフォトの下で合流だ
+<string>了解
+<string>お前は？
+<string>考え中… 決まったら教える
+<string>注文なら<RUBY><RB>口<RT>くち</RUBY>で言えよ
+<string>心までは読めない
+<string>…まだな
+<string>
+<string>サボるなよ！
+<string>協調性ゼロ…
+<string>
+<string>お喋り嫌いか？
+<string>気が合うね
+<string>
+<string>ダンテの仲間の…
+<string>レディか
+<string>知り合い？
+<string>お得意様さ
+<string>何だよ？
+<string>浮気だな… キリエに言わなきゃ
+<string>
+<string>冗談だよ
+<string>笑うトコだ
+<string>マジで<RUBY><RB>揉<RT>も</RUBY>むなよ？
+<string>キリエに殺されるぜ…

@@ -1,0 +1,6 @@
+<string>PLAYER
+<string>EQUIPMENT
+<string>MAGAZINE
+<string>SWORDS
+<string>GUNS
+<string>GAME MODE

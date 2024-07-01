@@ -1,0 +1,63 @@
+<string>
+<string>度重なる敗北のせいで<lf>その男の体は限界を迎えていた
+<string>だが死ぬ前に<lf>男には成すべき事があった
+<string>それは 双子の弟に勝つ事…
+<string>ダンテ…
+<string>“俺を戒めるこの鎖を…！”
+<string>全ては弟に勝つために…<lf>男は滅びゆく肉体と心を捨てた
+<string><RUBY><RB>閻魔刀<RT>ヤマト</RUBY>で自分の人と魔を切り離してな
+<string>そして… 男は純粋な悪魔となった
+<string>
+<string>残された微かな魔力で<lf>滅びゆく肉体を維持してきたが…
+<string>もう限界だ
+<string>人の魂だけが残されて…<lf>俺はようやく過ちに気付けた
+<string><RUBY><RB>力<RT>ちから</RUBY>のために捨てた物が<lf>どれだけ大事な物だったかを
+<string>それで ダンテに…？
+<string>ああ 愚かにもな
+<string>ヤツなら俺の過ちを正してくれる…
+<string>そう思ったんだ
+<string>俺は――
+<string>間違っているか？
+<string>私はママじゃない
+<string>自分で考えて
+<string>見届けましょう
+<string>ダンテの戦いを
+<string>
+<string>渋滞してんな！
+<string>
+<string>見付けた！
+<string>おい どうした？
+<string>なあ！
+<string>ダンテってば！
+<string>俺が<RUBY><RB>力<RT>ちから</RUBY>に目覚めたのは…<lf>コイツで胸を刺された時だった
+<string>
+<string>ずっと考えてた
+<string>何故 親父は俺にリベリオンを？
+<string>おい… ナニ言ってんだ？
+<string>何度も刺されてきたが<lf>こんな日が来るとはな…
+<string>イカレてんのか 自殺とか！
+<string>魔王はどうすんだ！？
+<string><RUBY><RB>閻魔刀<RT>ヤマト</RUBY>は人と魔を別つ<lf>だったら俺のリベリオンは…！<lf>
+<string>マジか…
+<string>スパーダと融合ってコト！？
+<string>
+<string>まさか…
+<string>お前 ダンテなのか！？
+<string>死ぬワケねえよな…
+<string>だったら仕方ねえ
+<string>見せ場は譲ってやるよ
+<string>勝てよ ダンテ！ 絶対に！
+<string>ダンテ…！
+<string>
+<string>相変わらずの愚かさだな
+<string>愚かなのは貴様の方ではないのか？
+<string>悪夢が始まるのは これからだ
+<string>
+<string>何なの！？
+<string>ヤバい！ ここからズラかるぞ！
+<string>
+<string><lf>まずい…！<lf>あの果実がヤツの手に…！
+<string>
+<string>クリフォトは今 完全体となった
+<string>この程度の状況は――
+<string>想定内だ

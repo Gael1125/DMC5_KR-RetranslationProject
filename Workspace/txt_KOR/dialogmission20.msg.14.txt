@@ -1,0 +1,26 @@
+<string>
+<string>허수아비처럼 날려주마!
+<string>이거 떨어뜨렸어!
+<string>
+<string>머릿수만 늘려봤자 소용없어!
+<string>
+<string>너랑 상관없는 일이야. 끼어들지 마라.
+<string>상관없다고!? 그게 나한테 할 소리야?
+<string>네로...
+<string>내 존재를... 인정하란 말이야!
+<string>
+<string>씨이발!
+<string>너 이 자식...!
+<string>
+<string>이제 날 무시 못 하겠지?
+<string>
+<string>인정할 준비 됐어?
+<string>네 존재? 아니면 네 힘?
+<string>둘 다지, 씨발!
+<string>
+<string>자랑스럽지 않아? 아들이 다 컸네.
+<string>아직 네가 이긴 게 아냐...
+<string>
+<string>멍청한 놈...
+<string>이 정도로 끝이냐?
+<string>한심하구나, 네로...

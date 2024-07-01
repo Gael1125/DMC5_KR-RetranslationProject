@@ -1,0 +1,663 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>PROVOCATION
+<string>
+<string>SIDE ROLL
+<string>KICK JUMP
+<string>SPEED
+<string>ENEMY STEP
+<string>AIR HIKE
+<string>GLIDER
+<string>GET MORE ORBS
+<string>TRIGGER HEART
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>DEVIL TRIGGER
+<string>IRREGULAR FULL CUSTOM
+<string>
+<string>
+<string>
+<string>REBELLION COMBO A
+<string>REBELLION COMBO B
+<string>HELM BREAKER
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>ROUND TRIP
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SPARDA COMBO A
+<string>SPARDA COMBO B
+<string>HELM BREAKER
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>DSD COMBO A
+<string>DSD COMBO B
+<string>DSD COMBO C
+<string>HELM BREAKER
+<string>AERIAL RAVE
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>DRIVE
+<string>OVER DRIVE
+<string>SWORDS FORMATION
+<string>SWORDS FORMATION 2
+<string>SWORDS FORMATION 3
+<string>CHASER
+<string>INTERCEPTOR
+<string>REACTOR
+<string>ESCORT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ROLLING BLAZE
+<string>IGNITION
+<string>IGNITION 2
+<string>IGNITION 3
+<string>MODE CHANGE
+<string>10 COUNTS
+<string>LIGHT BLOW
+<string>HEAVY JOLT
+<string>SWITCH KICK
+<string>WELTER MOVE
+<string>FEATHER COMBO
+<string>BALROG COMBO A
+<string>BALROG COMBO B
+<string>FRICTION
+<string>UPDRAFT
+<string>SWITCH BLOW
+<string>HEAT UP
+<string>FLY DRAGON
+<string>BANTAM REVENGE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>CERBERUS COMBO A
+<string>CERBERUS COMBO B
+<string>SWING
+<string>REVOLVER
+<string>REVOLVER 2
+<string>CRYSTAL
+<string>ICE AGE
+<string>REVOLUTION
+<string>KING SLAYER
+<string>THUNDER CLAP
+<string>TURBULENCE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>GEAR WHEEL
+<string>LOW GEAR
+<string>TOP GEAR
+<string>OVERTOP GEAR
+<string>CAVALIERE COMBO A
+<string>CROSS LINE
+<string>IDLING
+<string>AIR CAVALIERE COMBO A
+<string>HIGHSIDE
+<string>BRAKING
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>NORMAL SHOT
+<string>CHARGE SHOT
+<string>CHARGE SHOT 2
+<string>CHARGE SHOT 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SHOT SHELL
+<string>CHARGE SHELL
+<string>CHARGE SHELL 2
+<string>CHARGE SHELL 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>HOWITZER SHOT
+<string>HIGH EXPLOSIVE
+<string>TWIN HOWITZER
+<string>CASCADE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RED SHOT
+<string>MAN IN THE RED
+<string>SET HAT
+<string>HAT TRICK
+<string>Dr. FAUST 2
+<string>Dr. FAUST 3
+<string>Dr. FAUST 4
+<string>SET HAT 2
+<string>HAT TRICK 2
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>TS STYLE LEVEL 2
+<string>TS STYLE LEVEL 3
+<string>TS STYLE LEVEL 4
+<string>DASH
+<string>SKY STAR
+<string>MUSTANG
+<string>MUSTANG AIR
+<string>FLIPPER
+<string>AIR TRICK
+<string>GROUND TRICK
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SM STYLE LEVEL 2
+<string>SM STYLE LEVEL 3
+<string>SM STYLE LEVEL 4
+<string>PROP
+<string>SHREDDER
+<string>AERIAL RAVE
+<string>DANCE MACABRE
+<string>PROP
+<string>SHREDDER
+<string>AERIAL RAVE
+<string>ROUND TRIP
+<string>DANCE MACABRE
+<string>FOUR HANDED
+<string>STINGERS
+<string>HIGH TIMES
+<string>ROUND TRIPS
+<string>DANCE MACABRE
+<string>MIDDLE BREAK
+<string>CRUISER DIVE
+<string>MINIMUM DRAGON
+<string>RISING DRAGON
+<string>DIVINE DRAGON
+<string>REAL IMPACT
+<string>BREAK SPIRAL
+<string>FIRESTORM
+<string>PYROMANIA
+<string>FLINT WHEEL
+<string>CERBERUS COMBO C
+<string>CERBERUS COMBO D
+<string>POLE PLAY
+<string>ROCK BACK
+<string>HOT STUFF
+<string>HOT STUFF 2
+<string>LONG BARREL
+<string>LONG REVOLVER
+<string>PERCUSSION
+<string>PERCUSSION 2
+<string>LONG BARREL AIR
+<string>CAVALIERE COMBO B
+<string>FULL THROTTLE
+<string>WHEELIE JUMP
+<string>WHEELIE JUMP 2
+<string>SLIPSTREAM
+<string>SLIPSTREAM 2
+<string>AIR CAVALIERE COMBO B
+<string>REDLINE
+<string>
+<string>
+<string>
+<string>
+<string>GS STYLE LEVEL 2
+<string>GS STYLE LEVEL 3
+<string>GS STYLE LEVEL 4
+<string>EBONY SHOT
+<string>AUTO CHARGE (E)
+<string>AUTO CHARGE 2 (E)
+<string>AUTO CHARGE 3 (E)
+<string>IVORY SHOT
+<string>AUTO CHARGE (I)
+<string>AUTO CHARGE 2 (I)
+<string>AUTO CHARGE 3 (I)
+<string>TWOSOME TIME
+<string>HONEYCOMB FIRE
+<string>RAINSTORM
+<string>FIREWORKS
+<string>FIREWORKS AIR
+<string>BACKSLIDE
+<string>GUN STINGER
+<string>CUT-IN FRONT
+<string>CUT-IN BACK
+<string>CUT-IN SIDE
+<string>MULTIPLE
+<string>PARANOIA
+<string>HYSTERIC
+<string>BLASTER
+<string>MULTIPLE TWINS
+<string>MEGA CASCADE
+<string>HYSTERIC TWINS
+<string>BLASTER TWINS
+<string>MAD HATTER
+<string>RED HOT NIGHT
+<string>MAGIC HAT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RG STYLE LEVEL 2
+<string>RG STYLE LEVEL 3
+<string>RG STYLE LEVEL 4
+<string>BLOCK
+<string>AIR BLOCK
+<string>ROYAL BLOCK
+<string>RELEASE
+<string>AIR RELEASE
+<string>ROYAL RELEASE
+<string>ROYAL REVENGE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ACCUMULATE
+<string>SDT COMBO
+<string>THE OMBRA
+<string>AIR RAID
+<string>ADVENT
+<string>SIN STINGER
+<string>SIN INFERNO
+<string>DEMOLITION
+<string>THE LUCE
+<string>JUDGEMENT
+<string>QUADRUPLE S
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>移動
+<string>カメラ
+<string>ロックオン
+<string>ジャンプ
+<string>挑発
+<string>
+<string>サイドロール
+<string>キックジャンプ
+<string>スピード
+<string>エネミーステップ
+<string>エアハイク
+<string>グライダー
+<string>ゲットモアオーブ
+<string>トリガーハート
+<string>ＥＸ挑発
+<string>スペシャル挑発
+<string>デビルトリガー
+<string>イレギュラーフルカスタム
+<string>
+<string>
+<string>
+<string>リベリオンコンボＡ
+<string>リベリオンコンボＢ
+<string>兜割り
+<string>ハイタイム
+<string>スティンガー
+<string>スティンガー２
+<string>ミリオンスタッブ
+<string>ラウンドトリップ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>スパーダコンボＡ
+<string>スパーダコンボＢ
+<string>兜割り
+<string>ハイタイム
+<string>スティンガー
+<string>スティンガー２
+<string>ミリオンスタッブ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>魔剣ダンテコンボＡ
+<string>魔剣ダンテコンボＢ
+<string>魔剣ダンテコンボＣ
+<string>兜割り
+<string>エリアルレイブ
+<string>ハイタイム
+<string>スティンガー
+<string>スティンガー２
+<string>ミリオンスタッブ
+<string>ドライブ
+<string>オーバードライブ
+<string>ソードフォーメーション
+<string>ソードフォーメーション２
+<string>ソードフォーメーション３
+<string>チェイサー
+<string>インターセプター
+<string>リアクター
+<string>エスコート
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ローリングブレイズ
+<string>イグニション
+<string>イグニション２
+<string>イグニション３
+<string>モードチェンジ
+<string>１０カウント
+<string>ライトブロウ
+<string>ヘヴィジョルト
+<string>スイッチキック
+<string>ウェルタームーヴ
+<string>フェザーコンボ
+<string>バルログコンボＡ
+<string>バルログコンボＢ
+<string>フリクション
+<string>アップドラフト
+<string>スイッチブロウ
+<string>ヒートアップ
+<string>フライドラゴン
+<string>バンタムリヴェンジ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ケルベロスコンボＡ
+<string>ケルベロスコンボＢ
+<string>スウィング
+<string>リボルバー
+<string>リボルバー２
+<string>クリスタル
+<string>アイスエイジ
+<string>レボリューション
+<string>キングスレイヤー
+<string>サンダークラップ
+<string>タービュランス
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ギアホイール
+<string>ローギア
+<string>トップギア
+<string>オーバートップギア
+<string>キャバリエーレコンボA
+<string>クロスライン
+<string>アイドリング
+<string>エア キャバリエーレコンボＡ
+<string>ハイサイド
+<string>ブレーキング
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ノーマルショット
+<string>チャージショット
+<string>チャージショット２
+<string>チャージショット３
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ショットシェル
+<string>チャージシェル
+<string>チャージシェル２
+<string>チャージシェル３
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ハウザーショット
+<string>ハイエクスプローシヴ
+<string>ツインハウザー
+<string>カスケード
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>レッドショット
+<string>マンインザレッド
+<string>セットハット
+<string>ハットトリック
+<string>Dr.ファウスト２
+<string>Dr.ファウスト３
+<string>Dr.ファウスト４
+<string>セットハット２
+<string>ハットトリック２
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ＴＳスタイルレベル２
+<string>ＴＳスタイルレベル３
+<string>ＴＳスタイルレベル４
+<string>ダッシュ
+<string>スカイスター
+<string>マスタング
+<string>マスタング エア
+<string>フリッパー
+<string>エアトリック
+<string>グラウンドトリック
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ＳＭスタイルレベル２
+<string>ＳＭスタイルレベル３
+<string>ＳＭスタイルレベル４
+<string>プロップ
+<string>シュレッダー
+<string>エリアルレイブ
+<string>ダンスマカブル
+<string>プロップ
+<string>シュレッダー
+<string>エリアルレイブ
+<string>ラウンドトリップ
+<string>ダンスマカブル
+<string>フォーハンデッド
+<string>スティンガーズ
+<string>ハイタイムズ
+<string>ラウンドトリップス
+<string>ダンスマカブル
+<string>ミドルブレイク
+<string>クルーザーダイブ
+<string>ミニマムドラゴン
+<string>ライジングドラゴン
+<string>ディバインドラゴン
+<string>リアルインパクト
+<string>ブレイクスパイラル
+<string>ファイアストーム
+<string>パイロマニア
+<string>フリントホイール
+<string>ケルベロスコンボC
+<string>ケルベロスコンボD
+<string>ポールプレイ
+<string>ロックバック
+<string>ホットスタッフ
+<string>ホットスタッフ２
+<string>ロングバレル
+<string>ロングリボルバー
+<string>パーカッション
+<string>パーカッション２
+<string>ロングバレルエア
+<string>キャバリエーレコンボB
+<string>フルスロットル
+<string>ウィリージャンプ
+<string>ウィリージャンプ２
+<string>スリップストリーム
+<string>スリップストリーム２
+<string>エア キャバリエーレコンボ B
+<string>レッドライン
+<string>
+<string>
+<string>
+<string>
+<string>ＧＳスタイルレベル２
+<string>ＧＳスタイルレベル３
+<string>ＧＳスタイルレベル４
+<string>エボニーショット
+<string>オートチャージ（Ｅ）
+<string>オートチャージ２（Ｅ）
+<string>オートチャージ３（Ｅ）
+<string>アイボリーショット
+<string>オートチャージ（Ｉ）
+<string>オートチャージ２（Ｉ）
+<string>オートチャージ３（Ｉ）
+<string>トゥーサムタイム
+<string>ハニカムファイア
+<string>レインストーム
+<string>ファイアワークス
+<string>ファイアワークス エア
+<string>バックスライド
+<string>ガンスティンガー
+<string>カットインフロント
+<string>カットインバック
+<string>カットインサイド
+<string>マルチプル
+<string>パラノイア
+<string>ヒステリック
+<string>ブラスター
+<string>マルチプルツインズ
+<string>メガカスケード
+<string>ヒステリックツインズ
+<string>ブラスターツインズ
+<string>マッドハッター
+<string>レッドホットナイト
+<string>マジックハット
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ＲＧスタイルレベル２
+<string>ＲＧスタイルレベル３
+<string>ＲＧスタイルレベル４
+<string>ブロック
+<string>エアブロック
+<string>ロイヤルブロック
+<string>リリース
+<string>エアリリース
+<string>ロイヤルリリース
+<string>ロイヤルリヴェンジ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>アクムレイト
+<string>真魔人コンボ
+<string>ジ オンブラ
+<string>エアレイド
+<string>アドベント
+<string>真スティンガー
+<string>真インフェルノ
+<string>デモリション
+<string>ザ ルーチェ
+<string>ジャッジメント
+<string>クアッドループルS
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

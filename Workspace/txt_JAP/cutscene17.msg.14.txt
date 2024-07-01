@@ -1,0 +1,66 @@
+<string>
+<string>本当は――
+<string>俺の事も守って欲しかったんだ
+<string>だが俺は１人で…<lf>生き抜くより他なかった
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY> 少し休め
+<string>ネロ…
+<string>お前に真実を教えてやる
+<string>ユリゼンなんて悪魔はいない
+<string>ヤツの正体は<RUBY><RB>力<RT>ちから</RUBY>を得るために<lf>人の心を捨てた――
+<string>ダンテの兄なんだ
+<string>ダンテの兄…？
+<string>そうだ
+<string>本当の名は――
+<string>バージル
+<string>
+<string>バージル…
+<string>それが今日のデザートか？<lf>クソマズそうだな
+<string>そう 全ての始まりはここだ
+<string>俺は母さんに救われたが――
+<string>お前は違った
+<string>だが母さんはお前の事も<lf>助けようとしてた
+<string>…死ぬまでな
+<string>そんな話に興味などない<lf>この場所にもな
+<string>全ては この果実が勝手に産み出した<lf>幻に過ぎぬ
+<string><RUBY><RB>“力”<RT>ちから</RUBY>だ…<lf>俺が求めるのは ただそれだけ
+<string>これで――
+<string>俺は全てを手に入れる！
+<string>違う お前は失ったんだ
+<string>最後の“人間らしさ”を――
+<string>捨てちまった
+<string><RUBY><RB>力<RT>ちから</RUBY>なき者が何を吠えようと…<lf>俺には無意味だ
+<string>さあ 来るがいい
+<string>これが貴様の最期だ ダンテ！
+<string>
+<string>兄弟で殺し合ってるのか！？
+<string>己の正義を証明するためには――
+<string>家族だろうと戦う他ない
+<string>バカげてる…
+<string>もはや お互いの存在そのものが<lf>戦う理由なのさ
+<string>そういう運命なんだ
+<string>ダンテ！
+<string>遅かったな もう終わりだ
+<string>
+<string>アレが “兄貴”？
+<string>一応な
+<string>あんたの家族が… 全ての元凶？
+<string>その通り
+<string>やはり 負けたな
+<string>貴様は…
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY> どけ！<lf>そろそろトドメを刺す！
+<string>待ってくれ…
+<string>俺がやる
+<string>最後は俺自身の手で終わらせたい
+<string>無様だな
+<string>もはや俺に抗う事さえ<lf>できないのだろう
+<string>まだ… 負けていない…
+<string>ダンテには…
+<string><RUBY><RB>“力”<RT>ちから</RUBY>をくれ…！
+<string>もっと<RUBY><RB>“力”<RT>ちから</RUBY>を！
+<string>分かるさ
+<string>“俺”は“お前”だからな
+<string>俺達は ふたつに別れても――
+<string>その想いだけは繋がっていた
+<string>“汝が枝は我が枝と交わり<lf>我らが根はひとつとなれり”
+<string>何だ…！？
+<string>バージル！

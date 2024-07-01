@@ -1,0 +1,147 @@
+<string>
+<string>Hell Caina
+<string>Hell Antenora
+<string>Hell Judecca
+<string>Empusa
+<string>Green Empusa
+<string>Red Empusa
+<string>Empusa Queen
+<string>Riot
+<string>Chaos
+<string>Fury
+<string>Baphomet
+<string>Lusachia
+<string>Behemoth
+<string>Nobody
+<string>Scudo Angelo
+<string>Proto Angelo
+<string>Death Scissors
+<string>Pyrobat
+<string>Hellbat
+<string>Qliphoth Sapling
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Goliath
+<string>Malphas
+<string>Nidhogg
+<string>Artemis
+<string>Gilgamesh
+<string>Cavaliere Angelo
+<string>Elder Geryon Knight
+<string>King Cerberus
+<string>Griffon
+<string>Shadow
+<string>Nightmare
+<string>Urizen
+<string>Vergil
+<string>Vergil in D.T.
+<string>Qliphoth Roots
+<string>Mirage Goliath
+<string>Mirage Artemis
+<string>Miraggio Angelo
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Hell Caina
+<string>Hell Antenora
+<string>Hell Judecca
+<string>Empusa
+<string>Green Empusa
+<string>Red Empusa
+<string>Empusa Queen
+<string>Riot
+<string>Chaos
+<string>Fury
+<string>Baphomet
+<string>Lusachia
+<string>Behemoth
+<string>Nobody
+<string>Scudo Angelo
+<string>Proto Angelo
+<string>Death Scissors
+<string>Pyrobat
+<string>Hellbat
+<string>Qliphoth Sapling
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Goliath
+<string>Malphas
+<string>Nidhogg
+<string>Artemis
+<string>Gilgamesh
+<string>Cavaliere Angelo
+<string>Elder Geryon Knight
+<string>King Cerberus
+<string>Griffon
+<string>Shadow
+<string>Nightmare
+<string>Urizen
+<string>Vergil
+<string>Vergil in D.T.
+<string>Qliphoth Roots
+<string>Mirage Goliath
+<string>Mirage Artemis
+<string>Miraggio Angelo
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

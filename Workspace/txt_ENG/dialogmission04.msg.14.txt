@@ -1,0 +1,36 @@
+<string>
+<string>We've a minor errand before we reach Urizen.
+<string>Gotta land the final blow, V!<lf>You know we can't kill demons!
+<string>Leave the ones around you to the big bad kitty!
+<string>Feel free to run away!<lf>Until we need you for the final blow.
+<string>You're in for a shock!
+<string>It's a duck hunt! Anything that flies is my prey!
+<string>Nightmare time! Now that's handy!
+<string>This bridge looks unstable...
+<string>Why are you just wandering around!?<lf>We're in a hurry, chop chop!
+<string>
+<string>A phone... I wonder if I can reach that woman.
+<string>We're counting on ya, V! If you die, we die with you!
+<string>If you're done, get moving.<lf>I'm gonna have a smoke and then head out.
+<string>I will not allow him to gain any more power...
+<string>Human blood is the source of his strength...<lf>I must cut off his supply.
+<string>Use the big bad kitty, dumbass!
+<string>Descend it is...
+<string>
+<string>You use...de-de-demon...?<lf>But you...human...? Huhhhh...?
+<string>"If the fool would persist in his folly,<lf>he would become wise."
+<string>Augh...? Ah...?
+<string>Meaning don't try to think too much, shithead!
+<string>
+<string>This dimwit wants to be all high-and-mighty!<lf>Strike 'em down, V!
+<string>D-d-dimwit...? M-me?<lf>I...c-c-c-crush you!
+<string>
+<string>
+<string>Even the big bad kitty knows you got shit for brains!
+<string>Qu-Qu-Qu-Quiet!<lf>You...you...bird and cat!
+<string>
+<string>Come meet me. I'm at—
+<string>Yeah, yeah, yeah, keep your panties on,<lf>I see ya already. Be right there.
+<string>
+<string>Can you resupply me?
+<string>No rest for the wicked... Dammit.

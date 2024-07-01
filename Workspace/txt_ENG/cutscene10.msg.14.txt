@@ -1,0 +1,50 @@
+<string>
+<string>Come here!
+<string>You need to hide, Dante. No matter what happens, you mustn't leave!
+<string>I need to find Vergil. I promise I'll be back.
+<string>I know this is hard. You must listen to me.<lf>Be a big boy...a man, huh?
+<string>If I don't return, you must run. By yourself, alone.
+<string>You must change your name. Forget your past and<lf>start a new life as someone else.
+<string>A new beginning.
+<string>Vergil!? Where are you, Vergil!?
+<string>
+<string>For a second there I thought<lf>you were gonna shish kabob me.
+<string>I know how stubborn you can be.
+<string>I thought it might be the only way to wake you.
+<string>What day is it?
+<string>The 15th...of June.
+<string>A month?
+<string>No wonder I'm so stiff.
+<string>Right, sunshine, now put a fire under it. <lf>
+<string>We gotta get going, 'cause that annoying pimple Nero<lf>is making a beeline for Urizen.
+<string>And if he gets there he's gonna—
+<string>Smashed like a bug!!
+<string>Hey, this is my gig. Leave Nero out of this.
+<string>If you could defeat Urizen...then I never<lf>would have dreamed of using that child.
+<string>But Urizen...is much stronger<lf>than we ever could have imagined.
+<string>
+<string>Oh, it stinks in here.
+<string>I know, smells like hot garbage.
+<string>This is far worse than I thought...
+<string>There's no crime in turning tail, V.<lf>These things might be a little too much for ya.
+<string>
+<string>You're right. I'll leave the rest to you.
+<string>Wha, wha—what? Wh—Whoa, my, my, V.
+<string>All the way down here, and turnin' tail, really? Huh?
+<string>
+<string>One must always have an insurance policy.
+<string>Who was that guy? Can't believe he just ran...
+<string>No one special. C'mon, let's go clean up this garbage.
+<string>
+<string>First come, first serve on the targets, right?
+<string>Music to my ears. Hurry up, Dante!
+<string>Guess I get to see it with my own eyes...
+<string>...if it really is you.
+<string>
+<string>Well, well... O king of stench and filth. I'm impressed!
+<string>Those are two of the most badass woman in the world.
+<string>
+<string>And I only know one other guy who can defeat 'em...
+<string>Jackpot!
+<string>Dante...
+<string>

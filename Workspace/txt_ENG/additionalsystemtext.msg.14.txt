@@ -1,0 +1,10 @@
+<string>
+<string>You cannot access this item because you are not signed in. 
+<string>A network error has occurred. 
+<string>A network error has occurred. Retry? 
+<string>Sign-in to PlayStation™Network has been canceled. 
+<string>You are not signed in to PlayStation™Network. 
+<string>You will not be able to use online functionality since you are not signed in to PlayStation™Network. 
+<string>No controller found. Connect a controller to the console and press <ICON DECIDE>. 
+<string>Checking add-ons.<lf>Please do not turn off your PlayStation®5 console.
+<string>Checking add-ons.<lf>Please do not turn off your console.

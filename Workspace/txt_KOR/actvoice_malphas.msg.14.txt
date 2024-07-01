@@ -1,0 +1,15 @@
+<string>
+<string>내 영혼에 자비를!
+<string>
+<string>이건 무슨 힘이지!?
+<string>제법이군.
+<string>어딜 보는 거냐? 여기다!
+<string>넌 내 주인을 상대하려면 아직 멀었다.
+<string>꼴 좋군! 기어 다니는 게 최선이구나.
+<string>잘 보아라, 지하 세계 전설의 힘을!
+<string>무슨 일이지? 두려운가?
+<string>헛수고다.
+<string>소용없다.
+<string>어리석군.
+<string>그만 죽어라!
+<string>지옥에서 깨어나거라!

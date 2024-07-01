@@ -1,0 +1,9 @@
+<string>
+<string>SCENE LIST
+<string>
+<string>PROLOGUE
+<string>OPENING
+<string>MISSION 
+<string>ENDING
+<string>
+<string>Select a scene to replay.

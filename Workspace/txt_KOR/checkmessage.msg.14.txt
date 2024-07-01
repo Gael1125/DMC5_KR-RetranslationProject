@@ -1,0 +1,13 @@
+<string>조사
+<string>확인
+<string>???
+<string>커스터마이징
+<string>비밀 미션
+<string>전화 받기
+<string>전화 걸기
+<string>{0} 사용
+<string>입장
+<string>그리폰 해방
+<string>쉐도우 해방
+<string>나이트메어 해방
+<string><ICON DECIDE>{0}

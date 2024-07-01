@@ -1,0 +1,282 @@
+<string>
+<string><ICON ACT_LS> 기울이기
+<string><ICON ACT_RS> 기울이기
+<string><ICON ACT_RB> 누르고 홀드
+<string>땅에서 <ICON ACT_BtnD> 누르기
+<string>점프 중에 벽과 가까울 때 <ICON ACT_BtnD> 누르기
+<string>공중에서 적과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>점프 중에 <ICON ACT_BtnD> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 가로 방향 +<ICON ACT_BtnD> 누르기
+<string>공격 직전에 <ICON ACT_RB>+<lf><ICON ACT_LS> 가로 방향 +<ICON ACT_BtnD> 누르기
+<string>테이블 호퍼 발동 후,<lf><ICON ACT_RB>+<ICON ACT_LS>+<ICON ACT_BtnD> 누르기
+<string>테이블 호퍼 2 발동 후,<lf><ICON ACT_RB>+<ICON ACT_LS>+<ICON ACT_BtnD> 누르기
+<string><ICON ACT_CenL> 누르기
+<string>뛰는 중에 <ICON ACT_CenL> 누르기
+<string>아무 방향으로나 <ICON ACT_LS> 홀드
+<string>자동
+<string>
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 누르고 홀드
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 연타
+<string><ICON ACT_LStP>+<ICON ACT_RB>+<ICON ACT_CenL> 연타<lf>(미션당 한 번만 가능)
+<string>
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU> 누른 다음,<lf><ICON ACT_BtnU> 누르고<lf><ICON ACT_BtnU> 연타
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><lf>누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누른 다음, <ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU><lf>누른 다음, <ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU> 홀드 후 놓기<lf>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU> 홀드 후 놓기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>익시드 게이지 충전:<lf>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 누르고 홀드 후,<lf>왼팔이 빛나면 놓기
+<string>불릿 게이지가 찼을 때<lf><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 누르고 홀드 후,<lf>왼팔이 빛나면 놓기
+<string><ICON ACT_BtnL> 누르고 홀드 후,<lf>왼팔이 더 밝게 빛나면 놓기
+<string><ICON ACT_BtnL> 누르고 홀드 후,<lf>왼팔이 가장 밝게 빛나면 놓기
+<string><ICON ACT_BtnL> 누르고 홀드 후,<lf>왼팔이 빛나면 놓기
+<string><ICON ACT_BtnL> 누르고 홀드 후,<lf>왼팔이 빛나면 놓기
+<string>
+<string>익시드 게이지가 찰 때까지 <lf><ICON ACT_LT>를 여러 번 누르고 홀드
+<string>익시드의 일반 공격 업그레이드
+<string>익시드의 일반 공격 업그레이드
+<string>공격 후 <ICON ACT_LT> 누르기
+<string>공격 직후 <ICON ACT_LT> 누르기
+<string>공격 전 또는 후 <ICON ACT_LT> 누르기
+<string>
+<string>DT 게이지가 3레벨 이상일 때<lf><ICON ACT_Dir> 누르기
+<string>자동
+<string>적 가까이에서 <ICON ACT_RT> 누르기
+<string>데빌 트리거 활성:<lf>적 가까이에서 <ICON ACT_RT> 누르기
+<string>공격 직후 <ICON ACT_RT> 누르기
+<string>데빌 트리거 활성:<lf>공격 직후 <ICON ACT_RT> 누르기
+<string><ICON ACT_RB>+<ICON ACT_BtnR> 누르기
+<string>와이어 스내치의 일반 공격 업그레이드
+<string>와이어 스내치의 일반 공격 업그레이드
+<string>
+<string>데빌 트리거 활성:<lf><ICON ACT_RB>+<ICON ACT_RT> 누르기
+<string>
+<string><ICON ACT_RB>로 그림 그립에 록온 후,<lf><ICON ACT_RT> 누르기
+<string>버스터 발동 후,<lf>계속 <ICON ACT_RT> 홀드
+<string>데빌 트리거 활성:<lf>버스터 발동 후, 다른 적 가까이에서<lf>계속 <ICON ACT_RT> 홀드
+<string>
+<string>점프 후 공중에서 <ICON ACT_BtnD> 홀드
+<string>데빌 트리거 활성:<lf><ICON ACT_BtnL> 누르기
+<string>데빌 트리거 활성:<lf><ICON ACT_BtnU> 누르기
+<string>데빌 트리거 활성:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU>+<ICON ACT_BtnR> 누르기
+<string>데빌 트리거 활성:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU>+<ICON ACT_BtnR> 누르기
+<string><ICON ACT_RB>+<ICON ACT_RT> 누르기
+<string>
+<string>데빌 브레이커 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후 오른팔이 더 빛나면<lf>놓기
+<string>데빌 브레이커 장착:<lf><ICON ACT_LB> 누르기
+<string>공격 받는 도중에 <ICON ACT_BtnR>을 누르거나, <lf>데빌 브레이커 장착 중에 <lf><ICON ACT_BtnR> 홀드한 채로 공격 받기
+<string>데빌 브레이커 없이<lf><ICON ACT_BtnR> 누르기
+<string>자동
+<string>자동
+<string>자동
+<string>
+<string>
+<string>버스터 암 장착:<lf>듀얼 버스터 발동 후,<lf>계속 <ICON ACT_RT> 홀드
+<string><ICON ACT_RB>+<ICON ACT_BtnR> 누르기
+<string>
+<string>
+<string><ICON ACT_RB>로 그림 그립에 록온 후,<lf><ICON ACT_BtnR> 누르기
+<string>로하이드 장착:<lf><ICON ACT_RB>+<ICON ACT_BtnR> 누르기
+<string>
+<string>
+<string>오버추어 장착:<lf><ICON ACT_BtnR> 누르기
+<string>오버추어 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>거베라 장착:<lf><ICON ACT_BtnR> 또는 <ICON ACT_LS>+<ICON ACT_BtnR> 누르기
+<string>거베라 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>
+<string>펀치 라인 장착: 올라타려면 공중 회수 중<lf><ICON ACT_BtnR> 홀드.<lf><ICON ACT_BtnL><ICON ACT_BtnU><ICON ACT_BtnR><ICON ACT_BtnD>으로 다양한 움직임이 가능합니다.
+<string>펀치 라인 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>톰보이 장착:<lf><ICON ACT_BtnR> 누르기<lf>해제하려면 <ICON ACT_BtnR> 다시 누르기
+<string>톰보이 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>톰보이 활성:<lf>샷 준비는 <ICON ACT_BtnL> 누르기<lf>발사는 땅에서 <ICON ACT_BtnL> 누르기
+<string>톰보이 활성:<lf>샷 준비는 공중에서 <ICON ACT_BtnL> 누르기<lf>발사는 공중에서 <ICON ACT_BtnL> 누르기
+<string>톰보이 활성:<lf><ICON ACT_BtnL>를 눌러 샷 준비, <ICON ACT_BtnL> 누르고 홀드하다가<lf>오른팔이 가장 밝게 빛날 때 놓기
+<string>톰보이 활성:<lf>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>톰보이 활성:<lf>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>톰보이 활성:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_BtnU> 누르기
+<string>톰보이 활성:<lf>공중에서<lf><ICON ACT_RB>+<ICON ACT_BtnU> 누르기
+<string>헬터 스켈터 장착:<lf><ICON ACT_BtnR> 연타
+<string>헬터 스켈터 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>래그타임 장착:<lf><ICON ACT_BtnR> 누르기
+<string>래그타임 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>로하이드 장착:<lf>땅에서 <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기
+<string>로하이드 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>버스터 암 장착:<lf><ICON ACT_BtnR> 누르기
+<string>버스터 암 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>자동
+<string>자동
+<string>
+<string>거베라 GP01 장착:<lf>땅에서 <ICON ACT_BtnR> 누르기,<lf>또는 공중에서 <ICON ACT_LS>+<ICON ACT_BtnR> 누르기
+<string>거베라 GP01 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>파스타 브레이커 장착:<lf><ICON ACT_BtnR> 누르기
+<string>파스타 브레이커 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>스위트 서렌더 장착:<lf><ICON ACT_BtnR> 누르기
+<string>스위트 서렌더 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>메가 버스터 장착:<lf><ICON ACT_BtnR> 누르기
+<string>메가 버스터 장착:<lf><ICON ACT_BtnR> 누르고 홀드 후,<lf>오른팔이 더 빛나면 놓기
+<string>
+<string><skill player="n" id="151"><lf><lf><ICON ACT_LS>을 기울이면 캐릭터가  그 방향으로 <lf>움직입니다. 크게 기울이면 빨리 움직입니다.
+<string><skill player="n" id="152"><lf><lf>카메라를 움직여 주변을 봅니다. <lf><ICON ACT_RStP>을 누르면 캐릭터 뒤에서 보는<lf>기본값으로 돌아갑니다. 
+<string><skill player="n" id="153"><lf><lf>적과 특정 물체에 록온합니다.<lf><ICON ACT_RB>를 홀드하면 공격하고,<lf><ICON ACT_LStP>을 누르면<lf>록온 타겟이 변경됩니다.
+<string><skill player="n" id="154"><lf><lf>공중으로 점프합니다. 점프 높이는<lf><ICON ACT_BtnD>을 누르는<lf>시간에 따라 달라집니다.
+<string><skill player="n" id="155"><lf><lf>벽을 박차면서 한 번 더 점프합니다.<lf>
+<string><skill player="n" id="156"><lf><lf>공중에서 적을 발판 삼아<lf>이중 점프를 합니다.
+<string><skill player="n" id="157"><lf><lf>마법 에너지를 발 아래에<lf>집중해 이중 점프로 더 높은 곳에<lf>도달할 수 있습니다.
+<string><skill player="n" id="158"><lf><lf>옆으로 굴러 적의 공격을<lf>피합니다. 피하면서 쏘려면<lf><ICON ACT_BtnL>을 누릅니다.
+<string><skill player="n" id="159"><lf><lf>몸을 살짝 움직여 적의 공격을 피합니다. <lf>좀 더 쉽게 카운터를 날릴 수 있습니다.<lf>
+<string><skill player="n" id="160"><lf><lf>테이블 호퍼 후<lf>아무 방향으로나 피합니다.
+<string><skill player="n" id="161"><lf><lf>훨씬 효과적인 회피 동작으로<lf>전에 배운 기술보다 고급 기술입니다.
+<string><skill player="n" id="162"><lf><lf>땅이나 공중에서 적을 다양하게<lf>도발합니다. 도발 종류는 현재의 <lf>스타일리시 랭크에 따라 달라집니다.
+<string><skill player="n" id="163"><lf><lf>달리던 위치에서 강력한<lf>드롭킥을 날립니다.
+<string><skill player="n" id="164"><lf><lf>같은 방향으로 <ICON ACT_LS>을 계속 홀드하여<lf>전력 질주합니다.
+<string><skill player="n" id="165"><lf><lf>오브를 수집할 수 있는<lf>범위가 증가합니다.
+<string>
+<string><skill player="n" id="167"><lf><lf>큰 값을 치른 자에게만 주어지는<lf>특수 도발입니다. 일반 도발보다<lf>스타일리시 랭크가 많이 증가합니다.
+<string><skill player="n" id="168"><lf><lf>블러디 팰리스에서 승리한 자에게만<lf>주어지는 특수 도발입니다. 후드로<lf>얼굴을 가립니다.
+<string><skill player="n" id="169"><lf><lf>엔딩 크레딧에서 진행되는 게임을<lf>승리한 자에게만 주어지는<lf>특수 도발입니다.<lf>껌을 씹으면 생명력이 회복됩니다.
+<string>
+<string><skill player="n" id="177"><lf><lf>빠르고 비정한 4단 검 콤보입니다.
+<string><skill player="n" id="178"><lf><lf>강력한 연쇄 공격으로<lf>걸리는 모든 적에게<lf>심각한 대미지를 줍니다.
+<string><skill player="n" id="179"><lf><lf>화려한 검 콤보로<lf>보다 넓은 범위에 걸쳐<lf>적들을 해치웁니다.
+<string><skill player="n" id="180"><lf><lf>무자비한 연쇄 공격 후<lf>강력한 최후의 일격을 날립니다.
+<string><skill player="n" id="181"><lf><lf>연쇄적인 공중 검 공격입니다.
+<string><skill player="n" id="182"><lf><lf>공중에서 레드 퀸의 칼날을 회전시켜<lf>적을 썰어버립니다.<lf>몸이 약간 떠오릅니다.
+<string><skill player="n" id="183"><lf><lf>적을 공격해 공중으로 날려버립니다.<lf>계속 <ICON ACT_BtnU>을 홀드하면<lf>적을 쫓아 올라갑니다.
+<string><skill player="n" id="184"><lf><lf>레드 퀸의 익시드 시스템으로<lf>강화된 하이 롤러입니다. 익시드 게이지<lf>레벨에 따라 회전 속도가 증가합니다.<lf>
+<string><skill player="n" id="185"><lf><lf>멋진 돌진 공격으로 주변의<lf>적들을 쓸어버립니다.
+<string><skill player="n" id="186"><lf><lf>강화된 스트리크 공격으로<lf>공격 범위가 크게 증가합니다.
+<string><skill player="n" id="187"><lf><lf>레드 퀸의 익시드 시스템으로<lf>강화된 스트리크입니다. 익시드 게이지<lf>레벨에 따라 회전 속도가 증가합니다.
+<string><skill player="n" id="188"><lf><lf>적을 무지막지한 공격으로<lf>내려쳐 정확히 둘로 갈라버립니다.
+<string><skill player="n" id="189"><lf><lf>익시드 시스템을 통해 추진제가<lf>발화되면서 레드 퀸의 칼날이<lf>적을 내려쳐 온몸을 찢어버립니다.<lf>익시드 게이지 레벨에<lf>따라 공격 범위가 증가합니다.
+<string><skill player="n" id="190"><lf><lf>공중에서 적에게 돌진해<lf>강력한 한방을 날립니다. 
+<string><skill player="n" id="191"><lf><lf>레드 퀸의 익시드 시스템으로<lf>강화된 칼리버 버전으로, 익시드 게이지<lf>레벨에 따라 공격 거리가 증가합니다.
+<string><skill player="n" id="192"><lf><lf>백스텝으로 공격을 피한 후,<lf>앞으로 돌진하면서 빠르고<lf>강력한 카운터를 날립니다.
+<string><skill player="n" id="193"><lf><lf>익시드 시스템으로 강화된 셔플로,<lf>익시드 게이지 레벨에 따라<lf>공격 횟수가 증가합니다.
+<string><skill player="n" id="194"><lf><lf>적의 약점을 공략하는 민첩한<lf>공격입니다. 활성 상태에서 적 공격을<lf>무시합니다.
+<string><skill player="n" id="195"><lf><lf>적의 약점을 공략하는 민첩한<lf>공격입니다. 활성 상태에서 적 공격을<lf>무시합니다.
+<string><skill player="n" id="196"><lf><lf>적의 약점을 공략하는 민첩한<lf>공격입니다. 활성 상태에서<lf>적의 공격을 무시합니다.
+<string><skill player="n" id="197"><lf><lf>레드 퀸의 익시드 시스템으로 강화된<lf>페이라인입니다. 익시드 게이지<lf>레벨에 따라 공격 범위가 달라집니다.
+<string>
+<string><skill player="n" id="202"><lf><lf>두 발을 한번에 발사합니다.
+<string><skill player="n" id="203"><lf><lf>일반 총알보다 강력한 특수 총알을<lf>장전합니다. <ICON ACT_BtnL>을 홀드하면 불릿<lf>게이지가 채워지고, 완충 시 한번에<lf>세 발을 발사합니다.
+<string><skill player="n" id="204"><lf><lf>일반 총알보다 강력한 특수 총알을<lf>발사합니다. 여러 번 명중하면<lf>적이 기절합니다.
+<string><skill player="n" id="205"><lf><lf>몸에서 블루 로즈로 힘을<lf>투사해 적을 날려버리는 강력한<lf>한방을 발사합니다. <lf>공격 중 <ICON ACT_BtnL>을 홀드하면 충전됩니다.
+<string><skill player="n" id="206"><lf><lf>차지 샷의 강화 버전으로, 각 총알마다<lf>더 많은 고통을 가져다 줍니다.
+<string><skill player="n" id="207"><lf><lf>차지 샷의 최강 버전입니다.<lf>이 마법 총알은 적의 몸을<lf>뚫고 들어가 일정 시간 후에<lf>폭발합니다.
+<string><skill player="n" id="208"><lf><lf>컬러 업 공격이 훨씬 강력해집니다. <lf><ICON ACT_BtnL>을 홀드하면 불릿 게이지가 채워지고<lf>완충 시 한 번에 세 발을 발사합니다. 
+<string><skill player="n" id="209"><lf><lf>컬러 업의 최종 업그레이드입니다.<lf>특수 총알에 폭발력이 더해집니다.<lf><ICON ACT_BtnL>을 홀드하면 불릿 게이지가 <lf>채워지고 완충 시 한 번에 세발을<lf>발사합니다.
+<string>
+<string><skill player="n" id="212"><lf><lf>칼날의 추진제를 발화시켜 강력한<lf>공격을 가합니다. 익시드 게이지<lf>한 칸을 소모해 1레벨<lf>익시드 동작을 발동합니다.
+<string><skill player="n" id="213"><lf><lf>익시드 시스템의 업그레이드입니다.<lf>익시드 게이지 두 칸을 소모해 2레벨<lf>익시드 동작을 발동합니다.
+<string><skill player="n" id="214"><lf><lf>익시드 시스템의 최종 업그레이드입니다.<lf>익시드 게이지 세 칸을 소모해<lf>3레벨 익시드 동작을 발동합니다.
+<string><skill player="n" id="215"><lf><lf>공격 후 익시드를 발동시켜<lf>익시드 게이지 한 칸을 채웁니다.<lf><lf>타이밍이 어긋나면<lf>조금만 충전됩니다.
+<string><skill player="n" id="216"><lf><lf>공격 직후, 완벽한 타이밍에<lf>익시드를 발동하면 익시드<lf>게이지를 최대로 채웁니다.
+<string><skill player="n" id="217"><lf><lf>공격 후 안 맞는 타이밍에<lf>익시드를 발동하면 익시드 게이지가<lf>조금만 채워집니다.
+<string>
+<string><skill player="n" id="222"><lf><lf>내면의 악마를 불러내<lf>공포의 악마로 변신합니다.<lf>DT 게이지를 소모합니다.<lf>공격력, 방어력, 속도가 증가합니다.<lf>시간이 지나면서 생명력을 회복합니다.
+<string><skill player="n" id="223"><lf><lf>데빌 트리거가 활성 상태인 동안에는<lf>DT 게이지가 서서히 소모됩니다.
+<string><skill player="n" id="224"><lf><lf>데빌 브링어로 적을 붙잡아<lf>무자비하게 던져버립니다.<lf>던지기는 적에 따라 달라집니다.
+<string><skill player="n" id="225"><lf><lf>악마의 팔로 적을 붙잡아<lf>데빌 트리거의 힘으로<lf>집어 던져 무시무시한<lf>피해를 줍니다.
+<string><skill player="n" id="226"><lf><lf>악마의 팔의 맹렬한 공격이<lf>뒤따릅니다. 공격 유형은<lf>적의 위치 및 상황에 따라<lf>달라집니다.
+<string><skill player="n" id="227"><lf><lf>악마의 팔로 무시무시한<lf>콤보를 발동합니다.<lf>공격 유형은 적의 위치와<lf>상황에 따라 달라집니다.
+<string><skill player="n" id="228"><lf><lf>오른팔에서 와이어를 발사해<lf>멀리 있는 적을 낚아챕니다.<lf>크거나 무거운 적은 끌어올 수 없습니다.
+<string><skill player="n" id="229"><lf><lf>와이어 스내치의 업그레이드로<lf>사정거리가 길어집니다.
+<string><skill player="n" id="230"><lf><lf>와이어 스내치의 최종 업그레이드로<lf>와이어 사정거리가 훨씬 길어집니다.
+<string>
+<string><skill player="n" id="232"><lf><lf>악마의 모습에서는 쭉 편 두 팔로<lf>적 둘을 한번에 낚아챕니다. 크거나<lf>무거운 적은 끌어올 수 없습니다.
+<string>
+<string><skill player="n" id="234"><lf><lf>그림 그립을 붙잡아 먼 거리를<lf>순식간에 이동합니다. 끌어올 수 없는<lf>적에게 스내치를 사용하면<lf>헬 바운드가 대신 발동됩니다.
+<string><skill player="n" id="235"><lf><lf>붙잡은 적을 악마의 방패로<lf>세워 공격을 막습니다.<lf>끌어올 수 없는 적은<lf>방패로 삼을 수 없습니다.
+<string><skill player="n" id="236"><lf><lf>붙잡은 적 둘을 더 큰 방패로<lf>세워 더 많은 공격을<lf>막습니다. 끌어올 수 없는 적은<lf>방패로 삼을 수 없습니다.
+<string>
+<string><skill player="n" id="238"><lf><lf>공중에서 몸을 비틀며 악마의 팔을<lf>펼쳐 이중 점프를 합니다.<lf><ICON ACT_BtnD>을 홀드하면 더 오래 떠있습니다.
+<string><skill player="n" id="239"><lf><lf>악마의 힘으로 검을 소환해 적에게<lf>날려 보냅니다. 차지 샷 중에는 더 많은<lf>검이 나타나 공격이 더욱<lf>강해집니다.
+<string><skill player="n" id="240"><lf><lf>검 공격 후<lf>악마의 팔 공격을 날립니다.
+<string><skill player="n" id="241"><lf><lf>악마의 팔과 레드 퀸을 조합해<lf>강한 바람처럼 적을 날려버립니다.<lf><ICON ACT_BtnU>+<ICON ACT_BtnR>을 홀드 후 놓으면<lf>공격력이 증가합니다. 
+<string><skill player="n" id="242"><lf><lf>레드 퀸과 악마의 팔을 조합해<lf>놀랄 만큼 강력한 공격을<lf>연속해서 퍼붓습니다.
+<string><skill player="n" id="243"><lf><lf>데빌 브링어를 날려<lf>멀리 있는 적을 움켜잡습니다.<lf>크거나 무거운 적은 끌어올 수 없습니다.
+<string>
+<string><skill player="n" id="252"><lf><lf>장착한 데빌 브레이커의 힘을<lf>분출시켜 재앙에 가까운<lf>공격을 합니다. 이 기술의 강한 힘에<lf>장착하고 있는 데빌 브레이커가<lf>파괴되며, <ICON ACT_BtnR> 홀드 중에 <lf>대미지를 받아도 파괴됩니다.
+<string><skill player="n" id="253"><lf><lf>현재의 데빌 브레이커를 희생해<lf>그 안에 내재된 에너지를<lf>폭발시킵니다. 이 기술로 빠르게<lf>몸을 피할 수 있습니다.
+<string><skill player="n" id="254"><lf><lf>데빌 브레이커를 사용하거나 브레이크<lf>에이지를 발동할 때 공격을 받아도 <lf>비틀거리지 않습니다. 조금은 데미지를<lf>받으며 착용 중인 팔은 파괴됩니다.
+<string>
+<string><skill player="n" id="256"><lf><lf>탄창 크기가 늘어나 쓸 수 있는<lf>총 데빌 브레이커 수가<lf>네 개로 늘어납니다.
+<string><skill player="n" id="257"><lf><lf>탄창 크기가 또 늘어나<lf>쓸 수 있는 총 데빌 브레이커<lf>수가 다섯 개로<lf>늘어납니다.
+<string><skill player="n" id="258"><lf><lf>탄창 크기가 또 늘어나<lf>쓸 수 있는 총 데빌 브레이커<lf>수가 여섯 개로<lf>늘어납니다.
+<string>
+<string>
+<string><skill player="n" id="261"><lf><lf>붙잡은 악마를 데빌 브레이커와<lf>악마의 팔에 구속해 훨씬<lf>더 큰 방패로 세웁니다. 끌어올 수<lf>없는 적은 방패로 삼을 수 없습니다.
+<string><skill player="n" id="262"><lf><lf>오른팔에서 와이어를 발사해<lf>멀리 있는 적을 낚아챕니다.<lf>크거나 무거운 적은 끌어올 수 없습니다.
+<string><skill player="n" id="263"><lf><lf>와이어 후크의 업그레이드로<lf>사정거리가 길어집니다.
+<string><skill player="n" id="264"><lf><lf>와이어 후크의 최종 업그레이드로<lf>와이어 길이가 훨씬 길어집니다.
+<string><skill player="n" id="265"><lf><lf>그림 그립을 붙잡아 먼 거리를<lf>순식간에 이동합니다. 끌어올 수 없는<lf>적에게 와이어 후크를 사용하면<lf>와이어 바운드가 대신 발동됩니다.
+<string><skill player="n" id="266"><lf><lf>적을 잔인하게 붙잡아 끌고<lf>오면서 데빌 브레이커 칼날로<lf>공격합니다. 더 무거운 적 중에<lf>몇몇도 끌어올 수 있습니다.
+<string><skill player="n" id="267"><lf><lf>파워 스내치의 업그레이드로<lf>사정거리가 길어집니다.
+<string><skill player="n" id="268"><lf><lf>파워 스내치의 최종 업그레이드로<lf>칼날 사정거리가 훨씬 길어집니다.
+<string><skill player="n" id="269"><lf><lf>오버추어 손바닥에서<lf>전기파를 발사합니다.<lf>적 상태에 따라 방향이 바뀝니다.
+<string><skill player="n" id="270"><lf><lf>오버추어에 담긴 에너지를 폭발시켜<lf>폭탄으로 바꿉니다. 적에게 내던지면<lf>일정 시간 후 폭발합니다. 한 번에 <lf>여러 개를 던질 수 있습니다.<lf>직접 폭파시킬 수 있는 총알이나<lf>다른 공격이 후속타로 뒤따릅니다.
+<string><skill player="n" id="271"><lf><lf>거베라의 손바닥에서 충격파를 쏩니다. <lf><ICON ACT_BtnR>을 눌러 앞에 있는 적을 공격합니다.<lf>이 공격은 적 발사체를 막거나 반사할 수<lf>있습니다. <ICON ACT_LS>+<ICON ACT_BtnR>을 눌러 충격파를 <lf>추진력으로 바꾸어 이동할 수 있습니다. 
+<string><skill player="n" id="272"><lf><lf>땅에서는 스테이먼 레이로<lf>강력한 폭발을 일으킵니다.<lf>공중에서는 페탈 레이로<lf>손끝에 충격파를 모아<lf>관통 레이저를 발사합니다.<lf>주변의 벽과 바닥에 튕겨집니다.
+<string>
+<string><skill player="n" id="274"><lf><lf>펀치 라인을 로켓처럼 발사합니다. <lf>발사 후 소환하려면 <ICON ACT_BtnR>을 누르고, 그 다음에<lf><ICON ACT_BtnR>을 홀드하면 돌아올 때 올라탈 수 있습니다.<lf>올라탔을 때 <ICON ACT_BtnL> <ICON ACT_BtnU> 또는 <ICON ACT_BtnR>을 누르면 묘기를<lf>펼칠 수 있으며, 내릴 때는 <ICON ACT_BtnD>, <lf>폭파하려면 <ICON ACT_LB>을 누릅니다. 스타일리시<lf>랭크가 높으면 더 오래 탈 수 있습니다.
+<string><skill player="n" id="275"><lf><lf>펀치 라인의 추진 잠재력을<lf>끌어내 강펀치를 날립니다.<lf>깨끗하게 명중하면 훨씬 더 큰<lf>적도 뒤로 밀어냅니다.
+<string><skill player="n" id="276"><lf><lf>무기의 한계를 넘어섭니다!<lf>이 능력이 활성화되면 레드 퀸과<lf>블루 로즈가 강화됩니다.<lf>활성화 중 <ICON ACT_BtnR>을<lf>누르면 해제됩니다.
+<string><skill player="n" id="277"><lf><lf>레드 퀸과 블루 로즈의 강화는<lf>더 많이 충전할수록 오래 유지됩니다.<lf>이 능력이 활성화되면 적 공격에도<lf>톰보이가 파괴되지 않지만<lf>정해진 시간이 지나면 팔을 잃습니다.
+<string><skill player="n" id="278"><lf><lf>톰보이를 블루 로즈에 부착해<lf>성능을 극대화합니다. 강력한<lf>관통 공격을 할 수 있습니다.
+<string><skill player="n" id="279"><lf><lf>톰보이를 블루 로즈에 부착해<lf>성능을 극대화합니다. 강력한<lf>관통 공격을 할 수 있습니다.
+<string><skill player="n" id="280"><lf><lf>톰보이를 블루 로즈에 부착해<lf>성능을 극대화합니다. 훨씬 강력한<lf>관통 공격을 할 수 있습니다.<lf>한번에 여러 적을 쏠 수 있습니다.
+<string><skill player="n" id="281"><lf><lf>톰보이를 레드 퀸에 부착해 <lf>성능을 극대화합니다.<lf>맹렬한 7단검 콤보공격을 <lf>퍼붓습니다.<lf>각 공격은 콤보를 변경하여 <lf>공격할 때마다 강렬한 <lf>최후의 일격을 날립니다.
+<string><skill player="n" id="282"><lf><lf>톰보이를 레드 퀸에 부착해<lf>성능을 향상시킵니다. 먹이를<lf>노리는 맹수가 일격을 날리듯<lf>회전 공격한 후 다시 공격하십시오.
+<string><skill player="n" id="283"><lf><lf>강화된 레드 퀸에 올라타서 분노의<lf>힘으로 맹렬하게 회전합니다. 막강한<lf>공격으로 걸리는 모든 적을 갈기갈기<lf>찢어버리고 후속 공격을 이어갑니다.
+<string><skill player="n" id="284"><lf><lf>강화된 레드 퀸에 올라타서<lf>분노의 힘으로 맹렬하게<lf>회전합니다. 공중에서 걸리는 모든 적을<lf>갈기갈기 찢어버리고, <ICON ACT_BtnU>을<lf>누르면 더 강하게 공격합니다.
+<string><skill player="n" id="285"><lf><lf>팔을 회전시켜 방어막과 장애물을<lf>다 뚫어버리는 펀치 공격을<lf>퍼붓습니다.<lf><ICON ACT_BtnR>을 연타하면<lf>공격 횟수가 증가합니다.
+<string><skill player="n" id="286"><lf><lf>팔을 회전시켜 관통 공격을<lf>가합니다. 단 한 방으로 모든<lf>장애물과 방어막을 뚫지만 한 번<lf>사용 후 팔이 파괴됩니다.
+<string><skill player="n" id="287"><lf><lf>영향권에 드는 모든 존재를<lf>둔화시키는 구체를 발사합니다.<lf>적, 발사체, 플레이어까지 느려집니다.<lf>더 큰 적은 구체를 파괴할 수 있습니다.
+<string><skill player="n" id="288"><lf><lf>래그타임의 한계를 넘어<lf>주변의 모두를 둔화시킵니다.<lf>적, 발사체, 재빠른 나무 줄기, 무엇도<lf>빠져나갈 수 없습니다.
+<string><skill player="n" id="289"><lf><lf>로하이드가 무수히 많은 검으로<lf>변하고, <ICON ACT_BtnR>을 눌러<lf>휘두를 수 있습니다.<lf>타이밍에 맞춰 <ICON ACT_BtnR>을 누르면<lf>공격 횟수가 늘어 더 많은<lf>적을 해치웁니다.
+<string><skill player="n" id="290"><lf><lf>로하이드가 한계를 넘어 접촉하는<lf>적을 끌어와 땅에<lf>내려칩니다.<lf>더 큰 적에게는 대신 여러 번<lf>찌르는 공격을 가합니다.
+<string><skill player="n" id="291"><lf><lf>데빌 브링어의 버스터 공격을<lf>연상시킵니다. 위력은 강하지만<lf>발동 중에 공격을 받으면<lf>버스터 암이 파괴됩니다.
+<string><skill player="n" id="292"><lf><lf>데빌 브링어의 버스터 공격을<lf>연상시킵니다. 이 능력이 활성화되면<lf>공격 후 비틀대지 않고, 버스터도<lf>더 쉽게 발동됩니다.<lf>한 번 사용 후 파괴됩니다.
+<string><skill player="n" id="293"><lf><lf>탄창 크기가 한 번 더<lf>늘어나 쓸 수 있는 총<lf>데빌 브레이커 수가 일곱 개로<lf>늘어납니다.
+<string><skill player="n" id="294"><lf><lf>탄창 크기가 마지막으로 더<lf>늘어나 쓸 수 있는 총<lf>데빌 브레이커 수가<lf>여덟 개로 늘어납니다.
+<string>
+<string><weapon player="n" id="23"><lf><lf>네로가 잃어버린 오른팔을<lf>겨우 보상해주는 데빌 브레이커입니다.<lf>아주 평범하지만 쓰기 간편합니다.
+<string><weapon player="n" id="26"><lf><lf>꽃 이름을 딴 이 데빌 브레이커는<lf>손가락에서 충격파를 방출해<lf>네로를 도와줍니다.<lf>적을 공격하는 레이저빔도 발사합니다.<lf>충격파로 적의 발사체를 다른 곳으로<lf>돌리거나 무력화할 수 있습니다.
+<string><weapon player="n" id="27"><lf><lf>니코가 특별히 공을 들여<lf>만들어준 데빌 브레이커입니다.<lf>네로는 이걸 이용해 날고, 올라 타고,<lf>적에게 펀치를 날릴 수 있습니다.<lf>비행 중에는 자동으로<lf>적을 공격합니다.
+<string><weapon player="n" id="30"><lf><lf>통제할 수 없는 강력한 힘을 지닌<lf>데빌 브레이커로, 이걸 사용할<lf>때에는 록온이 불가능합니다. 하지만<lf>블루 로즈와 레드 퀸이 더 강력해집니다.
+<string><weapon player="n" id="25"><lf><lf>능력이 곧 이름으로 적을 혼란시키는<lf>이 데빌 브레이커는 사거리가 짧지만<lf>쉽게 적의 방어막을 뚫고 적을<lf>휘청거리게 할 수 있습니다.<lf>연속 공격으로 더 많은<lf>대미지를 줄 수 있습니다.
+<string><weapon player="n" id="24"><lf><lf>시공간을 조종할 수 있는<lf>데빌 브레이커입니다. 특별한 역장으로<lf>여기에 닿는 적의 시간을 왜곡해<lf>둔화시킵니다. 브레이크 에이지를<lf>사용하면 세계의 시간이 느려집니다.
+<string><weapon player="n" id="29"><lf><lf>이 데빌 브레이커는 사정거리가<lf>깁니다. 특별한 금속 채찍으로<lf>멀리 있는 적을 낚아챕니다. 더 무거운<lf>적도 끌어올 수 있습니다. 여러<lf>적을 상대할 때 가장 효과적입니다.
+<string><weapon player="n" id="28"><lf><lf>네로가 이전에 악마의 오른팔로 했던<lf>버스터 기술을 발동할 수 있는<lf>데빌 브레이커입니다. 니코의<lf>능력 덕분에 버스터는 원래만큼<lf>강력하지만 이 팔은<lf>쉽게 파괴됩니다.
+<string><weapon player="n" id="31"><lf><lf>록맨의 주 무기를 본뜬 데빌<lf>브레이커입니다. 독특한 형태는<lf>원거리 전투에 특화된 디자인입니다.<lf>장착 시 점프와 사이드 롤이<lf>특별한 변형 효과를 가지게 됩니다.
+<string><weapon player="n" id="32"><lf><lf>전설의 장인 카와모리 쇼지에 대한<lf>존경을 담은 특별한 데빌 브레이커입니다.<lf>손가락에서 충격파를 발생시켜<lf>땅이나 하늘에서 자유롭게 움직입니다.
+<string><weapon player="n" id="33"><lf><lf>파스타를 먹는 기쁨이 담긴 데빌<lf>브레이커입니다. 기구한 네로를 위해<lf>펀치 라인 자투리 재료로 만들었습니다.<lf>끝에 달린 포크가 빠르게 회전하지만<lf>사실 전투에서는 무용지물입니다.
+<string><weapon player="n" id="34"><lf><lf>고단한 하루 끝에 키리에가 편히<lf>쉬도록 만든 데빌 브레이커입니다.<lf>네로의 어설픈 실력으로는 오히려<lf>해가 될 수 있어 유연한 재료를 썼습니다.<lf>뻣뻣해진 어깨나 허리를 풀어주는<lf>진동 기능이 탁월합니다.
+<string><weapon player="n" id="35"><lf><lf>잘 익은 바나나 다발처럼 생긴<lf>데빌 브레이커. 니코가 헬터 스켈터<lf>재료로 즉흥적으로 만들었습니다.<lf>땅에 펼쳐져 회전하는데<lf>실제 전투에서는 거의<lf>도움이 안 됩니다.
+<string>
+<string><skill player="n" id="331"><lf><lf>거베라 GP01의 손바닥에서 충격파를<lf>방출합니다. 땅에서 <ICON ACT_BtnR>을 누르면<lf>날아오르고, 공중에서 <ICON ACT_BtnR>을 누르면<lf>착지합니다. 공중에서<ICON ACT_LS>+<ICON ACT_BtnR>으로<lf>움직일 수 있습니다. 이 특별한 무기가<lf>있으면 하늘을 자유롭게 날 수 있습니다.
+<string><skill player="n" id="332"><lf><lf>땅에서는 스테이먼 레이로<lf>강력한 폭발을 일으킵니다.<lf>공중에서는 페탈 레이로<lf>손끝에 충격파를 모아<lf>관통 레이저를 발사합니다.<lf>주변의 벽과 바닥에 튕겨집니다.
+<string><skill player="n" id="333"><lf><lf>파스타 브레이커를 로켓처럼 발사해<lf>적을 공격합니다. 발사 중에 다음 <lf>데빌 브레이커가 탄창에 장전되면, <lf>파스타 브레이커는 탄창 맨 끝으로<lf>이동합니다.
+<string><skill player="n" id="334"><lf><lf>일정 시간이 지나면 폭발하는 파스타<lf>브레이커를 적 몸통에 찔러 넣습니다. <lf>폭발 자체는 약하지만 다음 데빌 브레이커를 <lf>장착하고 폭파 전까지 자유롭게 이동할<lf>수 있습니다.
+<string><skill player="n" id="335"><lf><lf>스위트 서렌더의 스위치를 켜면<lf>진동합니다. 이 마사지 기능으로<lf>생명력이 점진적으로 회복됩니다.<lf>장착한 채로 움직일 수 있지만 맞으면<lf>부서집니다. 끄려면 <ICON ACT_BtnR>을 다시<lf>누릅니다.
+<string><skill player="n" id="336"><lf><lf>팔에서 스위트 서렌더가 떨어져<lf>나가면서 치료 에너지가 폭발합니다.<lf>생명력을 즉시 회복하지만 팔을<lf>과부하시켜 파괴합니다.
+<string><skill player="n" id="337"><lf><lf>메가 버스터에서 에너지 총알을<lf>속사로 쏩니다. 총알을 날리면서<lf>뛰거나 점프할 수도 있습니다.<lf>시간이 지나면서 오른팔에 충전되고,<lf>팔이 빛날 때 <ICON ACT_BtnR>을 누르면<lf>더 강력한 메가 샷을 발사합니다.<lf>
+<string><skill player="n" id="338"><lf><lf>메가 버스터를 충전해 강력한<lf>파괴 에너지 볼을 발사합니다.<lf>강력한 관통 공격으로 여러 적을<lf>해치울 수 있지만 팔 역시<lf>부서집니다.

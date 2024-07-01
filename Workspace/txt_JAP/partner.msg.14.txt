@@ -1,0 +1,8 @@
+<string>
+<string>EVALUATION
+<string>
+<string>これまで共に戦った回数
+<string>
+<string>「いいね！」を送る
+<string>何も送らない
+<string>このユーザーの情報を確認する

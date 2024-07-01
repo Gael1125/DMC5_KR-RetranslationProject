@@ -1,0 +1,138 @@
+<string>
+<string>확인
+<string>뒤로
+<string>다음
+<string>이전
+<string>줌인
+<string>줌아웃
+<string>모델 회전
+<string>선택
+<string>설정
+<string>설정/제거
+<string>기본값으로 재설정
+<string>위
+<string>아래
+<string>왼쪽
+<string>오른쪽
+<string>카메라 재설정
+<string>정렬
+<string>텍스트 스크롤
+<string>보기
+<string>다음 장면
+<string>이전 장면
+<string>일시 중지
+<string>종료
+<string>기본값으로 재설정
+<string>상세 정보
+<string>보기
+<string>줌 인/줌 아웃
+<string>
+<string>카메라 이동
+<string>닫기
+<string>다시 찍기 설정
+<string>구입
+<string>취소
+<string>기본 설정
+<string>변경
+<string>듣기
+<string>메뉴 표시
+<string>메뉴 숨기기
+<string>모델 뷰어
+<string>모델 전환
+<string>베리에이션 전환
+<string>줌인/줌아웃
+<string>중지
+<string>캐릭터 전환
+<string>장면 전환
+<string>온라인 상점으로 이동
+<string>프로필 전환
+<string>건너뛰기
+<string>난이도 변경
+<string>카테고리 전환
+<string>캐릭터 전환
+<string>탄창 전환
+<string>복장 전환
+<string>컨트롤 표시 켜기
+<string>컨트롤 표시 끄기
+<string>메인 메뉴
+<string>미션 선택
+<string>스크롤
+<string>현재 무기 제거
+<string>설정 조정
+<string>사용자 정보 보기
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="32">
+<string><ICON DECIDE><key id="0">
+<string><ICON CANCEL><key id="1">
+<string><ICON DECIDE><key id="31"> <ICON CANCEL><key id="1">
+<string><ICON CHECK><key id="9"> <ICON DECIDE><key id="0"> <ICON CANCEL><key id="1">
+<string><ICON CHECK><key id="8"> <ICON DECIDE><key id="7"> <ICON CANCEL><key id="1">
+<string><ICON CHECK><key id="8"> <ICON DECIDE><key id="34"> <ICON CANCEL><key id="1">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1"> <ICON SORT><key id="33">
+<string><ICON CANCEL><key id="1"> <ICON SORT><key id="33">
+<string><ICON DECIDE><key id="2"> <ICON CANCEL><key id="1"> <ICON SORT><key id="33">
+<string><ICON DECIDE><key id="2"> <ICON CHECK><key id="24">
+<string><ICON DECIDE><key id="29">
+<string><ICON DECIDE><key id="2">
+<string><ICON DECIDE><key id="0"> <ICON SORT><key id="25">
+<string><ICON DECIDE><key id="0"> <ICON SORT><key id="22">
+<string><ICON CANCEL><key id="1"> <ICON RS><key id="17">
+<string><ICON DECIDE><key id="0"> <ICON SORT><key id="30">
+<string><ICON SORT><key id="15">
+<string><ICON RS><key id="6">
+<string><ICON LS_UD><key id="26">
+<string><ICON Dir><key id="28">
+<string><ICON DECIDE><key id="2"> <ICON LS_UD><key id="17">
+<string><ICON LS_UD><key id="17">
+<string><ICON DECIDE><key id="31"> <ICON CANCEL><key id="1"> <ICON SORT><key id="35">
+<string><ICON DECIDE><key id="8"> <ICON CANCEL><key id="1"> <ICON SORT><key id="35">
+<string><ICON DECIDE><key id="2"> <ICON CANCEL><key id="1">
+<string><ICON RS_UD><key id="17">
+<string> <ICON CHECK><key id="36">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37">
+<string><ICON DECIDE><key id="8"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37"> <ICON SORT><key id="35">
+<string><ICON DECIDE><key id="31"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37"> <ICON SORT><key id="35">
+<string><ICON DECIDE><key id="8"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37"> <ICON SORT><key id="42">
+<string><ICON DECIDE><key id="31"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37"> <ICON SORT><key id="42">
+<string><ICON DECIDE><key id="8"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37">
+<string><ICON DECIDE><key id="31"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37">
+<string><ICON CANCEL><key id="1"> <ICON CHECK><key id="37"> <ICON RS><key id="17">
+<string><ICON LB><key id="3">
+<string><ICON RB><key id="2">
+<string><ICON CANCEL><key id="1"> <ICON SORT><key id="38"> <ICON LT>/<ICON RT><key id="39">
+<string><ICON CANCEL><key id="1"> <ICON SORT><key id="38"> <ICON LT>/<ICON RT><key id="39"> <ICON LB>/<ICON RB><key id="40">
+<string><ICON ACT_LStP>+<ICON ACT_RStP><key id="15">
+<string><ICON RS_UD><key id="6">
+<string><ICON LS_UD><key id="41">
+<string><ICON CANCEL><key id="1"> <ICON SORT><key id="38"> <ICON LT>/<ICON RT><key id="43">
+<string><ICON CANCEL><key id="1"> <ICON SORT><key id="38"> <ICON LT>/<ICON RT><key id="43"> <ICON LB>/<ICON RB><key id="40">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1"> <ICON SORT><key id="30"> <ICON CHECK><key id="37">
+<string><ICON CANCEL><key id="1"> <ICON LB>/<ICON RB><key id="44"> <ICON CHECK><key id="37">
+<string><ICON CenL><key id="46">
+<string><ICON CenR><key id="47">
+<string><ICON LB>/<ICON RB><key id="48">
+<string><ICON LB>/<ICON RB><key id="49">
+<string><ICON LB>/<ICON RB><key id="50">
+<string><ICON LB>/<ICON RB><key id="51">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1"> <ICON CHECK><key id="37"> <ICON SORT><key id="52">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1"> <ICON BtnL><key id="53">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1"> <ICON BtnL><key id="54">
+<string><ICON DECIDE><key id="2"> <ICON CANCEL><key id="55"> <ICON CHECK><key id="24">
+<string><ICON DECIDE><key id="2"> <ICON CANCEL><key id="56"> <ICON CHECK><key id="24">
+<string><ICON LS_UD><key id="57">
+<string><ICON CANCEL><key id="1"> <ICON CHECK><key id="37">
+<string><ICON DECIDE><key id="24"> <ICON CANCEL><key id="1">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1"> <ICON SORT><key id="58">
+<string><ICON DirLR><key id="59"> <ICON DECIDE><key id="2"> <ICON CANCEL><key id="1"> <ICON SORT><key id="33">
+<string><ICON DECIDE><key id="2"> <ICON CANCEL><key id="1">
+<string><ICON DECIDE><key id="2"> <ICON CANCEL><key id="1"> <ICON SORT><key id="33">
+<string><ICON CANCEL><key id="55"> <ICON CHECK><key id="24">
+<string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="32"> <ICON CHECK><key id="60">
+<string><ICON MOUSE_DRAG_3><key id="28">
+<string><ICON MOUSE_SCR_UD><key id="41">
+<string><ICON KEY_DRAG><key id="6">
+<string><ICON KEY_SPACE><key id="15">
+<string><ICON MOUSE_SCR_UD><key id="17">
+<string><ICON MOUSE_SCR_UD><key id="26">
+<string><ICON CANCEL><key id="1"> <ICON CHECK><key id="37"> <ICON MOUSE_SCR_UD><key id="17">
+<string><ICON KEY_DRAG><key id="28">

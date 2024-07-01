@@ -1,0 +1,110 @@
+<string>
+<string>CUSTOMIZE
+<string>
+<string>SKILLS
+<string>DEVIL BREAKERS
+<string>EQUIPMENT
+<string>ITEMS
+<string>
+<string>ABILITIES
+<string>
+<string>RED QUEEN
+<string>BLUE ROSE
+<string>EXCEED
+<string>DEVIL BREAKER
+<string>DEVIL BRINGER
+<string>
+<string>REBELLION
+<string>DEVIL SWORD SPARDA
+<string>DEVIL SWORD DANTE
+<string>BALROG
+<string>CAVALIERE
+<string>KING CERBERUS
+<string>EBONY & IVORY
+<string>COYOTE A
+<string>KALINA ANN
+<string>DOUBLE KALINA ANN
+<string>DR. FAUST
+<string>TRICKSTER
+<string>SWORDMASTER
+<string>GUNSLINGER
+<string>ROYALGUARD
+<string>SIN DEVIL TRIGGER
+<string>CAVALIERE R
+<string>
+<string>GRIFFON
+<string>SHADOW
+<string>NIGHTMARE
+<string>CANE
+<string>
+<string>MAGAZINE
+<string>SWORDS
+<string>GUNS
+<string>
+<string>購入するスキルを選択します
+<string>購入するデビルブレイカーを選択します
+<string>装備する武器を選択します
+<string>購入するアイテムを選択します
+<string>編集する武器を選択します
+<string>
+<string>アビリティを習得します
+<string>{0}のスキルを習得します
+<string>
+<string>イクシードのスキルを習得します
+<string>デビルブリンガーのスキルを習得します
+<string>デビルブレイカーのスキルを習得します
+<string>
+<string>スタイルごとのアクションスキルを習得します
+<string>真魔人のスキルを習得します
+<string>
+<string>{0}のスキルを強化します
+<string>
+<string>購入
+<string>試す
+<string>習得
+<string>拡張
+<string>強化
+<string>装備
+<string>編集
+<string>並び替え
+<string>???
+<string>Remove
+<string>
+<string>装備中
+<string>
+<string>NICO'S RECOMMEND
+<string><ICON SORT>ニコの選んだセットを装備する
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>ニコのスペシャルマガジンセット
+<string>
+<string>COMMAND
+<string>デビルブレイカー携行数 ＋１
+<string>デビルトリガー ＋１
+<string>体力 ＋１
+<string><item id="39"> ＋１
+<string>GET ALL KIND
+<string>全種一括入手<lf><lf>現在メニューに並んでいるデビルブレイカー<lf>全種から１つずつまとめて入手します。<lf>（対価合計は個別入手時と同じです）
+<string>STOCK
+<string>SOLD OUT
+<string>
+<string>購入個数
+<string>購入する
+<string>キャンセル

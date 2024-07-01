@@ -1,0 +1,18 @@
+<string>
+<string>It can't be...
+<string>C'mon, not here!
+<string>Can't believe this...
+<string>This how it ends?
+<string>Man, I'm old...
+<string>
+<string>Aaand I'm back!
+<string>Now the fun begins!
+<string>Who's ready for a show!?
+<string>Thought I was dead? Ha, too bad!
+<string>My turn now!
+<string>
+<string>Yes! Out of the ball park!
+<string>
+<string>Sweet dreams!
+<string>
+<string>Go back to hell!

@@ -1,0 +1,21 @@
+<string>MAIN MENU
+<string>CONTINUE
+<string>MISSION SELECT
+<string>SECRET MISSIONS
+<string>TOTAL RESULTS
+<string>BLOODY PALACE
+<string>THE VOID
+<string>GALLERY
+<string>OPTIONS
+<string>STORE
+<string>EXIT
+<string>Continue from your last save point.
+<string>Select a mission to play.
+<string>Replay any secret missions you have discovered.
+<string>Check your overall mission results.
+<string>Take on enemies in the Bloody Palace challenge mode.
+<string>Practice controls and moves.
+<string>Browse Nico's Reports and listen to the Jukebox.
+<string>Change the in-game settings.
+<string>Purchase items from the online store.
+<string>Quit the game.

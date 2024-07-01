@@ -1,0 +1,156 @@
+<string>
+<string>PC OPTIONS
+<string>CONTROLS (Keyboard)
+<string>CONTROLS (Mouse)
+<string>GRAPHICS
+<string>Change keyboard controls.
+<string>Adjust mouse settings on menus.
+<string>Change graphics settings.
+<string>
+<string>CONTROLS (Keyboard): NERO
+<string>CONTROLS (Keyboard): DANTE
+<string>CONTROLS (Keyboard): V
+<string>Bind keyboard controls.
+<string>
+<string>GRAPHICS
+<string>Adjust graphics settings.
+<string>Screen Resolution
+<string>Refresh Rate
+<string>Display Mode
+<string>Field of View
+<string>Frame Rate
+<string>V-Sync
+<string>Rendering Method
+<string>Resolution Scaling
+<string>Texture Quality
+<string>Texture Filtering Quality
+<string>Mesh Quality
+<string>Anti-aliasing
+<string>Motion Blur
+<string>Effects Quality
+<string>Depth of Field
+<string>Shadow Quality
+<string>Dynamic Object Shadows
+<string>Shadow Cache
+<string>Ambient Occlusion Type
+<string>Ambient Occlusion
+<string>Bloom
+<string>Lens Flare
+<string>Volumetric Light Quality
+<string>Screen Space Reflections
+<string>Subsurface Scattering
+<string>Chromatic Aberration
+<string>Color Range
+<string>Cutscene Depth of Field Quality
+<string>Adjust the screen resolution.
+<string>Adjust the refresh rate.
+<string>Adjust the display mode.
+<string>Adjust the field of view.
+<string>Adjust the framerate.
+<string>Toggle synchronization between the<lf>framerate and refresh rate on and off.
+<string>Adjust the rendering method.
+<string>Adjust rendering resolution scaling<lf>based on the screen resolution.
+<string>Adjust the texture quality.
+<string>Adjust the texture sharpness.<lf>Ultra: ANISO x16<lf>High: ANISO x8<lf>Medium: ANISO x4<lf>Low: ANISO x2<lf>Minimum: Trilinear
+<string>Adjust the mesh quality.
+<string>Adjust the setting for smoothing edges.
+<string>Toggle motion blur effects.
+<string>Adjust the visual effect quality.
+<string>Turn depth of field on or off.
+<string>Adjust shadow quality.
+<string>Turn dynamic object shadows on or off.
+<string>Turn the caching of static object<lf>shadows on or off.<lf>Turning this off increases available<lf>VRAM memory, but may slow performance.
+<string>Adjust the type of shadows cast by<lf>indirect lighting.
+<string>Adjust indirect lighting shadows.
+<string>Turn bloom on or off.
+<string>Turn lens flare on or off.
+<string>Adjust volumetric light quality.
+<string>Adjust the setting for improved<lf>reflection rendering.
+<string>Adjust the setting for improved<lf>skin rendering quality.
+<string>Turn chromatic aberration on or off.
+<string>Adjust the color range.
+<string>Adjust the resolution for depth of field<lf>expressions, such as background blur<lf>during cutscenes.
+<string>Auto-detect
+<string>Fullscreen
+<string>Window
+<string>Borderless Window
+<string>70
+<string>75
+<string>80
+<string>85
+<string>90
+<string>Variable
+<string>60
+<string>30
+<string>ON
+<string>OFF
+<string>Normal
+<string>Interlaced
+<string>Minimum
+<string>Low
+<string>Medium
+<string>High
+<string>Ultra
+<string>OFF
+<string>FXAA
+<string>TAA
+<string>FXAA+TAA
+<string>Low
+<string>Medium
+<string>High
+<string>OFF
+<string>SSAO (Variable)
+<string>SSAO
+<string>HBAO+ (Variable)
+<string>
+<string>None
+<string>Low
+<string>High
+<string>ON
+<string>OFF
+<string>Variable
+<string>SRGB
+<string>BT.709
+<string>50%
+<string>60%
+<string>70%
+<string>80%
+<string>90%
+<string>100%
+<string>110%
+<string>120%
+<string>130%
+<string>140%
+<string>150%
+<string>160%
+<string>170%
+<string>180%
+<string>190%
+<string>200%
+<string>Normal
+<string>Ultra
+<string>
+<string>CONTROLS (Mouse)
+<string>Set mouse behavior on menus.
+<string>MOUSE CLICK INVERSION
+<string>Fix On-screen Cursor
+<string>Invert left and right mouse buttons.
+<string>Toggle the function that stops the mouse<lf>cursor from moving in the game's active<lf>window.
+<string>NORMAL
+<string>INVERTED
+<string>ON
+<string>OFF
+<string>CAMERA (HORIZONTAL)
+<string>CAMERA (VERTICAL)
+<string>CAMERA SPEED (LEFT/RIGHT)
+<string>CAMERA SPEED (UP/DOWN)
+<string>Change left/right camera controls (mouse).
+<string>Change up/down camera controls (mouse).
+<string>Adjust horizontal camera speed (mouse).
+<string>Adjust vertical camera speed (mouse).
+<string>Use default camera controls.<lf>(Move mouse left to look left<lf>and move right to look right.)
+<string>Use inverted camera controls.<lf>(Move mouse left to look right<lf>and move right to look left.) 
+<string>Use default camera controls.<lf>(Move mouse up to look up<lf>and move down to look down.)
+<string>Use inverted camera controls.<lf>(Move mouse up to look down<lf>and move down to look up.)
+<string>Increasing scale speeds up the camera (mouse).
+<string>Increasing scale speeds up the camera (mouse).

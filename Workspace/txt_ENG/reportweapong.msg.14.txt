@@ -1,0 +1,10 @@
+<string>
+<string>A powerful blade that can separate<lf>man from demon. Word has it that<lf>this was a memento left to Vergil<lf>by his daddy Sparda, and it serves<lf>as the source of his powers.<lf><lf>This thing is probably what let<lf>Vergil split V off from the<lf>rest of himself.<lf><lf>As a weapon, it's basically your<lf>standard katana, only this one's<lf>magic and has an edge sharp<lf>enough to cut through space itself.<lf>Too bad I only ever got to see it<lf>when it was serving as your arm...<lf>Really wish you'da let me take a<lf>closer look back then, y'know?
+<string>Fighting gauntlets and boots<lf>imbued with the power of light.<lf>They pack a hell of a wallop when<lf>fighting in close quarters.<lf><lf>So Vergil thrashed the mighty<lf>demon Beowulf so bad, hardly<lf>anything was left of him. Still<lf>managed to make these gauntlets<lf>and boots from the scraps!<lf><lf>I guess Beowulf had some kind of<lf>horrible grudge against the great<lf>swordsman Sparda and thought to<lf>take it out on his bloodline?<lf>Didn't go too well for him though!<lf>Dante claims to have fought this<lf>guy too. I asked about it but all<lf>he'd give me was "Stubborn bastard.<lf>Tougher than some, though."
+<string>So I guess Vergil can just<lf>straight up make a magic<lf>sword from thin air now?<lf>Just swinging his soul<lf>around like a blade...<lf><lf>If your pops can manage<lf>this, maybe you can too?<lf>Would you mind...y'know,<lf>giving it a shot? For me?
+<string>Apparently Vergil's got this thing<lf>about never using guns. I can<lf>appreciate his commitment to<lf>aesthetics, but it kinda feels<lf>like you'd be cutting out half of<lf>what makes life worth living!<lf><lf>Anyways, I guess his anti-gun<lf>policy doesn't extend to magic-<lf>shooting swords!<lf><lf>This thing can fire off long-range<lf>attacks, but that's not all! It can<lf>impede enemy movements, or<lf>even use sigils to aid movement!<lf>Quite the versatile weapon.
+<string>
+<string>Sharp sword of soul shearing
+<string>Destructive fists of light
+<string>Phantasmal demon slayer
+<string>Flying blades of pure energy

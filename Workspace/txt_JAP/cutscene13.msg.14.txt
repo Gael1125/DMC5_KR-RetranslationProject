@@ -1,0 +1,49 @@
+<string>
+<string>みんな 無事みたいね
+<string>周りを見てくる
+<string>おい ユリゼンはどこに行った？
+<string>…クリフォトの頂上だ
+<string>逆よ ダンテ
+<string>私達が今いる場所が根元なの
+<string>
+<string>クリフォトが吸った血は――
+<string>力の結晶となって頂上に実を結ぶ
+<string>禁断の果実ね
+<string>ムンドゥスも その果実を食べたとか…
+<string>そうでしょ <RUBY><RB>Ｖ<RT>ブイ</RUBY>？
+<string>理屈はいい 居場所が分かればな
+<string>よう！ アンタが あの… ダンテか！?
+<string>私はニコレッタ ゴ…ゴールドスタイン
+<string>ヨロシク！
+<string>そ…祖母の名はニールだ
+<string>アンタの銃の せ…設計者で… その…
+<string>見せろよ
+<string>
+<string>そう ソレ！
+<string>似てねえな
+<string>残念だが 外見だけは父に似た
+<string>急造品だが こ…これをアンタに――
+<string>その… アレ…
+<string>
+<string>プレゼントだ！ ２人の出会いに！
+<string>受け取れ！
+<string>…どうも
+<string>ダンテ
+<string>俺も行く
+<string>やめとけよ
+<string>また“足手まとい”か？ 冗談じゃねえ！
+<string> <RUBY><RB>“力”<RT>ちから</RUBY>なら手に入れたさ！
+<string>そういう事じゃない
+<string>
+<string>行かせてやれ
+<string>これ以上は時間が惜しい
+<string>早くヤツを追うべきだ
+<string>
+<string>お前も来る気か？
+<string>見届ける義務がある
+<string>ご勝手に ポエム野郎
+<string>ただし 別行動だぜ
+<string>早い者勝ちだ
+<string>
+<string>
+<string>先は長そうだな…

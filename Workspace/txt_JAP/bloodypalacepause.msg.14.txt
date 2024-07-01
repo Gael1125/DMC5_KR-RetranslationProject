@@ -1,0 +1,18 @@
+<string>
+<string>PAUSE MENU
+<string><SIZE 180>S</SIZE>TAGE
+<string><SIZE 180>S</SIZE>ETTING
+<string>
+<string>SUSPEND
+<string>GIVE UP
+<string>
+<string>
+<string>
+<string>中断データを作成してメインメニューに戻ります
+<string>進行をあきらめてメインメニューに戻ります
+<string>ウォーミングアップを終了してステージ選択画面に戻ります
+<string>
+<string>
+<string>戦闘中は中断データを作成できません
+<string>
+<string>LIMIT TIME

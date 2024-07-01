@@ -1,0 +1,38 @@
+<string>
+<string>Hey, hey! I've got a new arm for ya!
+<string>Hey, I got a new arm for ya!
+<string>Heyyy, I got a new arm for ya!
+<string>
+<string>A masterpiece...! One of my finest!
+<string>Now that I got it in stock,<lf>you better take advantage of it.
+<string>I really worked up a sweat on that one!
+<string>
+<string>Heya.
+<string>Heya!
+<string>Heya.
+<string>Hiya.
+<string>Heya!
+<string>Hi!
+<string>Howdy.
+<string>Hey.
+<string>Yo.
+<string>Hey.
+<string>Yo, you just here to window-shop?
+<string>There's no such thing as too prepared!
+<string>
+<string>So, which one d'ya want?
+<string>These ain't cheap. Choose wisely.
+<string>You try out that new hand yet?
+<string>
+<string>Good choice!
+<string>Aw yeah, good choice!
+<string>Good choice!
+<string>You need anything else?
+<string>Ya better take care of that.
+<string>
+<string>You want the crème de la crème?
+<string>Look no further.
+<string>You like pasta, right?
+<string>Try this baby on for size.
+<string>Here. For those hard-to-reach itches.
+<string>Kyrie'll love it! Catch my meaning?

@@ -1,0 +1,10 @@
+<string>
+<string>THE VOID
+<string>
+<string>TOTAL DAMAGE
+<string>
+<string>START
+<string>CUSTOMIZE
+<string>
+<string>トレーニングを開始します
+<string>プレイヤーの各種設定を行います

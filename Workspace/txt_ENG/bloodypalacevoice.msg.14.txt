@@ -1,0 +1,5 @@
+<string>
+<string>I'm the one...with power!
+<string>What you lack...is this!
+<string>Thought you'd like it.
+<string>Who's ready to die first?

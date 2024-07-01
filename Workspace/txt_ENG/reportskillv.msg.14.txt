@@ -1,0 +1,140 @@
+<string>
+<string>Tilt <ICON ACT_LS>
+<string>Move <ICON ACT_RS>
+<string>Press and hold <ICON ACT_RB>
+<string>While on the ground, press <ICON ACT_BtnD>
+<string>During a jump, press <ICON ACT_BtnD> near a wall
+<string>In mid-air, press <ICON ACT_BtnD> near an enemy
+<string>Press <ICON ACT_CenL>
+<string>Automatic
+<string>
+<string>Automatic
+<string>Automatic
+<string>Press and hold <ICON ACT_LStP>+<ICON ACT_CenL>
+<string>Press <ICON ACT_LStP>+<ICON ACT_CenL> quickly
+<string>
+<string>Press <ICON ACT_BtnR>
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR>
+<string>Press <ICON ACT_BtnR> the moment you finish off<lf>an enemy with Checkmate
+<string>Press and hold <ICON ACT_RT>
+<string>Press <ICON ACT_LB>
+<string>Automatic
+<string>While Nightmare is active: Press <ICON ACT_LB>+<ICON ACT_BtnR>,<lf>or <ICON ACT_BtnD> in the air near Nightmare to mount<lf>Press <ICON ACT_LB>+<ICON ACT_BtnD> or <ICON ACT_BtnD> in the air to dismount
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnD>
+<string>During a jump, press <ICON ACT_BtnD><lf>Hold <ICON ACT_BtnD> to glide briefly
+<string>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> horizontally+<ICON ACT_BtnD>
+<string>Continue holding <ICON ACT_LS> in the same direction
+<string>Press <ICON ACT_RB>+ rotate <ICON ACT_LS> once +<ICON ACT_BtnR>
+<string>Press <ICON ACT_LT>+<ICON ACT_BtnL> or <ICON ACT_BtnU><lf>(Uses 1 unit of the DT Gauge)
+<string>
+<string>Press <ICON ACT_BtnL>
+<string>Hold and release <ICON ACT_BtnL>
+<string>Hold <ICON ACT_BtnL> longer, then release
+<string>Hold <ICON ACT_BtnL> as long as possible, then release
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<lf>hold and release <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<lf>hold <ICON ACT_BtnL> longer, then release <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back + hold and release <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back + hold <ICON ACT_BtnL><lf>longer, then release
+<string>Automatic
+<string>Automatic
+<string>Automatic
+<string>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU>, then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU>, then tap <ICON ACT_BtnU> repeatedly
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward<lf>+<ICON ACT_BtnU>
+<string>
+<string>While on the ground, hold and release <ICON ACT_BtnU>
+<string>While on the ground, press and hold <ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back<lf>+<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> forward or back +<ICON ACT_BtnU>
+<string>
+<string>Automatic
+<string>Automatic
+<string>Automatic
+<string>While on the ground, make Shadow appear<lf>near enemies
+<string>
+<string>During Promotion:<lf>While on the ground, press <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR>
+<string>During Promotion:<lf>While on the ground, press <ICON ACT_BtnR><ICON ACT_BtnR>,<lf>then tap <ICON ACT_BtnR> repeatedly
+<string>Hold <ICON ACT_BtnR> during Illegal Move
+<string>During Promotion:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>After Strongpoint is activated, press and<lf>hold <ICON ACT_BtnR>
+<string>During Promotion:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>During Promotion:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back to forward (or forward twice)
+<string>During Promotion:<lf>While on the ground, press and hold<lf><ICON ACT_BtnL>+<ICON ACT_BtnU>+<ICON ACT_BtnR>
+<string>
+<string>Tilt <ICON ACT_LS> in any direction to move<lf>the character in that direction.<lf>Tilt further to move faster.
+<string>Move the camera around to view your<lf>surroundings. Press <ICON ACT_RStP> to return the<lf>camera to the default position behind you.
+<string>Lock on to enemies and certain objects.<lf>Hold <ICON ACT_RB> to strafe, and press <ICON ACT_LStP><lf>to change lock-on target.
+<string>Jump into the air. The height of your jump<lf>changes depending on how long you hold <ICON ACT_BtnD>.
+<string>Jump again by pushing off of a wall.
+<string>In mid-air, use an enemy as a stepping<lf>stone to execute a double jump.
+<string>Taunt enemies in various ways on the<lf>ground or in mid-air. The taunt executed<lf>depends on your current Stylish Rank.
+<string>Increase the range from which you can<lf>gather orbs.
+<string>
+<string>More likely to receive green orbs from<lf>enemies while Nightmare is active.
+<string>More likely to receive white orbs from<lf>enemies while Nightmare is active.
+<string>A special taunt given only to those who<lf>paid a heavy price. Increases Stylish<lf>Rank more than a normal taunt.
+<string>A special taunt given only to those who<lf>braved the Bloody Palace and came away<lf>victorious. Focus energy into the cane<lf>and swing it around.
+<string>
+<string>Finish off dying enemies.
+<string>A teleportation technique. Throw your<lf>cane at a target to appear next to them.<lf>Using this to move to a dying enemy will<lf>kill them instantly.
+<string>Teleport to the next target the moment you<lf>finish off the enemy in front of you.
+<string>Concentrate to fill up your DT Gauge in.<lf>battle. Hold <ICON ACT_RT> to continue storing power.
+<string>Expend your demonic power to summon<lf>Nightmare, a beast from the Underworld.<lf>Nightmare attacks enemies automatically,<lf>depleting your DT Gauge while summoned.<lf>Your defense is increased while<lf>Nightmare is active.
+<string>While Nightmare is active, the DT Gauge<lf>will deplete at a reduced rate.
+<string>Ride atop the demonic beast Nightmare.
+<string>Grab onto Griffon to move backwards.<lf>Cannot be activated if Griffon is<lf>stalemated and unable to fight.
+<string>Grab onto Griffon to jump higher into the<lf>air. Cannot be activated while Griffon is<lf>stalemated. Continuing to hold Griffon<lf>lets you glide slowly back to earth.
+<string>
+<string>Utilize Shadow's celerity to dodge enemy<lf>attacks quickly in any direction. Cannot<lf>be activated while Shadow is stalemated<lf>and unable to fight.
+<string>Utilize Shadow's celerity for high-speed<lf>movement. Cannot be activated in battle,<lf>or while Shadow is stalemated.
+<string>Rain down demonic canes from on high,<lf>finishing off all dying enemies in the<lf>area at once. Expends the DT Gauge.
+<string>Uses 1 stock of the DT Gauge to order<lf>Griffon and Shadow to attack enemies<lf>automatically. Their attack power is<lf>increased during this time and by<lf>inputting the command again, you can<lf>extend the time they are in this state.
+<string>
+<string>Shoot balls of lightning from<lf>Griffon's maw.
+<string>Use Griffon's power to launch a pillar<lf>of lightning at foes.
+<string>Power up Blockade to summon three<lf>pillars of lightning at once.
+<string>The strongest version of Blockade,<lf>calling five pillars of lightning onto<lf>the battlefield.
+<string>Griffon charges at enemies, launching<lf>them into the air.
+<string>Use Griffon's power to fire an electric<lf>shock that slams into enemies.
+<string>Power up Double Check to shoot two<lf>electric shocks in a row.
+<string>The strongest version of Double Check,<lf>firing three electric shocks in a row.
+<string>Move Griffon near V and unleash electric<lf>strikes across the area.
+<string>This Round Robin upgrade rains even more<lf>electric strikes on foes in the area.
+<string>The strongest version of Round Robin,<lf>pouring on even more electric strikes.
+<string>Increase Griffon's defense, allowing him<lf>to take more hits takes before getting<lf>stalemated.
+<string>Increase Griffon's defense even further.
+<string>Reduce the time needed for Griffon to<lf>recover after getting stalemated.
+<string>
+<string>Follow up Shadow's claw attack with a<lf>series of piercing tentacle strikes.<lf>Automatically becomes an air attack for<lf>airborne targets.
+<string>An extra combo for Shadow, knocking<lf>away enemies with a swing of his tail<lf>and rending them with enormous fangs.
+<string>A combo to follow up Shadow's claw attack,<lf>changing his neck into a whip to flay<lf>nearby foes.
+<string>Shadow dives into the ground and dashes<lf>ahead, attacking with tentacles as it moves.
+<string>
+<string>Shadow transforms into spikes that<lf>jut out in all directions to attack.
+<string>This upgrade to Hedgehog adds needles that<lf>erupt from the ground behind Shadow.
+<string>Shadow's tail transforms into an axe to<lf>launch foes. Hold <ICON ACT_BtnU> to have him follow<lf>enemies into the air.
+<string>Shadow transforms his head into a needle<lf>to stab at enemies. V can even stand on<lf>the needle during this attack.
+<string>Shadow changes his whole body into a<lf>spinning blade, striking enemies with a<lf>spin attack.
+<string>A spinning charge attack that transforms<lf>Shadow's body. Press <ICON ACT_RB>+<ICON ACT_LS> forward for<lf>a diving charge, or <ICON ACT_RB>+<ICON ACT_LS> back for<lf>a drop attack.
+<string>
+<string>Increase Shadow's defense, allowing him<lf>to take more hits takes before getting<lf>stalemated.
+<string>Increase Shadow's defense even further.
+<string>Reduce the time needed for Shadow to<lf>recover after getting stalemated.
+<string>Shadow appears out of the ground in the<lf>form of a gear, attacking enemies.
+<string>
+<string>Nightmare unleashes a brutal flurry of<lf>punches at the enemy.
+<string>A new combo for Nightmare, spreading his<lf>powerful blows across a wider area.
+<string>Nightmare fires a thick laser straight<lf>ahead. Use <ICON ACT_LS> to adjust the angle<lf>slightly.
+<string>Nightmare's sweeping laser strike that<lf>burns enemies over a wide area.
+<string>Nightmare sweeps a laser attack from<lf>ground to sky.
+<string>Nightmare swings down both fists for a<lf>hearty ground slam.
+<string>Nightmare moves instantly towards the<lf>target.
+<string>Expend all of your power to destroy all<lf>enemies in the area. Consumes all of your<lf>DT Gauge. Cannot be activated if any of<lf>your demon companions are in stalemate.

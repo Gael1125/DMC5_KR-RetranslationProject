@@ -1,0 +1,10 @@
+<string>
+<string>本作はMixer Interactivityに対応しています。<lf>Mixer Interactivityを使用するためには、OPTIONの<lf>NETWORKから機能をオンにしてください。
+<string>Mixerサーバーへ接続できませんでした。<lf>Mixer Interactivityを使用するには、<lf>Mixerへの配信が必要です。
+<string>
+<string>MIXER INTERACTIVITY
+<string>ON
+<string>OFF
+<string>Mixerでゲーム配信時に、ユーザーからの<lf>タッチリアクションを受け取ります。
+<string>Mixerでゲーム配信時に、ユーザーからの<lf>タッチリアクションを受け取りません。
+<string>Mixer Interactivityのオン／オフを切り替えます

@@ -1,0 +1,15 @@
+<string>
+<string>ENEMY SETTINGS
+<string>
+<string>Enemy Action
+<string>Enemy Damage
+<string>
+<string>ON
+<string>OFF
+<string>
+<string>ENEMY SELECTION
+<string>DESCRIPTION
+<string>
+<string>Select "ON" to make enemies attack.
+<string>Select "ON" for enemies to take damage.
+<string>Select an enemy. 

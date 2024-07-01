@@ -1,0 +1,13 @@
+<string>Examine
+<string>Confirm
+<string>???
+<string>Customize
+<string>Secret Mission
+<string>Answer
+<string>Call
+<string>Use {0}
+<string>Enter
+<string>Free Griffon
+<string>Free Shadow
+<string>Free Nightmare
+<string><ICON DECIDE>{0}

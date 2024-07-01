@@ -1,0 +1,26 @@
+<string>Dante...
+<string>I could take you with no arms!
+<string>Demons helping each other out...?<lf>What's the world coming to?
+<string>Hold on, Dante...
+<string>Get moving, ya bum!
+<string>No wings? Ha! Sucks to be you!
+<string>Give that toy on your back a try!
+<string>A pop-gun's better than nothin', right? Shoot 'em up!
+<string>Whatcha lookin' at? V's calling!
+<string>Over here, Nero!
+<string>Jeez, take it easy, will ya?<lf>Don't blow your load all at once!
+<string>Dante's struggling with this guy... Who the hell is he?
+<string>V... Can I trust you?
+<string>Okay, time to catch up to Dante.
+<string>Nero, over here. Quickly!
+<string>Pick up the slack.
+<string>Looks like Dante's in trouble.
+<string>I'm going on ahead...
+<string>Ah, shit, kid, ya want us to get you<lf>a road map or something?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Is this...my limit...?

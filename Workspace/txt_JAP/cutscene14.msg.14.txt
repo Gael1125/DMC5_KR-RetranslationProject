@@ -1,0 +1,17 @@
+<string>
+<string>俺も限界だ！
+<string>ダメ！ 落ちちゃう！
+<string>
+<string>クソ！ もう少し もってくれ…
+<string>頼む…！
+<string>行かなくては――
+<string>ヤツが敗北してしまう前に！
+<string>
+<string>間もなく“あの方”が果実を喰らう
+<string>ムンドゥス亡き今 人間界の支配は――
+<string>“あの方”が為すのだ
+<string>マルファスか！<lf>ヤツと戦うのは無謀だぜ！
+<string>分かってる
+<string>何とか やり過ごすしかない…
+<string>どうやら ネズミが紛れ込んだな
+<string>さあ 出ておいで…！

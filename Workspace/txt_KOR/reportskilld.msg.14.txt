@@ -1,0 +1,513 @@
+<string>
+<string><ICON ACT_LS> 기울이기
+<string><ICON ACT_RS> 기울이기
+<string><ICON ACT_RB> 누르고 홀드
+<string>땅에서 <ICON ACT_BtnD> 누르기
+<string><ICON ACT_CenL> 누르기
+<string>
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 가로 방향 +<ICON ACT_BtnD> 누르기
+<string>점프 중에 벽과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>아무 방향으로나 <ICON ACT_LS> 홀드
+<string>공중에서 적과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>점프 중에 <ICON ACT_BtnD> 누르기
+<string>데빌 트리거 활성:<lf>공중에서 <ICON ACT_BtnD> 홀드
+<string>자동
+<string>자동
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 누르고 홀드
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 연타
+<string><ICON ACT_LB> 누르기
+<string>자동
+<string>
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU> 누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>스팅어 발동 후<lf><ICON ACT_LS> 놓고 <ICON ACT_BtnU> 홀드
+<string>리벨리온 장착:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 +<ICON ACT_BtnR> 누르기
+<string>
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU> 누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>스팅어 발동 후<lf><ICON ACT_LS> 놓고 <ICON ACT_BtnU> 홀드
+<string>
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU> 누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><lf>누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 +<ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>스팅어 발동 후<lf><ICON ACT_LS> 놓고 <ICON ACT_BtnU> 홀드
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤에서 앞으로 +<ICON ACT_BtnU><lf>누르기
+<string>드라이브를 발동하고 충격파 직후<lf><ICON ACT_BtnU> 누르기
+<string><ICON ACT_BtnU> 홀드 후 검이<lf>더 밝게 빛나면 놓기
+<string><ICON ACT_BtnU> 홀드 후 검이<lf>더 밝게 빛나면 놓기
+<string><ICON ACT_BtnU> 홀드 후 검이<lf>더 밝게 빛나면 놓기
+<string>데빌 트리거 또는 소드 포메이션<lf>활성 상태에서 소드마스터 스타일로<lf>변경
+<string>데빌 트리거 또는 소드 포메이션<lf>활성 상태에서 건슬링어 스타일로<lf>변경
+<string>데빌 트리거 또는 소드 포메이션<lf>활성 상태에서 트릭스터 스타일로<lf>변경
+<string>데빌 트리거 또는 소드 포메이션<lf>활성 상태에서 로얄가드 스타일로<lf>변경
+<string>
+<string><ICON ACT_BtnD> 누르기
+<string>블로 모드에서 10 카운트,<lf>또는 킥 모드에서 히트 업을 발동합니다.
+<string>블로 모드에서 10 카운트,<lf>또는 킥 모드에서 히트 업을 발동합니다.
+<string>블로 모드에서 10 카운트,<lf>또는 킥 모드에서 히트 업을 발동합니다.
+<string><ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 +<ICON ACT_BtnU> 누르기
+<string>블로 모드에서 펀치를 연속으로 명중
+<string>블로 모드:<lf>땅에서 <ICON ACT_BtnU> 누르기
+<string>블로 모드:<lf>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>블로 모드:<lf><ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 +<ICON ACT_BtnU> 누르기
+<string>블로 모드:<lf>공격 후 <ICON ACT_BtnU> 홀드
+<string>블로 모드:<lf>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>킥 모드:<lf>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>킥 모드:<lf>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>킥 모드:<lf>공중에서 <ICON ACT_BtnU> 누르기
+<string>킥 모드:<lf>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>킥 모드:<lf><ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 +<ICON ACT_BtnU> 누르기
+<string>킥 모드:<lf>공격 후 <ICON ACT_BtnU> 홀드
+<string>블로 모드:<lf>헤비 졸트 발동 후,<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>블로 모드:<lf>웰터 무브 중 좌우로 움직이면서<lf><ICON ACT_BtnU> 누르기
+<string>
+<string>땅에서 <lf><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><lf>누른 다음,<lf><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤에서 앞으로 +<ICON ACT_BtnU><lf>누르기
+<string>킹 케르베로스 장착:<lf>전기가 통할 때까지 <ICON ACT_BtnR> 홀드<lf>땅에서 <ICON ACT_BtnR> 놓기
+<string>킹 케르베로스 장착:<lf>전기가 통할 때까지 <ICON ACT_BtnR> 홀드<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>앞으로 누른 후, <ICON ACT_BtnR> 놓기
+<string>전기가 통할 때까지 <ICON ACT_BtnU> 홀드<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 누른 후, <ICON ACT_BtnU> 놓기
+<string>킹 케르베로스 장착:<lf>전기가 통할 때까지 <ICON ACT_BtnR> 홀드<lf>공중에서 <ICON ACT_BtnR> 놓기
+<string>
+<string>공격 명중 시 발동
+<string>기어 휠 상태에서<lf>아무 <trc id="0"> 누르기
+<string>
+<string>기어 휠 상태에서 무기가 빛나는 동안<lf>아무 <trc id="0"> 누르기
+<string>
+<string>기어 휠 상태에서 공격이 끝나는 순간<lf>아무 <trc id="0"> 누르기
+<string>
+<string>땅에서<lf><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 +<ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS><lf>앞으로 +<ICON ACT_BtnU> 누르기
+<string>
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 홀드 후<lf>양팔이 더 밝게 빛나면 놓기
+<string><ICON ACT_BtnL> 홀드 후<lf>양팔이 더 밝게 빛나면 놓기
+<string><ICON ACT_BtnL> 홀드 후<lf>양팔이 더 밝게 빛나면 놓기
+<string>
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 홀드 후<lf>오른팔이 더 밝게 빛나면 놓기
+<string><ICON ACT_BtnL> 홀드 후<lf>오른팔이 더 밝게 빛나면 놓기
+<string><ICON ACT_BtnL> 홀드 후<lf>오른팔이 더 밝게 빛나면 놓기
+<string>
+<string>카리나 안 장착:<lf><ICON ACT_BtnL> 누르기
+<string>땅에서 <ICON ACT_BtnL> 홀드 후,<lf>카리나 안에서<lf>불꽃이 튈 때 놓기
+<string>더블 카리나 안 장착:<lf><ICON ACT_BtnL> 누르기
+<string>더블 카리나 안 장착:<lf>땅에서 <ICON ACT_BtnL> 홀드 후<lf>두 카리나 안이 결합할 때 놓기
+<string>
+<string><ICON ACT_BtnL> 누르고 홀드
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnL> 누른 다음,<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnL> 다시 눌러 마무리
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnL> 누르기
+<string>세트 해트 또는 매드 해터 발동 후,<lf>모자를 잡는 순간 <ICON ACT_BtnL> 누르기
+<string>닥터 파우스트 장착 시 발동
+<string>닥터 파우스트 장착 시 발동
+<string>닥터 파우스트 장착 시 발동
+<string>자동
+<string>자동
+<string>
+<string>자동
+<string>자동
+<string>자동
+<string>땅에서 <ICON ACT_LS>+<ICON ACT_BtnR> 누르기
+<string>공중에서 <ICON ACT_LS>+<ICON ACT_BtnR> 누르기
+<string>대쉬 발동 후,<lf><ICON ACT_BtnR> 홀드 상태로 적에게 돌진
+<string>스카이 스타 발동 후,<lf><ICON ACT_BtnR> 홀드 상태로 적에게 돌진
+<string>적 공격으로 공중에 떴을 때<lf><ICON ACT_BtnR> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string><ICON ACT_RB>+<lf><ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnR> 누르기
+<string>
+<string>자동
+<string>자동
+<string>자동
+<string>리벨리온 장착:<lf>땅에서 <ICON ACT_BtnR> 누르기
+<string>리벨리온 장착:<lf>땅에서 프롭 발동 후 <ICON ACT_BtnR> 누르기
+<string>리벨리온 장착:<lf>공중에서 <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기
+<string>리벨리온 장착:<lf>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 연타
+<string>데빌 소드 스파다 장착:<lf>땅에서 <ICON ACT_BtnR> 누르기
+<string>스파다 장착:<lf>땅에서 프롭 발동 후 <ICON ACT_BtnR> 누르기
+<string>데빌 소드 스파다 장착:<lf>공중에서 <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기
+<string>데빌 소드 스파다 장착:<lf>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>데빌 소드 스파다 장착:<lf>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 연타
+<string>데빌 소드 단테 장착:<lf><ICON ACT_BtnR> 누르기
+<string>데빌 소드 단테 장착:<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>데빌 소드 단테 장착:<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>데빌 소드 단테 장착:<lf>땅에서 <ICON ACT_BtnR> 홀드 후 놓기
+<string>데빌 소드 단테 장착:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤에서 앞으로 +<ICON ACT_BtnR> 연타
+<string>블로 모드에서 발로그 장착:<lf>땅에서 <ICON ACT_BtnR> 누르기
+<string>블로 모드에서 발로그 장착:<lf>공중에서 <ICON ACT_BtnR> 누르기
+<string>블로 모드에서 발로그 장착:<lf>땅에서 <ICON ACT_RB><lf>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>블로 모드에서 발로그 장착:<lf>미니멈 드래곤 발동 후,<lf><ICON ACT_BtnR> 연타
+<string>블로 모드에서 발로그 장착:<lf>미니멈 드래곤 발동 후, 단테의<lf>주먹이 빛날 때까지 <ICON ACT_BtnR> 연타
+<string>블로 모드에서 발로그 장착:<lf>땅에서 이그니션 발동 상태로<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>킥 모드에서 발로그 장착:<lf>땅에서 <ICON ACT_BtnR> 누르기
+<string>킥 모드에서 발로그 장착:<lf>공중에서 <ICON ACT_BtnR> 누르기
+<string>킥 모드에서 발로그 장착:<lf>땅에서 이그니션 발동 상태로<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>킥 모드에서 발로그 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>킹 케르베로스 장착:<lf>땅에서<lf><ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기
+<string>킹 케르베로스 장착:<lf>땅에서<lf><ICON ACT_BtnR> 다음, <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기
+<string>킹 케르베로스 장착:<lf>공중에서 <ICON ACT_BtnR> 누르기
+<string>킹 케르베로스 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>킹 케르베로스 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>킹 케르베로스 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>전기가 통할 때까지 <ICON ACT_BtnU> 홀드<lf>땅에서 <ICON ACT_BtnU> 놓기
+<string>전기가 통할 때까지 <ICON ACT_BtnU> 홀드<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 누른 후, <ICON ACT_BtnU> 놓기
+<string>킹 케르베로스 장착:<lf>전기가 통할 때까지 <ICON ACT_BtnR> 홀드<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 누른 후, <ICON ACT_BtnR> 놓기
+<string>킹 케르베로스 장착:<lf>전기가 통할 때까지 <ICON ACT_BtnR> 홀드<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 누른 후, <ICON ACT_BtnR> 놓기
+<string>전기가 통할 때까지 <ICON ACT_BtnU> 홀드<lf>공중에서 <ICON ACT_BtnU> 놓기
+<string>카발리에 장착:<lf>땅에서 <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기 
+<string>카발리에 장착:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기 
+<string>카발리에 장착:<lf>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>카발리에 장착:<lf>땅에서 <ICON ACT_RB>+<lf><ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤에서 앞으로 +<ICON ACT_BtnU><lf>누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS><lf>뒤에서 앞으로 +<ICON ACT_BtnU><lf>누르기
+<string>카발리에 장착:<lf>공중에서 <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기
+<string>카발리에 R 장착:<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnR> 누르기
+<string>
+<string>자동
+<string>자동
+<string>자동
+<string>에보니 앤 아이보리 장착:<lf>땅에서 <ICON ACT_BtnR> 누르기
+<string>에보니 앤 아이보리 장착:<lf>땅에서 단테의 왼팔이 더 밝게 빛나면<lf><ICON ACT_BtnR> 누르기
+<string>에보니 앤 아이보리 장착:<lf>땅에서 단테의 왼팔이 더 밝게 빛나면<lf><ICON ACT_BtnR> 누르기
+<string>에보니 앤 아이보리 장착:<lf>땅에서 단테의 왼팔이 더 밝게 빛나면<lf><ICON ACT_BtnR> 누르기
+<string>에보니 앤 아이보리 장착:<lf><ICON ACT_BtnL> 누르기
+<string>에보니 앤 아이보리 장착:<lf>단테의 오른팔이 더 밝게 빛나면<lf><ICON ACT_BtnL> 누르기
+<string>에보니 앤 아이보리 장착:<lf>단테의 오른팔이 더 밝게 빛나면<lf><ICON ACT_BtnL> 누르기
+<string>에보니 앤 아이보리 장착:<lf>단테의 오른팔이 더 밝게 빛나면<lf><ICON ACT_BtnL> 누르기
+<string>에보니 앤 아이보리 장착: 땅에서<lf><ICON ACT_BtnL>으로 쏘고 재빨리 <ICON ACT_BtnR> 누르기,<lf>또는 <ICON ACT_BtnR>으로 쏘고 재빨리 <ICON ACT_BtnL> 누르기
+<string>에보니 앤 아이보리 장착:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로<lf>누른 다음, <ICON ACT_BtnR> 연타
+<string>에보니 앤 아이보리 장착:<lf>공중에서 <ICON ACT_BtnR> 누르기
+<string>코요테-A 장착:<lf>땅에서 <ICON ACT_BtnR> 연타
+<string>코요테-A 장착:<lf>공중에서 <ICON ACT_BtnR> 누르기
+<string>코요테-A 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>코요테-A 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>코요테-A 장착: 땅에서<lf>건 스팅어 발동 상태로<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>코요테-A 장착: 땅에서<lf>건 스팅어 발동 상태로<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>코요테-A 장착: 땅에서<lf>건 스팅어 발동 상태로<lf><ICON ACT_RB>+<ICON ACT_LS> 가로 방향 +<ICON ACT_BtnR> 누르기
+<string>카리나 안 장착:<lf>땅에서 <ICON ACT_BtnR> 누르기
+<string>카리나 안 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>카리나 안 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>카리나 안 장착:<lf>공중에서 <ICON ACT_BtnR> 누르기
+<string>더블 카리나 안 장착:<lf>땅에서 <ICON ACT_BtnR> 홀드
+<string>더블 카리나 안 장착: 땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누른 다음,<lf>캐스케이드가 시작되면 <ICON ACT_BtnR> 홀드
+<string>더블 카리나 안 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>더블 카리나 안 장착:<lf>공중에서 <ICON ACT_BtnR><lf> 누르기
+<string>닥터 파우스트 장착:<lf><ICON ACT_BtnR> 누르기
+<string>닥터 파우스트 장착:<lf>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>닥터 파우스트 장착:<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누른 다음,<lf>발동 후 <ICON ACT_BtnL> 누르기
+<string>
+<string>자동
+<string>자동
+<string>자동
+<string>땅에서 <ICON ACT_BtnR> 누르기
+<string>공중에서 <ICON ACT_BtnR> 누르기
+<string>적이 공격하는 순간 <ICON ACT_BtnR> 누르기
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>적이 공격하는 순간<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnR> 누르기
+<string>
+<string>인간 또는 악마 모습에서 <ICON ACT_LB> 홀드
+<string><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string><ICON ACT_BtnL> 누르기
+<string>점프 후 떨어지는 중에 <ICON ACT_BtnD> 누르기
+<string><ICON ACT_BtnR> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 누르기
+<string><ICON ACT_LT> 누르고 홀드
+<string><ICON ACT_RT> 누르기
+<string><ICON ACT_BtnU>+<ICON ACT_BtnL>  누르기
+<string>스타일리시 랭크 SSS로 진 데빌 트리거<lf>변신 상태에서 SDT 게이지가 빛날 때<lf><ICON ACT_LB> 누르기
+<string>
+<string><skill player="d" id="331"><lf><lf><ICON ACT_LS>을 기울이면<lf>캐릭터가 그 방향으로 움직입니다.<lf>크게 기울이면 빨리 움직입니다.
+<string><skill player="d" id="332"><lf><lf>카메라를 움직여 주변을 봅니다. <lf><ICON ACT_RStP>을 누르면 캐릭터 뒤에서 보는<lf>기본값으로 돌아갑니다. 
+<string><skill player="d" id="333"><lf><lf>적과 특정 물체에 록온합니다.<lf><ICON ACT_RB>를 홀드하면 공격하고,<lf><ICON ACT_LStP>을 누르면<lf>록온 타겟이 변경됩니다.
+<string><skill player="d" id="334"><lf><lf>공중으로 점프합니다. 점프 높이는 <lf><ICON ACT_BtnD>을 누르는 시간에 따라 달라집니다.
+<string><skill player="d" id="335"><lf><lf>땅이나 공중에서 적을 다양하게<lf>도발합니다. 도발 종류는<lf>현재의 스타일리시<lf>랭크에 따라 달라집니다.
+<string>
+<string><skill player="d" id="337"><lf><lf>옆으로 굴러 적의 공격을 피합니다.
+<string><skill player="d" id="338"><lf><lf>벽을 박차면서 한 번 더 점프합니다.
+<string><skill player="d" id="339"><lf><lf>같은 방향으로 <ICON ACT_LS>을 계속 홀드하여<lf>전력 질주합니다.
+<string><skill player="d" id="340"><lf><lf>공중에서 적을 발판 삼아<lf>이중 점프를 합니다.
+<string><skill player="d" id="341"><lf><lf>악마의 힘으로 공중에 발판을 만들어<lf>이중 점프합니다.
+<string><skill player="d" id="342"><lf><lf>날개를 펼쳐 정면으로 활강합니다.<lf><ICON ACT_LS>로 방향을 바꿉니다.
+<string><skill player="d" id="343"><lf><lf>오브를 수집할 수 있는<lf>범위가 증가합니다.
+<string><skill player="d" id="344"><lf><lf>데빌 트리거가 활성 상태인 동안에는<lf>DT 게이지가 서서히 소모됩니다.
+<string><skill player="d" id="345"><lf><lf>큰 값을 치른 자에게만 주어지는<lf>특수 도발입니다. 일반 도발보다<lf>스타일리시 랭크가 많이 증가합니다.
+<string><skill player="d" id="346"><lf><lf>블러디 팰리스에서 승리한 자에게만<lf>주어지는 특수 도발입니다. 버질처럼<lf>머리를 뒤로 넘깁니다.<lf>
+<string><skill player="d" id="347"><lf><lf>내면의 악마를 해방시켜<lf>무시무시한 악마로 변신합니다.<lf>DT 게이지를 소모합니다.<lf>공격력, 방어력, 속도가 증가합니다.<lf>시간이 지나면서 생명력을 회복합니다.
+<string><skill player="d" id="348"><lf><lf>무기 슬롯을 강제로 확장하고 모든<lf>무기를 사용 가능한 상태로 둡니다. 하지만<lf>이 상태는 불안정하고 각 무기의<lf>장점을 살리기가 어려울 수 있습니다.<lf>소심한 사람에게는 권장되지 않습니다.
+<string>
+<string><skill player="d" id="352"><lf><lf>빠른 삼단 콤보를 시전합니다.
+<string><skill player="d" id="353"><lf><lf>리벨리온 콤보 A의 변형입니다.<lf>앞에 있는 적을 공격하면서<lf>뒤에 있는 적에게도 데미지를 줍니다.
+<string><skill player="d" id="354"><lf><lf>막강한 공중 공격으로<lf>가장 단단한 악마의 두개골도<lf>산산조각내버립니다.
+<string><skill player="d" id="355"><lf><lf>앞으로 돌진하면서 적을 띄워버립니다. <lf><ICON ACT_BtnU>을 홀드하면 공중으로 쫓아가 <lf>빠르게 후속타를 날립니다.
+<string><skill player="d" id="356"><lf><lf>적에게 빠르게 돌진해서<lf>가운데를 꿰뚫어버립니다.<lf>데빌 트리거 활성 상태에서는 <lf>공격이 더 강해지지만<lf>DT 게이지를 더 많이 소모합니다.
+<string><skill player="d" id="357"><lf><lf>일반 관통 공격의<lf>강화 버전입니다.<lf>공격 범위가 더 깁니다.
+<string><skill player="d" id="358"><lf><lf>빛의 속도로 돌진해<lf>적을 찌릅니다.<lf><ICON ACT_BtnU>을<lf>연타하면 더 많이 찌릅니다.
+<string><skill player="d" id="359"><lf><lf>적에게 검을 날리면 검이<lf>잠시 동안 적을 썰어버립니다.<lf><ICON ACT_BtnR> 또는<lf><ICON ACT_BtnU>으로 검을 불러들입니다.
+<string>
+<string><skill player="d" id="367"><lf><lf>빠른 삼단 콤보를 시전합니다.
+<string><skill player="d" id="368"><lf><lf>스파다 콤보 A의 변형입니다.<lf>앞에 있는 적을 공격하면서<lf>뒤에 있는 적에게도 대미지를 줍니다.
+<string><skill player="d" id="369"><lf><lf>막강한 공중 공격으로<lf>가장 단단한 악마의 두개골도<lf>산산조각내버립니다.
+<string><skill player="d" id="370"><lf><lf>검이 지옥의 낫처럼 휘어져<lf>적을 하늘로 날려버립니다.<lf><ICON ACT_BtnU>을 홀드하면 적을 쫓아가<lf>최후의 일격을 가합니다.
+<string><skill player="d" id="371"><lf><lf>검이 창으로 변해 눈 깜짝할<lf>새에 적을 꿰뚫어버립니다.<lf>데빌 트리거 활성 상태에는<lf>공격이 더 강해지지만 DT<lf>게이지를 더 많이 소모합니다.
+<string><skill player="d" id="372"><lf><lf>스팅어의 강화 버전으로<lf>적을 더 멀리서도 공격합니다.
+<string><skill player="d" id="373"><lf><lf>검이 창처럼 변해, 적과의 거리를<lf>좁혀 조각조각 썰어버립니다. <lf><ICON ACT_BtnU>을 연타하면<lf>더 많이 공격합니다.
+<string>
+<string><skill player="d" id="382"><lf><lf>빠른 삼단 콤보를 시전합니다.
+<string><skill player="d" id="383"><lf><lf>DSD 콤보 A의 변형입니다.<lf>앞에 있는 적을 공격하면서<lf>뒤에 있는 적에게도 대미지를 줍니다.
+<string><skill player="d" id="384"><lf><lf>이단 공격으로 적을 띄운 후<lf>후속타를 날립니다.<lf>네 번째 공격 때<lf><ICON ACT_BtnU>을 홀드하면<lf>지속적인 공격을 퍼붓습니다.
+<string><skill player="d" id="385"><lf><lf>막강한 공중 공격으로<lf>가장 단단한 악마의 두개골도<lf>산산조각내버립니다.
+<string><skill player="d" id="386"><lf><lf>공중에서 적에게 검 공격을 퍼붓습니다.
+<string><skill player="d" id="387"><lf><lf>강력한 검 공격으로<lf>적을 띄워버립니다.<lf><ICON ACT_BtnU>을 홀드하면<lf>같이 뛰어올라 후속타를 날립니다.
+<string><skill player="d" id="388"><lf><lf>적에게 돌진해 반응할 틈도 주지 않고<lf>검으로 꿰뚫어버립니다. 데빌 트리거 활성<lf>상태에는 공격이 더 강해지지만 DT<lf>게이지를 더 많이 소모합니다.
+<string><skill player="d" id="389"><lf><lf>스팅어의 강화 버전으로<lf>적을 더 멀리서도 공격합니다.
+<string><skill player="d" id="390"><lf><lf>적에게 돌진해 바늘처럼 <lf>날카롭게 찌릅니다.<lf><ICON ACT_BtnU>을 연타하면<lf> 더 많이 찌릅니다.
+<string><skill player="d" id="391"><lf><lf>검을 맹렬하게 휘둘러 멀리<lf>있는 적까지 충격파로 공격합니다.<lf><ICON ACT_BtnU>을<lf>홀드하면 더 강하게 공격합니다.
+<string><skill player="d" id="392"><lf><lf>드라이브 후속타로 둘 이상의<lf>충격파를 빠르게 연타로<lf>날립니다.
+<string><skill player="d" id="393"><lf><lf>마법의 검 네 개가 스스로<lf>공격하고, 피하고, 막습니다.<lf>정해진 시간이 지나면 검은 사라집니다.<lf>DT 게이지를 2칸 소모합니다.
+<string><skill player="d" id="394"><lf><lf>소드 포메이션의 업그레이드입니다.<lf>검의 소환 시간이 길어지고,<lf>다시 한 번 소환할 수 있는<lf>쿨다운이 짧아집니다.
+<string><skill player="d" id="395"><lf><lf>소드 포메이션의 최종 진화입니다.<lf>검의 소환 시간이 훨씬 더 길어지고,<lf>다시 한 번 소환할 수 있는<lf>쿨다운이 훨씬 더 짧아집니다.
+<string><skill player="d" id="396"><lf><lf>근접 무기 공격 후<lf>마법의 검이 자동으로<lf>후속타를 날립니다.
+<string><skill player="d" id="397"><lf><lf>마법의 검이 근처의<lf>위험을 감지하고<lf>자동으로 처치합니다.
+<string><skill player="d" id="398"><lf><lf>점프, 대쉬를 반복하고<lf>스카이 스타와 에어 트릭을<lf>사용할 수 있는 횟수가 늘어납니다.
+<string><skill player="d" id="399"><lf><lf>공격을 막아내면 마법의 검이<lf>주위를 방어하면서<lf>로얄 게이지가 충전됩니다. 검이<lf>공격을 막아내 대미지를 줄여줍니다.
+<string>
+<string><skill player="d" id="407"><lf><lf>점프 시 근처의 적을 공격하는<lf>충격파를 방출합니다.
+<string><skill player="d" id="408"><lf><lf>블로 모드 또는 킥 모드 중<lf>특정 동작에 의해 발동됩니다.<lf>발로그의 과열 에너지가<lf>방출되면서 일시적으로 공격력이<lf>폭주합니다.
+<string><skill player="d" id="409"><lf><lf>이그니션 공격 버프의<lf>업그레이드입니다.<lf>효과가 더 오래 지속됩니다.
+<string><skill player="d" id="410"><lf><lf>이그니션 공격 버프의<lf>최종 진화입니다.<lf>효과 지속 시간이 크게 증가합니다.
+<string><skill player="d" id="411"><lf><lf>빠른 펀치의 블로 모드와<lf>강력한 킥의 킥 모드를<lf>스위칭합니다.<lf>가능한 동작은<lf>모드에 따라 달라집니다.
+<string><skill player="d" id="412"><lf><lf>블로 모드에서는 연속 펀치로<lf>카운터를 올립니다.<lf>일정 숫자에 도달하면 이그니션이<lf>발동합니다. 대미지를 받거나,<lf>점프하거나, 피하면<lf>카운터가 영으로 리셋됩니다.
+<string><skill player="d" id="413"><lf><lf>날렵한 펀치 콤보를 시전합니다.
+<string><skill player="d" id="414"><lf><lf>적의 방어를 뚫고 빠르게<lf>돌진해 강력한 공격으로<lf>휘청거리게 합니다.
+<string><skill player="d" id="415"><lf><lf>블로 모드에서 킥 모드로<lf>바꾸면서 킥을 날립니다.
+<string><skill player="d" id="416"><lf><lf>공격 후 그대로 가속을 붙여<lf>적의 카운터에서<lf>벗어납니다.<lf><ICON ACT_LS>을 좌/우로 기울여<lf>그 방향으로 피합니다.
+<string><skill player="d" id="417"><lf><lf>빠른 공중 삼연타 콤보를 시전합니다.
+<string><skill player="d" id="418"><lf><lf>빠르게 회전하면서<lf>강력한 삼단 킥을 날립니다.
+<string><skill player="d" id="419"><lf><lf>발로그 콤보 A의 스타일리시한 변형입니다.<lf>고속 회전 킥이 근처의 적을<lf>끌어와 더 강하게 공격합니다.
+<string><skill player="d" id="420"><lf><lf>공중에서 강력한<lf>킥으로 내려칩니다.
+<string><skill player="d" id="421"><lf><lf>공중 회전 킥으로<lf>적을 띄워버립니다.<lf>날아다니는 적에게 효과적입니다.
+<string><skill player="d" id="422"><lf><lf>킥 모드에서 블로 모드로 바꾸면서<lf>강력한 펀치를 날립니다.
+<string><skill player="d" id="423"><lf><lf>댄스 플로어를 달구면서 이그니션을<lf>발동합니다. 히트 업 활성 상태에서는<lf>추가 대미지를 받습니다.
+<string><skill player="d" id="424"><lf><lf>헤비 졸트로 돌진한 후,<lf>왼손 주먹으로 적을<lf>하늘로 날려버립니다.<lf>
+<string><skill player="d" id="425"><lf><lf>웰터 무브로 피하면서 그 방향으로<lf>카운터를 날립니다.<lf>적 공격을 피하면서<lf>고통을 선사합니다.
+<string>
+<string><skill player="d" id="432"><lf><lf>속박에서 벗어나,<lf>맹렬한 콤보로 적을 공격합니다.
+<string><skill player="d" id="433"><lf><lf>케르베로스 콤보 A의 또 다른 변형입니다.<lf>주변 지역을 휩쓸면서<lf>정면의 적을 사냥합니다.
+<string><skill player="d" id="434"><lf><lf>공중에서 회전하면서 빠르게<lf>근처의 모든 적을 썰어버립니다.
+<string><skill player="d" id="435"><lf><lf>공중에서 빠르게 회전하다가<lf>적을 덮치면서 강한<lf>충돌 대미지를 줍니다.<lf>데빌 트리거 활성 상태에는<lf>공격이 더 강해지지만 DT<lf>게이지를 더 많이 소모합니다.
+<string><skill player="d" id="436"><lf><lf>리볼버 콤보의 강화 버전입니다.<lf>공격 거리와 회전 강도가 증가합니다.
+<string><skill player="d" id="437"><lf><lf>땅에 사슬을 내려쳐<lf>강력한 빙하 검으로<lf>적을 찌릅니다.
+<string><skill player="d" id="438"><lf><lf>피부를 단단한 얼음으로 만들어<lf>적의 공격을 막아냅니다.
+<string><skill player="d" id="439"><lf><lf>무기를 번개로 감싸<lf>활 모양으로 휘둘러<lf>근처의 적을 날려버립니다.
+<string><skill player="d" id="440"><lf><lf>무기를 번개로 감싸<lf>넓은 반경의 모든 적을<lf>여러 번 공격합니다.
+<string><skill player="d" id="441"><lf><lf>타겟을 향해 천천히 내려가는<lf>번개 구슬 네 개를 소환합니다.
+<string><skill player="d" id="442"><lf><lf>무기를 번개로 감싸<lf>공중에 휘둘러<lf>근처의 적을 날려버립니다.
+<string>
+<string><skill player="d" id="452"><lf><lf>적을 회전하는 바퀴로<lf>끌어와 콤보 대미지를 가합니다.
+<string><skill player="d" id="453"><lf><lf>기어 휠이 활성 상태일 때,<lf>다른 <trc id="0">을 누르면<lf>이 후속타를 날립니다.
+<string><skill player="d" id="454"><lf><lf>기어 휠이 활성 상태일 때, 무기가<lf>빛날 때까지 기다렸다가 다른<lf><trc id="0">을 눌러<lf>더 빠른 후속타를 날립니다.
+<string>
+<string><skill player="d" id="455"><lf><lf>기어 휠이 활성 상태일 때, 공격이<lf>끝나는 순간 다른 <trc id="0">을 눌러<lf>훨씬 빠르고 강력한 후속타를<lf>날립니다.
+<string>
+<string><skill player="d" id="456"><lf><lf>삼단 콤보 공격으로 이어갑니다.<lf>1-2단에서 기어 휠이 발동됩니다.<lf>소드 마스터 스타일에서는 카발리에<lf>콤보 B로 연계됩니다. 데빌 트리거 활성 시<lf>공격이 더 강해지지만 DT<lf>게이지를 더 많이 소모합니다.
+<string><skill player="d" id="457"><lf><lf>트윈 카발리에를 교차시켜<lf>무시무시한 공격을 가합니다.<lf>기어 휠이 발동됩니다.
+<string><skill player="d" id="458"><lf><lf>트윈 카발리에로 적에게 공격을<lf>날립니다.
+<string><skill player="d" id="459"><lf><lf>트윈 카발리에를 공중에서 회전시키는<lf>이단 콤보 공격입니다. 기어 휠이<lf>발동됩니다. 소드마스터 스타일에서는<lf>콤보 중 에어리얼 모터 레이드로<lf>연계할 수 있습니다.
+<string><skill player="d" id="460"><lf><lf>적의 공격 후 이 고속 공격을<lf>시전하면 하늘로 솟아오릅니다.<lf>기어 휠이 발동됩니다.
+<string><skill player="d" id="461"><lf><lf>공중의 적을 회전하는 바퀴로<lf>끌어왔다가 땅으로 내리꽂습니다.<lf>기어 휠이 발동됩니다.
+<string>
+<string><skill player="d" id="472"><lf><lf>대미지는 약하지만 발사 속도가<lf>빠른 보통의 총알을 발사합니다.
+<string><skill player="d" id="473"><lf><lf>총알에 악마의 힘을 불어넣어<lf>더 강한 대미지를 가합니다.<lf>건슬링어 스타일에서 자동 충전됩니다.
+<string><skill player="d" id="474"><lf><lf>차지 샷의 업그레이드입니다.<lf>지속 시간이 길어집니다.
+<string><skill player="d" id="475"><lf><lf>차지 샷의 최종 진화입니다.<lf>지속 시간이 훨씬 더 길어집니다.
+<string>
+<string><skill player="d" id="482"><lf><lf>광역으로 적에게 총알을 날리는<lf>샷건을 발사합니다. 가까운 적<lf>하나에게는 엄청난 대미지를 줍니다.
+<string><skill player="d" id="483"><lf><lf>샷건 총알에 악마의<lf>힘을 불어넣습니다.
+<string><skill player="d" id="484"><lf><lf>차지 쉘의 업그레이드입니다.<lf>총알에 힘을 더 빨리 불어넣습니다.
+<string><skill player="d" id="485"><lf><lf>차지 쉘의 최종 진화입니다.<lf>총알에 힘을 가장 빨리 불어넣습니다.
+<string>
+<string><skill player="d" id="492"><lf><lf>폭발 미사일을<lf>발사합니다.
+<string><skill player="d" id="493"><lf><lf>고성능 폭약을 실은<lf>더 강력한 미사일을 발사합니다.
+<string><skill player="d" id="494"><lf><lf>폭발 미사일을 두 방<lf>발사합니다.
+<string><skill player="d" id="495"><lf><lf>트윈 카리나 안을 연결해<lf>뜨거운 에너지 빔으로<lf>적을 꿰뚫어버립니다.
+<string>
+<string><skill player="d" id="502"><lf><lf>적에게 레드 오브를 빠르게<lf>발사합니다. 보유한 레드 오브를<lf>소모합니다.
+<string><skill player="d" id="503"><lf><lf>주변 지역을 무수한 레드 오브로 덮어<lf>접촉하는 적에게 데미지를<lf>줍니다.<lf>보유한 레드 오브를 소모합니다.
+<string><skill player="d" id="504"><lf><lf>모자를 던집니다. 이 모자에 맞은 적은<lf>닥터 파우스트 이외의 공격에도<lf>레드 오브를 떨어뜨립니다.<lf>단, 세트 해트의 타겟이 된 적에게<lf>공격을 받으면 레드 오브를 잃습니다.
+<string><skill player="d" id="505"><lf><lf>세트 해트에 맞은 모든 적에게<lf>데미지를 주면서 레드 오브를 흡수합니다.
+<string><skill player="d" id="506"><lf><lf>닥터 파우스트를 장착한 동안 오브<lf>획득량과 소모량이 증가합니다.<lf>더 많은오브를 사용하면 <lf>공격력이 더욱 강해집니다.
+<string><skill player="d" id="507"><lf><lf>닥터 파우스트를 장착한 동안<lf>오브 획득량과 소모량이 더욱 증가합니다.
+<string><skill player="d" id="508"><lf><lf>닥터 파우스트를 장착한 동안 오브<lf>획득량과 소모량이 최대로 증가합니다.<lf>오브를 대량으로 획득할 수 있지만<lf>소모량도 그만큼 늘어나므로 주의해서<lf>사용하십시오.
+<string><skill player="d" id="509"><lf><lf>세트 해트와 매드 해터 지속<lf>시간이 증가합니다. 대미지를 받은<lf>적이 레드 오브를 내놓습니다.<lf>또한, 영향을 받을 수 있는 적의<lf>수가 증가합니다.
+<string><skill player="d" id="510"><lf><lf>해트 트릭 지속 시간이 증가합니다.<lf>모든 적이 정해진 시간 동안<lf>더 많은 레드 오브를 내놓습니다.
+<string>
+<string><skill player="d" id="517"><lf><lf>2레벨 트릭스터 스킬을 배웁니다.<lf><lf> • <skill player="d" id="524"><lf> • <skill player="d" id="522">
+<string><skill player="d" id="518"><lf><lf>3레벨 트릭스터 스킬을 배웁니다.<lf><lf> • <skill player="d" id="523"><lf> • <skill player="d" id="525">
+<string><skill player="d" id="519"><lf><lf>4레벨 트릭스터 스킬을 배웁니다.<lf><lf> • <skill player="d" id="526">
+<string><skill player="d" id="520"><lf><lf>아무 방향으로나 돌진해서<lf>(<ICON ACT_LS> 기울이기)<lf>적 공격을 피합니다.
+<string><skill player="d" id="521"><lf><lf>악마의 힘으로 공중에 발판을 만들어<lf>원하는 가로 방향으로 움직입니다<lf>(<ICON ACT_LS> 기울이기).
+<string><skill player="d" id="522"><lf><lf>적에게 돌진해 적을<lf>차고 위로 뛰어 오릅니다.
+<string><skill player="d" id="523"><lf><lf>스카이 스타로 적에게 돌진하고,<lf>적의 신체를 이용해 돌아옵니다.<lf>적을 계단 삼아<lf>땅으로 다시 내려옵니다.
+<string><skill player="d" id="524"><lf><lf>공격을 받아 날아간 후에<lf>재빨리 전열을 가다듬습니다.
+<string><skill player="d" id="525"><lf><lf>적의 머리 위로 돌진해<lf>공중에서 나타납니다.
+<string><skill player="d" id="526"><lf><lf>적을 향해 돌진해<lf>땅에서 나타납니다.
+<string>
+<string><skill player="d" id="532"><lf><lf>2레벨 소드마스터 스킬을 배웁니다.
+<string><skill player="d" id="533"><lf><lf>3레벨 소드마스터 스킬을 배웁니다.
+<string><skill player="d" id="534"><lf><lf>4레벨 소드마스터 스킬을 배웁니다.
+<string><skill player="d" id="535"><lf><lf>리벨리온을 빠르게 회전시켜<lf>적을 하늘로 날려버립니다.
+<string><skill player="d" id="536"><lf><lf>프롭 발동 후 회전하는 검으로<lf>적을 찔러버립니다.<lf><ICON ACT_BtnR>을 홀드하면<lf>지속 시간이 길어집니다.
+<string><skill player="d" id="537"><lf><lf>공중에서 적에게 검 공격을 퍼붓습니다.
+<string><skill player="d" id="538"><lf><lf>열정적인 탱고로 무대를 장악해<lf>적을 산산조각 냅니다.
+<string><skill player="d" id="539"><lf><lf>지옥의 낫으로 변한 검을<lf>아주 빠르게 회전시켜<lf>적을 하늘로 날려버립니다.
+<string><skill player="d" id="540"><lf><lf>프롭 발동 후 낫 모양 검으로<lf>적을 찔러버립니다.<lf><ICON ACT_BtnR>을 홀드하면<lf>지속 시간이 길어집니다.
+<string><skill player="d" id="541"><lf><lf>공중에서 적에게 검 공격을 퍼붓습니다.
+<string><skill player="d" id="542"><lf><lf>지옥의 낫으로 변한 검을<lf>적에게 던져<lf>갈기갈기 찢어버립니다.<lf>불러들이려면 <ICON ACT_BtnR><lf>또는 <ICON ACT_BtnU>을 누릅니다.
+<string><skill player="d" id="543"><lf><lf>열정적인 탱고로 무대를 장악해<lf>적을 산산조각 냅니다.
+<string><skill player="d" id="544"><lf><lf>마법의 검을 이용한 오단 공격입니다.
+<string><skill player="d" id="545"><lf><lf>마법의 검을 빠르게<lf>휘둘러 적을 꿰뚫습니다.
+<string><skill player="d" id="546"><lf><lf>마법의 검으로<lf>적을 하늘로 날려버립니다.
+<string><skill player="d" id="547"><lf><lf>마법의 검을 여러 개 휘둘러<lf>적들을 쓸어버립니다.
+<string><skill player="d" id="548"><lf><lf>무수한 마법의 검이<lf>함께 춤추며 적에게<lf>최후의 왈츠를 선사합니다.
+<string><skill player="d" id="549"><lf><lf>빠른 회전 펀치 공격을 가해<lf>적을 강력한 회오리바람으로<lf>날려버립니다.
+<string><skill player="d" id="550"><lf><lf>지상에 있는 적에게<lf>잔인한 펀치를 내리꽂아<lf>천지를 뒤흔드는 충격파로<lf>근처의 적들까지 후려칩니다.
+<string><skill player="d" id="551"><lf><lf>강력한 어퍼컷으로 적의<lf>방어를 무너뜨리고 하늘로<lf>날려버립니다.
+<string><skill player="d" id="552"><lf><lf>온힘을 주먹에 집중시켜,<lf>미사일처럼 강력한<lf>어퍼컷을 꽂아넣습니다.
+<string><skill player="d" id="553"><lf><lf>온힘을 주먹에 집중시켜,<lf>바위도 뚫을 만큼 강력한<lf>회전 어퍼컷을 꽂아넣습니다.
+<string><skill player="d" id="554"><lf><lf>엄청난 보디 블로로<lf>적을 묶어놓고, 펀치와<lf>니킥 콤보를 퍼붓습니다.
+<string><skill player="d" id="555"><lf><lf>번개 같은 속도로 회전하면서<lf>광역 공격을 퍼붓습니다.<lf><ICON ACT_BtnR>을 연타하면<lf>더 오래 회전하고,<lf><ICON ACT_LS>으로 회전하면서 이동합니다.
+<string><skill player="d" id="556"><lf><lf>회전 후 빠른 원투<lf>킥 콤보를 날려 적을<lf>공중에 띄웁니다.
+<string><skill player="d" id="557"><lf><lf>적에게 접근한 다음<lf>킥 세례를 퍼붓습니다.
+<string><skill player="d" id="558"><lf><lf>백플립하면서 적들을 제압해<lf>전장을 장악합니다.
+<string><skill player="d" id="559"><lf><lf>사정거리가 긴 삼단 콤보입니다.<lf>무기 끝으로 적을 공격해<lf>최대 대미지를 가합니다.
+<string><skill player="d" id="560"><lf><lf>사악한 킹 케르베로스 C 콤보입니다.<lf>사정거리가 긴 콤보로 앞에 있는<lf>적들을 징벌합니다. 무기<lf>끝으로 공격해 최대<lf>대미지를 가합니다.
+<string><skill player="d" id="561"><lf><lf>무기로 땅을 내려치고<lf>그 주위를 돌며 파괴의 춤을 춥니다.
+<string><skill player="d" id="562"><lf><lf>무기를 지지대 삼아<lf>날카로운 플라잉 킥을 날립니다.
+<string><skill player="d" id="563"><lf><lf>불타는 무기를<lf>정면의 적들에게 휘둘러<lf>광역으로 불타오르게 합니다.<lf>데빌 트리거 활성 상태에는<lf>공격이 더 강해지지만 DT<lf>게이지를 더 많이 소모합니다.
+<string><skill player="d" id="564"><lf><lf>핫 스터프 기술의<lf>속도를 높입니다.
+<string><skill player="d" id="565"><lf><lf>무기에 번개가 번쩍이면서<lf>최대 길이까지 늘어나<lf>멀리 있는 적을 공격합니다.
+<string><skill player="d" id="566"><lf><lf>무기에 번개가 번쩍이면서<lf>최대 길이까지 늘어나<lf>공중에서 회전하며 맹렬히 공격합니다.
+<string><skill player="d" id="567"><lf><lf>무기를 땅에 내려쳐<lf>번개를 소환해 공격합니다.<lf>데빌 트리거 활성 상태에는<lf>공격이 더 강해지지만 DT<lf>게이지를 더 많이 소모합니다.
+<string><skill player="d" id="568"><lf><lf>퍼커션의 전압을 높여<lf>광역으로 공격합니다.
+<string><skill player="d" id="569"><lf><lf>무기에 번개가 번쩍이면서<lf>최대 길이까지 늘어나 공중에서<lf>멀리 있는 적을 공격합니다.
+<string><skill player="d" id="570"><lf><lf>변신한 모터사이클을 타고<lf>급선회하면서 빠른 콤보를 펼칩니다.<lf>1단계와 2단계에서는 기어 휠이<lf>활성화됩니다. 콤보 중 카발리에<lf>콤보 A로 연계할 수 있습니다.
+<string><skill player="d" id="571"><lf><lf>모터사이클을 타고 빠르게 내달리면서<lf>앞쪽의 스파이크로 적을 해치웁니다.<lf>데빌 트리거 활성 상태에는 공격이 더<lf>강해지지만 DT 게이지를 더 소모합니다.
+<string><skill player="d" id="572"><lf><lf>모터사이클 바퀴를 빠르게<lf>회전시켜 적을 날려버린 다음,<lf>위로 쫓아 올라갑니다.
+<string><skill player="d" id="573"><lf><lf>휠리 점프 공격을 강화해<lf>점프하는 높이가<lf>증가합니다.
+<string><skill player="d" id="574"><lf><lf>가속을 살리면서 트윈<lf>카발리에를 교차시켜 무시무시한<lf>공격을 가합니다. 기어 휠이 발동됩니다.<lf>카발리에 콤보 A 또는 B의 2단계로<lf>연계할 수 있습니다.
+<string><skill player="d" id="575"><lf><lf>슬립스트림 공격의 업그레이드입니다.<lf>공격 전 이동 거리가<lf>증가합니다.
+<string><skill player="d" id="576"><lf><lf>공중에서 모터사이클 회전 후<lf>놀라운 묘기를 부리면서 적을 강타합니다.<lf>1단계와 2단계에서는 기어 휠이<lf>활성화됩니다. 콤보 중 에어<lf>카발리에 콤보 A로 연계할 수 있습니다.
+<string><skill player="d" id="577"><lf><lf>공중을 향해 저돌적으로 돌진합니다.<lf>풀 스로틀로 공중으로 뛰어내리면<lf>자동으로 이 스킬이 발동됩니다.
+<string>
+<string><skill player="d" id="582"><lf><lf>2레벨 건슬링어 스킬을 배웁니다.
+<string><skill player="d" id="583"><lf><lf>3레벨 건슬링어 스킬을 배웁니다.
+<string><skill player="d" id="584"><lf><lf>4레벨 건슬링어 스킬을 배웁니다.
+<string><skill player="d" id="585"><lf><lf>강력한 샷으로 적을<lf>비틀거리게 할 수 있습니다.
+<string><skill player="d" id="586"><lf><lf>악마의 힘을 자동 충전해<lf>총알에 폭발력을 더해줍니다.
+<string><skill player="d" id="587"><lf><lf>오토 차지 (E)의 강화 버전입니다.<lf>완충 시간이 감소합니다.
+<string><skill player="d" id="588"><lf><lf>오토 차지 (E)의 최종 진화입니다.<lf>완충 시간이 최소한으로 감소합니다.
+<string><skill player="d" id="589"><lf><lf>데미지는 적지만 한 번에<lf>세 개의 총알을 발사합니다.<lf>총알의 연사 속도가 빠릅니다.
+<string><skill player="d" id="590"><lf><lf>악마의 힘을 자동 충전해<lf>총알에 관통력을 더해줍니다.
+<string><skill player="d" id="591"><lf><lf>오토 차지 (I)의 강화 버전입니다.<lf>완충 시간이 감소합니다.
+<string><skill player="d" id="592"><lf><lf>오토 차지 (I)의 최종 진화입니다.<lf>완충 시간이 최소한으로 감소합니다.
+<string><skill player="d" id="593"><lf><lf>다른 방향의 적 둘을<lf>동시 사격합니다.<lf>사격 중 <ICON ACT_LS>을 기울이면<lf>방향이 바뀝니다.
+<string><skill player="d" id="594"><lf><lf>빠른 사격으로 앞쪽의<lf>적들을 해치웁니다.
+<string><skill player="d" id="595"><lf><lf>공중에서 회전하며<lf>지상으로 총알 세례를 내립니다.<lf><ICON ACT_BtnR>을 홀드하면<lf>아래로 똑바로 사격합니다.
+<string><skill player="d" id="596"><lf><lf>샷건을 쌍절곤처럼<lf>돌리면서 쏩니다.
+<string><skill player="d" id="597"><lf><lf>스피닝 샷건 기술인 파이어웍스를<lf>공중에서 발동합니다.
+<string><skill player="d" id="598"><lf><lf>적에게 록온한 상태로<lf>뒤쪽의 적을 빠르게 쏩니다.
+<string><skill player="d" id="599"><lf><lf>최대 속도로 돌진하면서<lf>총신을 적에게 찔러 넣고<lf>초근접 거리에서 쏴버립니다.
+<string><skill player="d" id="600"><lf><lf>건 스팅어 공격의 변형입니다.<lf>장전을 풀고 앞으로<lf>돌진합니다. 다른 컷인 동작과<lf>매끄럽게 연계됩니다. 슬라이딩 중에<lf><ICON ACT_BtnD>을 누르면<lf>점핑 닷지 공격을 합니다.
+<string><skill player="d" id="601"><lf><lf>건 스팅어 공격의 변형입니다.<lf>장전을 풀고 뒤로<lf>돌진합니다. 다른 컷인 동작과<lf>매끄럽게 연계됩니다.
+<string><skill player="d" id="602"><lf><lf>건 스팅어 공격의 변형입니다.<lf>장전을 풀고 옆으로<lf>돌진합니다. 다른 컷인 동작과<lf>매끄럽게 연계됩니다.
+<string><skill player="d" id="603"><lf><lf>여러 적에 자동 록온하고<lf>유도 미사일을 퍼붓습니다.
+<string><skill player="d" id="604"><lf><lf>적 하나에 록온하고<lf>유도 미사일을 퍼붓습니다.
+<string><skill player="d" id="605"><lf><lf>정면에 활 모양 범위로<lf>소형 미사일을 퍼붓습니다.<lf><ICON ACT_BtnR>을 연타하면 더 많은<lf>미사일을 발사합니다.
+<string><skill player="d" id="606"><lf><lf>아래로 똑바로 캐논을 발사합니다.
+<string><skill player="d" id="607"><lf><lf>여러 적에 자동 록온하고<lf>트윈 카리나 안으로 더 많은<lf>유도 미사일을 퍼붓습니다.
+<string><skill player="d" id="608"><lf><lf>트윈 카리나 안을 연결해<lf>더 강력한 에너지 빔으로<lf>적을 꿰뚫어버립니다.
+<string><skill player="d" id="609"><lf><lf>앞뒤에 활 모양 범위로<lf>소형 미사일을 퍼붓습니다.<lf><ICON ACT_BtnR>을 연타하면 더 많은<lf>미사일을 발사합니다.
+<string><skill player="d" id="610"><lf><lf>트윈 카리나 안을 위아래로<lf>똑바로 발사해 위아래<lf>적을 한 번에 공격합니다.
+<string><skill player="d" id="611"><lf><lf>오브 날이 달린 모자가 몸 주위를<lf>회전하면서 여러 적을 공격합니다.<lf>이 공격에 맞은 적은 닥터 파우스트를<lf>제외하고 무기에 타격을 입을<lf>때마다 레드 오브를 내놓습니다.
+<string><skill player="d" id="612"><lf><lf>거대한 레드 오브를 무더기로 소환해<lf>적을 깔아 뭉갭니다.<lf><ICON ACT_BtnR>을 오래<lf>홀드할수록 위력이 세집니다.<lf>레드 오브를 소모합니다.
+<string><skill player="d" id="613"><lf><lf>모자가 포탑처럼 단테 주위로<lf>떠다니며 레드 샷 공격을 퍼붓습니다.<lf>레드 오브를 소모합니다.<lf>발동 후 같은 명령을 실행하면<lf>모자가 돌아옵니다.
+<string>
+<string><skill player="d" id="622"><lf><lf>2레벨 로얄가드 스킬을 배웁니다.<lf><lf> • <skill player="d" id="626">
+<string><skill player="d" id="623"><lf><lf>3레벨 로얄가드 스킬을 배웁니다.<lf><lf> • <skill player="d" id="629"><lf> • 로얄 게이지 증가(+3)
+<string><skill player="d" id="624"><lf><lf>4레벨 로얄가드 스킬을 배웁니다.<lf><lf> • <skill player="d" id="631"><lf> • 로얄 게이지 증가(+3)
+<string><skill player="d" id="625"><lf><lf>로얄 게이지를 채우는 동안 적 공격을<lf>차단하고 대미지를 무효화합니다.<lf>이 기술은 발동할 때마다<lf>DT 게이지를 소모합니다.<lf>차단 중 <ICON ACT_LS>으로<lf>움직일 수 있습니다.
+<string><skill player="d" id="626"><lf><lf>블록의 공중 버전으로 대미지를<lf>무효화하고 로얄 게이지를<lf>채웁니다.<lf>이 기술은 발동할 때마다<lf>DT 게이지를 소모합니다.
+<string><skill player="d" id="627"><lf><lf>DT 게이지를 소모하지 않고<lf>최대한 가까이에서 적<lf>공격을 차단합니다. 일반 블록보다<lf>로얄 게이지를 더 많이 채웁니다.
+<string><skill player="d" id="628"><lf><lf>로얄 게이지로 쌓인 에너지를<lf>방출해 막대한 대미지를 입힙니다.
+<string><skill player="d" id="629"><lf><lf>로얄 게이지로 쌓인 에너지를<lf>공중에서 방출해 막대한 대미지를<lf>입힙니다.
+<string><skill player="d" id="630"><lf><lf>적 공격을 흡수한 다음<lf>로얄 게이지로 쌓인 에너지를<lf>방출해 무지막지한 대미지를 입힙니다.
+<string><skill player="d" id="631"><lf><lf>로얄 게이지 한 칸을 써서<lf>적 공격을 무력화하고<lf>카운터어택을 날립니다.<lf><ICON ACT_BtnR>을 홀드하면<lf>준비 태세를 유지합니다.
+<string>
+<string><skill player="d" id="642"><lf><lf>DT 게이지를 소모해<lf>SDT 게이지를 충전합니다.
+<string><skill player="d" id="643"><lf><lf>DSD를 최대 위력으로 발휘해<lf>강력한 삼단 콤보를 날립니다.
+<string><skill player="d" id="644"><lf><lf>손바닥에서 에너지를 방출해<lf>어마어마한 힘으로 적을 후려칩니다.
+<string><skill player="d" id="645"><lf><lf>날개를 펴서 공중에 머뭅니다.<lf><ICON ACT_LS>을 기울이면<lf>떠서 움직일 수 있고,<lf><ICON ACT_BtnD>을 누르면 날개를 접고<lf>땅으로 내려옵니다.
+<string><skill player="d" id="646"><lf><lf>초고속으로 움직여 순식간에<lf>적에게 접근할 수 있습니다.
+<string><skill player="d" id="647"><lf><lf>소드 포메이션의 폭풍에 휩싸인<lf>적에게 돌진합니다. 모든 적을 갈기갈기<lf>찢어버립니다. <ICON ACT_BtnU>을<lf>홀드하면 공격이 계속 유지됩니다.
+<string><skill player="d" id="648"><lf><lf>벼락 같은 펀치로 땅을 내려쳐,<lf>주변에서 지옥의 불이 치솟게 하고<lf>근처의 적들을 하늘로<lf>날려버립니다.
+<string><skill player="d" id="649"><lf><lf>적을 붙잡아 몸 속에서 폭발을<lf>일으켜 강력한 폭발력으로<lf>산산조각내버립니다.
+<string><skill player="d" id="650"><lf><lf>활짝 펼친 날개에 에너지를<lf>집중시켜 레이저를 쏟아붓습니다.<lf><ICON ACT_RT>를 홀드하면<lf>공격이 계속 유지됩니다.
+<string><skill player="d" id="651"><lf><lf>모든 힘을 한 번에 방출해 근처<lf>적들에게 치명적인 대미지를 입힙니다.<lf>SDT 게이지를 모두 소모합니다.
+<string><skill player="d" id="652"><lf><lf>스타일리시 랭크 SSS에서<lf>진 데빌 트리거로 변신:<lf>SDT 게이지가 빛날 때<lf><ICON ACT_LB>를 누르면 변신을 풉니다.<lf>잠깐 동안 진 데빌 트리거의<lf>힘을 공격에 쏟아 부을 수 있습니다.
+<string>
+<string>리벨리온<lf> • <skill player="d" id="536">
+<string>리벨리온<lf> • <skill player="d" id="359">
+<string>리벨리온<lf> • <skill player="d" id="538">
+<string>데빌 소드 스파다<lf> • <skill player="d" id="540">
+<string>데빌 소드 스파다<lf> • <skill player="d" id="542">
+<string>데빌 소드 스파다<lf> • <skill player="d" id="543">
+<string>데빌 소드 단테<lf> • <skill player="d" id="545"><lf> • <skill player="d" id="546">
+<string>데빌 소드 단테<lf> • <skill player="d" id="547">
+<string>데빌 소드 단테<lf> • <skill player="d" id="548">
+<string>발로그<lf> • <skill player="d" id="552"><lf> • <skill player="d" id="558">
+<string>발로그<lf> • <skill player="d" id="553">
+<string>발로그<lf> • <skill player="d" id="554"><lf> • <skill player="d" id="557">
+<string>킹 케르베로스<lf> • <skill player="d" id="562"><lf> • <skill player="d" id="440">
+<string>킹 케르베로스<lf> • <skill player="d" id="563"><lf> • <skill player="d" id="567">
+<string>킹 케르베로스<lf> • <skill player="d" id="564"><lf> • <skill player="d" id="568">
+<string>카발리에<lf> • <skill player="d" id="571">
+<string>카발리에<lf> • <skill player="d" id="572">
+<string>카발리에<lf> • <skill player="d" id="573">
+<string>에보니 앤 아이보리<lf> • <skill player="d" id="595">
+<string>에보니 앤 아이보리<lf> • <skill player="d" id="593">
+<string>에보니 앤 아이보리<lf> • <skill player="d" id="594">
+<string>코요테-A<lf> • <skill player="d" id="598">
+<string>코요테-A<lf> • <skill player="d" id="599">
+<string>코요테-A<lf> • <skill player="d" id="600"><lf> • <skill player="d" id="601"><lf> • <skill player="d" id="602">
+<string>카리나 안<lf> • <skill player="d" id="606">
+<string>카리나 안<lf> • <skill player="d" id="605">
+<string>카리나 안<lf> • <skill player="d" id="604">
+<string>더블 카리나 안<lf> • <skill player="d" id="610">
+<string>더블 카리나 안<lf> • <skill player="d" id="609">
+<string>더블 카리나 안<lf> • <skill player="d" id="608">
+<string>닥터 파우스트<lf> • <skill player="d" id="613">
+<string>닥터 파우스트<lf> • <skill player="d" id="509">
+<string>닥터 파우스트<lf> • <skill player="d" id="612">

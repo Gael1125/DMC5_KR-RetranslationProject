@@ -1,0 +1,18 @@
+<string>
+<string>なっ・・・なにっ・・・
+<string>こんな…とこで…！
+<string>チッ、しくじった…！
+<string>この街で…くたばる事になるとはな…
+<string>俺も…年ってことか…
+<string>
+<string>待たせたな！
+<string>ここからが本番だ！
+<string>反撃の時間だ！
+<string>死んだと思ったか？　残念だったな！
+<string>ここからは俺のターンだ！
+<string>
+<string>YES！
+<string>場外まで行ったかな?
+<string>うりァ！
+<string>いい夢見ろよ！
+<string>地獄へ帰りな！

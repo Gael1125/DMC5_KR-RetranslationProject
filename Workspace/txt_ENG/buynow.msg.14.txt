@@ -1,0 +1,15 @@
+<string>
+<string>Devil May Cry 5
+<string>Devil May Cry 5 Deluxe Edition
+<string>TITLE SCREEN
+<string>■Devil May Cry 5®
+<string>■Devil May Cry 5® Deluxe Edition
+<string>The strongest Devil Hunters are back!<lf>The legendary action of Devil May Cry has returned<lf>at the behest of action game fans everywhere!
+<string>The strongest Devil Hunters are back!<lf>The legendary action of Devil May Cry has returned<lf>at the behest of action game fans everywhere!
+<string>The Deluxe Edition includes 5 downloadable weapons,<lf>12 battle themes, additional voice work, live-action video<lf>content and more!
+<string>
+<string>Added Japanese voice
+<string>Added user option data collection flow
+<string>Added data/functionality for add-ons
+<string>Bug fixes
+<string>Bloody Palace now playable

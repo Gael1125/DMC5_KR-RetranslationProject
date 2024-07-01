@@ -1,0 +1,22 @@
+<string>
+<string>BLOODY PALACE
+<string>
+<string>START
+<string>WARMING UP
+<string>CUSTOMIZE
+<string>
+<string>
+<string>
+<string>ブラッディパレスを開始します
+<string>到達済みのステージを選んで練習します
+<string>カスタマイズを行います
+<string>
+<string>
+<string>
+<string>BEST SCORE BOARD
+<string>ARRIVAL STAGE
+<string>
+<string>ARRIVAL RANK
+<string>TOTAL PLAY TIME
+<string>FINAL EXTRA TIME
+<string>

@@ -1,0 +1,80 @@
+<string>
+<string>The proprietor of Devil May Cry,<lf>the finest mobile business to<lf>ever grace the streets of<lf>Fortuna.<lf><lf>Nero grew up as a holy knight in<lf>the Order of the Sword, but when<lf>demons started menacin' his lady<lf>love, Kyrie, he figured it was<lf>time to explore the devilish<lf>powers in his right arm. During<lf>the Fortuna incident, Nero<lf>discovered his connection to<lf>Yamato, the sword once wielded<lf>by Dante's brother...<lf><lf>This connection suggests that<lf>he's somehow got the blood of<lf>Sparda runnin' through his<lf>veins. Nero lost his arm a<lf>little after the Fortuna<lf>incident, but luckily he had<lf>yours truly to fix him up with<lf>some bitchin' hardware. Now he's<lf>back and stronger than ever.<lf><lf>He's probably real grateful.<lf>Just too shy to say thank you.<lf>I get it.
+<string>The way Kyrie tells it, Nero's<lf>cooled down a lot these days.<lf>But that said, he did run<lf>straight down to Hell to try and<lf>kick some asses while he was<lf>still missin' an arm. The guy<lf>ain't exactly a level-headed<lf>individual.<lf><lf>Sure, he can fight better with<lf>one arm than most people could<lf>with three, but takin' on the<lf>new demon king minus your good<lf>arm ain't exactly the height of<lf>common sense.<lf><lf>But it did give me the<lf>opportunity to dream up the<lf>Devil Breaker, so I guess it<lf>wasn't a total loss!
+<string>Battlin' demons, seein' all kinds<lf>of crazy crap comin' up from<lf>the underworld—that's all in<lf>a day's work for devil hunters.<lf>But to watch a guy who's three-<lf>quarters human just bust out a<lf>new arm? That is deeply unsettlin'.<lf><lf>I thought my beautiful Devil<lf>Breaker was headed for the scrap<lf>heap, but it looks like Nero can<lf>fuse his new arm with the Devil<lf>Breaker and use 'em both. Even<lf>raw demon power knows a good<lf>thing when it sees it.
+<string>Some people talk about<lf>conquering their inner demons.<lf>Nero awakens his and grows<lf>wings!?<lf><lf>What kind of power has he tapped<lf>into here? What if there's no<lf>limiter on this stuff? The armies<lf>of the underworld had better<lf>watch their asses!<lf><lf>Still, with great power comes<lf>great screw-ups. Let's hope Nero<lf>can keep his head and not get<lf>drunk on his new power.
+<string>Before, Nero needed Yamato<lf>to tap into demonic power. But<lf>this? It's all him, baby. His<lf>true power unleashed.<lf><lf>I guess getting his right arm<lf>back wasn't enough, so he's<lf>ended up with two big feathery<lf>ones stuck on his back.<lf><lf>I'm starting to think Nero's got<lf>some hang-ups about "arms"<lf>and "power"...<lf><lf>I gotta remind him he can still<lf>use the Devil Breaker in this<lf>form. Ain't no "true perfect<lf>demon" crap gonna upstage<lf>my designs.
+<string>Everybody seems to start any<lf>talk about Dante with "the son<lf>of the legendary dark knight<lf>Sparda." If you ask me, Dante<lf>himself is pretty legendary too.<lf><lf>So he gets a job from this "V"<lf>fella who shows up outta<lf>nowhere, and he goes down to<lf>the underworld to steal back Yamato<lf>from the demon king—the guy<lf>who stole it from Nero.<lf><lf>Surprise twist—even Dante can't<lf>stand up to the guy. I mean, he<lf>gets wrecked. Just goes to show,<lf>there ain't no such thing as the<lf>perfect man.
+<string>I knew the one and only Dante<lf>wouldn't stay down for the<lf>count.<lf><lf>But to absorb Rebellion AND<lf>Sparda into himself to unlock a<lf>whole new level of power? Oo-ee!<lf>These legendary types sure know<lf>how to stage a comeback.<lf><lf>I hear he was out of action for<lf>a whole month followin' his<lf>ass-kicking at the hands of the<lf>Demon King, but for some<lf>reason the Qliphoth was pumping<lf>him full of demonic power the whole<lf>time.<lf><lf>Not only did this speed up his<lf>recovery, it seems it even made<lf>his beard and hair grow out.
+<string>If you're a demon and you see<lf>this, you know you've screwed<lf>up. This is Dante's "gettin' it<lf>done" look.<lf><lf>He may only be half demon, but<lf>when that half is the blood of<lf>Sparda, that's some high-octane<lf>gas you're working with. Most<lf>full demons don't stand a<lf>chance.<lf><lf>Not only can he move faster and<lf>hit harder than anything else in<lf>the room, his wounds heal up in<lf>a flash. This is the full<lf>demon-killin' package.
+<string>Dante's true form. With the two<lf>swords absorbed into him, his<lf>true power has awakened.<lf><lf>He can't stay in this form for<lf>long, but heck, overwhelming<lf>power doesn't have to last long<lf>to deal devastating damage.<lf><lf>With the power of Sparda<lf>unleashed, there's no tellin'<lf>the strength Dante has at his<lf>disposal. Maybe more than<lf>Sparda himself.
+<string>No limits, no barriers, no<lf>contest! Dante with access to<lf>unlimited power is enough to<lf>make Hell itself shudder.<lf><lf>With this Dante on the scene,<lf>you can bet your buns some<lf>devils may cry.
+<string>Lot of mystery about this one.<lf>Call me paranoid, but "V" just<lf>miiiight be a fake name.<lf><lf>Still, he calls himself a Devil<lf>Hunter, and he's got the power<lf>to prove it—or his demon animal<lf>friends do, at least. All V can<lf>do is deliver the final blow<lf>with that cane of his...which<lf>I'd like to take a better look<lf>at if I get the chance.<lf><lf>Seems the pattern in those<lf>tattoos of his is what binds his<lf>lil' helpers to him. They're the<lf>basis of his power.<lf><lf>Speaking of...that ain't the<lf>kind of power that a plain ol'<lf>human could wield...
+<string>Our pal V is not in peak<lf>physical condition. Seems what<lf>little demonic power he has is<lf>all that's keeping him together.<lf>If that power dries up, it'll be<lf>a little difficult for him to<lf>maintain his human form.<lf><lf>Of course, that ain't a problem<lf>for normal humans or demons.<lf>V's keeping secrets—and whatever<lf>they are, they gotta be connected<lf>to his current condition.
+<string>What happens when V finds that<lf>his usually unstable power is<lf>suddenly unlimited?<lf><lf>You ask me, it'll make it easier<lf>for him to stay alive out there.<lf><lf>Then again, he's still so<lf>physically weak he can hardly<lf>stand. If he gets carried<lf>away, he could be settin'<lf>himself up for a smackdown.
+<string>One of the demons V has at his<lf>beck and call.<lf><lf>Apparently this chatty bird-thing<lf>specializes in shock and awe—<lf>it hits everything with lightning<lf>strikes.<lf><lf>Now, my demonology texts show<lf>some references to a demon just<lf>like this one, but it was<lf>defeated by Dante years ago.<lf><lf>Just a coincidence, I guess...<lf>I sure as heck can't find out<lf>anything more about this pecker.
+<string>One of the demons that keeps<lf>V from gettin' himself killed.<lf><lf>Seems to stick to the whole<lf>big black cat motif for the most<lf>part, but it can shift shape<lf>when it wants to.<lf><lf>Again, the old texts collected<lf>by the Order of the Sword<lf>talk about a beast just like<lf>this one, only it never would<lf>have played nice with a human.<lf><lf>Around V, though, this thing's as<lf>meek as a buttercup in a breeze.<lf>And don't tell me it's just 'cause<lf>V's good with animals.
+<string>The last of V's demon helpers.<lf><lf>Unlike the other two, doesn't<lf>seem like this thing thinks for<lf>itself. Near as I can make out,<lf>it's only got three purposes:<lf>destruction, destruction, and<lf>destruction.<lf><lf>Also unlike V's other two<lf>helpers, I'm not seein' any<lf>references to a demon like this<lf>one in any of the old Order of<lf>the Sword texts.<lf><lf>What does that mean? That<lf>not even the Order knew this<lf>thing existed?
+<string>God's gift to gunsmithin' and<lf>the queen of machines—that's<lf>yours truly.<lf><lf>I'm the granddaughter of the one<lf>and only Nell Goldstein, the .45<lf>Caliber Virtuoso. Gunsmithin's in<lf>my DNA!<lf><lf>Gotta wonder whether Nero<lf>realizes just how lucky he is to<lf>be partnered up with a gal like<lf>me.
+<string>Yeah, I tend to make any outfit<lf>look good, but my mechanic getup<lf>is a personal favorite.<lf><lf>When I put this on, it's like<lf>donnin' the holy vestments of<lf>the church of the gun. And I am<lf>ALWAYS ready to preach!<lf><lf>...The fact that cigarette ash<lf>don't leave a mark on it don't<lf>hurt, neither.
+<string>When you're working with bits<lf>and pieces of demons, it's wise<lf>to take a few precautions.<lf><lf>More than once I've been<lf>fiddlin' with the vitals of some<lf>netherbeast only to have them<lf>blow up in my face.<lf><lf>And let's be serious, this is a<lf>face that deserves protection. I<lf>know that hiding my good looks<lf>makes y'all a little sad, but<lf>hey, absence makes the heart<lf>grow fonder.<lf><lf>Don't worry—I'll finish up my<lf>work real quick.
+<string>If there's one word for Lady,<lf>it's prolific. She's done Devil<lf>Hunter gigs all over, and back<lf>when I was running my gun shop,<lf>she was one of my best<lf>customers.<lf><lf>Why does she call herself Lady?<lf>Heck if I know! I ain't gonna<lf>pry into another gal's private<lf>business unless she stops payin'<lf>her gun tab.<lf><lf>Come to think of it, I ain't<lf>never seen Lady doin' something<lf>that didn't involve killin'<lf>demons. She's...kinda messed up.
+<string>Lady may be just a human, but<lf>when the hellfire-and-bullets<lf>start flying, there ain't many<lf>others better to have by your<lf>side.<lf><lf>Her gettin' taken down by this<lf>demon king is enough to give<lf>me the jitters.<lf><lf>Not that I'm gonna high-tail it,<lf>of course. It's my weapons<lf>out there on the front line.<lf>They'll get the job done,<lf>guaranteed.
+<string>When Lady got rescued in the<lf>buff, it fell to yours truly to<lf>keep her assets safe from pryin'<lf>eyes.<lf><lf>Yeah, my clothes look a little<lf>baggy on her, but that's just<lf>'cause she's the scrawny type.<lf>Don't mean I'm heavy or nothin'.<lf><lf>I guess Nero would've enjoyed<lf>seeing her in something<lf>flashier, but round here you're<lf>thankful for what you get.
+<string>Trish is Dante's partner.<lf><lf>I ain't no expert on the woman,<lf>but she ain't as human as she<lf>looks, that's for sure. I mean,<lf>normal human beings can't just<lf>shoot lightning bolts on<lf>command.<lf><lf>I hear that during the Fortuna<lf>incident, she'd infiltrated the<lf>Order of the Sword. That's when<lf>Nero first ran into her.<lf><lf>She was saying, "He was so<lf>inexperienced when he first met<lf>me." Now what's that supposed to<lf>mean?
+<string>Trish is demon through and<lf>through, but even she couldn't<lf>take down the big bad king.<lf><lf>I mean sure, Dante got his ass<lf>beat too, but I kinda hoped one<lf>of the gals would pick up the<lf>slack and save the day for once.
+<string>Ain't never met this fella<lf>myself, so all I got to go on is<lf>rumors. J.D. Morrison: The info<lf>broker who set Dante on a bunch<lf>of his demon-killin' jobs. Lady<lf>seems to have had a few run-ins<lf>with him too.<lf><lf>So great, we finally got someone<lf>around who's in the know. Why<lf>can't he pass Nero a gig or two?
+<string>Dante's mom—the woman the Dark<lf>Knight Sparda fell for, in other<lf>words.<lf><lf>Must've been a heck of a gal to<lf>snag the legendary dark knight<lf>himself.<lf><lf>I guess her feminine instincts<lf>were so strong even giving a<lf>demon a hug was no problem<lf>for her.
+<string>It ain't no secret that<lf>Vergil's quick with a blade and<lf>when you see him in action,<lf>he's one slick mofo. That's<lf>gotta count for something,<lf>right?<lf><lf>Just think if Nero'd learned to<lf>fight from his old man, yeah,<lf>I'd like to see that!<lf><lf>Shoot, no use bitching about it<lf>now. I reckon with moves like<lf>that, Vergil'd have a real chance<lf>at sending that Demon King fella<lf>straight back to hell.
+<string>I figure if Vergil's still got<lf>Yamato, then he and V<lf>are probably splitsville again.<lf><lf>I mean think about it! If he's<lf>really gotten it down, he might<lf>be able carve out a fresh<lf>serving of V whenever he wants.<lf><lf>Then again, there probably ain't<lf>nothing Vergil'd hate more than<lf>having to relying on his human<lf>side... Talk about issues!
+<string>Doppelgangers ain't nothing<lf>new. People been trying to<lf>make them things using magic<lf>for years. Vergil, on the other<lf>hand, just cuts the suckers out<lf>of thin air.<lf><lf>The shape's supposed to be a<lf>reflection of his true form,<lf>which... Let's just say I like<lf>his human form more.<lf><lf>Now you might be thinking that<lf>two's better than one, and you'd<lf>be right, but I think it'd take<lf>more skill than most've got to<lf>be able to make it work.<lf>Probably ain't no thing for<lf>someone like Vergil though.
+<string>Yep, Vergil's got himself a<lf>devil form too. He just absorbs<lf>Yamato into his skin and BAM!,<lf>full-on devil ready to kick ass.<lf><lf>Thing is, he can still use other<lf>weapons. With that amount of<lf>power and speed, there ain't no<lf>telling just how strong he is... <lf><lf>If Nero's thinking about a<lf>family reunion, I better get<lf>busy making him some new<lf>Devil Breakers.
+<string>
+<string>The Devil Hunter
+<string>The Legendary Devil Hunter
+<string>The Mysterious One
+<string>The Artisan of Arms
+<string>The Walking Arsenal
+<string>The Bewitching Devil
+<string>The Broker
+<string>The Alpha and the Omega
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>The Alpha and the Omega
+<string>
+<string>Nero
+<string>One-Armed Nero
+<string>Restored Nero
+<string>Super Nero
+<string>Devil Trigger Nero
+<string>Dante
+<string>Awakened Dante
+<string>Devil Trigger Dante
+<string>Sin Devil Trigger Dante
+<string>Super Dante
+<string>V
+<string>Dying V
+<string>Super V
+<string>Griffon
+<string>Shadow
+<string>Nightmare
+<string>Nico
+<string>Nico at Work
+<string>Nico in Fatigues
+<string>Lady
+<string>Injured Lady
+<string>Lady in Fatigues
+<string>Trish
+<string>Injured Trish
+<string>Morrison
+<string>Eva
+<string>Vergil
+<string>V (Divided)
+<string>Devil Clone
+<string>Sin Devil Trigger Vergil

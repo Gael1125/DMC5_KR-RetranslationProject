@@ -1,0 +1,210 @@
+<string>
+<string>RESULTS
+<string>Stylish Pts
+<string>Bonus & Penalty
+<string>Total Stylish Pts
+<string> pts
+<string>Bonus Red Orbs
+<string>Extra Bonus
+<string>Total Red Orbs
+<string>Penalties
+<string>
+<string>TOTAL RESULTS
+<string>Pro
+<string>07 N
+<string>07 V
+<string>13 N
+<string>13 D
+<string>13 V
+<string>SECRET MISSIONS
+<string>RECORD:
+<string>CLEAR COUNTS
+<string>TOTAL STYLISH POINTS
+<string>
+<string>No Items
+<string>No Damage
+<string>No Continues
+<string>Used A Gold Orb
+<string>Triple Orb Revive
+<string>Triple Continue
+<string>Super Character
+<string>Cleared using auto-assist
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Whiff King
+<string>Trigger Happy
+<string>Storm of Swords
+<string>Musketeer
+<string>Triple Enemy Step
+<string>Consistent Style
+<string>Max Vitality Victory
+<string>Comeback King
+<string>Near-Death Experience
+<string>From Death to Life
+<string>Drawn-out Devil
+<string>Continue Junkie
+<string>Checkpoint Junkie
+<string>Double Death
+<string>Triple Takedown
+<string>Five Fatalities
+<string>Explosive Mistake
+<string>Combo Damage
+<string>Brutal Blow
+<string>Deft Dodger
+<string>Taunt Master
+<string>Air Taunt
+<string>Get Some Air
+<string>Earthbound
+<string>Sandbagged
+<string>Fast Fighter
+<string>Slow Scrapper
+<string>No Devil Trigger
+<string>Devil Trigger Junkie
+<string>Good Teamwork (Coop)
+<string>Going Solo (Coop)
+<string>Red Orb Loser
+<string>Red Orb Winner
+<string>Gun Enthusiast
+<string>Master Swordsman
+<string>Death From Above
+<string>Pop Fly Hitter
+<string>Sniper
+<string>Devil Breaker Breaker
+<string>Breaker Keeper
+<string>Break Away Finish
+<string>Armless Victory
+<string>Jet Setter
+<string>Air Trick Master
+<string>Triple Buster
+<string>Bomber Man
+<string>Exceed Excellence
+<string>Bookworm
+<string>Nightmarish Victory
+<string>Triple Devil Trigger
+<string>No Stalemate
+<string>No Finishing Blows
+<string>Demon Reprieve
+<string>Finishing Blow Blowout
+<string>Wave Rider
+<string>Going It Alone
+<string>No Weapon Change
+<string>All Weapon Change
+<string>No Style Change
+<string>All Style Change
+<string>Unequipped Victory
+<string>Double SDT
+<string>Ignition Enabled
+<string>Shift Into Top Gear
+<string>Red Hot Night Max Charge
+<string>Pedal To the Metal
+<string>SSS Sin Devil Trigger
+<string>Triple Impact
+<string>Extended Heat Up
+<string>Royal Revenge
+<string>Fiendish Friendly Fire
+<string>Feeble Resistance
+<string>Instant Dispatch
+<string>Parry Prince
+<string>Parry King
+<string>Newbie Deflector
+<string>Adept Deflector
+<string>Guard Break Beginner
+<string>Guard Break Ace
+<string>Risk Taker
+<string>Red Empusa Hunter
+<string>Empusa Escape
+<string>Veggie Roast
+<string>David and Goliath
+<string>Just Buster
+<string>Mountain Climber
+<string>Jump Through Hoops
+<string>Gate Crasher
+<string>Puppy Trainer
+<string>Raven Hunter
+<string>Sinful Finish
+<string>Legendary Finish
+<string>Speed Clear B
+<string>Speed Clear A
+<string>Speed Clear S
+<string>Orb Avoider
+<string>Terminator
+<string>No Red Orbs
+<string>333 Orb Jackpot
+<string>Environment Wrecker
+<string>Environment Protector
+<string>Follow the Leader
+<string>Just Passing Through
+<string>Penny Pincher
+<string>Flat Broke
+<string>Window Shopper
+<string>No Nico
+<string>Demolition Derby
+<string>Major Losses
+<string>Get Wet
+<string>Explosion Junkie
+<string>Hail to the King
+<string>Demon King Dodger
+<string>Exceed Weed Whacker
+<string>Hotel Tour
+<string>Balloon Popper
+<string>Demons First
+<string>Wall Crusher
+<string>Leg Wallop
+<string>Break a Leg
+<string>Coffin Breaker
+<string>Against All Odds
+<string>No Nidhogg Hatchling
+<string>Jet Gadget Groove
+<string>Blood Clot Blowout
+<string>Blood Clot Conservationist
+<string>Continuous Coop
+<string>Team-up Trio
+<string>Demon Catcher
+<string>No Running
+<string>Maximum Concentration
+<string>Single Purpose
+<string>Impartial Judgment
+<string>Blade of Justice
+<string>The Blade at Rest
+<string>V's World
+<string>Death by Proxy
+<string>Inner Demon
+<string>The Right Tool for the Job
+<string>
+<string>Born to be Wild
+<string>Guardian Mount

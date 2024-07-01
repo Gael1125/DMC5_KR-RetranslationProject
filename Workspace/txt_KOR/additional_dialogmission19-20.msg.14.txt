@@ -1,0 +1,14 @@
+<string>
+<string>어이 이봐... 이 몸을 상대하려면 좀 더<lf>진지해져야 하지 않겠어? 안 그래?
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0005
+<string>하 하 하! 좋아, 놀아 달라는 거지? 어디 한번 놀아보자고.
+<string>떨고 있군...<lf>공포인가, 아니면 흥분인가?
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0025
+<string>끝내 주는데!
+<string>내가 졌다고...
+<string>좀 하는데!
+<string>이봐, 진짜 재미있는 건 지금부터야!
+<string>여기까진가? 버질 어린이 벌써 우는 거야?
+<string>
+<string>잘 가라, 단테.
+<string>모든게 다 끝났다, 단테. 우리들마저도...

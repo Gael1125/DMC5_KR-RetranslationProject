@@ -1,0 +1,64 @@
+<string>
+<string>NERO DANTE V GAME
+<string>VERGIL GAME
+<string>LEGENDARY DARK KNIGHT
+<string>NERO DANTE V 
+<string>VERGIL
+<string>UNLOCK VERGIL
+<string>
+<string>ネロ、ダンテ、Vでプレイします
+<string>バージルでプレイします
+<string>悪魔が大量に出現する<lf>上級者向けの高難度モードです
+<string>悪魔が大量に出現する高難度モードです
+<string>オンラインストアに移動し、「プレイヤーバージル」を購入します<lf>
+<string>
+<string>VIDEO EX
+<string>
+<string>バージルモードの各種カットシーンを再生します
+<string>
+<string><ICON BtnU>
+<string>
+<string>OFF
+<string>LEVEL0
+<string>LEVEL1
+<string>LEVEL2
+<string>
+<string>ＤＴゲージ 回復
+<string>コンセントレイション 固定
+<string>ＳＤＴゲージ 回復
+<string>
+<string>「ＯＮ」ではＤＴゲージが<lf>時間経過で自動回復します。<lf>また、ＤＴゲージが０になっても<lf>分身が維持されます。<lf>「ＯＦＦ」で上記機能を無効化します。
+<string>レベルを指定すると集中ゲージが<lf>そのレベルで固定され<lf>増減しなくなります。<lf>「OFF」で上記機能を無効化します。
+<string>「自動」ではＳＤＴゲージが<lf>時間経過で自動回復します。<lf>「無限」ではＳＤＴゲージが<lf>最大から一切減らなくなります。<lf>「ＯＦＦ」で上記機能を無効化します。
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>SUPER VERGIL <lf>ORIGINAL
+<string>SUPER VERGIL <lf>EX COLOR
+<string>
+<string>ABILITIES
+<string>YAMATO
+<string>BEOWULF
+<string>MIRAGE EDGE
+<string>MIRAGE BLADE
+<string>
+<string>アビリティを習得します
+<string><RUBY><RB>閻魔刀</RB><RT>ヤマト</RT></RUBY>のスキルを習得します
+<string>ベオウルフのスキルを習得します
+<string>ミラージュエッジのスキルを習得します
+<string><RUBY><RB>幻影剣</RB><RT>ミラージュブレイド</RT></RUBY>のスキルを習得します
+<string>
+<string>近距離攻撃
+<string>幻影剣
+<string>トリックアクション
+<string>ジャンプ
+<string>ロックオン
+<string>近距離武器切り替え
+<string>ドッペルゲンガー発動
+<string>近距離武器切り替え
+<string>分身追従を標準にする
+<string>分身追従を遅く
+<string>分身追従を早く
+<string>ドッペルゲンガー解除
+<string>
+<string>Devil May Cry 5 Special Edition

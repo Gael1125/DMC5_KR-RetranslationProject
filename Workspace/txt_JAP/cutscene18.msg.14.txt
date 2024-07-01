@@ -1,0 +1,94 @@
+<string>
+<string>舞い戻ってきたのか
+<string>往生際が悪いんだよ！
+<string>どいてろ ネロ！
+<string>今のお前に勝っても無意味だ
+<string>うるせえ 来いよ！
+<string>まずは傷を癒し 力を戻せ
+<string>勝負するのは その後だ
+<string>礼を言うぞ ネロ
+<string>クソが！
+<string>今のが“兄貴”か？ <RUBY><RB>Ｖ<RT>ブイ</RUBY>は？
+<string>帰ったのさ
+<string>“自分”にな
+<string>お前も帰れ 満足したろ
+<string>右腕をヤられてんだぞ！？
+<string>俺の獲物だ お前の出番はねえ
+<string>
+<string>俺だってやれる！
+<string>駄目だ！
+<string>もう“足手まとい”じゃ…
+<string>違う！
+<string>じゃあ何だ！？
+<string>お前の親父だ！
+<string>何だって…？
+<string>出会った時から予感はしてた
+<string>お前が<RUBY><RB>閻魔刀<RT>ヤマト</RUBY>と呼応して…<lf>確信したよ
+<string>ヤツの息子だと
+<string>クソ親父でも――
+<string>殺す事はねえ
+<string>親父…？
+<string>
+<string>あの日 立場が逆になっていたら――
+<string>俺達の運命は変わったのか？
+<string>俺も お前も 別の生き方が…
+<string>終わらせよう
+<string>…ダンテ
+<string>
+<string>何が起きてるの？
+<string>まだ終わってない…？
+<string>マズいぞ！ 巻き込まれちまう！
+<string>ダンテ この状況は！？
+<string>クソ兄貴が戻ってきた
+<string>バージル？ どうして…
+<string>ダンテ！
+<string>レディのだが貸してやる
+<string>勝手に…！
+<string>喧嘩よりも逃げた方がイイぜ
+<string>今からクソと戦争だ
+<string>さて どっちが勝つかな
+<string>
+<string>どうした？<lf>バージルに戻ってねえな？
+<string>そういう気分？
+<string>
+<string>よう 賢いダンテちゃん
+<string>俺達はバージルの負の記憶…<lf>見覚えあんだろ？
+<string>確かに そんな気もするな
+<string>どっかで会ったか
+<string>
+<string>ネロアンジェロだった頃の記憶は<lf>もうバージルには必要ねえ
+<string>
+<string>俺達は自分の意思でここにいる！
+<string>復讐だ！
+<string>バージルより先に<lf>俺達がお前を殺すぜ ダンテ！
+<string>
+<string>分かってたろ<lf>お前らが勝てるワケがねえ
+<string>
+<string>…だよな
+<string>だが俺達に勝てねえようじゃ<lf>バージルにはかなわねえ
+<string>さあ 行けよ
+<string>俺達は… これで消えるとするぜ<lf>
+<string>バージルも悪夢とサヨナラさ
+<string>達者でな ダンテ… 弱虫ヤロー…
+<string>じゃあな トリ頭
+<string>ありがとよ
+<string>
+<string>ネロ！ 乗れ！
+<string>ダンテは！？
+<string>後は彼に任せて！
+<string>バージルを知ってるか？
+<string>多少はね
+<string>俺の父親ってのは本当か トリッシュ！？
+<string>
+<string>そうね 私もそう思ってた
+<string>何だよ それ！
+<string>貴方に父殺しをさせたくないの
+<string>
+<string>そうね… 貴方の一生の<RUBY><RB>枷<RT>かせ</RUBY>になるわ
+<string>貴方は命の恩人よ それだけで充分…
+<string>
+<string>ニコ！ 止めろ！
+<string>止まったら死ぬぞ！ アホか！
+<string>いいさ 勝手にやる！
+<string>
+<string>ネロ！

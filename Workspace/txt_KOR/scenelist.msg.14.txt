@@ -1,0 +1,9 @@
+<string>
+<string>SCENE LIST
+<string>
+<string>PROLOGUE
+<string>OPENING
+<string>MISSION 
+<string>ENDING
+<string>
+<string>리플레이할 장면을 선택합니다.

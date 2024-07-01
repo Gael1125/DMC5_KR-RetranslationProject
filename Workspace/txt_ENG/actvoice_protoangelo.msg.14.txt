@@ -1,0 +1,4 @@
+<string>
+<string>Come on...!
+<string>Charge!
+<string>Go!

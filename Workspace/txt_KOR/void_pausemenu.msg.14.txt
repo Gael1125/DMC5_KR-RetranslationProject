@@ -1,0 +1,21 @@
+<string>
+<string>PAUSE MENU
+<string>
+<string>PLAYER SETTINGS
+<string>ENEMY SETTINGS
+<string>RESET
+<string>SKILL LIST
+<string>PLAYER SELECT
+<string>OPTIONS
+<string>EXIT
+<string>
+<string>플레이어 설정을 조정합니다.
+<string>적 설정을 조정합니다.
+<string>플레이어와 적을 재설정하고 모든 대미지를 없앱니다. 
+<string>스킬 목록을 확인합니다.
+<string>컨트롤할 캐릭터를 선택합니다.
+<string>개별 설정을 조정합니다.
+<string>보이드를 나갑니다.
+<string>
+<string>REPLAY
+<string>가장 최근 동작을 확인합니다.

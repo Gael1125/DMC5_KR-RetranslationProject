@@ -1,0 +1,63 @@
+<string>
+<string>패배를 거듭한 그자의 몸은 한계에 이르렀고,<lf>무너져 가고 있었지.
+<string>하지만 그냥 죽을 순 없었어.<lf>꼭 해야 할 일이 있었기에...
+<string>바로 쌍둥이 동생에게 이기는 일.
+<string>단테...
+<string>"내 뼈를 옥죄는 이 무거운 사슬을...!"
+<string>다 쓰러져 가는 몸과 마음으로<lf>동생을 이길 방법은 하나뿐...
+<string>야마토의 힘으로 악마와<lf>인간을 분리하는 것이었지.
+<string>그렇게 결국, 그는 진짜 악마가 된 거야.
+<string>
+<string>그나마 남아 있던 악마의 힘으로<lf>무너지는 육체를 붙잡고는 있지만...
+<string>점점 한계에 다다르고 있어.
+<string>분리되어 인간의 영혼을 되찾고 나니<lf>내가 저지른 죄의 무게를 깨닫게 되더군.
+<string>힘만 좇다가 놓쳐버린 모든 것들의<lf>소중함을 깨닫게 된 거야.
+<string>그래서 단테를 찾아간 건가?
+<string>그래. 바보 같았지. 
+<string>단테라면 이걸 바꿔줄...<lf>해결해줄 거라 생각했는데...
+<string>내 잘못을 바로잡아줄 거라고.
+<string>내가...
+<string>내가 실수한 건가?
+<string>난 당신 엄마가 아냐, V.
+<string>당신도 어른이잖아.
+<string>그러니까 끝까지 도와줘.
+<string>단테의 전쟁을.
+<string>
+<string>레이싱 한번 제대로 했는데?
+<string>
+<string>여기 있었군!
+<string>이봐, 왜 그래?
+<string>야!
+<string>어이, 단테!
+<string>버질이 친절하게도 이걸 내 가슴에 꽂아<lf>넣었을 때 악마의 힘이 발동됐었지.
+<string>
+<string>늘 궁금했어...
+<string>왜 아버지는 내게 리벨리온을 준 걸까?
+<string>뭐라고 중얼대는 거야?
+<string>내가 살면서 수도 없이 찔려봤지만...<lf>이 짓을 하게 될 줄은 몰랐네.
+<string>너 미쳤어!?<lf>죽이라는 악마는 안 죽이고!
+<string>자살은 나중에 해! 내가 도와줄 테니까!
+<string>야마토가 인간과 악마를 분리할 수 있다면...<lf>리벨리온은 어떨까?
+<string>와...
+<string>스파다와 하나가 되고 있잖아?
+<string>
+<string>설마?
+<string>단테, 이 개자식...
+<string>역시 쉽게 죽을 놈이 아니지!
+<string>어이, 녀석 좀 맡아줘.
+<string>다음엔 절대 양보 안 해.
+<string>이겨, 단테. 꼭!
+<string>단테...
+<string>
+<string>아직도 이해를 못 했나 보군.
+<string>이해 못 한 건 너다.
+<string>이미 시작됐다.
+<string>
+<string>무슨 일이지!?
+<string>나쁜 일이지! 당장 가야 해.<lf>저 나무가 열받았나봐!
+<string>
+<string>
+<string>
+<string>클리포트가 완전체가 된 거다.
+<string>좀 성가시긴 했지만
+<string>넌 이미 늦었다.

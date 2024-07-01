@@ -1,0 +1,54 @@
+<string>
+<string>勝手について来いよ<lf>俺は先に行くぜ
+<string>チッ…行き止まりかよ
+<string>こっちで正解だったか<lf>冴えてるぜ
+<string>ここを突っ切るか
+<string>OK…下に降りればいいんだろ？
+<string>折角だ　一緒に踊ろうぜ！
+<string>ニコのヤツここまで来れんのか？<lf>
+<string>歓迎してくれんのか…？　嬉しいね
+<string><RUBY><RB>V</RB><RT>ブイ</RT></RUBY>、どうした？<lf>顔が引きつってるぜ？
+<string>気にすんな！<lf>虫の居所が悪ィのさ！
+<string>あの鎧ヤローが古い知り合いに<lf>似てるもんでよォ！
+<string>変わった友達だな…<lf>今度、紹介してくれよ
+<string>手分けして進む…<lf>その方が効率がいいだろう
+<string>ややこしい道だぜ！<lf>シラミ潰しに調べなきゃなァ！
+<string>…そうだな
+<string>気を付けな！<lf>ヤバいニオイがするぜ…<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>！
+<string>…こっちか
+<string>いいね、いいねェ！<lf>イカれたパーティの始まりだッ！
+<string>クリフォトがここまで育つとは…<lf>何人の血が犠牲になった…？
+<string>よう、調子はどうだ？<lf>
+<string>…悪くない
+<string>生きてたか、坊や！<lf>しぶといヤローだぜ！　ハッハー！
+<string>あんまり喋ると揚げちまうぞ<lf>チキン野郎！
+<string>…流石だよ
+<string>
+<string>忌々しいヤツらめ…！
+<string>珍しい…怒ってんのか？<lf>知り合いに似てるとか？
+<string>…いいからさっさと片付けろ
+<string>へいへい…
+<string>
+<string>ヘイヘイ！　こっちの負担がデカすぎだ！<lf>サボってんじゃねェぞ、坊や！
+<string>そいつらもお喋り野郎が嫌いらしいぜ<lf>しばらく黙ってたらどうだ？
+<string>
+<string>ずいぶん好かれちまったもんだ<lf>俺に恨みでもあんのかね？
+<string>しばらく引き付けていろ<lf>こちらで一体ずつ仕留める
+<string>
+<string>暇か？ 仕事やるよ
+<string>嬉しいね ご注文は？
+<string>
+<string>ニコか？
+<string>何が欲しいんだ？
+<string>
+<string>…来てくれ
+<string>どうした？ 雪でも降ってたか？
+<string>
+<string>…来れるか？
+<string>金は持ってきたろうな？
+<string>
+<string>…出番だ
+<string>さて… どうする？
+<string>
+<string>…急いでくれ
+<string>特急料金だぞ？

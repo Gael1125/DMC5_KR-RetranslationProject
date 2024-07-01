@@ -1,0 +1,19 @@
+<string>
+<string>JUKEBOX
+<string>
+<string>BATTLE TRACKS
+<string>SYSTEM VOICE
+<string>TITLE CALL
+<string>
+<string>ゲーム中で流れる戦闘曲を変更します（演出上、ボス戦闘曲など一部変更されないものがあります）
+<string>スタイリッシュランクが上がった時のボイス変更を行います
+<string>タイトルコールのボイス変更を行います
+<string>
+<string>選択されたキャラクターの戦闘曲が、<lf>この曲に変更されます。
+<string>選択されたキャラクターのスタイリッシュランク変動時ボイスに<lf>専用の追加バリエーションが加わり、ランダム再生されます。
+<string>タイトルコールボイスが、様々なキャラクターによる<lf>ランダム再生に変更されます。
+<string>
+<string>STYLISH CALL
+<string>TITLE CALL
+<string>スタイリッシュランク変動時のボイス変更設定
+<string>タイトル画面のコールボイス変更設定

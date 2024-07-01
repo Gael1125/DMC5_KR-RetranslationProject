@@ -1,0 +1,4 @@
+<string>
+<string>SKILL LIST
+<string>
+<string>{0}の所持スキルを確認します

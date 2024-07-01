@@ -1,0 +1,12 @@
+<string>
+<string>WARMING UP
+<string>
+<string>STAGE
+<string>RANK:
+<string>BEST ADDED TIME
+<string>BEST TIME
+<string>BEST PLAY TIME
+<string>BEST BONUS TIME
+<string>ENEMY INFORMATION
+<string>
+<string>ステージ{0}の練習を開始します

@@ -1,0 +1,14 @@
+<string>
+<string>NEW GAME
+<string>INFORMATION
+<string>モニターの設定をゲームモードにすることを推奨します。
+<string>
+<string>NEW GAME OPTION
+<string>GAME MODE
+<string>終了して次へ
+<string>ゲームモードを変更します
+<string>設定を保存し、ゲームを開始します。<lf>よろしいですか？
+<string>HUMAN
+<string>DEVIL HUNTER
+<string>デビルメイクライシリーズ未経験者に<lf>おすすめのモードです。
+<string>過去にデビルメイクライシリーズを<lf>プレイしたことのある方に<lf>おすすめのモードです。

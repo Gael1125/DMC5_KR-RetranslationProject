@@ -1,0 +1,219 @@
+<string>
+<string>{0}がレポートに登録されました
+<string>
+<string>この個体は、人の血を吸って集める<lf>働き<RUBY><RB>蟻</RB><RT>あり</RT></RUBY>のような役割を持つ悪魔だと<lf>推測される。<lf><lf>吸った血は<RUBY><RB>臀部</RB><RT>でんぶ</RT></RUBY>の器官に蓄積され、<lf>それが一定量溜まるとクリフォトに<lf>送り届けるようだ。<lf><lf>敵が近付いても血の収集や運搬の方<lf>を優先する傾向があるあたり、<lf>あまり知能が高いとは言えないな。<lf><lf>だが、働き<RUBY><RB>蟻</RB><RT>あり</RT></RUBY>だけに数は多い。<lf>油断は禁物という事だな。
+<string><RUBY><RB>蟻</RB><RT>あり</RT></RUBY>の中には、仲間を癒すために蜜を<lf>分泌させる種がいる。<lf><lf>この個体もそれに似た特徴を持って<lf>おり、<RUBY><RB>臀部</RB><RT>でんぶ</RT></RUBY>に蓄えた血が悪魔の傷を<lf><RUBY><RB>癒</RB><RT>いや</RT></RUBY>す成分に変化しているようだ。<lf>それを利用して仲間を<RUBY><RB>癒</RB><RT>いや</RT></RUBY>すのがこの<lf>個体の役目なんだろう。<lf><lf>それをさせないためには、発見次第<lf>こいつを早急に仕留める事だ。<lf><lf>だが、口から毒性の粘液を吐く事も<lf>分かっている。注意はしておけよ。
+<string>こいつは珍種だぞ。<lf><lf>血を採集し続けた結果、体内で血が<lf>結晶化してしまっている個体だ。<lf><lf>血の結晶は体表面まで突き出ている<lf>から、攻撃を加えるだけでボロボロ<lf>と血の結晶を落とすだろう。<lf>さらに運良く倒す事ができれば……<lf>得る物は大きそうだな。<lf><lf>問題はこいつがかなり臆病な事だ。<lf>危険が迫るとすぐ逃走してしまう。<lf>血の結晶が欲しいのなら、何よりも<lf>優先して倒すべき敵だ。
+<string>働き<RUBY><RB>蟻</RB><RT>あり</RT></RUBY>のような存在がいるのなら、<lf>女王蟻がいたっておかしくはない。<lf><lf>だとすれば、巨大さや頑強さから、<lf>この個体こそが女王と呼ぶべき存在<lf>だろうと私は考える。<lf><lf>見た目通り戦闘能力は極めて高い。<lf>周囲の同胞すら巻き込んで敵に攻撃<lf>する様はまさしく無慈悲な女王だ。<lf><lf>また、血を吸う事で力を増幅させる<lf>例もあるようだな。<lf>その際、体表が赤く変色する。<lf>注意深く観察しておけよ。
+<string>ヘルとは魔界を意味する言葉だが、<lf>魔界の住人を指す言葉でもある。<lf><lf><RUBY><RB>古</RB><RT>いにしえ</RT></RUBY>の文献によると彼らは木製の人形<lf>や砂の塊などを<RUBY><RB>依</RB><RT>よ</RT></RUBY>り<RUBY><RB>代</RB><RT>しろ</RT></RUBY>として地上に<lf>出現していたようだ。<lf><lf>だがレッドグレイブ市に現れたこの<lf>悪魔は、魔界の住人そのものだ。<lf>それ程までに魔界と人間界の境界が<lf>曖昧になっているという事だろう。<lf><lf>武器として手にした大鎌は手数こそ<lf>少ないが、威力はかなりのものだと<lf>推測される。注意する事だな。
+<string>この個体はヘルの中でも、攻撃的で<lf><RUBY><RB>獰猛</RB><RT>どうもう</RT></RUBY>な性質の持ち主らしい。<lf><lf>両手に持つ<RUBY><RB>大鉈</RB><RT>おおなた</RT></RUBY>で絶え間なく攻撃を<lf>繰り出してくるようだな。<lf>うかつに接近するのはかなり危険な<lf>行為だと思っていた方がいい。<lf><lf>回収したサンプルを分析したところ<lf>痛覚に対し非常に<RUBY><RB>鋭敏</RB><RT>えいびん</RT></RUBY>で過激な<lf>反応を示すことが分かった。<lf><lf>一撃を喰らわせても油断するな。<lf>起き上がりざまに、痛みを無視して<lf>突っ込んでくるだろうからな。
+<string>数多く存在するヘルの中でも、この<lf>個体は最上位格の存在と思われる。<lf><lf>無数の蛇が束になった両腕は自由に<lf>伸縮させる事ができ、距離を取った<lf>戦いを得意としているようだ。<lf>また、他のヘル達を召喚して自分を<lf>守らせるという行動も確認された。<lf><lf>相手の接近を<RUBY><RB>阻</RB><RT>はば</RT></RUBY>み銃弾をも回避する<lf>その身体能力は、逆に近接戦闘への<lf>ネガティブな意識を感じさせる。<lf><lf><RUBY><RB>隙</RB><RT>すき</RT></RUBY>を突いて接近できるかどうか……<lf>それがこの悪魔を倒すカギだろう。
+<string>魔界に生息する<RUBY><RB>蝙蝠</RB><RT>こうもり</RT></RUBY>の一種だな。<lf><lf>体内に燃焼器官を有し、口から炎を<lf>吐き出す事ができるようだ。<lf><lf>１匹２匹なら恐れるような相手では<lf>ないが、群れを成して出てきた時は<lf>それなりに注意すべきだろう。
+<string>コイツはなかなか面白い身体構造を<lf>持った個体だ。<lf><lf>背部にある燃焼器官から炎を噴出し<lf>それで体全体を覆っている。<lf>つまり、体が燃えているわけだ。<lf><lf>うかつに近付けば、吐かれる炎で<lf>炙り焼きにされちまうだろうな。<lf><lf>背中の器官を傷付ける事ができれば<lf>体を包む炎を消せるだろう。<lf>そこを素早く確実に仕留めるのが<lf>賢い戦い方というものだ。
+<string>悪魔と言えど、物理法則に<RUBY><RB>抗</RB><RT>あらが</RT></RUBY>う事は<lf>できないのが普通だ。<lf><lf>だがコイツは、壁や床をすり抜ける<lf>という非常識な行為を平然と行って<lf>くる、実に厄介な存在だ。<lf>一方で、こちらの攻撃は器用に<RUBY><RB>鋏</RB><RT>はさみ</RT></RUBY>で<lf>防御をしてくる。<lf>つまりコイツは状況に応じて肉体を<lf>変質させているんだろう。<lf><lf>それを司るのは恐らく頭部だ。<lf>頭部に変化を感じたらそこを狙って<lf>みるといい。意外にあっさり倒せる<lf>かもしれないぞ。
+<string><RUBY><RB>爬虫</RB><RT>はちゅう</RT></RUBY>類と似た特徴を持つ悪魔は実に<lf>多彩な種が存在する。<lf>この個体もまた、その一種だ。<lf><lf>生体組織を分析したところ、非常に<lf>優れた筋力を持っているな。<lf>特に下半身は、一瞬で敵と間合いを<lf>詰める跳躍を行うために大きく発達<lf>しているようだ。<lf><lf>また、前腕の爪はある程度の伸縮が<lf>可能で、これにも注意を払う必要が<lf>あるだろう。<lf>ただし、この爪は構造的には<RUBY><RB>脆</RB><RT>もろ</RT></RUBY>い。<lf>力が加わる瞬間なら折れるかもな。
+<string>この個体もまた<RUBY><RB>爬虫</RB><RT>はちゅう</RT></RUBY>類に似た特徴を<lf>持つ悪魔の一種だ。<lf><lf>頭部から尾部にかけて大きなヒレが<lf>伸びているが、これは刃物のように<lf>鋭利な形状をしている。<lf><lf>このヒレを利用し体当たりのような<lf>攻撃を繰り出すのが主戦術らしい。<lf>このヒレを破壊するのが倒すための<lf>近道になりそうだ。<lf><lf>また体内に神経毒を精製する器官を<lf>有している事も分かっている。<lf>口から吐く液体には気を付けろよ。
+<string>狩りをする生物にとって、何よりも<lf>重要なのは速度だろう。<lf>逃げる獲物を追う物理的な速度。<lf>そして一瞬で獲物を仕留める速度。<lf><lf>そういう意味では、この個体こそが<lf>狩りをする生物の究極形と言える。<lf><lf>視認も困難な速度は、どうやら筋力<lf>だけでなく魔力的な空間干渉の結果<lf>でもあるらしい。<lf>同時に、この個体には一瞬で相手を<lf>仕留めるだけの力もある。<lf>狩られる立場になりたくなければ、<lf>一瞬たりとも気を抜かない事だ。
+<string>かつて魔界には黒い天使と呼ばれる<lf>悪魔が存在していた、と父が残した<lf>資料には記されていた。<lf><lf>父は、黒い天使が人間を素体に生み<lf>出された悪魔ではないかという仮説<lf>を立てていたようだな。<lf><lf>仮にその仮説を事実と考えるなら、<lf>この悪魔は黒い天使の量産型とでも<lf>呼ぶべき存在なのかもしれない。<lf><lf>持っている盾はかなりの強度だ。<lf>その防御を打ち破れるかどうかは、<lf>お前の腕次第だろうな。
+<string>この悪魔もまた、黒い天使と共通の<lf>特徴を持っている。<lf><lf>黒い天使の改良型か試作型のような<lf>個体なのではないだろうか。<lf><lf>言語を発する様子や、量産型に対し<lf>指示を出している様子が確認できた<lf>事から、かなりの知性を有している<lf>と考察される。<lf><lf>手にした巨大な剣による攻撃は脅威<lf>となる事だろう。<lf>うまく弾き上げれば、逆にこちらの<lf>攻撃のチャンスとなるかもな。
+<string>魔術を行使できる悪魔というのは、<lf>実はそう多くはない。<lf>ほとんどの悪魔には魔術を扱う程の<lf>知性が欠けているからだ。<lf><lf>だがこの悪魔にはその知性がある。<lf>扱えるのは氷の魔術だけのようだが<lf>充分に警戒すべきものだろう。<lf><lf>肉体面は<RUBY><RB>脆弱</RB><RT>ぜいじゃく</RT></RUBY>だが自身もそれを理解<lf>しているらしく基本的に敵の接近を<lf>拒むような行動を取るようだ。<lf>銃弾も魔力の壁で弾いてしまう。<lf>どうにかして近付くか、魔力の壁の<lf><RUBY><RB>隙</RB><RT>すき</RT></RUBY>を突くか、取るべき道は二つだ。
+<string>この個体は実に興味深い。<lf><lf>魔術を行使するには<RUBY><RB>詠唱</RB><RT>えいしょう</RT></RUBY>が必要だ。<lf>この個体はその詠唱のために四肢を<lf>捨て、その代わり体中に無数の口を<lf>備えるという進化を選んでいる。<lf><lf>多種の魔術を操りながら魔力の壁を<lf>全方位展開できるのも、その進化の<lf>産物と言っていいだろう。<lf><lf>魔術の中には一撃で相手の命を奪う<lf>ような危険な物も存在する。<lf>もし危険な魔術の気配を感じたら、<lf>どうにかその詠唱を止める事だ。
+<string>悪魔には共喰いをする者もいる。<lf>低すぎる知性や強すぎる欲望などが<lf>そうさせるのだろうが、この個体も<lf>そうした共喰いをする種のようだ。<lf><lf>その事に恐怖を感じた他の悪魔が、<lf>共喰いを防ぐべくこの個体の頭部を<lf>拘束してしまったのだろう。<lf>拘束具に縛られている間は、動きも<lf>鈍く、恐れる相手ではないはずだ。<lf>蹴散らす相手の<RUBY><RB>見境</RB><RT>みさかい</RT></RUBY>もついていない<lf>ようだしな。<lf><lf>問題は拘束が外れたときだ。<lf><RUBY><RB>鬱憤</RB><RT>うっぷん</RT></RUBY>を晴らすように、怒りに任せて<lf>これと見定めた対象に突進する…。<lf>想像するだけで身震いしそうだよ。
+<string>どうやら不完全に生まれてしまった<lf>悪魔が群生化した存在らしいが……<lf>詳しい生態はまだ謎が多い種だ。<lf><lf>だが不完全と<RUBY><RB>侮</RB><RT>あなど</RT></RUBY>っていると痛い目を<lf>見る事になる。コイツの身体能力は<lf>並の悪魔を遥かに<RUBY><RB>凌</RB><RT>しの</RT></RUBY>ぐからな。<lf><lf>しかもこの種は独自の魔術を使う。<lf><RUBY><RB>稀</RB><RT>まれ</RT></RUBY>に見せる奇妙な踊りには、魔力を<lf>吸収する効果があるようだ。<lf><lf>また、奇怪な仮面を被る行動も確認<lf>できている。仮面はコイツにとって<lf>重要な意味を持つ物らしいな。
+<string>
+<string>クリフォトの根の集合体だな。<lf>剣や銃弾がほとんど効かない外皮は<lf>さすが魔界産といったところか。<lf><lf>だが、中央の<RUBY><RB>血溜</RB><RT>ちだま</RT></RUBY>りのような部分は<lf>強力な外皮に守られていない。<lf>おそらく、この器官はクリフォトに<lf>血を送る心臓のような役割を担って<lf>いるのだろう。<lf><lf>心臓部ならば、それを叩けばいい。<lf>子供でも分かる理屈だな。<lf>しかし、これだけ成長するのに一体<lf>どれだけの血を吸った事か……。<lf>想像すると気が滅入りそうだよ。
+<string>ゴリアテとかいう悪魔だな。<lf>自分で名乗ってくれると私も文献を<lf>調査する手間が省けて実に助かる。<lf><lf>それはさておき、こういう力自慢の<lf>悪魔は知能が低い傾向にあるな。<lf>コイツもその例に<RUBY><RB>倣</RB><RT>なら</RT></RUBY>ってあまり賢い<lf>とは言えなかったようだ。<lf><lf>腹部の口による吸引機能や、さらに<lf>吸引した物を一瞬で熱量に変換する<lf>能力は素晴らしい物なんだがな。<lf><lf>ま、作品の<RUBY><RB>糧</RB><RT>かて</RT></RUBY>となってくれたんだ。<lf>その能力に感謝はしているよ。
+<string>マキャヴェリを知っているか？<lf>魔界の名工と呼ばれた銃職人だ。<lf><lf>アルテミスは元々その名工が産んだ<lf>魔銃のひとつでな。<lf>それを人間と融合させ産み出された<lf>のがこの個体だと推測される。<lf><lf>遠距離から放たれる様々な光線は、<lf>芸術的な軌道を描いた事だろう？<lf>マキャヴェリの魔銃の素晴らしさは<lf>いくつもの文献に残ってる程だ。<lf><lf>……そんな作品をブチ壊したお前に<lf>私は深く失望しているよ。
+<string>Ｖによるとこの個体はクリフォトに<lf>寄生するタイプの悪魔だそうだ。<lf><lf>クリフォトと同化し、クリフォトが<lf>集めた養分を<RUBY><RB>掠</RB><RT>かす</RT></RUBY>め取って生きている<lf>ようだな。<lf><lf>人型の部分が本体で、他の触手状の<lf>器官は身を守るためのものらしい。<lf><lf>普段はクリフォトの中に身を隠して<lf>いるようだから、倒すにはどうにか<lf>引きずり出すしかないだろうな。<lf><lf>ちなみに知能は極めて低いそうだ。
+<string>ゲリュオンは、いくつかの古文書に<lf>記述が認められる馬型の悪魔だ。<lf><lf>サイズや外観の特徴は個体によって<lf>バラつきがあるようだが、あらゆる<lf>個体に共通するのは、時を操る力を<lf>持っているという点らしい。<lf><lf>ゲリュオンは誇り高く滅多な事では<lf>他者を乗せたりしないという。<lf><lf>Ｖによれば、魔界の騎士がこいつに<lf>乗っていたようだが、ゲリュオンを<lf>飼い慣らすとは大したものだよ。
+<string>かつて魔界に存在した黒い天使――<lf>それを生み出した技術の集大成とも<lf>呼べる存在がこの個体だろう。<lf><lf>展開式の盾を両肩部に組み込む事で<lf>攻防一体の動きを実現させ、さらに<lf>トリッシュという悪魔を核に据える<lf>事で、他の個体にはない電撃の力を<lf>操る事ができるとは！<lf>まさに芸術的兵器だ！<lf><lf>可能ならばこの目で見たかったが、<lf>それは贅沢な願いなのだろうな。<lf>トリッシュやダンテに話を聞くのが<lf>私にできる精一杯だ……残念だよ。
+<string>ギルガメスとは、魔界の金属だ。<lf>生命体と同化して<RUBY><RB>鋼</RB><RT>はがね</RT></RUBY>のように硬質化<lf>させるという性質を持っている。<lf><lf>この個体は、その魔鋼ギルガメスが<lf>クリフォトの根と同化して生まれた<lf>悪魔だと推測される。<lf><lf>またギルガメスは、衝撃を生み出す<lf>力を持つ金属としても知られる。<lf>遠距離から繰り出す多彩な攻撃は<lf>その<RUBY><RB>賜物</RB><RT>たまもの</RT></RUBY>なのだろうな。<lf><lf>距離を取るよりは近付いて戦う方が<lf>いくらか楽に戦えるはずだ。
+<string>かつて魔界には黒い天使と呼ばれる<lf>悪魔が存在していた、と父が残した<lf>資料には記されていた。<lf><lf>父は、黒い天使が人間を素体に生み<lf>出された悪魔ではないかという仮説<lf>を立てていたようだな。<lf><lf>仮にその仮説を事実と考えるなら、<lf>この悪魔は黒い天使の量産型とでも<lf>呼ぶべき存在なのかもしれない。<lf><lf>持っている盾はかなりの強度だ。<lf>その防御を打ち破れるかどうかは、<lf>お前の腕次第だろうな。
+<string>この悪魔もまた、黒い天使と共通の<lf>特徴を持っている。<lf><lf>黒い天使の改良型か試作型のような<lf>個体なのではないだろうか。<lf><lf>言語を発する様子や、量産型に対し<lf>指示を出している様子が確認できた<lf>事から、かなりの知性を有している<lf>と考察される。<lf><lf>手にした巨大な剣による攻撃は脅威<lf>となる事だろう。<lf>うまく弾き上げれば、逆にこちらの<lf>攻撃のチャンスとなるかもな。
+<string>どうやら不完全に生まれてしまった<lf>悪魔が群生化した存在らしいが……<lf>詳しい生態はまだ謎が多い種だ。<lf><lf>だが不完全と<RUBY><RB>侮</RB><RT>あなど</RT></RUBY>っていると痛い目を<lf>見る事になる。コイツの身体能力は<lf>並の悪魔を遥かに<RUBY><RB>凌</RB><RT>しの</RT></RUBY>ぐからな。<lf><lf>しかもこの種は独自の魔術を使う。<lf><RUBY><RB>稀</RB><RT>まれ</RT></RUBY>に見せる奇妙な踊りには、魔力を<lf>吸収する効果があるようだ。<lf><lf>また、奇怪な仮面を被る行動も確認<lf>できている。仮面はコイツにとって<lf>重要な意味を持つ物らしいな。
+<string>魔術的な力で生み出された幻影……<lf>と説明するのが最も適しているな。<lf><lf>ゴリアテをベースにしたようだが、<lf>どうせならより強大で凶悪な悪魔を<lf>生み出すべきじゃなかったのか？<lf><lf>魔術なりに都合があるんだろうが、<lf>この程度の幻影にやられるようでは<lf>正直、生き残るのは難しいだろう。
+<string>魔術的な力で生み出された幻影……<lf>と説明するのが最も適しているな。<lf><lf>コイツはアルテミスをベースにした<lf>幻影のようだが……残念な事だ。<lf>アルテミスの美しい光線をこの目で<lf>拝む機会をまた逃してしまうとは！<lf><lf>とは言え、幻影だけに全てを完全に<lf>再現できてはいなかったようだ。<lf><lf>おそらく幻影を生み出したヤツも、<lf>芸術など解さぬ野暮なんだろう。<lf>まったく、どいつもこいつも……。
+<string>魔術的な力で生み出された幻影……<lf>と説明するのが最も適しているな。<lf><lf>術の対象者の記憶などからイメージ<lf>を生み出し再構成した存在……など<lf>ではないかと思うが私は魔術者じゃ<lf>ないから詳しい理屈は分からん。<lf><lf>確かなのは、これはあくまで幻影で<lf>真実ではないという事だ。<lf>そして、幻影には真実以上の力など<lf>ありはしない。<lf><lf>さして恐れる存在でもないだろう。<lf>自分が死にかけでもなければな。
+<string>Ｖによるとマルファスとかいう悪魔<lf>だそうだ。<lf><lf>上半身と下半身は異なる生体組織で<lf>構成されていたから、おそらく元は<lf>別個の生物だったのだと思われる。<lf><lf>魔術師が自分の力とするため怪鳥を<lf>取り込んだんだろうが……思いの<RUBY><RB>外</RB><RT>ほか</RT></RUBY><lf>怪鳥の力が強く、制御に手を焼いて<lf>いたようだな。<lf><lf>ちなみに、この怪鳥はまだ<RUBY><RB>雛</RB><RT>ひな</RT></RUBY>だ。<lf>成長した暁にはさぞかし凶悪な力の<lf>持ち主になっていただろうに。
+<string>３つの首を持った犬型悪魔を総じて<lf>ケルベロスと呼ぶ。<lf>そのケルベロス族の王が、この個体<lf>だったらしい。<lf><lf>炎に氷、雷までをも操る力は確かに<lf>王と呼ぶに相応しいものだろう。<lf><lf>一方で、ケルベロスという種は主の<lf>命を受け要所を守る番犬でもある。<lf>こいつは主ユリゼンの命を受けて、<lf>クリフォトを守っていたようだな。<lf><lf>王でありながら番犬でもあるとは、<lf>なかなか興味深い存在だ。
+<string>お前が倒すべき魔界の王だ。<lf><lf>ただ、私が調べた限り魔界に関する<lf>どんな文献にもユリゼンなどという<lf>悪魔の存在は発見できなかった。<lf>魔界の王という大層な肩書の持ち主<lf>ならば、それなりに名が知れていて<lf>もおかしくはないんだが……。<lf><lf>とは言え、ヤツの力は本物だ。<lf>それは一度戦った事のあるお前が、<lf>一番よく分かっているだろう。<lf>心してかかれよ。
+<string>ユリゼンは、クリフォトの力を吸収<lf>するためにクリフォトと自身の体を<lf>繋げていた。<lf>ヤツが身動きせずに戦っていたのは<lf>そのためだろう。<lf><lf>まさかクリフォトとの繋がりを断ち<lf>自由に動き回る事もできたとはな。<lf><lf>しかも、体に残されたクリフォトの<lf>断片を意のままに操る事もできる。<lf>攻撃と防御、双方において隙のない<lf>完璧な布陣だ。<lf>こんなものを相手にしてよく生きて<lf>いたもんだよ。
+<string>絶大な力を得るというクリフォトの<lf>果実……それを食したユリゼンは、<lf>魔王という呼び名すら<RUBY><RB>生温</RB><RT>なまぬる</RT></RUBY>い存在と<lf>なってしまった。<lf><lf>攻防に使用していたクリフォトの根<lf>も今のヤツにとっては行動の妨げに<lf>しかならなかったらしい。<lf><lf>頼るものは己の体ひとつ。<lf>敵を倒す力のみを追及した、生命の<lf>究極形態のひとつと言えるだろう。<lf><lf>コイツに勝てるヤツがいるとしたら<lf>それはもう神の領域だろうな。
+<string>伝説の魔剣士の息子にして、ダンテ<lf>の兄にあたる男だそうだ。<lf><lf>レディによれば、一度ダンテに敗れ<lf>魔界に堕ちたという。<lf><lf>その後、悪魔と人間を別つ<RUBY><RB>閻魔刀</RB><RT>ヤマト</RT></RUBY>の<lf>力を使い、自分の悪魔の部分だけを<lf>切り出したのだろう。<lf>Ｖは、その時バージルに捨てられた<lf>人間の部分だったわけだな……。<lf><lf>だが今、２人は再び融合した。<lf>もはやこの男に隙はあるまい。
+<string>今、思えば……お前の右腕を奪った<lf>男こそがバージルだったんだな。<lf>そしてバージルはお前の右腕の中に<lf>あった<RUBY><RB>閻魔刀</RB><RT>ヤマト</RT></RUBY>を取り戻した。<lf><lf>人と魔を<RUBY><RB>別</RB><RT>わか</RT></RUBY>つ<RUBY><RB>閻魔刀</RB><RT>ヤマト</RT></RUBY>の力で、自分の<lf>人の部分を斬り捨てるために……。<lf><lf>だが、そこまでして求めた力でも、<lf>ダンテに勝つ事はできなかった。<lf>力を得るために捨てた物こそが最も<lf>大事な物だったとは、皮肉な話だ。
+<string>バージルの真の姿だ。<lf><lf>悪魔と人間のハーフであるが<RUBY><RB>故</RB><RT>ゆえ</RT></RUBY>に、<lf>完全には解放する事はできなかった<lf>悪魔の力を、完全に自分の物として<lf>いる。<lf><lf>ユリゼンである間に蓄えた力の恩恵<lf>だろう。<lf><lf>彼の力の源である<RUBY><RB>閻魔刀</RB><RT>ヤマト</RT></RUBY>は<lf>両腕に格納されているようだ。<lf>これこそ<RUBY><RB>閻魔刀</RB><RT>ヤマト</RT></RUBY>の真実の姿なのかも<lf>しれないな。
+<string>もし、ダンテを敵にしたら……。<lf>伝説的デビルハンターに狙われては<lf>生き残れるものなどいないだろう。<lf><lf>様々な魔具を用いて放つ技の数々は<lf>苛烈を極める。ゴールドスタインの<lf>魔具も完全に使いこなしているな。<lf><lf>相手になるのは兄のバージルくらい<lf>だろう。どうだ、お前ならダンテに<lf>勝てるか？
+<string>仮に、ダンテの多彩な攻撃を攻略で<lf>きたとしても、勝利はまだ遠い。<lf><lf>悪魔の力を解放すると、攻守隙なく<lf>強化される上に、自己修復まで行っ<lf>てくる。<lf><lf>まだ、力を隠し持っているのなら、<lf>迷わず解放するべきだな。<lf>出し惜しんで勝てる相手ではない<lf>だろう。
+<string>真の決着は、真の力をぶつけ合って<lf>こそ成せるものだ。<lf><lf>ダンテとバージルなら真魔人の力を<lf>解放することになるな。悪魔と人間<lf>の力の全てを激突させるのだろう。<lf><lf>魔剣の戦いとしても興味深い。<lf>魔と人を融合する魔剣ダンテ、逆に<lf>魔と人を<RUBY><RB>別</RB><RT>わか</RT></RUBY>つ<RUBY><RB>閻魔刀</RB><RT>ヤマト</RT></RUBY>。互いに真の姿<lf>で刃を交えるとしたら、魔剣同士の<lf>決戦ともいえるだろう。
+<string>
+<string>Demonic insect
+<string>Airborne evil
+<string>Bloodgorged scavenger
+<string>Vermin empress
+<string>
+<string>Cleaving vanguard
+<string>Brutal berserker
+<string>Demon horde commander
+<string>Winged deception
+<string>Insanity ablaze
+<string>Sheers of annihilation
+<string>Brutal instinct
+<string>Barbed discord
+<string>Breakneck predator
+<string>Dark knight soldier
+<string>Fractured commander
+<string>Elusive incantor
+<string>Chorus of malediction
+<string>Unstoppable appetite
+<string>Abnormal avatar
+<string>Blood-slicked vegetation
+<string>Incandescent colossus
+<string>Illuminating corruption
+<string>Parasitic fiend
+<string>Abyssal cavalry
+<string>Voltaic black knight
+<string>Marauding titan
+<string>Dark knight soldier
+<string>Fractured commander
+<string>Abnormal avatar
+<string>Colossal forgery
+<string>False light
+<string>Fabricated abyss
+<string>Diabolical amalgam
+<string>Gatekeeper unleashed
+<string>Nefarious usurper
+<string>The Alpha and the Omega
+<string>The Alpha and the Omega
+<string>The Legendary Devil Hunter
+<string>The Legendary Devil Hunter
+<string>The Legendary Devil Hunter
+<string>
+<string>血に誘われる魔虫
+<string>屍にたかる羽虫
+<string>血塊を蓄えた魔虫
+<string>魔虫の女王
+<string>
+<string>狩鎌の尖兵
+<string>戦斧の狂兵
+<string>二連鎌の魔兵長
+<string>奇襲の翼
+<string>狂炎の羽
+<string>死を告げる<RUBY><RB>鋏<RT>はさみ</RUBY>
+<string>凶襲の爪
+<string><RUBY><RB>轢断<RT>れきだん</RUBY>の背びれ
+<string>神速の<RUBY><RB>捕食者<RT>プレデター</RUBY>
+<string>堅牢なる魔剣士
+<string>破断の魔剣士
+<string>神出鬼没の詠唱者
+<string>とめどない呪詛の雨
+<string>暴走巨頭
+<string>踊る異形
+<string>血を<RUBY><RB>啜<RT>すす</RUBY>る魔界樹根
+<string>灼熱の獣王
+<string>光を従える女神の化身
+<string>魔界樹に巣食う寄生獣
+<string>時の狭間を駆る戦騎
+<string>雷光を<RUBY><RB>纏<RT>まと</RUBY>う黒騎士
+<string>踏みしだく巨影
+<string>堅牢なる魔剣士
+<string>破断の魔剣士
+<string>踊る異形
+<string>マルファスの産んだゴリアテの幻影
+<string>マルファスの産んだアルテミスの幻影
+<string>マルファスの産んだＣ．アンジェロの幻影
+<string>魔造鳥獣と三魔女
+<string>放たれた魔界の門番
+<string>魔界の反逆王
+<string>発端にして終焉
+<string>発端にして終焉
+<string>伝説のデビルハンター
+<string>伝説のデビルハンター
+<string>伝説のデビルハンター
+<string>
+<string>Filthy mother sucker
+<string>Stomp on sight
+<string>A rare specimen
+<string>She's a killer...
+<string>Bring on the weedkiller
+<string>Frontline freakshow
+<string>Sure, give 'em MORE sharp objects
+<string>How does this even work?
+<string>Pain. In. The. Ass.
+<string>Twisted firestarter
+<string>Did nobody tell 'em about runnin' with scissors?
+<string>Somebody say sewer gators?
+<string>Spin me right round
+<string>Speed ain't everything honey
+<string>Love the shield!
+<string>Definitely compensating for something
+<string>Stinks like a goat
+<string>Talk about a chatty Cathy
+<string>Pet trashcan?
+<string>Creepy.
+<string>
+<string>Always bet on red
+<string>All brawn, no brains
+<string>No place for a Lady
+<string>Get off the couch next time
+<string>Talk about horsepower!
+<string>War of a-Trish-ion
+<string>Scrap demon metal jackpot!
+<string>So many shiny toys!
+<string>
+<string>Creepy.
+<string>So fake it hurts
+<string>
+<string>
+<string>So the bird part ends...where, exactly?
+<string>Ugh, doggy drool...
+<string>It's all this guy's fault!
+<string>Another deadbeat dad...
+<string>The bigger they are...
+<string>Gonna miss those critters…
+<string>I wouldn't wanna fight this guy…
+<string>
+<string>血が大好きみたい
+<string>羽虫は嫌いだ
+<string>レアな悪魔
+<string>デカい虫
+<string>クネクネ変な樹
+<string>過乾燥
+<string>肉ミイラ
+<string>構造が気になる
+<string>うっとうしい奴
+<string>良い熱源
+<string>良い<RUBY><RB>鋏<RT>はさみ</RUBY>だ
+<string>とかげ
+<string>背びれ
+<string>忍者?
+<string>盾の素材は貴重
+<string>剣は持って帰ってきて！
+<string>ヤギのにおい
+<string>一体口がいくつあるんだ？
+<string>口が臭かった
+<string>情緒不安定なヤツ
+<string>
+<string>目障りな触手
+<string>頭悪そう!
+<string>裸のレディが入ってた
+<string>ミミズ野郎
+<string>すごい能力
+<string>トリッシュが中に入ってたって
+<string>悪魔金属ゲット!
+<string>金目のものだらけ
+<string>
+<string>情緒不安定なヤツ
+<string>しょせんは偽物！
+<string>
+<string>
+<string>どっちが本体なの?
+<string>よだれがすごい
+<string>今回の騒動の原因ね
+<string>父親ってのは、どいつもこいつも……
+<string>ジャイアントキリング
+<string>いなけりゃ寂しいもんだな
+<string>この男は敵に回したくないな……
+<string>
+<string>バージル
+<string>魔人バージル
+<string>ユリゼン

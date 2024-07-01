@@ -1,0 +1,22 @@
+<string>
+<string>BLOODY PALACE
+<string>
+<string>START
+<string>WARM UP
+<string>CUSTOMIZE
+<string>
+<string>
+<string>
+<string>Enter the Bloody Palace.
+<string>Choose a previously completed stage to practice on.
+<string>Customize your character.
+<string>
+<string>
+<string>
+<string>SCOREBOARD
+<string>MAX STAGE REACHED
+<string>
+<string>HIGHEST RANK
+<string>FINAL PLAY TIME
+<string>FINAL EXTRA TIME
+<string>

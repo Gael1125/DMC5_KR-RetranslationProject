@@ -1,0 +1,8 @@
+<string>
+<string>EVALUATION
+<string>
+<string>Times fought together
+<string>
+<string>Rate as "Stylish!"
+<string>Don't rate
+<string>View user information

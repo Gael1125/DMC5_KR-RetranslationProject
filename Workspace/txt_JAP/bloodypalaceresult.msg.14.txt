@@ -1,0 +1,57 @@
+<string>
+<string>STAGE CLEAR BONUS
+<string>NO DAMAGE BONUS
+<string>
+<string>STAGE ADDED TIME
+<string>STAGE BONUS TIME
+<string>STAGE PLAY TIME
+<string>
+<string>
+<string>
+<string>NEW RECORD!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>REDORB BONUS
+<string><COLOR FFF095>STAGE {0} </COLOR>CLEAR BONUS
+<string> {0}  min REMAINED
+<string><COLOR FFF095>{0} MIN </COLOR>OVER BONUS
+<string>
+<string>CLEARED STAGE
+<string>TOTAL PLAY TIME
+<string>TOTAL GET REDORB
+<string>
+<string>ACCOMPLISH
+<string>TOTAL BONUS TIME
+<string>ALL STAGE CLEARED REDORB BONUS
+<string>EXTRA TIME BONUS
+<string>SUPER CHARACTER
+<string>CLEARED STAGE
+<string>
+<string>TOTAL ADDITIONAL TIME
+<string>
+<string>ACQUIRED REDORB RECORDS
+<string>ACQUIRED REDORB RECORD
+<string>TOTAL PLAY TIME
+<string>FINAL EXTRA TIME
+<string>AMOUNTS OF TOTAL REDORB
+<string>
+<string>The Legend Continues…
+<string>そして伝説は続く…
+<string>
+<string>GAME OVER
+<string>TIME OVER
+<string>BLOODYPALACE
+<string>CONTINUE POINT
+<string>STAGE {0}
+<string>SETTING
+<string>(NEXT STAGE  {0})
+<string>(NEXT STAGE  {0})

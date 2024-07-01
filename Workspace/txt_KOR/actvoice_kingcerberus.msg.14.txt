@@ -1,0 +1,11 @@
+<string>
+<string>우린 절대 굴하지 않아...
+<string>내가 케르베로스 종족의 왕이다!
+<string>
+<string>하! 넌 내 상대가 안 돼!
+<string>내 털끝이라도 건드려 보거라!
+<string>내 번개의 위력을 보아라!
+<string>불태워 죽여버리겠다!
+<string>화염 속에서 사라지게 될 거야!
+<string>보아라! 왕의 힘이다!
+<string>온몸이 얼어버릴 것이다!

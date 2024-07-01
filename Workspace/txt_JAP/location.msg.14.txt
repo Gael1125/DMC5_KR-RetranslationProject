@@ -1,0 +1,115 @@
+<string>JUNE. 15
+<string>MAY. 15
+<string>MAY. 16
+<string>PM 08:06
+<string>AM 05:20
+<string>AM 05:32
+<string>AM 06:26
+<string>AM 06:35
+<string>AM 07:27
+<string>AM 07:25
+<string>AM 08:57
+<string>AM 09:56
+<string>AM 10:06
+<string>PM 04:44
+<string>AM 11:11
+<string>AM 11:47
+<string>PM 12:36
+<string>PM 01:13
+<string>PM 02:01
+<string>PM 03:06
+<string>PM 04:04
+<string>PM 04:27
+<string>６月１５日　午前５時２０分
+<string>６月１５日　午前５時３２分
+<string>６月１５日　午前６時２６分
+<string>６月１５日　午前６時３５分
+<string>６月１５日　午前７時２７分
+<string>６月１５日　午前７時２５分
+<string>６月１５日　午前８時５７分
+<string>６月１５日　午前９時５６分
+<string>６月１５日　午前１０時６分
+<string>５月１５日　午後４時４４分
+<string>６月１５日　午前１１時１１分
+<string>６月１５日　午前１１時４７分
+<string>６月１５日　午後０時３６分
+<string>６月１５日　午後１時１３分
+<string>６月１５日　午後２時１分
+<string>６月１５日　午後３時６分
+<string>６月１５日　午後４時４分
+<string>６月１５日　午後４時２７分
+<string>５月１６日　午後８時６分
+<string>６月１５日　午前４時２４分
+<string>６月１５日　午前５時２分
+<string>４月３０日　午後５時４５分
+<string>５月３日　午後８時８分
+<string>６月１５日　午前１０時３７分
+<string>６月１５日　午前１１時２分
+<string>５月１６日　午後８時３７分
+<string>６月１５日　午前１１時４０分
+<string>５月１日　午後９時１９分
+<string>６月１５日　正午
+<string>６月１５日　午後６時２６分
+<string>７月２４日　午後９時２４分
+<string>Red Grave City
+<string>Qliphoth
+<string>
+<string>１か月前
+<string>１か月半前
+<string>２か月前
+<string>４０日前
+<string>１か月後
+<string>１か月半後
+<string>一方その頃ネロは
+<string>一方その頃ダンテは
+<string>
+<string>1 month ago
+<string>A few weeks ago
+<string>2 months ago
+<string>A few weeks ago
+<string>1 month later
+<string>A few weeks later
+<string>Meanwhile...
+<string>Meanwhile...
+<string>
+<string>６月１５日　午前５時２０分
+<string>６月１５日　午前５時３２分
+<string>６月１５日　午前６時２６分
+<string>６月１５日　午前６時３５分
+<string>６月１５日　午前７時２７分
+<string>６月１５日　午前７時２５分
+<string>６月１５日　午前８時５７分
+<string>６月１５日　午前９時５６分
+<string>６月１５日　午前１０時６分
+<string>５月１５日　午後４時４４分
+<string>６月１５日　午前１１時１１分
+<string>６月１５日　午前１１時４７分
+<string>６月１５日　午後０時３６分
+<string>６月１５日　午後１時１３分
+<string>６月１５日　午後２時１分
+<string>６月１５日　午後３時６分
+<string>６月１５日　午後４時４分
+<string>６月１５日　午後４時２７分
+<string>５月１６日　午後８時６分
+<string>６月１５日　午前４時２４分
+<string>６月１５日　午前５時２分
+<string>４月３０日　午後５時４５分
+<string>５月３日　午後８時８分
+<string>６月１５日　午前１０時３７分
+<string>６月１５日　午前１１時２分
+<string>５月１６日　午後８時３７分
+<string>６月１５日　午前１１時４０分
+<string>５月１日　午後９時１９分
+<string>６月１５日　正午
+<string>６月１５日　午後６時２６分
+<string>７月２４日　午後９時２４分
+<string>４月３０日　午前１１時４５分
+<string>５月１６日　午後８時００分
+<string>１か月前
+<string>１か月半前
+<string>２か月前
+<string>４０日前
+<string>１か月後
+<string>１か月半後
+<string>一方その頃ネロは
+<string>一方その頃ダンテは

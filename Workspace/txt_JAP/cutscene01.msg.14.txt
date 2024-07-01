@@ -1,0 +1,112 @@
+<string>
+<string>レッドグレイブ市と<lf>その周辺の都市は――
+<string>謎の大樹の影響で完全に<lf>機能停止している状態です
+<string>政府はこの状況に…
+<string>悪魔だ！ 本当だよ！
+<string>あの街は悪魔に…
+<string>神に祈るのです<lf>これは我々への試練で…
+<string>
+<string>クソ番組が
+<string>で 感想は？
+<string>何の？
+<string>親父の仇を助ける事
+<string>母を捨てた男さ
+<string>特別な感情はない
+<string>何ひとつな
+<string>アグナスが父親とは同情するよ
+<string>だが研究資料は役に立ったぞ
+<string>多少はな
+<string>
+<string>タバコやめろ
+<string>臭すぎるぜ
+<string>お前のニオイだ
+<string>おい ニコ！
+<string>分かってるよ！
+<string>あんまり揺らすなって！
+<string>曲がトぶ！
+<string>“レッドグレイブ市まで２ｋｍ”
+<string>
+<string>死守だ！ 死守しろ！<lf>１匹も通すな！
+<string>何なんだよ これは…
+<string>
+<string>ハグできなくて悪いな
+<string>逃げろよ
+<string>
+<string>死ぬつもりか お前！？
+<string>悪魔をボコるのが趣味なのさ
+<string>放っときな
+<string>おい 本当に死ぬぞ！<lf>片腕野郎！
+<string>腕だって？
+<string>これで満足か？
+<string>まずは ゴミ掃除だな
+<string>
+<string>
+<string>悪魔退治のプロだからな
+<string>義手にも その機能を付けてやった
+<string>アホタレ！ 人の作品を！
+<string>さっさと避難しろよ！
+<string>
+<string>
+<string>イカす鉢植えだ
+<string>なるほど
+<string>バーベキューにしてみるか
+<string>
+<string>こりゃ時間の問題だぞ
+<string>何がだ？
+<string>この街は魔界化しつつある
+<string>周囲を巻き込んでな
+<string><RUBY><RB>”閻魔刀”<RT>ヤマト</RUBY>の<RUBY><RB>力<RT>ちから</RUBY>か…
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>人遣いが荒いぞ
+<string>何様だよ
+<string>教団の資料 見せてやったろ？
+<string>
+<string>２人とも ご飯よ！
+<string>すぐ行く！
+<string>先に食えよ 俺は作業中だ
+<string>
+<string>お前の分… 残せるかな？
+<string>何か用か？
+<string>腹ペコとか？
+<string>だったらラッキーだ<lf>キリエはいつも多めに作る
+<string>少し騒がしいけど 平気だろ？
+<string>どこ見てんだ？
+<string>これは…！？
+<string>お前 悪魔か
+<string>ネロ！ ご飯が…
+<string>キリエ！ 来るな！
+<string>
+<string>返して貰うぞ
+<string>急がねば…
+<string>…待て
+<string>待てよ！
+<string>
+<string>何だ！？ 何が起こった！？
+<string>
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>が待ってる
+<string>安全運転で頼むぜ

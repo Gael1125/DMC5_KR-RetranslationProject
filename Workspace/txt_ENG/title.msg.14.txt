@@ -1,0 +1,21 @@
+<string>PRESS ANY <trc id="1">
+<string>
+<string>
+<string>©CAPCOM CO., LTD. 2018 ALL RIGHTS RESERVED.
+<string>
+<string>Devil May Cry 5
+<string>DEVIL MAY CRY 5
+<string>dmc5
+<string>DMC5
+<string>NEW GAME
+<string>CONTINUE
+<string>MAIN MENU
+<string>OPTIONS
+<string>HISTORY OF DMC
+<string>EXIT
+<string>Start a new game from the beginning.
+<string>Continue from the last save point.
+<string>Go to the Main Menu.
+<string>Change in-game settings.
+<string>Watch a movie that explains the history of the Devil May Cry series.
+<string>Quit the game.

@@ -1,0 +1,26 @@
+<string>
+<string>I'll toss you around like a ragdoll!
+<string>You dropped this!
+<string>
+<string>Relying on numbers won't do you any good!
+<string>
+<string>This has nothing to do with you. Stand down.
+<string>Nothing to do with me!? It has everything to do with me!
+<string>Nero...
+<string>You will...accept my existence!
+<string>
+<string>Fuck you!
+<string>You...!
+<string>
+<string>Take me seriously now!?
+<string>
+<string>You feeling accepting yet?
+<string>Of your existence? Or your strength?
+<string>Both, you fuckin' asshole!
+<string>
+<string>Aren't you proud? Your son's all grown up.
+<string>You haven't won yet...
+<string>
+<string>You fool...
+<string>Is this the extent of your power?
+<string>Pathetic, Nero...

@@ -1,0 +1,53 @@
+<string>
+<string>A magical red stone of<lf>crystallized demon blood.<lf>They can be obtained by slaying<lf>demons and are an indicator of<lf>a devil hunter's prowess.<lf>Exchange these for new weapons<lf>and skills, or use them for revival.
+<string>A magical green stone of<lf>crystallized demon fluid.<lf>It sends waves of energy into<lf>those who touch it, stanching<lf>and healing any wounds. Picking<lf>one up automatically recovers<lf>a set amount of vitality.
+<string>A magical white stone of<lf>crystallized devil spirit. These<lf>are used to amplify and store up<lf>fighting spirit. Picking one up<lf>automatically recovers a set<lf>amount of the Devil Trigger Gauge.
+<string>A magical blue fragment of<lf>crystallized life force. While<lf>ineffective on its own, gathering<lf>four fragments together will form<lf>a crystal that increases maximum<lf>vitality.
+<string>A magical blue stone of<lf>concentrated life force,<lf>formed from four blue orb<lf>fragments. This stone unlocks<lf>the hidden potential within the<lf>soul to increase maximum<lf>vitality.
+<string>A magical purple fragment of<lf>crystallized demonic power.<lf>While ineffective on its own,<lf>gathering four fragments together<lf>will form a crystal that increases<lf>the Devil Trigger Gauge.
+<string>A magical purple stone of<lf>crystallized demonic power,<lf>formed from four purple orb<lf>fragments. It resonates with<lf>the howling of the soul to<lf>increase the Devil Trigger Gauge.
+<string>A magical golden stone made<lf>through a secret method.<lf>It possesses a transcendental<lf>power that defies the usual laws<lf>of life and death. Exposure to<lf>this item revives a fallen<lf>warrior and recovers their<lf>vitality to maximum.
+<string>
+<string>
+<string>A hatchling of the Nidhogg, a<lf>parasite that feeds on weakened<lf>parts of the Qliphoth, harming<lf>its internal structure in the<lf>process. The Nidhogg feasts<lf>at a destructively fast speed,<lf>causing the weakest parts of<lf>the demon tree's root structure<lf>to quickly crumble.
+<string>
+<string>A crystal formed from four blue<lf>fragments of crystallized life energy.<lf>Increases maximum vitality.
+<string>A crystal formed from four purple<lf>fragments of crystallized demonic energy.<lf>Increases the Devil Trigger Gauge.
+<string>A golden stone made through a secret<lf>method. Has the power to bring the<lf>fallen back to life.
+<string>
+<string>A magical red stone of<lf>crystallized demon blood.<lf>Exchange these for new weapons<lf>and skills, or use them for revival.
+<string>A magical green stone of<lf>crystallized demon fluid.<lf>Pick one up to recover a<lf>set amount of vitality.
+<string>A magical white stone of<lf>crystallized devil spirit.<lf>Pick one up to recover some<lf>of the Devil Trigger Gauge.
+<string>A magical blue fragment of<lf>crystallized life force. Gather<lf>four fragments to form a crystal<lf>that increases maximum vitality.
+<string>A magical life force crystal<lf>formed from four blue orb<lf>fragments. Increases maximum<lf>vitality.
+<string>A purple fragment of crystallized<lf>demonic power. Gather four fragments<lf>to form a crystal that increases<lf>the Devil Trigger Gauge.
+<string>A crystal of concentrated demonic<lf>power formed from four purple orb<lf>fragments. Increases the Devil<lf>Trigger Gauge.
+<string>A magical golden stone made<lf>through a secret method. Revives<lf>a fallen warrior and recovers<lf>their vitality to maximum.
+<string>A hatchling of the parasitic<lf>Nidhogg. It feeds on weakened<lf>parts of the Qliphoth, destroying<lf>its internal structure.
+<string>
+<string>Crystallized demon blood
+<string>Vitality recovery orb
+<string>Devil Trigger replenishment orb
+<string>Gather four pieces to make an orb
+<string>Vitality increasing orb
+<string>Gather four pieces to make an orb
+<string>Devil Trigger increasing orb
+<string>Revival orb
+<string>Larva that kills the demon tree
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Red Orb
+<string>Red Orb Cluster
+<string>Green Orb
+<string>Green Orb Cluster
+<string>White Orb
+<string>White Orb Cluster

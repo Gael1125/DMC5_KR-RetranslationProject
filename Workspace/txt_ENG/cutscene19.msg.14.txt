@@ -1,0 +1,21 @@
+<string>
+<string>Hey Vergil, your portal-opening days are over.
+<string>Give me the Yamato.
+<string>If you want it, then you'll have to take it.
+<string>But you already knew that.
+<string>I had a feeling you'd say that...
+<string>How many times have we fought?
+<string>Hard to say.
+<string>It's the only memory I have of us since we were kids.
+<string>Time to finish this, Vergil!
+<string>Once and for all.
+<string>
+<string>Nero is my son?
+<string>Yeah, dumbass.
+<string>You can't remember through that thick skull of yours?
+<string>Well, well... That was a long time ago.
+<string>I guess you were young once, too.
+<string>As much as I'd love to hear that story,<lf>I think it's about time we...
+<string>...ended this.
+<string>
+<string>

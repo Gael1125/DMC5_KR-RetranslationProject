@@ -1,0 +1,32 @@
+<string>
+<string>
+<string>STYLISH PTS
+<string>TIPS
+<string>목적지 확인
+<string><ICON ACT_RStP> 홀드
+<string>SAVING
+<string>LOADING
+<string>STARRING
+<string>파트너 기다림
+<string>
+<string><ICON ACT_BtnR> 누르기
+<string>
+<string>Edgelord
+<string>Dismal
+<string>Crazy
+<string>Badass
+<string>Apocalyptic!
+<string>Savage!
+<string>Sick Skills!
+<string>Smokin' Sexy Style!
+<string>
+<string>E
+<string>D
+<string>C
+<string>B
+<string>A
+<string>S
+<string>SS
+<string>SSS
+<string>
+<string>{0}<lf>{1}

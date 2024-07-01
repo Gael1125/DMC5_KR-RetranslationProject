@@ -1,0 +1,10 @@
+<string>
+<string>Art
+<string>
+<string>BLUEPRINT
+<string>BONUS ART
+<string>PUBLICITY ART
+<string>
+<string>入手した武器の設計図を確認します
+<string>ボーナス画像を確認します
+<string>広告媒体で使用された各種画像を確認します

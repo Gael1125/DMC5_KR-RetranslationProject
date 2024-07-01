@@ -1,0 +1,4 @@
+<string>
+<string>ミッションクリアランクS取得数
+<string>ゴールドオーブ累積取得数
+<string>スキル解放率

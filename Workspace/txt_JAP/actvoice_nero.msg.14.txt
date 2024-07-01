@@ -1,0 +1,25 @@
+<string>
+<string>キリエ…！
+<string>チ…クショウ…！
+<string>クソッ、タレが…ッ！
+<string>ツいて…ねェな…
+<string>俺はまだ…やれる…
+<string>
+<string>もう一度だ！
+<string>ブッ殺す…！
+<string>勝った気になんなよ？
+<string>覚悟はいいかッ！？
+<string>倍返しだ…！
+<string>
+<string>欲しいか？
+<string>やるよ！
+<string>プレゼントだ…
+<string>ハジけるぜ！
+<string>これでも…喰らええッ！
+<string>「咲け！　ガーベラッ！」
+<string>切り札ってヤツだ！
+<string>ブチ込むぜッ！
+<string>動くなよッ！
+<string>ゆっくりしてなッ！
+<string>貰った！！！
+<string>遅いッ！

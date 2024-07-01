@@ -1,0 +1,39 @@
+<string>
+<string>この気配…<lf>クリフォトの根の方だな
+<string>何だよ？　迷ってんのか？<lf>しっかり頼むぜ、相棒！
+<string>やべえ、やべえ！<lf>どうすんだよ、<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>！
+<string>おい、逃げろ！<lf>もう体がヤベェんだろ！
+<string>辛気臭ェ場所だ…<lf>だがこっから進めそうだぜ
+<string>もうすぐだな…<lf>行けそうか、<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>？
+<string>見ろ、<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>！　電話だ！<lf>繋がるか試してみるか？
+<string>…大したもんだ
+<string>この気配…！<lf>間違いなく魔剣スパーダが近くに…！
+<string>なんだ？　ママが恋しいのか？<lf>代わりにハグしてやろうか？
+<string>見たコトねェヤローだな…<lf>なんで体を締め付けてんだ？
+<string>魔剣スパーダがあれば或いは…<lf>ネロでもヤツに勝てるかもしれん
+<string>ダンテはおっ死んだのかねェ…？
+<string>その可能性は高いだろう<lf>ヤツがダンテを生かす意味はない…
+<string>静かだな、<RUBY><RB>V</RB><RT>ブイ</RT></RUBY><lf>ママの事でも思い出してんのか？
+<string>思い出してないと言えば嘘になるな<lf>俺には苦い思い出の街だ…
+<string>ヒーハーッ！　爽快だぜェッ！
+<string>降りるしか進む道はなしか…
+<string>
+<string>仮面が変わった…？
+<string>それがお前の奥の手か…？<lf>せいぜい注意するとしよう
+<string>
+<string>カーッ！　気持ち悪ィ踊りだぜ！<lf>魔力を持っていかれちまう！
+<string>陳腐なダンスだ…<lf>なるべく見ないで済ませたいな
+<string>同感だぜ！　踊る前に片付けな！
+<string>
+<string>さあ、スパーダを返して貰おうか
+<string>ス、スパ…！？　スパパパパパーッ…！<lf>ンギィイイイイッ！
+<string>お怒りみてーだぜ、どうも<lf>ったく気持ち悪ィ…
+<string>ンッヒッ！　パパパパーダァアアアッ！
+<string>
+<string>出番だ ブス！
+<string>上等だ "鳥肉"
+<string>
+<string>
+<string>…合言葉は？
+<string>知るか！ すぐ来い！
+<string>

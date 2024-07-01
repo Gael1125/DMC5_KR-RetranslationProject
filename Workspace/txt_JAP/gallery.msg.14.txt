@@ -1,0 +1,16 @@
+<string>
+<string>GALLERY
+<string>
+<string>NICO'S REPORT
+<string>LIBRARY
+<string>ART
+<string>STORY
+<string>JUKEBOX
+<string>
+<string>ニコがまとめた情報を確認します
+<string>これまでに入手した情報を確認します
+<string>武器の設計図や各種画像を確認します
+<string>物語にかかわる各種映像を確認します
+<string>サウンドの試聴や設定確認を行います
+<string>
+<string>???

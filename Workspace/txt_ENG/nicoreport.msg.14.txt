@@ -1,0 +1,13 @@
+<string>NICO'S REPORTS
+<string>CHARACTER REPORTS
+<string>ENEMY REPORTS
+<string>WEAPON REPORTS
+<string>ITEM REPORTS
+<string>ACTION REPORTS
+<string>TUTORIAL REPORTS
+<string>View Nico's character reports.
+<string>View Nico's enemy reports.
+<string>View Nico's weapon reports.
+<string>View Nico's item reports.
+<string>Review info on character-specific actions.
+<string>Check previously viewed tutorials.

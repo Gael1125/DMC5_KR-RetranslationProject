@@ -1,0 +1,663 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>PROVOCATION
+<string>
+<string>SIDE ROLL
+<string>KICK JUMP
+<string>SPEED
+<string>ENEMY STEP
+<string>AIR HIKE
+<string>GLIDER
+<string>GET MORE ORBS
+<string>TRIGGER HEART
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>DEVIL TRIGGER
+<string>IRREGULAR FULL CUSTOM
+<string>
+<string>
+<string>
+<string>REBELLION COMBO A
+<string>REBELLION COMBO B
+<string>HELM BREAKER
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>ROUND TRIP
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SPARDA COMBO A
+<string>SPARDA COMBO B
+<string>HELM BREAKER
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>DSD COMBO A
+<string>DSD COMBO B
+<string>DSD COMBO C
+<string>HELM BREAKER
+<string>AERIAL RAVE
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>DRIVE
+<string>OVER DRIVE
+<string>SWORDS FORMATION
+<string>SWORDS FORMATION 2
+<string>SWORDS FORMATION 3
+<string>CHASER
+<string>INTERCEPTOR
+<string>REACTOR
+<string>ESCORT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ROLLING BLAZE
+<string>IGNITION
+<string>IGNITION 2
+<string>IGNITION 3
+<string>MODE CHANGE
+<string>10 COUNTS
+<string>LIGHT BLOW
+<string>HEAVY JOLT
+<string>SWITCH KICK
+<string>WELTER MOVE
+<string>FEATHER COMBO
+<string>BALROG COMBO A
+<string>BALROG COMBO B
+<string>FRICTION
+<string>UPDRAFT
+<string>SWITCH BLOW
+<string>HEAT UP
+<string>FLY DRAGON
+<string>BANTAM REVENGE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>CERBERUS COMBO A
+<string>CERBERUS COMBO B
+<string>SWING
+<string>REVOLVER
+<string>REVOLVER 2
+<string>CRYSTAL
+<string>ICE AGE
+<string>REVOLUTION
+<string>KING SLAYER
+<string>THUNDER CLAP
+<string>TURBULENCE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>GEAR WHEEL
+<string>LOW GEAR
+<string>TOP GEAR
+<string>OVERTOP GEAR
+<string>CAVALIERE COMBO A
+<string>CROSS LINE
+<string>IDLING
+<string>AIR CAVALIERE COMBO A
+<string>HIGHSIDE
+<string>BRAKING
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>NORMAL SHOT
+<string>CHARGE SHOT
+<string>CHARGE SHOT 2
+<string>CHARGE SHOT 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SHOT SHELL
+<string>CHARGE SHELL
+<string>CHARGE SHELL 2
+<string>CHARGE SHELL 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>HOWITZER SHOT
+<string>HIGH EXPLOSIVE
+<string>TWIN HOWITZER
+<string>CASCADE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RED SHOT
+<string>MAN IN THE RED
+<string>SET HAT
+<string>HAT TRICK
+<string>Dr. FAUST 2
+<string>Dr. FAUST 3
+<string>Dr. FAUST 4
+<string>SET HAT 2
+<string>HAT TRICK 2
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>TS STYLE LEVEL 2
+<string>TS STYLE LEVEL 3
+<string>TS STYLE LEVEL 4
+<string>DASH
+<string>SKY STAR
+<string>MUSTANG
+<string>MUSTANG AIR
+<string>FLIPPER
+<string>AIR TRICK
+<string>GROUND TRICK
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SM STYLE LEVEL 2
+<string>SM STYLE LEVEL 3
+<string>SM STYLE LEVEL 4
+<string>PROP
+<string>SHREDDER
+<string>AERIAL RAVE
+<string>DANCE MACABRE
+<string>PROP
+<string>SHREDDER
+<string>AERIAL RAVE
+<string>ROUND TRIP
+<string>DANCE MACABRE
+<string>FOUR HANDED
+<string>STINGERS
+<string>HIGH TIMES
+<string>ROUND TRIPS
+<string>DANCE MACABRE
+<string>MIDDLE BREAK
+<string>CRUISER DIVE
+<string>MINIMUM DRAGON
+<string>RISING DRAGON
+<string>DIVINE DRAGON
+<string>REAL IMPACT
+<string>BREAK SPIRAL
+<string>FIRESTORM
+<string>PYROMANIA
+<string>FLINT WHEEL
+<string>CERBERUS COMBO C
+<string>CERBERUS COMBO D
+<string>POLE PLAY
+<string>ROCK BACK
+<string>HOT STUFF
+<string>HOT STUFF 2
+<string>LONG BARREL
+<string>LONG REVOLVER
+<string>PERCUSSION
+<string>PERCUSSION 2
+<string>LONG BARREL AIR
+<string>CAVALIERE COMBO B
+<string>FULL THROTTLE
+<string>WHEELIE JUMP
+<string>WHEELIE JUMP 2
+<string>SLIPSTREAM
+<string>SLIPSTREAM 2
+<string>AIR CAVALIERE COMBO B
+<string>REDLINE
+<string>
+<string>
+<string>
+<string>
+<string>GS STYLE LEVEL 2
+<string>GS STYLE LEVEL 3
+<string>GS STYLE LEVEL 4
+<string>EBONY SHOT
+<string>AUTO CHARGE (E)
+<string>AUTO CHARGE 2 (E)
+<string>AUTO CHARGE 3 (E)
+<string>IVORY SHOT
+<string>AUTO CHARGE (I)
+<string>AUTO CHARGE 2 (I)
+<string>AUTO CHARGE 3 (I)
+<string>TWOSOME TIME
+<string>HONEYCOMB FIRE
+<string>RAINSTORM
+<string>FIREWORKS
+<string>FIREWORKS AIR
+<string>BACKSLIDE
+<string>GUN STINGER
+<string>CUT-IN FRONT
+<string>CUT-IN BACK
+<string>CUT-IN SIDE
+<string>MULTIPLE
+<string>PARANOIA
+<string>HYSTERIC
+<string>BLASTER
+<string>MULTIPLE TWINS
+<string>MEGA CASCADE
+<string>HYSTERIC TWINS
+<string>BLASTER TWINS
+<string>MAD HATTER
+<string>RED HOT NIGHT
+<string>MAGIC HAT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RG STYLE LEVEL 2
+<string>RG STYLE LEVEL 3
+<string>RG STYLE LEVEL 4
+<string>BLOCK
+<string>AIR BLOCK
+<string>ROYAL BLOCK
+<string>RELEASE
+<string>AIR RELEASE
+<string>ROYAL RELEASE
+<string>ROYAL REVENGE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ACCUMULATE
+<string>SDT COMBO
+<string>THE OMBRA
+<string>AIR RAID
+<string>ADVENT
+<string>SIN STINGER
+<string>SIN INFERNO
+<string>DEMOLITION
+<string>THE LUCE
+<string>JUDGEMENT
+<string>QUADRUPLE S
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>PROVOCATION
+<string>
+<string>SIDE ROLL
+<string>KICK JUMP
+<string>SPEED
+<string>ENEMY STEP
+<string>AIR HIKE
+<string>GLIDER
+<string>GET MORE ORBS
+<string>TRIGGER HEART
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>DEVIL TRIGGER
+<string>IRREGULAR FULL CUSTOM
+<string>
+<string>
+<string>
+<string>REBELLION COMBO A
+<string>REBELLION COMBO B
+<string>HELM BREAKER
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>ROUND TRIP
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SPARDA COMBO A
+<string>SPARDA COMBO B
+<string>HELM BREAKER
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>DEVIL SWORD DANTE COMBO A
+<string>DEVIL SWORD DANTE COMBO B
+<string>DEVIL SWORD DANTE COMBO C
+<string>HELM BREAKER
+<string>AERIAL RAVE
+<string>HIGH TIME
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>DRIVE
+<string>OVER DRIVE
+<string>SWORDS FORMATION
+<string>SWORDS FORMATION 2
+<string>SWORDS FORMATION 3
+<string>CHASER
+<string>INTERCEPTOR
+<string>REACTOR
+<string>ESCORT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ROLLING BLAZE
+<string>IGNITION
+<string>IGNITION 2
+<string>IGNITION 3
+<string>MODE CHANGE
+<string>10 COUNTS
+<string>LIGHT BLOW
+<string>HEAVY JOLT
+<string>SWITCH KICK
+<string>WELTER MOVE
+<string>FEATHER COMBO
+<string>BALROG COMBO A
+<string>BALROG COMBO B
+<string>FRICTION
+<string>UPDRAFT
+<string>SWITCH BLOW
+<string>HEAT UP
+<string>FLY DRAGON
+<string>BANTAM REVENGE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>CERBERUS COMBO A
+<string>CERBERUS COMBO B
+<string>SWING
+<string>REVOLVER
+<string>REVOLVER 2
+<string>CRYSTAL
+<string>ICE AGE
+<string>REVOLUTION
+<string>KING SLAYER
+<string>THUNDER CLAP
+<string>TURBULENCE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>GEAR WHEEL
+<string>LOW GEAR
+<string>TOP GEAR
+<string>OVERTOP GEAR
+<string>CAVALIERE COMBO A
+<string>CROSS LINE
+<string>IDLING
+<string>AIR CAVALIERE COMBO A
+<string>HIGHSIDE
+<string>BRAKING
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>NORMAL SHOT
+<string>CHARGE SHOT
+<string>CHARGE SHOT 2
+<string>CHARGE SHOT 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SHOT SHELL
+<string>CHARGE SHELL
+<string>CHARGE SHELL 2
+<string>CHARGE SHELL 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>HOWITZER SHOT
+<string>HIGH EXPLOSIVE
+<string>TWIN HOWITZER
+<string>CASCADE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RED SHOT
+<string>MAN IN THE RED
+<string>SET HAT
+<string>HAT TRICK
+<string>Dr. FAUST 2
+<string>Dr. FAUST 3
+<string>Dr. FAUST 4
+<string>SET HAT 2
+<string>HAT TRICK 2
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>TS STYLE LEVEL 2
+<string>TS STYLE LEVEL 3
+<string>TS STYLE LEVEL 4
+<string>DASH
+<string>SKY STAR
+<string>MUSTANG
+<string>MUSTANG AIR
+<string>FLIPPER
+<string>AIR TRICK
+<string>GROUND TRICK
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SM STYLE LEVEL 2
+<string>SM STYLE LEVEL 3
+<string>SM STYLE LEVEL 4
+<string>PROP
+<string>SHREDDER
+<string>AERIAL RAVE
+<string>DANCE MACABRE
+<string>PROP
+<string>SHREDDER
+<string>AERIAL RAVE
+<string>ROUND TRIP
+<string>DANCE MACABRE
+<string>FOUR HANDED
+<string>STINGERS
+<string>HIGH TIMES
+<string>ROUND TRIPS
+<string>DANCE MACABRE
+<string>MIDDLE BREAK
+<string>CRUISER DIVE
+<string>MINIMUM DRAGON
+<string>RISING DRAGON
+<string>DIVINE DRAGON
+<string>REAL IMPACT
+<string>BREAK SPIRAL
+<string>FIRESTORM
+<string>PYROMANIA
+<string>FLINT WHEEL
+<string>CERBERUS COMBO C
+<string>CERBERUS COMBO D
+<string>POLE PLAY
+<string>ROCK BACK
+<string>HOT STUFF
+<string>HOT STUFF 2
+<string>LONG BARREL
+<string>LONG REVOLVER
+<string>PERCUSSION
+<string>PERCUSSION 2
+<string>LONG BARREL AIR
+<string>CAVALIERE COMBO B
+<string>FULL THROTTLE
+<string>WHEELIE JUMP
+<string>WHEELIE JUMP 2
+<string>SLIPSTREAM
+<string>SLIPSTREAM 2
+<string>AIR CAVALIERE COMBO B
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>GS STYLE LEVEL 2
+<string>GS STYLE LEVEL 3
+<string>GS STYLE LEVEL 4
+<string>EBONY SHOT
+<string>AUTO CHARGE (E)
+<string>AUTO CHARGE 2 (E)
+<string>AUTO CHARGE 3 (E)
+<string>IVORY SHOT
+<string>AUTO CHARGE (I)
+<string>AUTO CHARGE 2 (I)
+<string>AUTO CHARGE 3 (I)
+<string>TWOSOME TIME
+<string>HONEYCOMB FIRE
+<string>RAINSTORM
+<string>FIREWORKS
+<string>FIREWORKS AIR
+<string>BACKSLIDE
+<string>GUN STINGER
+<string>CUT-IN FRONT
+<string>CUT-IN BACK
+<string>CUT-IN SIDE
+<string>MULTIPLE
+<string>PARANOIA
+<string>HYSTERIC
+<string>BLASTER
+<string>MULTIPLE TWINS
+<string>MEGA CASCADE
+<string>HYSTERIC TWINS
+<string>BLASTER TWINS
+<string>MAD HATTER
+<string>RED HOT NIGHT
+<string>MAGIC HAT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RG STYLE LEVEL 2
+<string>RG STYLE LEVEL 3
+<string>RG STYLE LEVEL 4
+<string>BLOCK
+<string>AIR BLOCK
+<string>ROYAL BLOCK
+<string>RELEASE
+<string>AIR RELEASE
+<string>ROYAL RELEASE
+<string>ROYAL REVENGE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ACCUMULATE
+<string>SDT COMBO
+<string>THE OMBRA
+<string>AIR RAID
+<string>ADVENT
+<string>SIN STINGER
+<string>SIN INFERNO
+<string>DEMOLITION
+<string>THE LUCE
+<string>JUDGEMENT
+<string>QUADRUPLE S
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

@@ -1,0 +1,101 @@
+<string>Play Through
+<string>Mission02
+<string>Mission16
+<string>Training
+<string>Customize
+<string>Play all through.
+<string>Play usual area.
+<string>Play boss area.
+<string>Training mode.
+<string>Customize weapons or skills.
+<string>*Information
+<string>*Brightness
+<string>*HDR Brightness Max
+<string>*HDR Brightness
+<string>*Easy automatic
+<string>*Difficulty
+<string>*Network Settings
+<string>Continue
+<string>Mission Select
+<string>Play from last save point.
+<string>Select mission.
+<string>No-Fix
+<string>S & G
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Press use button.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

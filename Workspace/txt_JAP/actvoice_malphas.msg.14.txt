@@ -1,0 +1,15 @@
+<string>
+<string>お許しを…！
+<string>
+<string>この力は…ッ！？
+<string>供物には良き獲物だ…
+<string>どこを見ている？　ここだ、ここだ…！
+<string>その程度の力では我が主に勝てはせぬ…
+<string>地べたを這っているのが貴様には似合いだ
+<string>見せてやろう…魔界随一の魔術の力を！
+<string>どうした？　臆したか？
+<string>無駄だ
+<string>効かぬわ
+<string>愚か者め
+<string>喰らうがいい
+<string>地獄に送ってやる…！

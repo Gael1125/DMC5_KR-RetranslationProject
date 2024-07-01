@@ -1,0 +1,14 @@
+<string>
+<string>NEW GAME
+<string>INFORMATION
+<string>디스플레이를 게임 모드로 설정하는 것을 권장합니다.
+<string>
+<string>NEW GAME OPTIONS
+<string>GAME MODE
+<string>마치고 계속
+<string>게임 모드를 변경합니다.
+<string>설정을 저장하고 게임을 시작하시겠습니까?
+<string>HUMAN
+<string>DEVIL HUNTER
+<string>데빌 메이 크라이<lf>초보에게 적합한 모드입니다.
+<string>데빌 메이 크라이<lf>베테랑에게 적합한 모드입니다.

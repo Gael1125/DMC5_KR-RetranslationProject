@@ -1,0 +1,13 @@
+<string>
+<string>PHOTO MODE
+<string>
+<string><ICON Dir> Adjust Camera Position
+<string><ICON LS_UD> Zoom Camera IN/OUT
+<string><ICON RS_LR> Rotate Camera
+<string><ICON CenR> Guide Display ON/OFF
+<string><ICON BtnL> Information Display ON/OFF
+<string><ICON BtnU> Difficulty Display ON/OFF
+<string><ICON CANCEL> Back
+<string><ICON MOUSE_DRAG_3> Adjust Camera Position
+<string><ICON MOUSE_SCR_UD> Zoom Camera IN/OUT
+<string><ICON KEY_DRAG> Rotate Camera

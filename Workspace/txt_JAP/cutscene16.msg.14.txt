@@ -1,0 +1,20 @@
+<string>
+<string>もう帰れよ！ ヤツは俺の獲物だ！
+<string>特にネロ… お前にはヤらせねえよ
+<string>
+<string>立ち去るがいい！
+<string>この先へ進めるのは魔界の王のみ！
+<string>貴様ごときは通せぬ！
+<string>おいおい…<lf>どっかで見たイヌ<RUBY><RB>面<RT>づら</RUBY>だな
+<string>愚弄する気か この下等生物め！
+<string>鎖が短すぎたかな？
+<string>おいで ワンちゃん！ 散歩だぜ！ ほれ！
+<string>貴様 我が<RUBY><RB>眷属<RT>けんぞく</RUBY>を知る者か…
+<string>我こそは ケルベロス族の王！
+<string>同胞の仇よ！
+<string>貴様の肉という肉を喰い尽くし！
+<string>骨まで たいらげてくれるわ！
+<string>ほう 確かにパワーはあるな
+<string>散歩も大変だ 来いよ！
+<string>
+<string>これで俺が一番乗り… だな！

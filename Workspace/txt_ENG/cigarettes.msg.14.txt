@@ -1,0 +1,7 @@
+<string>
+<string>Smoking is harmful to you and those around you.
+<string>This game does not promote smoking or the use of cigarettes.
+<string>
+<string>
+<string>"Smoking is harmful to you and those around you."
+<string>"This game does not promote smoking or the use of cigarettes."

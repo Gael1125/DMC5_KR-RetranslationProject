@@ -1,0 +1,9 @@
+<string>
+<string>Hmph, as if there was any doubt.
+<string>Admit it, Dante, I'm just better than you.
+<string>What are a few numbers anyway?
+<string>There's still time. I will not lose again!
+<string>What, a tie? Not possible...
+<string>Again, from the beginning!
+<string>C'mon! You know I was always better...with numbers!
+<string>What?? You were never better...at anything!

@@ -1,0 +1,11 @@
+<string>
+<string>You think I'm turning back now? Fat chance!
+<string>That bump at the top, huh?
+<string>Gotta hammer that soft spot up there...
+<string>My turn, now!
+<string>No point fooling around...<lf>Just gotta get to that hump of his...
+<string>I know I agreed to splitting up, but...<lf>Why do I gotta do all the heavy lifting?
+<string>Sure looks easy down there...<lf>Maybe we could swap.
+<string>Look at this asshole, prancing around...
+<string>Where do you think you're going!?
+<string>Sucker!

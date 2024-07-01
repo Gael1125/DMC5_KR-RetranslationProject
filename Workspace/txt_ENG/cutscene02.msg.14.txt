@@ -1,0 +1,62 @@
+<string>
+<string>That's it. No more wheels from here.
+<string>All right. Guess I'm walkin', then.
+<string>Yo yo yo, check it out.
+<string>What?
+<string>And this is?
+<string>From Morrison. I think it's his manifesto.
+<string>
+<string>Hey, we doin' this or what?
+<string>I'm waitin' on you.
+<string>I'm cookin'. Any special orders?
+<string>
+<string>Huh... Looks like I'm gonna make it<lf>there before you do, V.
+<string>
+<string>Somebody call a doctor?
+<string>Human... I wasn't expecting any survivors!
+<string>Sorry to disappoint ya...
+<string>Hey, ya happen to see a guy around here,<lf>about this big, uses a cane?
+<string>
+<string>I'm supposed to meet him. Did you snack on him?
+<string>Your blood...is a very precious sacrifice...<lf>Eating you would do me no good.
+<string>I must have every last drop...<lf>to rule the Underworld...as king!
+<string>King? You?
+<string>I don't know. I mean, you're a big guy and all,
+<string>but you seem more like a knuckle-scrapping<lf>fart in the wind than anything else.
+<string>No offense.
+<string>Puny human... Do you know who I am?
+<string>I shall show you...the wrath...of the mighty Goliath!!!
+<string>Cool trick! Hey, do you do parties?
+<string>
+<string>I must not be defeated...in a place like this.
+<string>The fruit...is mine...<lf>I will rule the Underworld, not him...!
+<string>"I curse my stars in bitter grief and woe,
+<string>That made my love so high and me, so low."
+<string>Why... Why are you...?
+<string>"Little wanderer,"
+<string>"hie thee home!"
+<string>Thought I was gonna have to<lf>pick you out of his...tummy teeth.
+<string>Pardon my delay, I was catching up on some reading.
+<string>Yeah... Looks like a real page-turner.
+<string>So... You think Dante's still in there?
+<string>If Urizen defeated him, then I expect he's<lf>not much more than Qliphoth pollen by now.
+<string>A what...?
+<string>Qliphoth. It's a tree that grows in the underworld.
+<string>It thrives on human blood, and<lf>those whose blood it sucks, well...
+<string>...Let's just say they don't turn out too well.
+<string>Well, in any case...we need to find out.
+<string>If Dante's alive, we'll save him. If not, we don't.
+<string>Wait.
+<string>First, we need to exterminate some Qliphoth roots.
+<string>V...
+<string>What the hell are you?
+<string>I know, I know, I'm late. Shut it!
+<string>The roads were all clogged.
+<string>Hey, you must be V, huh?
+<string>Hey, you gonna get that?
+<string>Ding ding ding, right by your feet!
+<string>I'm gonna make something amaaazing out of this.
+<string>Did you just sniff that?
+<string>Do you have any idea where that's been?
+<string>Up your butt?
+<string>Focus on the mission.

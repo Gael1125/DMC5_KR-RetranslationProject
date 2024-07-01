@@ -1,0 +1,11 @@
+<string>MISSION MENU
+<string>MISSION START
+<string>PLAYER SELECT
+<string>CUSTOMIZE
+<string>MAIN MENU
+<string>OPTIONS
+<string>Start the mission.
+<string>Select your character.
+<string>Customize your character.
+<string>Return to the Main Menu.
+<string>Change the in-game settings.

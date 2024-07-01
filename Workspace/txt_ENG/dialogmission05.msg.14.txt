@@ -1,0 +1,37 @@
+<string>
+<string>Now to find an exit...
+<string>Whoa! What in the world!?
+<string>Ahhh, he's throwing a tantrum up there!<lf>Watch the ceiling, V!
+<string>Jeez, he almost turned us to paste...<lf>What say we break a leg?
+<string>That should make it a little easier for Nero...<lf>Knock on wood.
+<string>Bravo, helping out the kid!<lf>Didn't know you had such a big heart!
+<string>The kid can handle things up there for now...<lf>Let's work on finding a way topside.
+<string>Can't move forward without breaking through these...
+<string>This way, I guess.
+<string>There must be an escape route...
+<string>This ship is awfully big...
+<string>A hidden path! Hot damn!
+<string>Hey, what's in that hole? Should we take a look?
+<string>Woohoo! Finally outside! And look at that, a phone.
+<string>
+<string>The power to control time... That's quite a horse.
+<string>But that would mean it's Geryon!<lf>I thought Dante killed it already!
+<string>A rare species, but apparently not quite extinct.<lf>Until today, that is.
+<string>
+<string>Be careful, V! He's got horsepower!
+<string>I'll take that momentum... And send it right back.
+<string>
+<string>Weak, powerless creatures.
+<string>So? You got a comeback for that?
+<string>"One thought fills immensity..."
+<string>This is not the time for poetry!<lf>Wait, what does that even mean?
+<string>Where there's a will, there's a way... Now let's go!
+<string>
+<string>Hey, I could use a hand.
+<string>You got it. Wait right there.
+<string>
+<string>Nico...
+<string>That bad, huh? Be right there.
+<string>
+<string>.........
+<string>Is that you, V? Wait right there.

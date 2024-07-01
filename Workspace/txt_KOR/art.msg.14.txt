@@ -1,0 +1,10 @@
+<string>
+<string>ART
+<string>
+<string>BLUEPRINTS
+<string>BONUS ART
+<string>PUBLICITY ART
+<string>
+<string>획득한 무기 설계도를 확인합니다.
+<string>보너스 이미지를 확인합니다.
+<string>DMC5 광고에 사용된 이미지를 확인합니다.

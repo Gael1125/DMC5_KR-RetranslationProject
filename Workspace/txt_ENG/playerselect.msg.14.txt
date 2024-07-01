@@ -1,0 +1,2 @@
+<string>PLAYER SELECT
+<string>Select your character.

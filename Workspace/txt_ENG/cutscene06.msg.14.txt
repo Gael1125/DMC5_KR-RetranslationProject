@@ -1,0 +1,30 @@
+<string>
+<string>Well, she ain't dead.
+<string>Got a pretty smokin' body, though.
+<string>Not that I was—barely even noticed.
+<string>You know, you should go do your thing. I got this.
+<string>Yeah.
+<string>What the hell?
+<string>Whoa... He's too big to leave alone.<lf>I better take care of it.
+<string>Stay alert.
+<string>
+<string>What're you doing down there?
+<string>You didn't think you did that all by yourself, did ya?
+<string>You know, I bet you taste like chicken...
+<string>Oh, you ungrateful sonuva—
+<string>I'll leave this beast to you.
+<string>I must press on.
+<string>
+<string>Well...
+<string>Guess it's just you and me, cockroach.
+<string>
+<string>This thing's a root, too. What's going on?
+<string>Yo, Lady's awake.
+<string>Got any questions for her, better make it fast.
+<string>All right.
+<string>Hey wait wait wait wait, we could use that. Pick it up.
+<string>Not that one, the other one.
+<string>— This One?
+<string>— Uhhh, next—next to it!
+<string>Come on, Nico. This one?<lf>
+<string>Sure.

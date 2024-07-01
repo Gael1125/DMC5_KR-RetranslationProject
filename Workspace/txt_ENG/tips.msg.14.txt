@@ -1,0 +1,180 @@
+<string>
+<string>TIPS
+<string>STORY
+<string>CHARACTER
+<string>
+<string>Dante, the legendary Devil Hunter. He may be a<lf>legend, but it seems there's at least one demon<lf>who can still match him blow for blow. On a job<lf>for the mysterious V, Nero ventures into the<lf>depths of the underworld to aid Dante and take<lf>down some demons. There's a twinge in his<lf>phantom right arm...it's crying out for a fight.
+<string>There was once a demon who saved the human world<lf>from destruction. That demon became a legend, but<lf>with time his name faded from the annals of history.<lf>Now the world faces a new threat. Will the outcome<lf>of this battle be determined by man? By demon?<lf>Or perhaps...
+<string>The demon king Urizen's strength was beyond<lf>all expectations. Dante was forced onto the back<lf>foot and yelled at Nero to get out while he still<lf>could. As a strange demonic infestation climbed<lf>ever higher towards the surface, V and Nero fell<lf>back in defeat, unable to do a thing to stop it.<lf>What fate lies in store for Dante, beaten and left<lf>behind?
+<string>Events were set in motion back before Urizen<lf>took his throne, when a silent, hooded figure<lf>came to tear off Nero's demonic right arm.<lf>Now, a month later, Nero is back with a brand<lf>new power—his Devil Breakers—to smash his<lf>way through the demon swarms in Red Grave<lf>and reunite with V.
+<string>With the city in the grip of a full-scale demon<lf>invasion, Nero found himself battling—and beating—<lf>a gargantuan demon at a church in the infested<lf>city. After meeting up with V, Nero learned that<lf>the infestation can be traced back to a demonic<lf>tree known as the Qliphoth. Looks like the only<lf>way to free the city is to attack the Qliphoth at<lf>its roots.
+<string>Nero and V split up to find separate paths to the<lf>Qliphoth, the demonic tree. Nero encountered a<lf>deadly demon wielding light as a weapon. When<lf>defeated, it turned out to contain Lady. Can she<lf>shed some light on the battle with the demon king?<lf>And what is V's true motive?
+<string>The demons at V's command made short work of<lf>the great demon parasitizing the roots of the<lf>Qliphoth, but the arrival of a colossal demonic<lf>monstrosity destroyed the road ahead, plunging<lf>V underground.
+<string>After dodging the colossal demon above, V made<lf>rapid progress underground, moving towards his<lf>true goal of recovering Sparda.<lf>Meanwhile, back on the surface...
+<string>Nero toppled the colossal demon striding<lf>through the ruins of Red Grave. He doesn't<lf>have time for fear; no matter what terrors lurk<lf>in his path, there's only one enemy on his mind.<lf>Nico managed to catch up with him and give<lf>him the good news: Lady's awake.
+<string>Judging by Lady's account, there's little chance<lf>that Trish and Dante made it out of the battle<lf>against the demon king unscathed. Nero and V<lf>pressed on through the subway system and finally<lf>reached the roots of the Qliphoth.<lf>The ruins of an old house there prompted<lf>V to share his thoughts...which only deepened<lf>Nero's suspicions. Who or what is V?
+<string>With V determined to seek out Sparda, Nero went<lf>his own way and confronted the demon king Urizen<lf>alone. Just when he seemed on the brink of<lf>revenge, Urizen unleashed an unseen level of power<lf>that Nero could not hope to match. All seemed lost<lf>until an unfamiliar demon with blazing red eyes<lf>rushed in and beat back the demon king's assault.
+<string>The entire crisis began when V visited Devil May<lf>Cry and hired Dante to take on the demon king<lf>Urizen. Now, V has left Nero's side and discovered<lf>Sparda near its wielder—Dante, who appears to<lf>have been comatose since his battle with Urizen.<lf>With hatred and vengeance in his eyes, V brought<lf>the sword down toward Dante, but as the blade<lf>descended, Dante's eyes flicked open...!
+<string>After awakening from a trip through his boyhood<lf>memories, Dante spoke about the first battle with<lf>Urizen. Everything was going well until Trish,<lf>Lady, and Dante made it inside Urizen's fortress<lf>and came under fire from Urizen's terrifying<lf>power. Nero and V joined the fight but were<lf>quickly forced to retreat. And now...
+<string>After awakening from a month spent recuperating,<lf>Dante headed for the demon king. He crushed the<lf>demon knight blocking his path and rescued Trish<lf>from within, only to continue making his way<lf>towards the Qliphoth. Meanwhile, V revealed<lf>his past to Trish.
+<string>V revealed the truth to Trish—he is in fact one<lf>part of Dante's brother. Vergil used the power<lf>of Yamato to cleave himself in two, separating<lf>his human and demon sides into two distinct<lf>beings. As V recounted the tale, Dante absorbed<lf>Rebellion into himself and awakened his true<lf>power. He battled Urizen and forced him back,<lf>but at that moment the Qliphoth completed its<lf>emergence into the human world.
+<string>Qliphoth, blood-drinker, infernal tree. At its<lf>nadir, all the life force it has absorbed is<lf>condensed into an unholy fruit. Dante, Nero,<lf>and V stand together, each for their own reasons,<lf>and prepare for the final battle. They set forth<lf>toward the depths of the Qliphoth, fighting<lf>through the harshest resistance yet. V is grimly<lf>determined; he will see this through to the end.
+<string>Time is running out. As his body started to fail<lf>him, V summoned what strength remained to<lf>continue downward. With devilish illusions cast<lf>before him, he was thrown into pocket planes where<lf>he faced shades of the underworld lite, and<lf>though he finally reached the source of his<lf>torment, he had too little strength to defend<lf>himself. But just then, Nero appeared, having<lf>reached this point via a different route...
+<string>Revenge is almost within Nero's grasp, and that's<lf>all the motivation he needed to persevere through<lf>a gauntlet of fiendish demons. He took down the<lf>enemies in his path and finally managed to<lf>rendezvous with V, who appeared to be at death's<lf>door. Even so, the man was determined to press on.<lf>Together they continued toward the base of the<lf>Qliphoth. Meanwhile, Dante is even farther<lf>ahead...
+<string>Having obtained the power of his Sin Devil Trigger<lf>form, Dante was the first to reach the deepest<lf>depths of the Qliphoth, where he defeated a<lf>demon in a battle reminiscent of a past<lf>encounter, obtaining a new weapon in the<lf>process. Then, at last, he arrived at the final<lf>battleground: the uncanny arena where Urizen<lf>lies in wait.
+<string>Urizen ate the fruit of the Qliphoth and gained<lf>power beyond reckoning, but Dante's new strength<lf>proved greater still. The furious battle reached<lf>its climax, with Dante finally bringing the demon<lf>king to his knees. As the life ebbed from the<lf>Urizen, V approached and merged with the fallen<lf>king. Where once stood man and demon...<lf>Vergil was restored.
+<string>Dante revealed the truth to Nero: Vergil is his<lf>father. Leaving the younger Devil Hunter in shock,<lf>Dante then went on alone to confront Vergil at the<lf>summit of the Qliphoth. The path was blocked by<lf>V's castoffs, the three demons that served him<lf>until his reunion with Urizen. Having proved<lf>to them what it means to be a legendary Devil<lf>Hunter, all that's left is to confront his brother.
+<string>A brotherhood defined by hatred and grudging<lf>respect. A rivalry for the ages. Vergil and Dante<lf>clashed...all their grievances, their enmity, their<lf>reasons to fight, focused into one decisive<lf>battle. But this would not be their end...<lf>Nero, having found his own reasons to fight,<lf>comes between his father and uncle. There<lf>will be no fratricide this day.
+<string>
+<string>In mid-air, press <ICON ACT_BtnD> while touching an enemy<lf>to jump off of that enemy. When the battle gets<lf>crazy, keep your cool and go for style.
+<string>Hold <ICON ACT_BtnL> to charge your weapon with more power.<lf>Skillful use of charging during battle can make it<lf>easier to raise your Stylish Rank.
+<string>If you start running low on Devil Breakers, try<lf>searching around for more. You might find some on<lf>the street, down alleys, or hidden behind something.<lf>But be warned, enemies in the area are liable to<lf>crush them underfoot, so be sure to grab one as<lf>soon as you see it.
+<string>Nico's Devil Breakers are fragile, shattering if<lf>you take a hit while using them. Know when to<lf>use them sparingly and when to go all out.
+<string>
+<string>You can change magazines on the Customize screen.<lf>Change things around to fit your combat style, or<lf>choose a setup to challenge yourself instead. Find<lf>the style that's right for you.
+<string>You can cancel Devil Trigger form when needed.<lf>The power granted by Devil Trigger doesn't last<lf>forever, however, so keep an eye on your DT Gauge<lf>and use it wisely.
+<string>Devil Breaker: Overture<lf>A user-friendly Devil Breaker with average power.<lf>Can take out puny demons in one hit.
+<string>Battery<lf>An Overture skill that allows the user to<lf>fire electricity from the Devil Breaker's palm.<lf>Its effectiveness changes depending on whether the<lf>enemy is airborne, knocked down, or near a wall.
+<string>Exploder<lf>An Overture skill that allows the user to<lf>set time bombs and detonate them remotely.<lf>Up to three bombs can be set at once for extra<lf>damage.
+<string>Devil Breaker: Gerbera<lf>Provides airborne movement and piercing<lf>beam attacks. Good against strong flyers.
+<string>Jocky<lf>A Gerbera skill that allows the user to release<lf>a powerful shockwave from the palm of their hand.<lf>Good for evading and stopping enemy projectiles<lf>in mid-air.
+<string>Petal Ray<lf>A Gerbera skill. In mid-air it allows the user to<lf>fire piercing beams. Firing them down narrow<lf>passages will cause them to ricochet violently,<lf>dealing multiple hits to enemies in their path.
+<string>Devil Breaker: Punch Line<lf>An armored arm with propulsion power.<lf>Use it to restrain enemies, ride around,<lf>send demons flying, and more.
+<string>Jet Gadget<lf>A Punch Line skill that allows the user to shoot<lf>their forearm as a guided missile. After launch,<lf>the missile can be detonated remotely.
+<string>Boost Knuckle<lf>A Punch Line skill that allows the user to throw<lf>a punch with maximum propulsion. Even larger<lf>enemies will be knocked back by a clean hit.
+<string>Devil Breaker: Tomboy<lf>A weapon that powers up Nero's swords and guns.<lf>Think you can handle it?
+<string>You cannot press <ICON ACT_RB> to lock on to enemies<lf>while using Tomboy. Although this Devil Breaker<lf>offers you great power, you'll have to aim at the<lf>enemies manually.
+<string>EX Shot/EX Charge Shot<lf>A Tomboy skill that speeds up Blue Rose bullets,<lf>improving piercing power. Requires manual lock on.
+<string>Devil Breaker: Helter Skelter<lf>Good for piercing straight through large enemies<lf>and breaking their guard.
+<string>While attacking with Helter Skelter, tap the<lf><trc id="0"> to deploy a large spinning blade and<lf>increase attack power.
+<string>Devil Breaker: Ragtime<lf>A weapon that can control space-time.<lf>Using a special force field, it bends time for<lf>any target it touches.
+<string>When the Ragtime field dissipates, any bullets<lf>that were caught in the field will accelerate to<lf>high velocities, shooting out at high speed. This<lf>can sometimes cause multiple hits.
+<string>Slow World<lf>A Ragtime skill that slows down time for targets<lf>in the surrounding area. Good for getting past<lf>traps or enemies that are too fast to deal with<lf>normally.
+<string>Devil Breaker: Rawhide<lf>Take advantage of this arm's long-range attack to<lf>wipe out enemies in one sweep. Rawhide's range<lf>is greater than any other Devil Breaker out there.
+<string>Side Winder<lf>A Rawhide skill that, when timed right, boasts<lf>greater attack range and unleashes more blows.
+<string>With Rawhide equipped, your Snatch technique<lf>will be upgraded, letting you pull in some<lf>heavy enemies once they've been staggered.
+<string>Devil Breaker: Buster Arm<lf>An arm that recreates Nero's Buster attack.<lf>Turns into a giant arm surrounded by a force field.
+<string>Super Buster<lf>A Buster Arm skill. After charging, unleash this<lf>move to perform a powerful throw that cannot be<lf>interrupted by enemy attacks.
+<string>Devil Breakers can be found scattered around mission<lf>locales. But be warned, enemies in the area are<lf>liable to crush them underfoot, so be sure to grab<lf>one as soon as you see it.
+<string>Press <ICON ACT_LB> to detonate your equipped Devil Breaker.<lf>Activate Break Away in a horde of enemies to beat<lf>a hasty retreat, so send the whole group flying.<lf>Be warned that this will destroy the equipped<lf>Devil Breaker for good, so use this with caution.
+<string>Holding down <ICON ACT_BtnR> until your Devil Breaker crackles<lf>with energy will unlock its latent potential.<lf>Releasing the button unleashes a powerful attack,<lf>destroying the arm in the process. Receiving an<lf>attack while pressing <ICON ACT_BtnR> will also destroy the<lf>Devil Breaker, so use this technique with caution.
+<string>
+<string>In mid-air, press <ICON ACT_BtnD> while touching an enemy<lf>to jump off of that enemy. When the battle gets<lf>crazy, keep your cool and go for style.
+<string>Change styles to pull off cooler, more stylish<lf>combos. If you want to call yourself a real<lf>Devil Hunter, train up and aim for the top rank.
+<string>Switch Dante's close-range weapons with <ICON ACT_RT><lf>and long-range weapons with <ICON ACT_LT>.<lf>Master hot-swapping your weapons to bring some<lf>serious pain with an endless barrage of attacks.
+<string>You can customize weapons and buy skills and items<lf>by selecting Customize from the mission menu.<lf>Preparation is the key to overcoming tough enemies<lf>and tricky situations.
+<string>While using Devil Trigger, Dante will slowly<lf>regain vitality, so transforming can be good not<lf>only for attacks, but also for a quick vitality<lf>boost in an emergency. When the going gets tough,<lf>use this trick to stay on the offensive instead<lf>of beating a retreat.
+<string>Dante's Sin Devil Trigger gauge must be full in<lf>order for him to switch to his Sin Devil Trigger<lf>form. Keep an eye on this gauge if you want to<lf>do some real damage.
+<string>Trickster<lf>A style geared towards movement and evasion.<lf>Lets you dance through the enemies and smack<lf>them around with style.
+<string>Swordmaster<lf>A style geared towards close-range swordplay.<lf>Use quick combos to cut down enemies in a flash.
+<string>Gunslinger<lf>A style geared towards long-range combat.<lf>For those who want to keep their distance in<lf>an engagement.
+<string>Royalguard<lf>A style geared towards defense.<lf>Good for quick counterattacks.
+<string>The style icon in the upper-left side of the screen<lf>shows how many units of the Royal Gauge remain<lf>to be used in Royal Guard counters.
+<string><weapon player="d" id="21"><lf>A standard sword that is easy to use. Has decent<lf>combo options, making this a safe option for<lf>most situations.
+<string><weapon player="d" id="25"><lf>A sword packing more power than Rebellion.<lf>Swings wide and allows for satisfying combos.
+<string><weapon player="d" id="26"><lf>The Rebellion sword, evolved.<lf>It can summon multiple demonic blades to<lf>support Dante.
+<string><weapon player="d" id="24"><lf>A weapon made for close combat.<lf>Swap between Blow Mode (quick, compact attacks)<lf>or Kick Mode (powerful staggering blows)<lf>by pressing <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string><weapon player="d" id="27"><lf>A weapon that can change form to take down enemies.<lf>The three elemental forms allow for versatile combat.
+<string><weapon player="d" id="31"><lf>A heavy weapon with a unique design.<lf>It may leave you wide open, but there's no better<lf>way to stagger enemies.
+<string><weapon player="d" id="22"><lf>A pair of quick-firing pistols.<lf>Easy to use but don't do that much damage.
+<string><weapon player="d" id="23"><lf>A shotgun with powerful buckshot and slow reload.<lf>Does more damage to enemies at close range.
+<string><weapon player="d" id="28"><lf>A high caliber firearm with lots of range and power.<lf>Just be careful of the recoil.
+<string><weapon player="d" id="32"><lf>A weapon that consumes Red Orbs when wielded.<lf>Use it skillfully and you'll be rewarded with more<lf>orbs, but miss your mark and you'll lose them.
+<string>The length of Dr. Faust's scarf is linked to the<lf>Red Orbs Dante has on-hand. When the scarf<lf>gets shorter that means you're running low on<lf>Orbs, so pay attention.
+<string>
+<string>In mid-air, press <ICON ACT_BtnD> while touching an enemy<lf>to jump off of that enemy. When the battle gets<lf>crazy, keep your cool and go for style.
+<string>V doesn't have the strength to take down demons on<lf>his own. Instead, his pet demons deal damage,<lf>and once the enemy is almost dead, V deals the final<lf>blow. Keep your distance from enemies until they're<lf>ready to be finished off.
+<string>When V's demons, Griffon and Shadow, take enough<lf>damage they stop moving, and can't take orders from<lf>their master (a condition known as "stalemate"). Be<lf>sure to keep an eye on their vitality at all times.
+<string>V can use his pet demons to escape damage, but<lf>he won't be able to use this strategy when they<lf>are out of action (in stalemate), so be careful.
+<string>V's pet demons regain vitality faster when close<lf>to V. When they're in danger, back off the attack<lf>or keep them near V.
+<string>During Devil Trigger, Shadow and Griffon will<lf>start attacking enemies automatically. The timer<lf>that appears over their vitality gauges shows how<lf>much longer they'll stay on the attack.
+<string>Griffon's dashing Flank Attack will automatically<lf>home in on enemies, striking others en route to the<lf>intended targets.
+<string>Griffon's electrifying Double Check skill lasts<lf>for a long time, letting him pile on even more<lf>attacks in the interim.
+<string>Summon Shadow near an enemy or in mid-air to have<lf>him attack enemies as he appears.
+<string>V's pet demon Nightmare is invincible.<lf>He acts on his own, but summoning him to the battle<lf>will help to clear out the horde.
+<string>Promotion<lf>Press <ICON ACT_LB>+<ICON ACT_BtnR> while Nightmare is on the battlefield<lf>(or <ICON ACT_BtnD> in the air near him) to climb on and attack<lf>with <ICON ACT_BtnR>. V is invincible in this state, and<lf>Nightmare stays summoned longer during Promotion,<lf>but be warned that taking damage will cost you<lf>DT Gauge units.
+<string>Summoning Nightmare in specific locations can<lf>cause him to break through walls and other<lf>obstacles that are in the way, occasionally<lf>revealing hidden passages and items.<lf>Try summoning him in different locations.
+<string>When Griffon or Shadow are stalemated, they recover<lf>more quickly near V. If getting close to them isn't<lf>an option, summoning Nightmare will revive them<lf>in a flash.
+<string>
+<string>Pay respect to players you fought with by pressing<lf>"Stylish!" at the end of a mission. Other players<lf>can do the same, so do your best to earn each<lf>other's respect.
+<string>You can check how many "Stylish!" ratings you've<lf>accumulated from online coop partners in the<lf>mission menu. You'll receive Gold Orbs if you rack<lf>up enough, so don't be afraid to show off and earn<lf>that praise.
+<string>
+<string>If a certain location catches your eye, it's worth<lf>taking the time to investigate. Maybe you can find<lf>a hidden stash of Red Orbs! Not every spot will<lf>yield a reward, of course, but don't let that dim<lf>your curiosity.
+<string>Find four Blue Orb Fragments to create a full Blue<lf>Orb that will increase your maximum vitality—<lf>a good idea if you want to survive the long haul.
+<string>Find four Purple Orb Fragments to create a full<lf>Purple Orb that will increase your max DT Gauge.<lf>A big gauge will help you take on enemies more<lf>aggressively.
+<string>You can obtain skills and items from Divinity<lf>Statues. Nico can also sell you things, but she<lf>can't make items appear out of thin air. And don't<lf>you think her prices are a bit high? Well, best not<lf>to say anything to her face.
+<string>Devil Hunters don't have time to get lost. Hold <ICON ACT_LStP><lf>at any time to swivel the camera towards your<lf>next objective.
+<string>Press <ICON ACT_BtnD> to jump over obstacles or up to higher<lf>levels. If a single jump isn't enough, you can use<lf>a wall jump to climb a bit higher. Press <ICON ACT_BtnD> again<lf>near the wall to gain the extra air you need.
+<string>Using a provocation in battle (<ICON ACT_CenL>) raises your<lf>Stylish Rank. Throw one out at the end of an<lf>impressive combo to really stick it to enemies.<lf>You can even taunt in the air!
+<string>
+<string>Total Results<lf>You can view all mission scores here.<lf>Analyzing your strengths and weaknesses, and<lf>replaying missions you had trouble with will help<lf>you grow to be a better Devil Hunter.
+<string>Bloody Palace<lf>Ever feel like going berserk against non-stop<lf>hordes of enemies for levels upon levels of bloody<lf>bombardment? Then this is the mode for you!<lf>Reach the end for a special reward.
+<string>The Void<lf>This mode lets you choose a character and<lf>practice your combat skills. You can even<lf>choose which enemies you want to spar against.<lf>A great place to improve without stress.
+<string>Gallery<lf>Learn more about characters, enemies, weapons,<lf>items, and more. You might even find some hints<lf>that will help you get through the game.
+<string>Jukebox<lf>Nothing like some good music to get you pumped<lf>for battle. Purchase classic songs from the series<lf>and title voiceovers and listen to them at the<lf>Jukebox. You can even swap in different music<lf>to play during missions.
+<string>Store<lf>Purchase costumes, music, Red Orbs, and more<lf>at the store. Be sure to keep tabs on the lineup<lf>so you don't miss out on the latest items.
+<string>You can unlock new skills on the Customize screen.<lf>Each skill costs Red Orbs, so choose wisely.<lf>Read a skill's explanation or watch the<lf>accompanying video to see what it can do.
+<string>You can buy Devil Breakers for Nero in the<lf>Customize screen. These weapons have important<lf>offensive and defensive properties that you'll<lf>want to take advantage of. Devil Breakers won't<lf>last forever, but don't be afraid to use them:<lf>learning how they work is key to survival.
+<string>You can only equip a certain number of Devil<lf>Breakers. Combine different types and find the<lf>right loadout for the right situation.
+<string>You can choose which weapons Dante carries with<lf>him. The fewer weapons you give him, the faster<lf>you can switch between them. By meeting certain<lf>conditions, you can go into battle completely<lf>unarmed, relying only on Royalguard to defeat<lf>enemies. Talk about crazy tactics.
+<string>The effects of items are shared across characters,<lf>including vitality and Devil Trigger Gauge<lf>upgrades, and the number of Red Orbs collected.<lf>Feel free to stick to your favorite character<lf>if you're looking to save up for that special<lf>something.
+<string>The in-game tutorial tips can be viewed at any<lf>time from the Pause Menu. Check them out to<lf>review any mechanics you may have missed!
+<string>Try out auto-assist if you want to chain together<lf>a slick combo without too much fuss. Use the same<lf>attack inputs to dish out stylish techniques with<lf>ease. Auto-assist can be turned on or off during<lf>gameplay by holding <ICON ACT_RStP>.
+<string>The strength of foes in the Void changes depending<lf>on mission difficulty and progression. Entering the<lf>Void in a mission near the end of the game lets you<lf>train against enemies that are tougher than before.
+<string>If you need a break during gameplay, you can open<lf>the Pause Menu with <ICON CenR>. Be warned that opening this<lf>menu will cancel any online coop connections,<lf>forcing you to wait for a new connection. Treasure<lf>your current partners, or seek out new ones, the<lf>way you play is up to you!
+<string>While using a Super Character costume, the Devil<lf>Trigger Gauge refills automatically over time. Have<lf>fun throwing everything you've got at the demon<lf>hordes! Just be aware that these costumes only<lf>allow for asynchronous gameplay over the network.
+<string>
+<string>Tutorials are for learning the basics.<lf>Even Devil Hunters gotta start somewhere.
+<string>Focus your attacks and take out any blood clots<lf>you see. You can also take advantage of their<lf>weakness to fire. Just keep an eye on your<lf>surroundings when attacking and don't forget to<lf>dodge any enemies that come near.
+<string>You can knock back the fireballs and other projectiles<lf>that Goliath shoots at you with Gerbera's Jocky<lf>and Overture's Battery attacks. If dodging isn't<lf>your style, try giving the demon a taste of its<lf>own medicine instead.
+<string>Attacking Artemis' projectiles will turn them into<lf>Grim Grips that you can then use to your advantage<lf>to strike back.
+<string>Two heads are better than one.<lf>Summon Nightmare, split up, and go after<lf>different heads on Nidhogg at once.
+<string>There are points you can attack on Gilgamesh's<lf>legs when they pierce through the ceiling,<lf>giving you a chance to collect lots of Red Orbs.
+<string>Elder Geryon can manipulate time to stop V or his<lf>pet demons in their tracks, so attacking recklessly<lf>will leave them open to punishment. Keep an eye on<lf>the positions and vitality of each pet demon, and<lf>ensure they can dodge when the time is right.
+<string>You aren't going to get anywhere if you stay on<lf>the ground. Attack the weak areas on Gilgamesh's<lf>legs to reveal Snatch points that you can use to<lf>climb up to his head, and his exposed weak point.
+<string>The Angelos will come at you tactically. Proto<lf>Angelo is in charge, so taking him out first will<lf>scatter their formation and make it easier to pick<lf>them off one by one.
+<string>If you come across a trap or obstacle, take a look<lf>at your surroundings. There might be something<lf>nearby you can use to your advantage.
+<string>Urizen's shield can be worn away by attacks,<lf>both yours and his own. Hit it with all you've<lf>got, and with enough time and effort you should<lf>be able to bust through.
+<string>It's easy to forget which way you were going after<lf>a battle. Keep your cool and take a moment to look<lf>around—you'll find your way.
+<string>Don't be entranced by the bizarre dancing of the<lf>Nobodies. Instead, focus on how their attack<lf>patterns vary. The eyeball attacks from the green-<lf>masked ones stun easily, while the grab attack<lf>from the red-masked ones inflicts brutal damage.
+<string>Master style changes to draw out Dante's potential<lf>to the fullest. Chain together fast and furious<lf>techniques to toy around with the demon horde.
+<string>The demon tree's roots have spread through the ruins.<lf>Some of the roots run through unstable ground which will open<lf>up to reveal new paths if you destroy the root's weak spots.<lf>You might even come across something valuable.
+<string>Don't let Cavaliere Angelo's gigantic sword<lf>intimidate you. Meet blade with blade, and if you<lf>time an attack well enough, you'll knock the<lf>enemy back and leave him open for a counter.<lf>Show him who the real sword master is.
+<string>Not sure where to go next? Take a look around.<lf>There's sure to be a hint nearby—breakable<lf>walls, hidden passageways, or even items you<lf>can see in the distance.
+<string>A maximum of three people can fight together here.<lf>The battle may get intense, but don't forget why<lf>you're here. Go down the hole in the center of the<lf>room and head for the lower levels.
+<string>The pet demons have been imprisoned by the enemy.<lf>The order in which you free the demons will<lf>have a large impact on the battle, so think long and<lf>hard about which pet demon will help you most.
+<string>Many traps and enemies await you on your path.<lf>Be sure to plan ahead and choose the best<lf>Devil Breaker for the situation.
+<string>When the demon bird Malphas goes on a rampage,<lf>that's your chance to get in close and deal big<lf>damage. It's risky, but it may be worth it.
+<string>Your goal is to reach the bottom of the tree.<lf>White Orbs give you more options against the<lf>powerful enemies that block your path. Make sure<lf>the tide of battle stays in your favor.
+<string>Each of King Cerberus' heads has a unique<lf>elemental attack. Take out one of the heads to<lf>upset its attack pattern and gain the advantage.
+<string>Urizen has a wide range of attacks, but don't let<lf>that throw you off your game. Just stay cool,<lf>study his moves, and attack when the time is<lf>right.
+<string>If you see a red blood clot on the roots of the<lf>demon tree, destroy it. This will change certain<lf>areas of the battleground at the upper level where<lf>you fight with the three demons, giving you an<lf>advantage in battle.
+<string>In a boss fight against three demons, you'll<lf>have to keep moving if you don't want to be<lf>overwhelmed. Nightmare will keep healing the<lf>other demons, so focus your attacks on him first.
+<string>Running head-first into Vergil's rush attack<lf>without a plan is suicide. Wait for the end of<lf>the attack and then deal out the pain.
+<string>You've made it this far, so you know by now that<lf>you can't win by swinging wildly. Plan your<lf>attack, think carefully about your weapons, and<lf>utilize your new skills to obtain victory.
+<string>Dante has a vast arsenal of attacks. Brute<lf>strength will not be enough to defeat him.<lf><lf>Remember what you've learned, and deal with<lf>each attack as it comes.
+<string>Sin Devil Trigger Dante is a fearsome foe,<lf>one that you cannot hope to beat just by<lf>evading his attacks.<lf><lf>Summon your courage, and your own<lf>Sin Devil Trigger, and hold nothing back.
+<string>
+<string>You can fire Mirage Blades while moving or<lf>attacking. Try working <ICON ACT_BtnL> into other actions for<lf>increased damage.
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR> to Air Trick next to an enemy pierced<lf>by a Mirage Blade. If there are multiple enemies,<lf>press <ICON ACT_LS> to choose which one to warp to.
+<string>Your Mirage Blade is capable of a plethora of<lf>skills, each with their own unique properties.<lf>For instance, Spiral Blades can be combined with<lf>other skills allowing for devastating combos.<lf><lf>Just keep an eye on your DT Gauge! 
+<string>Judgment Cut is a core component of Yamato's<lf>arsenal. You can add it to most attacks by<lf>holding, and then releasing, <ICON ACT_BtnU>.<lf>Release when your scabbard flashes for increased<lf>power, speed, and performance.<lf><lf>Master its use and dominate the battlefield!
+<string>You can charge most of Beowulf's attacks by<lf>holding the attack button.<lf><lf>Charged attacks are better at shattering an<lf>opponent's guard and deal enhanced damage.
+<string>Mirage Edge's strength lies in its potential to<lf>produce speedy, fast-hitting combos. These<lf>rapid-fire hits can quickly overwhelm enemies,<lf>making them easier to stun.<lf><lf>Chain attacks together efficiently, and you may<lf>take enemies down before they can even respond.
+<string>Get Tricky!<lf>Trick Actions not only help you navigate battle,<lf>but also help fill your Concentration Gauge!<lf><lf>Air Trick: rapidly close the distance between foes<lf>Trick Up: fast, upward movement<lf>Trick Down: rapid landings<lf>Trick Dodge: great for evading
+<string>The more efficient you are in battle, the more<lf>Concentration you will gain.<lf><lf>Missing attacks or aimless running will cause<lf>your Concentration Gauge to decrease.<lf><lf>Keep cool in battle. Observe, evade, and counter<lf>enemy attacks to gain more Concentration.
+<string>More refined play will be rewarded with greater<lf>gains in Concentration.<lf><lf>When using Yamato, time your Judgment Cuts,<lf>or dodge enemy attacks with flawless timing via<lf>Trick Actions for big boosts to Concentration!!
+<string>Maxing your Concentration Gauge will grant your<lf>weapon the following perks.<lf><lf>Yamato: increased attack reach<lf>Beowulf: three-stage charge attacks<lf>Mirage Edge: increase hits for most attacks
+<string>Accumulate<lf>Hold <ICON ACT_LB> while in human form to charge<lf>your SDT Gauge.<lf><lf>This will consume DT energy.
+<string>You can end Sin Devil Trigger mode at any<lf>time by pressing <ICON ACT_LB>.<lf><lf>Conserve Sin Devil Trigger energy whenever<lf>possible, you never know when you'll need it most!
+<string>Sin Devil Trigger mode will greatly empower<lf>your combat capabilities, increasing the<lf>number of hits you land and their strength!
+<string>Sin Devil Trigger mode will also restore your<lf>health over time. If you don't have time to<lf>use World of V, then try activate your Sin Devil<lf>Trigger and destroy your foes before they can<lf>do the same to you.
+<string>World of V<lf>Press <ICON ACT_RB>+ rotate <ICON ACT_LS> once +<ICON ACT_BtnR> to <lf>launch an all-out attack with V and his followers.<lf><lf>You'll gain some health and enjoy increased<lf>green orb drops from any enemies you've slain.
+<string>Doppelganger<lf>Creates a shadowy devil clone of yourself. This<lf>apparition follows you, mirroring your actions.<lf>You can adjust the timing of it like this. <lf>Normal: <ICON ACT_DirU><lf>Haste: <ICON ACT_DirR><lf>Slow: <ICON ACT_DirL>
+<string>You can end Doppelganger early by pressing <ICON ACT_LB> or <ICON ACT_DirD>.<lf><lf>Do this when there are no enemies around, or when<lf>you want to conserve DT energy.
+<string>Your attack, defense, and movement speed will<lf>be slightly enhanced while Doppelganger is active.
+<string>While Doppelganger is active, hold and release <ICON ACT_BtnU><lf>at the right time and your devil clone will<lf>execute a Judgment Cut.<lf><lf>These Judgment Cuts will hit harder, faster,<lf>and can be weaved into almost any action.
+<string>Press <ICON ACT_LT>/<ICON ACT_RT> to swap between melee weapons.<lf><lf>Swap right or left to cycle through your weapons<lf>quickly and efficiently.
+<string>Block<lf>Press <ICON ACT_RB> to guard against an incoming attack,<lf>preventing any damage you would take. Your<lf>Concentration Gauge must be level one or higher <lf>to use this skill.<lf><lf>Using Guard at Concentration level two or higher<lf>strengthens the effect.
+<string><COLOR FF0000>#Rejected#</COLOR> Tips_text_8210
+<string>Air Trick is an extremely flexible skill that<lf>you can activate at pretty much any time.<lf><lf>Mastering its use will allow you be anywhere and<lf>everywhere. Enemies will have nowhere left to run.

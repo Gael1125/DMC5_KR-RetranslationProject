@@ -1,0 +1,513 @@
+<string>
+<string><ICON ACT_LS>
+<string><ICON ACT_RS>
+<string><ICON ACT_RB>を押し続ける
+<string>地上で<ICON ACT_BtnD>
+<string><ICON ACT_CenL>
+<string>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>横方向＋<ICON ACT_BtnD>
+<string>ジャンプ後に壁の近くで<ICON ACT_BtnD>
+<string><ICON ACT_LS>を入力し続ける
+<string>空中で敵に近づき<ICON ACT_BtnD>
+<string>ジャンプ後に<ICON ACT_BtnD>
+<string>デビルトリガー発動中<lf>空中で<ICON ACT_BtnD>を押し続ける
+<string>常時発動
+<string>常時発動
+<string><ICON ACT_LStP>＋<ICON ACT_CenL>を押し続ける
+<string><ICON ACT_LStP>＋<ICON ACT_CenL>を短く押す
+<string><ICON ACT_LB>
+<string>常時発動
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>スティンガー入力後<lf><ICON ACT_LS>を離し<ICON ACT_BtnU>を押し続ける
+<string>リベリオン装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>スティンガー入力後<lf><ICON ACT_LS>を離し<ICON ACT_BtnU>を押し続ける
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>スティンガー入力後<lf><ICON ACT_LS>を離し<ICON ACT_BtnU>を押し続ける
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>ドライブ入力後<lf>衝撃波発生の直後に<ICON ACT_BtnU>
+<string><ICON ACT_BtnU>を押し続け<lf>剣が強く光ってから離す
+<string><ICON ACT_BtnU>を押し続け<lf>剣が強く光ってから離す
+<string><ICON ACT_BtnU>を押し続け<lf>剣が強く光ってから離す
+<string>魔人化中<lf>またはソードフォーメーション発動中<lf>ソードマスタースタイルにする
+<string>魔人化中<lf>またはソードフォーメーション発動中<lf>ガンスリンガースタイルにする
+<string>魔人化中<lf>またはソードフォーメーション発動中<lf>トリックスタースタイルにする
+<string>魔人化中<lf>またはソードフォーメーション発動中<lf>ロイヤルガードスタイルにする
+<string>
+<string><ICON ACT_BtnD>
+<string>ブロウモード時に１０カウント発動<lf>または<lf>キックモード時にヒートアップ発動
+<string>ブロウモード時に１０カウント発動<lf>または<lf>キックモード時にヒートアップ発動
+<string>ブロウモード時に１０カウント発動<lf>または<lf>キックモード時にヒートアップ発動
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>ブロウモード時にパンチ攻撃を<lf>連続ヒットさせる
+<string>ブロウモード時 地上で<lf><ICON ACT_BtnU>
+<string>ブロウモード時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>ブロウモード時<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>ブロウモード時<lf>攻撃後に<ICON ACT_BtnU>を押し続ける
+<string>ブロウモード時 空中で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>キックモード時 地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>キックモード時 地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>キックモード時 空中で<lf><ICON ACT_BtnU>
+<string>キックモード時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>キックモード時<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>キックモード時<lf>攻撃後に<ICON ACT_BtnU>を押し続ける
+<string>ブロウモード時<lf>ヘヴィジョルト発動後に<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>ブロウモード時<lf>ウェルタームーヴで左右方向へ<lf>移動中に<ICON ACT_BtnU>
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<ICON ACT_BtnU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>キングケルベロス装備時<lf><ICON ACT_BtnR>を押し続けて電撃発生後に<lf>地上で<ICON ACT_BtnR>を離す
+<string>キングケルベロス装備時<lf><ICON ACT_BtnR>を押し続けて電撃発生後に<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>を離す
+<string><ICON ACT_BtnU>を押し続けて電撃発生後に地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>を離す
+<string>キングケルベロス装備時<lf><ICON ACT_BtnR>を押し続けて電撃発生後に<lf>空中で<ICON ACT_BtnR>を離す
+<string>
+<string>攻撃ヒット時に発動
+<string>ギアホイール中にいずれかの<trc id="0">を押す
+<string>
+<string>ギアホイール中の武器発光時に<lf>いずれかの<trc id="0">を押す
+<string>
+<string>ギアホイール中の攻撃終了時に<lf>タイミング良くいずれかの<trc id="0">を押す
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>
+<string><ICON ACT_BtnL>
+<string><ICON ACT_BtnL>を押し続け<lf>両腕の光が強くなってから離す
+<string><ICON ACT_BtnL>を押し続け<lf>両腕の光が強くなってから離す
+<string><ICON ACT_BtnL>を押し続け<lf>両腕の光が強くなってから離す
+<string>
+<string><ICON ACT_BtnL>
+<string><ICON ACT_BtnL>を押し続け<lf>右腕の光が強くなってから離す
+<string><ICON ACT_BtnL>を押し続け<lf>右腕の光が強くなってから離す
+<string><ICON ACT_BtnL>を押し続け<lf>右腕の光が強くなってから離す
+<string>
+<string>カリーナアン装備時<lf><ICON ACT_BtnL>
+<string>カリーナアン装備時<lf>地上で<ICON ACT_BtnL>を押し続け<lf>カリーナアンから火花が出たら離す
+<string>ダブルカリーナアン装備時<lf><ICON ACT_BtnL>
+<string>ダブルカリーナアン装備時<lf>地上で<ICON ACT_BtnL>を押し続け<lf>連結したカリーナアンを構えてから離す
+<string>
+<string><ICON ACT_BtnL>を押し続ける
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnL><lf>再度<ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnL>で終了する
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnL>
+<string>セットハット、マッドハッター発動後<lf>戻ってくるハットをキャッチした瞬間<lf>タイミング良く<ICON ACT_BtnL>を押す
+<string>Dr.ファウスト装備時に発動
+<string>Dr.ファウスト装備時に発動
+<string>Dr.ファウスト装備時に発動
+<string>常時発動
+<string>常時発動
+<string>
+<string>常時発動
+<string>常時発動
+<string>常時発動
+<string>地上で<lf><ICON ACT_LS>＋<ICON ACT_BtnR>
+<string>空中で<lf><ICON ACT_LS>＋<ICON ACT_BtnR>
+<string>ダッシュ入力後<lf><ICON ACT_BtnR>を押し続けたまま敵に接触する
+<string>スカイスター入力後<lf><ICON ACT_BtnR>を押し続けたまま敵に接触する
+<string>吹き飛ばされ中に<ICON ACT_BtnR>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnR>
+<string>
+<string>常時発動
+<string>常時発動
+<string>常時発動
+<string>リベリオン装備時 地上で<lf><ICON ACT_BtnR>
+<string>リベリオン装備時 地上で<lf>プロップ入力後に<ICON ACT_BtnR>
+<string>リベリオン装備時 空中で<lf><ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>
+<string>リベリオン装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>連打
+<string>魔剣スパーダ装備時 地上で<lf><ICON ACT_BtnR>
+<string>魔剣スパーダ装備時 地上で<lf>プロップ入力後<ICON ACT_BtnR>
+<string>魔剣スパーダ装備時 空中で<lf><ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>
+<string>魔剣スパーダ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>魔剣スパーダ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>連打
+<string>魔剣ダンテ装備時<lf><ICON ACT_BtnR>
+<string>魔剣ダンテ装備時<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>魔剣ダンテ装備時<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>魔剣ダンテ装備時<lf><ICON ACT_BtnR>を押し続けてから離す
+<string>魔剣ダンテ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnR>連打
+<string>バルログ装備＆ブロウモード時 地上で<lf><ICON ACT_BtnR>
+<string>バルログ装備＆ブロウモード時 空中で<lf><ICON ACT_BtnR>
+<string>バルログ装備＆ブロウモード時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>バルログ装備＆ブロウモード時<lf>ミニマムドラゴン入力後<ICON ACT_BtnR>連打
+<string>バルログ装備＆ブロウモード時<lf>ミニマムドラゴン入力後<lf>拳が光るまで<ICON ACT_BtnR>を連打
+<string>バルログ装備＆ブロウモード時<lf>イグニション発動中 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>バルログ装備＆キックモード時 地上で<lf><ICON ACT_BtnR>
+<string>バルログ装備＆キックモード時 空中で<lf><ICON ACT_BtnR>
+<string>バルログ装備＆キックモード時<lf>イグニション発動中 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>バルログ装備＆キックモード時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>キングケルベロス装備時 地上で<lf><ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>
+<string>キングケルベロス装備時 地上で<lf><ICON ACT_BtnR>→少し待って<ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>
+<string>キングケルベロス装備時 空中で<lf><ICON ACT_BtnR>
+<string>キングケルベロス装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>キングケルベロス装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>キングケルベロス装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string><ICON ACT_BtnU>を押し続けて電撃発生後に地上で<lf><ICON ACT_BtnU>を離す
+<string><ICON ACT_BtnU>を押し続けて電撃発生後に地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>を離す
+<string>キングケルベロス装備時<lf><ICON ACT_BtnR>を押し続けて電撃発生後に地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>を離す
+<string>キングケルベロス装備時<lf><ICON ACT_BtnR>を押し続けて電撃発生後に地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>を離す
+<string><ICON ACT_BtnU>を押し続けて電撃発生後に空中で<lf><ICON ACT_BtnU>を離す
+<string>キャバリエーレ装備時 地上で<lf><ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>
+<string>キャバリエーレ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>キャバリエーレ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>キャバリエーレ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>キャバリエーレ装備時 空中で<lf><ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>
+<string>キャバリエーレR装備時<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnR>
+<string>
+<string>常時発動
+<string>常時発動
+<string>常時発動
+<string>エボニー＆アイボリー装備時<lf>地上で<ICON ACT_BtnR>
+<string>エボニー＆アイボリー装備時<lf>左腕の光が強くなってから地上で<ICON ACT_BtnR>
+<string>エボニー＆アイボリー装備時<lf>左腕の光が強くなってから地上で<ICON ACT_BtnR>
+<string>エボニー＆アイボリー装備時<lf>左腕の光が強くなってから地上で<ICON ACT_BtnR>
+<string>エボニー＆アイボリー装備時に<ICON ACT_BtnL>
+<string>エボニー＆アイボリー装備時<lf>右腕の光が強くなってから<ICON ACT_BtnL>
+<string>エボニー＆アイボリー装備時<lf>右腕の光が強くなってから<ICON ACT_BtnL>
+<string>エボニー＆アイボリー装備時<lf>右腕の光が強くなってから<ICON ACT_BtnL>
+<string>エボニー＆アイボリー装備時 地上で<lf><ICON ACT_BtnL>で射撃後に素早く<ICON ACT_BtnR><lf>または<ICON ACT_BtnR>で射撃後に素早く<ICON ACT_BtnL>
+<string>エボニー＆アイボリー装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnR>連打
+<string>エボニー＆アイボリー装備時<lf>空中で<ICON ACT_BtnR>
+<string>コヨーテＡ装備時<lf>地上で<ICON ACT_BtnR>
+<string>コヨーテＡ装備時<lf>空中で<ICON ACT_BtnR>
+<string>コヨーテＡ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>コヨーテＡ装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>コヨーテＡ装備時<lf>ガンスティンガー発動後に地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>コヨーテＡ装備時<lf>ガンスティンガー発動後に地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>コヨーテＡ装備時<lf>ガンスティンガー発動後に地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>横方向＋<ICON ACT_BtnR>
+<string>カリーナアン装備時<lf>地上で<ICON ACT_BtnR>
+<string>カリーナアン装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>カリーナアン装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>カリーナアン装備時<lf>空中で<ICON ACT_BtnR>
+<string>ダブルカリーナアン装備時<lf>地上で<ICON ACT_BtnR>
+<string>ダブルカリーナアン装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR><lf>発動後<ICON ACT_BtnR>を押し続ける
+<string>ダブルカリーナアン装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>ダブルカリーナアン装備時<lf>空中で<ICON ACT_BtnR>
+<string>Dr.ファウスト装備時<lf><ICON ACT_BtnR>
+<string>Dr.ファウスト装備時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>Dr.ファウスト装備時<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR><lf>発動後に<ICON ACT_BtnL>
+<string>
+<string>常時発動
+<string>常時発動
+<string>常時発動
+<string>地上で<ICON ACT_BtnR>
+<string>空中で<ICON ACT_BtnR>
+<string>敵の攻撃を引き付けて<ICON ACT_BtnR>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>敵の攻撃を引き付けて<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnR>
+<string>
+<string>人間または魔人の状態で<lf><ICON ACT_LB>を押し続ける
+<string><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string><ICON ACT_BtnL>
+<string>ジャンプ後<lf>落下中に<ICON ACT_BtnD>
+<string><ICON ACT_BtnR>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string><ICON ACT_LT>を押し続ける
+<string><ICON ACT_RT>
+<string><ICON ACT_BtnU>＋<ICON ACT_BtnL>
+<string>スタイリッシュランクＳＳＳからの<lf>真魔人化状態で<lf>ＳＤＴゲージ発光時に<ICON ACT_LB>
+<string>
+<string><skill player="d" id="331"><lf><lf><ICON ACT_LS>を倒した方向に、<lf>キャラクターを移動させる。<lf>倒し具合によって移動速度を調整できる。
+<string><skill player="d" id="332"><lf><lf>カメラを自由に操作し、周囲を見渡せる。<lf><ICON ACT_RStP>でカメラ位置を正面方向に戻す。
+<string><skill player="d" id="333"><lf><lf>敵または特定の対象物に、ロックオン<lf>マーカーを付けて狙いを定める。<lf><ICON ACT_RB>を押しながらの構え移動が可能。<lf><ICON ACT_LStP>でロックオン対象を切り替える。
+<string><skill player="d" id="334"><lf><lf>空中に飛び上がる。<lf><ICON ACT_BtnD>を短く押すと低く、押し続けると<lf>高くジャンプする。
+<string><skill player="d" id="335"><lf><lf>地上や空中で、敵を挑発する様々な動作を<lf>行う。<lf>スタイリッシュランクに応じて動作内容が<lf>変化する。
+<string>
+<string><skill player="d" id="337"><lf><lf>横方向に転がり敵の攻撃をかわす。
+<string><skill player="d" id="338"><lf><lf>壁を足場にして再度ジャンプする。
+<string><skill player="d" id="339"><lf><lf><ICON ACT_LS>を同じ方向に入れ続けると、<lf>より速く走る。
+<string><skill player="d" id="340"><lf><lf>空中で敵を踏み台にして再度ジャンプする。
+<string><skill player="d" id="341"><lf><lf>魔力によって空中に足場を作り、<lf>再度ジャンプする。
+<string><skill player="d" id="342"><lf><lf>羽を広げて一定時間浮遊する。<lf><ICON ACT_LS>で浮遊したまま移動する。
+<string><skill player="d" id="343"><lf><lf>オーブを吸収できる範囲がより広くなる。
+<string><skill player="d" id="344"><lf><lf>デビルトリガー発動中の<lf>消費ＤＴゲージ量が減少する。
+<string><skill player="d" id="345"><lf><lf>高額な代価を払った者だけに与えられる<lf>特別な挑発動作。<lf>通常の挑発よりもスタイリッシュランク<lf>が上がりやすくなっている。
+<string><skill player="d" id="346"><lf>　　　　　　　　　　　<lf>ブラッディパレスをクリアした者だけに<lf>与えられる特殊な挑発動作。<lf>バージルの髪形を<RUBY><RB>彷彿<RT>ほうふつ</RUBY>させる<lf>シルエットとなる。
+<string><skill player="d" id="347"><lf><lf>体に眠る悪魔の力を解放して<lf>強力な魔人に変身する。<lf>デビルトリガーゲージを消費する。<lf>発動中は攻撃力・防御力・移動スピードが<lf>上昇し、時間経過により体力が回復する。
+<string><skill player="d" id="348"><lf><lf>武器の装備スロット枠が強制拡張され、<lf>全ての武器の同時装備が可能になる。<lf>ただし操作性が不安定になり、各武器の<lf>特長を生かしにくくなる危険がある。<lf>クレイジーな物好きにしか<lf>おすすめできない。
+<string>
+<string><skill player="d" id="352"><lf><lf>素早く３段攻撃を繰り出す。
+<string><skill player="d" id="353"><lf><lf>リベリオンコンボＡの派生形。<lf>前方を攻撃しつつ、背後の敵にも<lf>ダメージを与える。
+<string><skill player="d" id="354"><lf><lf>空中から真下に急降下し、<lf>強烈な一撃を繰り出す。
+<string><skill player="d" id="355"><lf><lf>強力な斬撃で、敵を空中に打ち上げる。<lf><ICON ACT_BtnU>を押し続けると、自身も空中に<lf>舞い上がる。
+<string><skill player="d" id="356"><lf><lf>高速で敵に接近し、<lf>一撃必殺の突き技を放つ。<lf>デビルトリガー発動中はＤＴゲージを消費し<lf>技の性能がさらに強化される。
+<string><skill player="d" id="357"><lf><lf>高速突き技スティンガーの性能強化版。<lf>移動距離が延長される。
+<string><skill player="d" id="358"><lf><lf>高速で敵に接近し、無数の突き技を見舞う。<lf><ICON ACT_BtnU>の連打で攻撃回数が増える。
+<string><skill player="d" id="359"><lf><lf>剣を敵に投げ付け、<lf>一定時間斬り刻み続ける。<lf><ICON ACT_BtnR>または<ICON ACT_BtnU>を押して呼び戻せる。
+<string>
+<string><skill player="d" id="367"><lf><lf>素早く３段攻撃を繰り出す。
+<string><skill player="d" id="368"><lf><lf>スパーダコンボＡの派生形。<lf>前方を攻撃しつつ、背後の敵にも<lf>ダメージを与える。
+<string><skill player="d" id="369"><lf><lf>空中から真下に急降下し、<lf>強烈な一撃を繰り出す。
+<string><skill player="d" id="370"><lf><lf>鎌状に変形させた剣で敵を空中に<lf>打ち上げる。<lf><ICON ACT_BtnU>を押し続けると自身も空中に<lf>舞い上がる。
+<string><skill player="d" id="371"><lf><lf>槍状に変形させた剣で高速に敵に接近し、<lf>一撃必殺の突き技を放つ。<lf>デビルトリガー発動中はＤＴゲージを消費し<lf>技の性能がさらに強化される。
+<string><skill player="d" id="372"><lf><lf>高速突き技スティンガーの性能強化版。<lf>移動距離が延長される。
+<string><skill player="d" id="373"><lf><lf>高速で敵に接近し、槍状に変化させた剣で<lf>無数の突き技を見舞う。<lf><ICON ACT_BtnU>の連打で攻撃回数が増える。
+<string>
+<string><skill player="d" id="382"><lf><lf>素早く３段攻撃を繰り出す。
+<string><skill player="d" id="383"><lf><lf>魔剣ダンテコンボＡの派生形。<lf>前方を攻撃しつつ、背後の敵にも<lf>ダメージを与える。
+<string><skill player="d" id="384"><lf><lf>２段攻撃に続いて敵を打ち上げ、<lf>さらに追撃を加える。<lf>４段目で<ICON ACT_BtnU>を押し続けると持続時間が<lf>延びる。
+<string><skill player="d" id="385"><lf><lf>空中から真下に急降下し、<lf>強烈な一撃を繰り出す。
+<string><skill player="d" id="386"><lf><lf>空中で連続攻撃を繰り出す。
+<string><skill player="d" id="387"><lf><lf>強力な斬撃で、敵を空中に打ち上げる。<lf><ICON ACT_BtnU>を押し続けると、自身も空中に<lf>舞い上がる。
+<string><skill player="d" id="388"><lf><lf>高速で敵に接近し、<lf>一撃必殺の突き技を放つ。<lf>デビルトリガー発動中はＤＴゲージを消費し<lf>技の性能がさらに強化される。
+<string><skill player="d" id="389"><lf><lf>高速突き技スティンガーの性能強化版。<lf>移動距離が延長される。
+<string><skill player="d" id="390"><lf><lf>高速で敵に接近し、無数の突き技を見舞う。<lf><ICON ACT_BtnU>の連打で攻撃回数が増える。
+<string><skill player="d" id="391"><lf><lf>剣の振りで衝撃波を生み出し、離れた敵を<lf>攻撃する。<lf><ICON ACT_BtnU>を押し続けると攻撃力が上昇する。
+<string><skill player="d" id="392"><lf><lf>ドライブの追加技。<lf>先に放ったドライブの衝撃波に続いて<lf>２連の衝撃波を矢継ぎ早に放つ。
+<string><skill player="d" id="393"><lf><lf>魔力の剣を４本生み出し、攻撃・回避・防御<lf>などのサポート挙動を自動で行わせる。<lf>一定時間の経過で剣は消滅する。<lf>発動時にＤＴゲージを２つ消費する。
+<string><skill player="d" id="394"><lf><lf>ソードフォーメーションの強化版。<lf>生成までのチャージ時間が短縮され、<lf>持続時間も延長される。
+<string><skill player="d" id="395"><lf><lf>ソードフォーメーションの最終強化版。<lf>生成までのチャージ時間がさらに<lf>短縮され、持続時間も延長される。
+<string><skill player="d" id="396"><lf><lf>近距離武器による攻撃に合わせ、<lf>魔力の剣が自動で追撃する。
+<string><skill player="d" id="397"><lf><lf>周辺にいる敵を探知して魔力の剣が<lf>自動攻撃を行い、接近を防ぐ。
+<string><skill player="d" id="398"><lf><lf>ジャンプ・ダッシュ・スカイスター・<lf>エアトリックを連続で行える回数が増える。
+<string><skill player="d" id="399"><lf><lf>ブロックを行うと、魔力の剣も防御挙動を<lf>行い、ロイヤルゲージが溜まる。<lf>また敵の攻撃を受けた時、盾となって<lf>ダメージを軽減する。
+<string>
+<string><skill player="d" id="407"><lf><lf>ジャンプ時に衝撃波をまとい、敵に<lf>ダメージを与えられるようになる。
+<string><skill player="d" id="408"><lf><lf>ブロウモードまたはキックモードで<lf>特定行動をとることにより発動。<lf>バルログの高熱エネルギー放出により、<lf>あらゆる攻撃の性能が一時的に上昇する。
+<string><skill player="d" id="409"><lf><lf>攻撃性能上昇技イグニションの強化版。<lf>効果持続時間が延長される。
+<string><skill player="d" id="410"><lf><lf>攻撃性能上昇技イグニションの最終強化版。<lf>効果持続時間がさらに延長される。
+<string><skill player="d" id="411"><lf><lf>素早いパンチ攻撃主体のブロウモードと、<lf>力強いキック攻撃主体のキックモードを<lf>切り替える。<lf>選択中のモードにより使用できる技が<lf>変化する。
+<string><skill player="d" id="412"><lf><lf>ブロウモードで、パンチ攻撃を連続して<lf>敵にヒットさせるとカウントが増加。<lf>一定値を超えるとイグニションが発動する。<lf>被ダメージや時間の経過によってカウントは<lf>０に戻る。
+<string><skill player="d" id="413"><lf><lf>スピーディなパンチ連撃を繰り出す。
+<string><skill player="d" id="414"><lf><lf>素早く前進して敵の懐に潜り込み、<lf>強力な一撃を見舞う。
+<string><skill player="d" id="415"><lf><lf>ブロウモードからキックモードへと<lf>切り替える際に蹴りを放つ。
+<string><skill player="d" id="416"><lf><lf>攻撃後に素早く体を動かし、<lf>敵の反撃をかわす。<lf><ICON ACT_LS>で左右移動しつつ避けられる。
+<string><skill player="d" id="417"><lf><lf>空中で素早い３連撃を繰り出す。
+<string><skill player="d" id="418"><lf><lf>身体の回転力を活かし、<lf>パワフルな３段蹴りを見舞う。
+<string><skill player="d" id="419"><lf><lf>バルログコンボＡの派生技。<lf>強力な蹴りを連続して繰り出す。
+<string><skill player="d" id="420"><lf><lf>空中から急降下しつつ強力な蹴り技を<lf>繰り出す。
+<string><skill player="d" id="421"><lf><lf>宙返りしつつ敵を蹴り上げる。<lf>空中にいる敵への迎撃性能が高い。
+<string><skill player="d" id="422"><lf><lf>キックモードからブロウモードへと<lf>切り替える際にパンチ攻撃を放つ。
+<string><skill player="d" id="423"><lf><lf>華麗なパフォーマンス行動によって、<lf>イグニションを発動する。<lf>ヒートアップ中は受けるダメージが<lf>増加する。
+<string><skill player="d" id="424"><lf><lf>素早い前進攻撃ヘヴィジョルトから<lf>間髪入れずに左拳を突き上げて、<lf>敵を吹き飛ばす。
+<string><skill player="d" id="425"><lf><lf>反撃回避技ウェルタームーヴで、<lf>左右へ回避した直後にカウンターの<lf>一撃を見舞う技。<lf>敵の攻撃を避けつつ反撃を行える。
+<string>
+<string><skill player="d" id="432"><lf><lf>ヒット回数の多い連続攻撃を繰り出す。
+<string><skill player="d" id="433"><lf><lf>ケルベロスコンボＡの派生形。<lf>周囲をなぎ払いつつ、前方の敵に連撃を<lf>叩き込む。
+<string><skill player="d" id="434"><lf><lf>空中で武器を振り回し、敵に叩きつける。
+<string><skill player="d" id="435"><lf><lf>空中で回転しつつ突進し、敵に連撃を<lf>叩き込む。<lf>デビルトリガー発動中はＤＴゲージを消費し<lf>技の性能がさらに強化される。
+<string><skill player="d" id="436"><lf><lf>空中連撃技リボルバーの強化版。<lf>移動距離が延長され、回転力が増す。
+<string><skill player="d" id="437"><lf><lf>鎖を地面に突き刺し、<lf>前方に巨大な氷の刃を生み出す。
+<string><skill player="d" id="438"><lf><lf>巨大な氷塊で自身を包み込み、<lf>敵の攻撃から身を守る。
+<string><skill player="d" id="439"><lf><lf>電撃を帯びた武器を大きく振り回し、<lf>周囲の敵をまとめて吹き飛ばす。<lf>
+<string><skill player="d" id="440"><lf><lf>電撃を帯びた武器を連続して振り回し、<lf>広範囲の複数の敵を巻き込み攻撃する。
+<string><skill player="d" id="441"><lf><lf>ゆっくりと敵を追いかける雷の塊を<lf>４つ撃ち出す。
+<string><skill player="d" id="442"><lf><lf>空中で電撃を帯びた武器を大きく振り回し、<lf>周囲の敵をまとめて吹き飛ばす。<lf>
+<string>
+<string><skill player="d" id="452"><lf><lf>攻撃ヒット時に、敵を車輪の回転に巻き込み<lf>連続ダメージを与える。
+<string><skill player="d" id="453"><lf><lf>ギアホイール発生中、<lf>いずれかの<trc id="0">を押して追撃する。
+<string><skill player="d" id="454"><lf><lf>ギアホイール発生中、武器が発光してから<lf>いずれかの<trc id="0">を押すことで、より素早い追撃となる。
+<string>
+<string><skill player="d" id="455"><lf><lf>ギアホイール発生中、攻撃終了時に<lf>タイミング良くいずれかの<trc id="0">を<lf>押すことで、より速度と威力を増した<lf>追撃となる。
+<string>
+<string><skill player="d" id="456"><lf><lf>車輪の推進力を利用し３段攻撃を放つ。<lf>１・２段目はギアホイールが発生する。<lf>ソードマスタースタイルの場合、<lf>コンボ途中でキャバリエーレコンボＢへと<lf>派生できる。<lf>ＤＴ発動中はゲージ消費し性能強化される。
+<string><skill player="d" id="457"><lf><lf>両手のキャバリエーレを交叉させ、<lf>同時攻撃による大ダメージを与える。<lf>ギアホイールが発生する。
+<string><skill player="d" id="458"><lf><lf>両手のキャバリエーレを交互に突き上げ、<lf>敵を吹き飛ばす。
+<string><skill player="d" id="459"><lf><lf>空中でキャバリエーレを振り回す２段攻撃。<lf>ギアホイールが発生する。<lf>ソードマスタースタイルの場合、<lf>コンボ途中でエア キャバリエーレコンボＢ<lf>へと派生できる。
+<string><skill player="d" id="460"><lf><lf>車輪の推進力により、攻撃した敵とともに<lf>自身も空中に浮き上がる。<lf>ギアホイールが発生する。
+<string><skill player="d" id="461"><lf><lf>空中の敵を車輪の回転に巻き込み、<lf>急降下しつつ地面に引きずり降ろす。<lf>ギアホイールが発生する。
+<string>
+<string><skill player="d" id="472"><lf><lf>小威力ながら速射性のある弾丸を発射する。
+<string><skill player="d" id="473"><lf><lf>蓄積した魔力を弾丸に込めて、<lf>より大きなダメージを与える。<lf>ガンスリンガースタイルの場合、<lf>魔力のチャージが自動的に行われる。
+<string><skill player="d" id="474"><lf><lf>チャージショットの強化版。<lf>技の持続時間が延長される。
+<string><skill player="d" id="475"><lf><lf>チャージショットの最終強化版。<lf>技の持続時間がさらに延長される。
+<string>
+<string><skill player="d" id="482"><lf><lf>広範囲に広がる散弾を発射する。<lf>近距離で当てると大ダメージを与えられる。
+<string><skill player="d" id="483"><lf><lf>蓄積した魔力を込めた単発弾を撃ち出す。
+<string><skill player="d" id="484"><lf><lf>高威力弾チャージシェルの強化版。<lf>より素早く魔力を弾丸に込められる。
+<string><skill player="d" id="485"><lf><lf>高威力弾チャージシェルの最終強化版。<lf>最速で魔力を弾丸に込められる。
+<string>
+<string><skill player="d" id="492"><lf><lf>爆発力のあるミサイルを発射する。
+<string><skill player="d" id="493"><lf><lf>より爆発力のあるミサイルを発射し、<lf>大ダメージを与える。
+<string><skill player="d" id="494"><lf><lf>爆発力のあるミサイルを交互に発射する。
+<string><skill player="d" id="495"><lf><lf>連結した二丁のカリーナアンから、<lf>貫通力のあるビームショットを放つ。
+<string>
+<string><skill player="d" id="502"><lf><lf>大量のレッドオーブを高速で撃ち出し、<lf>敵にぶつけてダメージを与える。<lf>所持レッドオーブを消費する。
+<string><skill player="d" id="503"><lf><lf>自身の周囲を無数のレッドオーブで覆い、<lf>接近する敵にダメージを与える。<lf>所持レッドオーブを消費する。
+<string><skill player="d" id="504"><lf><lf>ハットを投げてヒットさせると、<lf>一定時間対象の敵が<lf>Dr.ファウスト以外の武器攻撃でも<lf>レッドオーブを放出する。<lf>ただし、セットハット効果が付いた敵から<lf>攻撃を受けるとレッドオーブを失う。
+<string><skill player="d" id="505"><lf><lf>レッドオーブ排出技セットハットの効果が<lf>付いている全ての敵にダメージを与えつつ<lf>同時にレッドオーブを吸収する。
+<string><skill player="d" id="506"><lf><lf>Dr.ファウストの効果によって<lf>得られるオーブと消費するオーブの量が<lf>増える。<lf>消費量の増加に伴って攻撃力が上昇する。
+<string><skill player="d" id="507"><lf><lf>Dr.ファウストの効果によって<lf>得られるオーブと消費するオーブの量が<lf>さらに増える。
+<string><skill player="d" id="508"><lf><lf>Dr.ファウストの効果によって<lf>得られるオーブと消費するオーブの量が<lf>最大まで増える。<lf>大量のオーブ獲得が期待できるが、<lf>同時に大量のオーブを失うリスクも伴う。<lf>使用する際は注意が必要。
+<string><skill player="d" id="509"><lf><lf>セットハット、マッドハッターにより<lf>得られる効果（敵にダメージを与えると<lf>レッドオーブが放出される状態）の<lf>持続時間が延びる。<lf>また、効果を付与できる敵の数が増える。
+<string><skill player="d" id="510"><lf><lf>ハットトリックにより得られる効果<lf>（一定時間全ての敵から得られるレッド<lf>オーブの量が増加する状態）の持続時間が<lf>延びる。
+<string>
+<string><skill player="d" id="517"><lf><lf>トリックスターレベル２の技を習得する。<lf><lf>　・<skill player="d" id="524"><lf>　・<skill player="d" id="522">
+<string><skill player="d" id="518"><lf><lf>トリックスターレベル３の技を習得する。<lf><lf>　・<skill player="d" id="523"><lf>　・<skill player="d" id="525">
+<string><skill player="d" id="519"><lf><lf>トリックスターレベル４の技を習得する。<lf><lf>　・<skill player="d" id="526">
+<string><skill player="d" id="520"><lf><lf><ICON ACT_LS>を入力した方向に<lf>素早く移動しつつ敵の攻撃を回避する。
+<string><skill player="d" id="521"><lf><lf>空中で魔力の足場を作り出し<ICON ACT_LS>を<lf>入力した方向に水平移動する。
+<string><skill player="d" id="522"><lf><lf>ダッシュで敵に近付いた後、<lf>敵の体を足場にして飛び上がる。
+<string><skill player="d" id="523"><lf><lf>スカイスターで敵に近付いた後、<lf>敵の体を利用して急降下着地する。<lf>発動にはある程度の高度が必要になる。
+<string><skill player="d" id="524"><lf><lf>ダメージを受けて吹き飛ばされた際に、<lf>素早く安全な体勢に戻る。
+<string><skill player="d" id="525"><lf><lf>敵の頭上めがけて高速移動し、<lf>空中に姿を現す。
+<string><skill player="d" id="526"><lf><lf>敵の目前または真下めがけて高速移動し、<lf>地上に姿を現す。
+<string>
+<string><skill player="d" id="532"><lf><lf>ソードマスターレベル２の技を習得する。<lf>
+<string><skill player="d" id="533"><lf><lf>ソードマスターレベル３の技を習得する。<lf>
+<string><skill player="d" id="534"><lf><lf>ソードマスターレベル４の技を習得する。<lf>
+<string><skill player="d" id="535"><lf><lf>リベリオンを高速回転させつつ<lf>敵を打ち上げる。
+<string><skill player="d" id="536"><lf><lf>プロップの後、さらに回転する剣を<lf>突き出して敵を切り刻む。<lf><ICON ACT_BtnR>を押し続けると持続時間が延びる。
+<string><skill player="d" id="537"><lf><lf>空中で連続攻撃を繰り出す。
+<string><skill player="d" id="538"><lf><lf>華麗な連続攻撃で、<lf>舞うように敵を斬り続ける。
+<string><skill player="d" id="539"><lf><lf>鎌状に変化させた剣を高速回転させつつ<lf>敵を打ち上げる。
+<string><skill player="d" id="540"><lf><lf>プロップの後、さらに回転する鎌を<lf>突き出して敵を斬り刻む。<lf><ICON ACT_BtnR>を押し続けると持続時間が延びる。
+<string><skill player="d" id="541"><lf><lf>空中で連続攻撃を繰り出す。
+<string><skill player="d" id="542"><lf><lf>鎌状に変形させた剣を敵に投げ付け、<lf>一定時間斬り刻み続ける。<lf><ICON ACT_BtnR>または<ICON ACT_BtnU>を押して呼び戻せる。
+<string><skill player="d" id="543"><lf><lf>華麗な連続攻撃で、<lf>舞うように敵を斬り続ける。
+<string><skill player="d" id="544"><lf><lf>魔力の剣を使った連続攻撃を繰り出す。
+<string><skill player="d" id="545"><lf><lf>魔力の剣を高速で飛ばし、敵を貫く。
+<string><skill player="d" id="546"><lf><lf>魔力の剣により、敵を空中に打ち上げる。
+<string><skill player="d" id="547"><lf><lf>複数の魔力の剣を飛ばし、敵を自動で<lf>斬り刻む。
+<string><skill player="d" id="548"><lf><lf>無数の魔力の剣をともない、華麗な<lf>連続攻撃で舞うように敵を斬り続ける。
+<string><skill player="d" id="549"><lf><lf>腕を高速回転させ、強烈な旋風とともに<lf>打ち込む。
+<string><skill player="d" id="550"><lf><lf>空中から真下の敵に対して拳を叩き付ける。<lf>地面を叩いた衝撃で周囲の敵を巻き込む。
+<string><skill player="d" id="551"><lf><lf>踏み込み突き上げた拳で、敵を上空に<lf>跳ね上げる。
+<string><skill player="d" id="552"><lf><lf>パワーを溜めた後に、飛び上がりながら<lf>強烈なアッパーを放つ。
+<string><skill player="d" id="553"><lf><lf>パワーを溜めた後に、飛び上がりながら<lf>回転する拳を何度もねじ込む。
+<string><skill player="d" id="554"><lf><lf>渾身のボディーブローで敵の動きを止め、<lf>強力な拳とヒザの連撃を加える。
+<string><skill player="d" id="555"><lf><lf>高速スピンしつつ広範囲を巻き込む攻撃を<lf>放つ。<lf><ICON ACT_BtnR>の連打でスピンの持続時間が延びる。<lf><ICON ACT_LS>でスピン中に移動できる。
+<string><skill player="d" id="556"><lf><lf>回転しながら素早く２段蹴りを繰り出す。<lf>敵を浮かせる事ができる。
+<string><skill player="d" id="557"><lf><lf>敵に近づきつつ、強烈な蹴りの連撃を<lf>叩き込む。<lf>
+<string><skill player="d" id="558"><lf><lf>後方へ側転宙返りで移動する。
+<string><skill player="d" id="559"><lf><lf>リーチの長い３段攻撃を繰り出す。<lf>武器の先端部を当てると高威力。
+<string><skill player="d" id="560"><lf><lf>ケルベロスコンボＣの派生形。<lf>長リーチの前方連撃を繰り出す。<lf>武器の先端部を当てると高威力。
+<string><skill player="d" id="561"><lf><lf>地面に突き刺した武器を軸にして、<lf>踊るように回転しつつ攻撃する。
+<string><skill player="d" id="562"><lf><lf>武器を支えに、前方に鋭い飛び蹴りを放つ。
+<string><skill player="d" id="563"><lf><lf>巨大な火炎をまとった武器を振り回し、<lf>前方の広範囲を攻撃する。<lf>デビルトリガー発動中はＤＴゲージを消費し<lf>技の性能がさらに強化される。
+<string><skill player="d" id="564"><lf><lf>火炎技ホットスタッフの強化版。<lf>技のスピードが上昇する。
+<string><skill player="d" id="565"><lf><lf>電撃を帯びた武器を最大まで伸ばし、<lf>遠方に突き攻撃を見舞う。
+<string><skill player="d" id="566"><lf><lf>電撃を帯びた武器を最大まで伸ばし、<lf>空中で回転しつつ突進連撃を食らわせる。
+<string><skill player="d" id="567"><lf><lf>武器を地面に突き刺し、<lf>巨大な落雷を呼び寄せる。<lf>デビルトリガー発動中はＤＴゲージを消費し<lf>技の性能がさらに強化される。
+<string><skill player="d" id="568"><lf><lf>電撃召喚技パーカッションの強化版。<lf>落雷範囲が広がる。
+<string><skill player="d" id="569"><lf><lf>電撃を帯びた武器を最大まで伸ばし、<lf>空中から遠方に突き攻撃を見舞う。
+<string><skill player="d" id="570"><lf><lf>変形させたバイクで連続攻撃を繰り出す。<lf>１・２段目はギアホイールが発生する。<lf>コンボ途中でキャバリエーレコンボＡへと<lf>派生できる。
+<string><skill player="d" id="571"><lf><lf>バイクにまたがり、フロント部分から<lf>鋭い角を突き出して高速突進する。<lf>デビルトリガー発動中はＤＴゲージを消費し<lf>技の性能がさらに強化される。
+<string><skill player="d" id="572"><lf><lf>高速回転するバイクの前後輪で敵を高く<lf>打ち上げ、自分も上空へと跳ね上がる。
+<string><skill player="d" id="573"><lf><lf>車輪攻撃ウィリージャンプの強化版。<lf>敵と自身の跳ね上げ高度がアップする。<lf>
+<string><skill player="d" id="574"><lf><lf>車輪の推進力で素早く前進しつつ、<lf>両手のキャバリエーレで敵を挟み込む。<lf>ギアホイールが発生する。<lf>キャバリエーレコンボＡまたは<lf>キャバリエーレコンボＢの２段目へと<lf>派生できる。
+<string><skill player="d" id="575"><lf><lf>前進挟撃技スリップストリームの強化版。<lf>移動距離が延長される。<lf><lf>
+<string><skill player="d" id="576"><lf><lf>空中で振り回したバイクを敵にぶつける<lf>トリッキーな技。<lf>１・２段目はギアホイールが発生する。<lf>コンボ途中で<lf>エア キャバリエーレコンボＡへと<lf>派生できる。
+<string><skill player="d" id="577"><lf><lf>バイクにまたがり、フロント部分を<lf>持ち上げてジャンプしながら<lf>前方に高速突進する。<lf>崖際から空中に向かってフルスロットルを<lf>行った場合も、この技に変化する。
+<string>
+<string><skill player="d" id="582"><lf><lf>ガンスリンガーレベル２の技を習得する。<lf>
+<string><skill player="d" id="583"><lf><lf>ガンスリンガーレベル３の技を習得する。<lf>
+<string><skill player="d" id="584"><lf><lf>ガンスリンガーレベル４の技を習得する。<lf>
+<string><skill player="d" id="585"><lf><lf>高威力の弾丸を発射する。<lf>敵の体勢を崩しやすい。
+<string><skill player="d" id="586"><lf><lf>魔力のチャージが自動的に行われる。<lf>弾丸の着弾時に炸裂攻撃が追加される。
+<string><skill player="d" id="587"><lf><lf>オートチャージ（Ｅ）の強化版。<lf>チャージ完了までの時間が短縮される。
+<string><skill player="d" id="588"><lf><lf>オートチャージ（Ｅ）の最終強化版。<lf>チャージ完了までの時間がより短縮される。
+<string><skill player="d" id="589"><lf><lf>小威力ながら１度に３発の弾丸を発射する。<lf>極めて速射性が高い。
+<string><skill player="d" id="590"><lf><lf>魔力のチャージが自動的に行われる。<lf>撃ち出される弾丸に貫通性能が加わる。
+<string><skill player="d" id="591"><lf><lf>オートチャージ（Ｉ）の強化版。<lf>チャージ完了までの時間が短縮される。
+<string><skill player="d" id="592"><lf><lf>オートチャージ（Ｉ）の最終強化版。<lf>チャージ完了までの時間がより短縮される。
+<string><skill player="d" id="593"><lf><lf>別方向に向けた２丁拳銃で、２体の敵を<lf>同時に攻撃する。<lf>射撃中<ICON ACT_LS>で攻撃方向を<lf>変えられる。
+<string><skill player="d" id="594"><lf><lf>最高速射で正面の敵を撃ち抜く。
+<string><skill player="d" id="595"><lf><lf>空中で回転しつつ、水平方向に弾丸の雨を<lf>降らせる。<lf><ICON ACT_BtnR>を押し続けると真下へ射撃する。
+<string><skill player="d" id="596"><lf><lf>ショットガンをヌンチャクのように<lf>振り回しつつ射撃する。
+<string><skill player="d" id="597"><lf><lf>ヌンチャク状の射撃技ファイアワークスを<lf>空中で繰り出す。
+<string><skill player="d" id="598"><lf><lf>ロックオン中、素早く真後ろの敵に向けて<lf>射撃する。
+<string><skill player="d" id="599"><lf><lf>高速で突進して銃口を敵に突き刺し、<lf>密着射撃を見舞う。
+<string><skill player="d" id="600"><lf><lf>密着射撃ガンスティンガーの派生攻撃。<lf>素早く前方へ移動しつつ射撃する。<lf>他のカットイン系アクションに隙なく<lf>つなぐことができる。<lf>スライディング中に<ICON ACT_BtnD>で<lf>ジャンプしつつ回避射撃を行う。
+<string><skill player="d" id="601"><lf><lf>密着射撃ガンスティンガーの派生攻撃。<lf>素早く後方へ移動しつつ射撃する。<lf>他のカットイン系アクションに隙なく<lf>つなぐことができる。
+<string><skill player="d" id="602"><lf><lf>密着射撃ガンスティンガーの派生攻撃。<lf>素早く横方向へ移動しつつ射撃する。<lf>他のカットイン系アクションに隙なく<lf>つなぐことができる。
+<string><skill player="d" id="603"><lf><lf>複数の敵を自動でロックオンし、<lf>追尾性能を持ったミサイルを大量発射する。
+<string><skill player="d" id="604"><lf><lf>ロックオンした敵１体に対して、<lf>追尾性能を持ったミサイルを大量発射する。
+<string><skill player="d" id="605"><lf><lf>前方の広い範囲に向けて、<lf>無数のマイクロミサイルを発射する。<lf><ICON ACT_BtnR>を連打すると攻撃回数が増加する。
+<string><skill player="d" id="606"><lf><lf>真下を狙った砲撃を行う。
+<string><skill player="d" id="607"><lf><lf>複数の敵を自動でロックオンし、<lf>二丁のカリーナアンから追尾性能を持った<lf>ミサイルをさらに大量発射する。
+<string><skill player="d" id="608"><lf><lf>連結した二丁のカリーナアンから、<lf>さらに威力を増したビームショットを放つ。
+<string><skill player="d" id="609"><lf><lf>前方と後方の広い範囲に、無数の<lf>マイクロミサイルを発射する。<lf><ICON ACT_BtnR>を連打すると攻撃回数が増加する。
+<string><skill player="d" id="610"><lf><lf>ダブルカリーナアンを真上と真下に撃ち、<lf>頭上と足下にいる敵を同時攻撃する。
+<string><skill player="d" id="611"><lf><lf>オーブの刃が付いたハットを自身の周囲に<lf>旋回させ、複数の敵を攻撃する。<lf>ヒットした敵はDr.ファウスト以外の<lf>武器攻撃でもレッドオーブを放出する。
+<string><skill player="d" id="612"><lf><lf>巨大なレッドオーブの塊を上空から<lf>大量に降らせて敵を攻撃する。<lf><ICON ACT_BtnR>を押し続けると威力が上昇する。<lf>所持レッドオーブを消費する。
+<string><skill player="d" id="613"><lf><lf>ハットをダンテの周囲に浮遊させ、<lf>ハット自身にレッドショットを撃たせて<lf>攻撃を行わせる。<lf>所持レッドオーブを消費する。<lf>発動後、同コマンド入力でハットを<lf>呼び戻せる。
+<string>
+<string><skill player="d" id="622"><lf><lf>ロイヤルガードレベル２の技を習得する。<lf><lf>　・<skill player="d" id="626">
+<string><skill player="d" id="623"><lf><lf>ロイヤルガードレベル３の技を習得する。<lf><lf>　・<skill player="d" id="629"><lf>　・ロイヤルゲージの増加（＋３）
+<string><skill player="d" id="624"><lf><lf>ロイヤルガードレベル４の技を習得する。<lf><lf>　・<skill player="d" id="631"><lf>　・ロイヤルゲージの増加（＋３）
+<string><skill player="d" id="625"><lf><lf>敵の攻撃を防いでダメージを無効化すると<lf>同時に、ロイヤルゲージを蓄積する。<lf>発動ごとにＤＴゲージを消費する。<lf>構えたまま<ICON ACT_LS>で移動できる。
+<string><skill player="d" id="626"><lf><lf>ダメージ無効化＆ロイヤルゲージ蓄積技の<lf>ブロックを空中発動する。<lf>発動ごとにＤＴゲージを消費する。
+<string><skill player="d" id="627"><lf><lf>極限まで引き付けてからブロックすることで<lf>ＤＴゲージを消費せずに攻撃を防ぐ。<lf>ロイヤルゲージの蓄積量も増加する。
+<string><skill player="d" id="628"><lf><lf>蓄積したロイヤルゲージを解放し、<lf>敵に大ダメージを与える。
+<string><skill player="d" id="629"><lf><lf>蓄積したロイヤルゲージを空中で解放し、<lf>敵に大ダメージを与える。
+<string><skill player="d" id="630"><lf><lf>蓄積したロイヤルゲージを、敵の攻撃を<lf>引きつけて解放し、絶大なダメージを<lf>与える。
+<string><skill player="d" id="631"><lf><lf>構えの体勢をとって敵の攻撃を無効化し、<lf>ロイヤルゲージを１つ解放して、<lf>確実な反撃を行う。<lf><ICON ACT_BtnR>を押し続けると構えを持続する。
+<string>
+<string><skill player="d" id="642"><lf><lf>ＤＴゲージを消費して、ＳＤＴゲージを<lf>蓄積する。
+<string><skill player="d" id="643"><lf><lf>魔剣ダンテの力を最大限まで引き出した<lf>３段攻撃を放つ。
+<string><skill player="d" id="644"><lf><lf>掌から放たれる強烈なエネルギー弾で<lf>敵を攻撃する。
+<string><skill player="d" id="645"><lf><lf>羽を広げて空中に浮遊する。<lf><ICON ACT_LS>で浮遊したまま移動する。<lf><ICON ACT_BtnD>を押すと羽を閉じて落下する。
+<string><skill player="d" id="646"><lf><lf>高速移動により、一瞬で敵に接近する。
+<string><skill player="d" id="647"><lf><lf>無数のミラージュソードに<lf>自身の回転を加えた突進攻撃。<lf>あらゆる敵を貫き切り刻む。<lf><ICON ACT_BtnU>を押し続けると攻撃を持続する。
+<string><skill player="d" id="648"><lf><lf>地面に拳を叩き付け、地獄の業火を噴出<lf>させて、周辺の敵を一気に打ち上げる。
+<string><skill player="d" id="649"><lf><lf>敵１体を捕えた後、身体の内部から<lf>爆発させて大ダメージを与える。
+<string><skill player="d" id="650"><lf><lf>最大限まで広げた羽にエネルギーを集中し、<lf>大量の光束線で一帯を爆撃する。<lf><ICON ACT_RT>を押し続けると攻撃を持続する。
+<string><skill player="d" id="651"><lf><lf>全ての力を解放し、周辺の敵に<lf>致命的なダメージを与える。<lf>発動によりすべてのＳＤＴゲージを消費する。
+<string><skill player="d" id="652"><lf><lf>スタイリッシュランクＳＳＳの状態で真魔人<lf>に変身したときに限り、ＳＤＴゲージが<lf>光っている間に<ICON ACT_LB>を押して変身解除できる。<lf>これにより、一瞬だけ真魔人の力を解放して<lf>攻撃が可能になる。
+<string>
+<string>リベリオン<lf>　・<skill player="d" id="536">
+<string>リベリオン<lf>　・<skill player="d" id="359">
+<string>リベリオン<lf>　・<skill player="d" id="538">
+<string>魔剣スパーダ<lf>　・<skill player="d" id="540">
+<string>魔剣スパーダ<lf>　・<skill player="d" id="542">
+<string>魔剣スパーダ<lf>　・<skill player="d" id="543">
+<string>魔剣ダンテ<lf>　・<skill player="d" id="545"><lf>　・<skill player="d" id="546">
+<string>魔剣ダンテ<lf>　・<skill player="d" id="547">
+<string>魔剣ダンテ<lf>　・<skill player="d" id="548">
+<string>バルログ<lf>　・<skill player="d" id="552"><lf>　・<skill player="d" id="558">
+<string>バルログ<lf>　・<skill player="d" id="553">
+<string>バルログ<lf>　・<skill player="d" id="554"><lf>　・<skill player="d" id="557">
+<string>キングケルベロス<lf>　・<skill player="d" id="562"><lf>　・<skill player="d" id="440">
+<string>キングケルベロス<lf>　・<skill player="d" id="563"><lf>　・<skill player="d" id="567">
+<string>キングケルベロス<lf>　・<skill player="d" id="564"><lf>　・<skill player="d" id="568">
+<string>キャバリエーレ<lf>　・<skill player="d" id="571">
+<string>キャバリエーレ<lf>　・<skill player="d" id="572">
+<string>キャバリエーレ<lf>　・<skill player="d" id="573">
+<string>エボニー＆アイボリー<lf>　・<skill player="d" id="595">
+<string>エボニー＆アイボリー<lf>　・<skill player="d" id="593">
+<string>エボニー＆アイボリー<lf>　・<skill player="d" id="594">
+<string>コヨーテＡ<lf>　・<skill player="d" id="598">
+<string>コヨーテＡ<lf>　・<skill player="d" id="599">
+<string>コヨーテＡ<lf>　・<skill player="d" id="600"><lf>　・<skill player="d" id="601"><lf>　・<skill player="d" id="602">
+<string>カリーナアン<lf>　・<skill player="d" id="606">
+<string>カリーナアン<lf>　・<skill player="d" id="605">
+<string>カリーナアン<lf>　・<skill player="d" id="604">
+<string>ダブルカリーナアン<lf>　・<skill player="d" id="610">
+<string>ダブルカリーナアン<lf>　・<skill player="d" id="609">
+<string>ダブルカリーナアン<lf>　・<skill player="d" id="608">
+<string>Dr.ファウスト<lf>　・<skill player="d" id="613">
+<string>Dr.ファウスト<lf>　・<skill player="d" id="509">
+<string>Dr.ファウスト<lf>　・<skill player="d" id="612">

@@ -1,0 +1,29 @@
+<string>COSTUME SELECT
+<string>コスチュームを選択します
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>SUPER NERO<lf>ORIGINAL
+<string>SUPER NERO<lf>EX COLOR
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>SUPER DANTE<lf>ORIGINAL
+<string>SUPER DANTE<lf>EX COLOR
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>SUPER V<lf>ORIGINAL
+<string>SUPER V<lf>EX COLOR
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>
+<string>ORIGINAL
+<string>EX COLOR

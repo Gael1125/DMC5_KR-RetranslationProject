@@ -1,0 +1,4 @@
+<string>
+<string>V's Cane
+<string>V의 지팡이
+<string>V의 지팡이

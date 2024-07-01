@@ -1,0 +1,202 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>ENEMY STEP
+<string>PROVOCATION
+<string>GET MORE ORBS
+<string>
+<string>GREEN GAINER
+<string>WHITE GAINER
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>
+<string>
+<string>
+<string>CHECKMATE
+<string>GAMBIT
+<string>TOUCH AND MOVE
+<string>THE BOOK
+<string>NIGHTMARE
+<string>TRIGGER HEART
+<string>PROMOTION
+<string>SWITCHBACK
+<string>HANGING
+<string>
+<string>FORCED MOVE
+<string>QUICKPLAY
+<string>ROYAL FORK
+<string>DEVIL TRIGGER
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>BULLET
+<string>BLOCKADE
+<string>BLOCKADE 2
+<string>BLOCKADE 3
+<string>FLANK ATTACK
+<string>DOUBLE CHECK
+<string>DOUBLE CHECK 2
+<string>DOUBLE CHECK 3
+<string>ROUND ROBIN
+<string>ROUND ROBIN 2
+<string>ROUND ROBIN 3
+<string>GRIFFON VIGOR
+<string>GRIFFON VIGOR 2
+<string>GRIFFON VIM
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SHADOW COMBO A
+<string>SHADOW COMBO B
+<string>SHADOW COMBO C
+<string>BREAKTHROUGH
+<string>
+<string>HEDGEHOG
+<string>HEDGEHOG 2
+<string>ARBITER
+<string>SKEWER
+<string>BAYONET
+<string>GUILLOTINE
+<string>
+<string>SHADOW VIGOR
+<string>SHADOW VIGOR 2
+<string>SHADOW VIM
+<string>AMBUSH
+<string>
+<string>
+<string>
+<string>
+<string>NIGHTMARE COMBO A
+<string>NIGHTMARE COMBO B
+<string>DOMINATION
+<string>STRONGPOINT
+<string>CRITICAL POSITION
+<string>DESPERADO
+<string>ILLEGAL MOVE
+<string>KISS OF DEATH
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>移動
+<string>カメラ
+<string>ロックオン
+<string>ジャンプ
+<string>キックジャンプ
+<string>エネミーステップ
+<string>挑発
+<string>ゲットモアオーブ
+<string>
+<string>グリーンゲイン
+<string>ホワイトゲイン
+<string>ＥＸ挑発
+<string>スペシャル挑発
+<string>
+<string>
+<string>チェックメイト
+<string>ガンビット
+<string>タッチ＆ムーブ
+<string>ブック
+<string>ナイトメア
+<string>トリガーハート
+<string>プロモーション
+<string>スイッチバック
+<string>ハンギング
+<string>
+<string>フォースドムーブ
+<string>クイックプレイ
+<string>ロイヤルフォーク
+<string>デビルトリガー
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>バレット
+<string>ブロッケイド
+<string>ブロッケイド2
+<string>ブロッケイド3
+<string>フランクアタック
+<string>ダブルチェック
+<string>ダブルチェック2
+<string>ダブルチェック3
+<string>ラウンドロビン
+<string>ラウンドロビン2
+<string>ラウンドロビン3
+<string>グリフォン耐久力UP
+<string>グリフォン耐久力UP 2
+<string>グリフォン回復力UP
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>シャドウコンボＡ
+<string>シャドウコンボＢ
+<string>シャドウコンボＣ
+<string>ブレイクスルー
+<string>
+<string>ヘッジホッグ
+<string>ヘッジホッグ2
+<string>アービター
+<string>スキュワー
+<string>バヨネット
+<string>ギロチン
+<string>
+<string>シャドウ耐久力UP
+<string>シャドウ耐久力UP 2
+<string>シャドウ回復力UP
+<string>アンブッシュ
+<string>
+<string>
+<string>
+<string>
+<string>ナイトメアコンボＡ
+<string>ナイトメアコンボＢ
+<string>ドミネーション
+<string>ストロングポイント
+<string>クリティカルポジション
+<string>デスペラード
+<string>イリーガルムーブ
+<string>キスオブデス
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

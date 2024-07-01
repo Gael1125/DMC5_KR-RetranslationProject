@@ -1,0 +1,57 @@
+<string>
+<string>Stage Clear Bonus
+<string>No Damage Bonus
+<string>
+<string>Stage Time Score
+<string>Stage Bonus Time
+<string>Stage Play Time
+<string>
+<string>
+<string>
+<string>NEW RECORD!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Red Orb Bonus
+<string><COLOR FFF095>Stage {0}</COLOR> Clear Bonus
+<string>{0} Mins Left
+<string><COLOR FFF095>{0} Extra Mins</COLOR>
+<string>
+<string>Stages Cleared
+<string>Total Play Time
+<string>Total Red Orbs
+<string>
+<string>Cleared
+<string>Total Time Added
+<string>All Stages 
+<string>Timer Bonus
+<string>Super Character
+<string>Cleared Stage
+<string>
+<string>Total Time Added
+<string>
+<string>Clear Bonus Records
+<string>Clear Bonus
+<string>Total Play Time
+<string>Final Extra Time
+<string>Red Orb Total
+<string>
+<string>The Legend Continues...
+<string>
+<string>
+<string>GAME OVER
+<string>TIME OVER
+<string>Bloody Palace
+<string>Continue Point
+<string>Stage {0}
+<string>Rest Area 
+<string>(Next: Stage {0})
+<string>(Next: Stage {0})

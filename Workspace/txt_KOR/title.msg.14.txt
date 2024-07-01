@@ -1,0 +1,21 @@
+<string>PRESS ANY <trc id="1">
+<string>
+<string>
+<string>©CAPCOM CO., LTD. 2018 ALL RIGHTS RESERVED.
+<string>
+<string>데빌 메이 크라이 5
+<string>데빌 메이 크라이 5
+<string>dmc5
+<string>DMC5
+<string>NEW GAME
+<string>CONTINUE
+<string>MAIN MENU
+<string>OPTIONS
+<string>HISTORY OF DMC
+<string>EXIT
+<string>새 게임을 처음부터 시작합니다.
+<string>마지막 세이브 포인트부터 계속합니다.
+<string>메인 메뉴로 이동합니다.
+<string>게임 설정을 변경합니다.
+<string>데빌 메이 크라이 시리즈의 역사를 설명해주는 동영상을 시청합니다.
+<string>게임을 그만둡니다.

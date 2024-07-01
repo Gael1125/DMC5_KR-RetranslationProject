@@ -1,0 +1,28 @@
+<string>
+<string>Dammit... A little longer...<lf>Hold on just a little longer...
+<string>Are you all right, V!? You might want to take a break...
+<string>My powers are gone...
+<string>This dimension, it's...healing my body...
+<string>I've...returned.
+<string>Well, THAT'S not going to open.
+<string>Is this...my power?
+<string>Hey, you're alive! Oh, good to see ya again!<lf>Did ya miss me?
+<string>So that's how it works...
+<string>Let's get the hell outta here!<lf>This humidity is killing me!
+<string>We finally made it out! That thing was something else...
+<string>Best we avoid it, if possible.<lf>Especially given my...condition.
+<string>My body... We're...so close...!
+<string>They're safe...
+<string>No time to worry about them, V. We've gotta hurry.
+<string>My journey...is coming to an end...
+<string>Where am I?
+<string>I'm losing my power...gotta recover somehow.
+<string>So, this is where they are... I'm claiming what's mine.
+<string>That's one down.
+<string>Agreed. It's time we got back on course.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

@@ -1,0 +1,23 @@
+<string>
+<string>You can't always have it your way!
+<string>Interesting...
+<string>
+<string>This is more than enough for your little puppet.
+<string>Underestimate it at your own peril!
+<string>
+<string>It's just about time to settle this.
+<string>That's right... Come on!
+<string>
+<string>Think you can beat me? Not in a million years.
+<string>Save that until you win, if you can.
+<string>
+<string>You cut off your own son's arm for THIS?
+<string>My son...means nothing to me!
+<string>
+<string>I won't lose to the likes of you...little brother!
+<string>So that's it...
+<string>
+<string>You've disappointed me, Dante.
+<string>You shall die...
+<string>
+<string>Foolishness... Is rushing in blind all you can do?

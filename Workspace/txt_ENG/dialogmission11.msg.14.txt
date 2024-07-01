@@ -1,0 +1,22 @@
+<string>
+<string>Looks like I overslept... Time for a warm up.
+<string>I'm not a fan of ruins... Like my cities lively.
+<string>What a pain in the ass... Just gotta take it down.
+<string>Look what we have here. Lucky me!
+<string>Up we go, I suppose. Seems like the fastest route.
+<string>Can't a guy get a break?<lf>I just woke up from a long-ass nap.
+<string>Well, that's gonna collapse... What a headache.
+<string>Oh, they're just gonna let me through!<lf>...Boy, wouldn't that be the day.
+<string>Get rid of the roots to create the route... Got it.
+<string>How am I supposed to find my way through this mess?
+<string>
+<string>Sorry, but I can read all your moves!<lf>Helps that I know who you really are.
+<string>Dante!
+<string>
+<string>Come on, didn't I already tell ya<lf>that you couldn't beat me!?
+<string>Take this!
+<string>
+<string>
+<string>Forgot how scary you are when you're mad... Sheesh.
+<string>
+<string>Sparda...!

@@ -1,0 +1,17 @@
+<string>
+<string>CHARACTER REPORT
+<string>
+<string><char id="0">
+<string><char id="2">
+<string><char id="5">
+<string><enemy id="34">
+<string><enemy id="35">
+<string><enemy id="36">
+<string><char id="8">
+<string><char id="9">
+<string><char id="10">
+<string><char id="12">
+<string><char id="11">
+<string><enemy id="38">
+<string>
+<string>「{0}」についての詳細情報を確認します

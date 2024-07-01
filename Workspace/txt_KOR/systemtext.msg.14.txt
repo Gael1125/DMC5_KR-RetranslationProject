@@ -1,0 +1,109 @@
+<string>
+<string>이더넷 케이블이 연결되지 않았거나<lf>무선 네트워크에 연결되지 않아<lf>온라인 기능을 사용할 수 없습니다.
+<string>네트워크 연결이 끊어졌습니다.
+<string>연결에 실패했습니다.<lf>다시 시도하시겠습니까?
+<string>설치하고 있습니다.<lf>기다려 주십시오...
+<string>로그인하지 않았으므로 이 항목에 액세스할 수 없습니다.
+<string>네트워크에 연결 중입니다.<lf>기다려 주십시오.
+<string>네트워크 연결이 중단되었습니다.
+<string>네트워크에 연결하지 못했습니다.
+<string>네트워크 오류가 발생했습니다.
+<string>네트워크 오류가 발생했습니다.<lf>다시 시도하시겠습니까?
+<string>네트워크에 연결할 수 없어 네트워크 기능을 잠시<lf>사용할 수 없습니다. 옵션 메뉴의 네트워크에서<lf>네트워크에 연결할 수 있습니다.
+<string>초대를 받았습니다.<lf>현재 정보가 저장되고<lf>세션에 입장합니다.
+<string>현재 초대받은 세션에 입장합니다.
+<string>이 계정으로는 세션에 입장할 수 없습니다.
+<string>게임 데이터 준비가 끝나지 않았습니다. <lf>기다려 주십시오.
+<string>
+<string>Steam에 연결되었습니다.
+<string>Xbox Live에 연결하지 않아<lf>Xbox Live 기능을 사용할 수 없습니다.
+<string>네트워크 연결이 끊어졌습니다.<lf>Xbox Live 기능을 사용할 수 없습니다.
+<string>Xbox Live에 연결하지 못했습니다.
+<string>Xbox Live에 연결하고 있습니다.<lf>기다려 주십시오.
+<string>Xbox Live에 연결되었습니다.
+<string>Xbox Live에 로그인하지 않았습니다.
+<string>Xbox Live에 로그인하지 않아<lf>온라인 기능을 사용할 수 없습니다.
+<string>로그인하지 않고 게임을 시작하면<lf>PlayStation™Network 기능을 사용할 수 없습니다.<lf>로그인하시겠습니까?
+<string>로그인하지 않았습니다.<lf>PlayStation™Network 기능을 사용하려면 로그인해야 합니다.<lf>로그인하시겠습니까?
+<string>네트워크 연결이 끊어졌습니다.<lf>PlayStation™Network 기능을 사용할 수 없습니다.
+<string>이 Sony Entertainment Network 계정으로<lf>PlayStation™Store를 사용할 수 없습니다.
+<string>PlayStation™Network에 연결하지 못했습니다.
+<string>PlayStation™Network에 연결 중입니다.<lf>기다려 주십시오.
+<string>PlayStation™Network에 연결되었습니다.
+<string>PlayStation™Network 로그인이 취소되었습니다.
+<string>PlayStation™Network에서 로그아웃했습니다.
+<string>PlayStation™Network에서 로그아웃했습니다.<lf>타이틀 화면으로 돌아갑니다.
+<string>PlayStation™Network에 로그인하지 않았습니다.
+<string>PlayStation™Network에서 로그아웃했습니다.<lf>PlayStation™Network 온라인 기능을 사용할 수 없습니다.
+<string>PlayStation™Network에 로그인하지 않아<lf>온라인 기능을 사용할 수 없습니다.
+<string>스토어로 이동하시겠습니까?
+<string>PlayStation™Store로 이동하시겠습니까?
+<string>
+<string>Microsoft Store로 이동하시겠습니까?
+<string>저장하지 않은 데이터는 손실됩니다.<lf>프로필을 변경하시겠습니까?
+<string>프로필이 변경되었습니다.<lf>타이틀 화면으로 돌아갑니다.
+<string>선택된 프로필이 없습니다.<lf>프로필을 선택하지 않으면 게임을 플레이할 수 없습니다.
+<string>현재 프로필에는 권한이 없기 때문에<lf>이 기능을 사용할 수 없습니다.
+<string>컨트롤러를 찾을 수 없습니다.<lf>컨트롤러를 본체에 연결한 다음<lf><ICON DECIDE>을 누르십시오.
+<string>사용하고자 하는 컨트롤러를 선택 후 <ICON DECIDE>을 누르십시오.
+<string>
+<string>입장할 수 있는 방이 없습니다.
+<string>초대를 통해 방에 입장하지 못했습니다.
+<string>초대를 통해 방에 입장하지 못했습니다.<lf>메뉴로 돌아갑니다.
+<string>게임을 시작하시겠습니까?
+<string>연결하는 중...
+<string>검색하는 중...
+<string>{0} 님이 게임에서 나갔습니다.
+<string>
+<string>다운로드 가능한 추가 콘텐츠가 없습니다.
+<string>다운로드 가능한 추가 콘텐츠가 없습니다.
+<string>추가 콘텐츠를 확인하고 있습니다.<lf>PC를 끄지 마십시오.
+<string>추가 콘텐츠 확인 중.<lf>PlayStation®4 본체를 끄지 마십시오.
+<string>추가 콘텐츠를 확인하고 있습니다.<lf>Xbox One 본체를 끄지 마십시오.
+<string>손상된 추가 콘텐츠를 발견했습니다.<lf>게임을 종료하고 PlayStation™Store에서<lf>다시 다운로드하십시오. 그렇지 않으면 일부<lf>콘텐츠가 정상 작동하지 않을 수 있습니다.
+<string>손상된 추가 콘텐츠가 있습니다.<lf>종료 후 Microsoft Store에서 다시 다운로드하십시오.<lf>일부 콘텐츠가 정상 작동하지 않을 수 있습니다.
+<string>손상된 추가 콘텐츠를 발견했습니다.<lf>게임을 종료하고 스토어에서 콘텐츠를 다시 다운로드하십시오.<lf>그렇지 않으면 일부 콘텐츠가 정상 작동하지 않을 수 있습니다.
+<string>추가 콘텐츠를 불러오지 못했습니다.<lf>게임에서 이용할 수 없습니다.
+<string>추가 콘텐츠를 불러오지 못했습니다.<lf>게임에서 이용할 수 없습니다. 
+<string>추가 콘텐츠가 손상되었습니다.<lf>다시 다운로드하십시오. 
+<string>추가 콘텐츠가 손상되었습니다.<lf>다시 다운로드하십시오.
+<string>추가 콘텐츠를 정상적으로 불러오지 못해<lf>게임에서 제대로 작동하지 않을 수 있습니다. 
+<string>추가 콘텐츠를 정상적으로 불러오지 못해<lf>게임에서 제대로 작동하지 않을 수 있습니다.
+<string>추가 {0} 데이터를 찾을 수 없습니다.<lf>다시 다운로드하십시오. 
+<string>추가 {0} 데이터를 찾을 수 없습니다.<lf>다시 다운로드하십시오.
+<string>추가 데이터를 찾을 수 없습니다.<lf>다시 다운로드하십시오. 
+<string>추가 데이터를 찾을 수 없습니다.<lf>다시 다운로드하십시오.
+<string>
+<string>
+<string>
+<string>
+<string>이 추가 콘텐츠를 다운로드하지 않았습니다.<lf>스토어로 이동하여 다운로드하시겠습니까? 
+<string>이 추가 콘텐츠를 다운로드하지 않았습니다.<lf>PlayStation™Store로 이동하여 다운로드하시겠습니까?
+<string>이 추가 콘텐츠를 다운로드하지 않았습니다.<lf>Microsoft Store로 이동하여 다운로드하시겠습니까?
+<string>이 추가 콘텐츠를 다운로드하지 않았습니다.<lf>Microsoft Store로 이동하여 다운로드하시겠습니까?
+<string>이 추가 콘텐츠를 구매하지 않았습니다.<lf>스토어로 이동하여 구매하시겠습니까? 
+<string>이 추가 콘텐츠를 구매하지 않았습니다.<lf>PlayStation™Store로 이동해서 콘텐츠를 구매하시겠습니까?
+<string>이 추가 콘텐츠를 구매하지 않았습니다.<lf>Microsoft Store로 이동하여 구매하시겠습니까?
+<string>이 추가 콘텐츠를 구매하지 않았습니다.<lf>Microsoft Store로 이동하여 구매하시겠습니까?
+<string>
+<string>{0}을(를) 구매했습니다.
+<string>
+<string>리플레이 데이터를 다운로드하고 있습니다.<lf>기다려 주십시오.
+<string>리플레이 데이터를 업로드하고 있습니다.<lf>기다려 주십시오.
+<string>네트워크에 연결하여 정보를 확인하는 중입니다...
+<string>정보를 확인하는 중입니다...
+<string>{0}에 평가를 보냅니다.
+<string>네트워크 오류가 발생했습니다.<lf>평가 업로드에 실패했습니다.
+<string>
+<string>오늘의 로그인 보너스:<lf>{0}
+<string>
+<string>{0} 서버에 연결하고 있습니다.
+<string>{0} 서버에 연결하지 못했습니다.
+<string>
+<string>PlayStation™Store에서 구입 정보를 확인하고<lf>게임에 반영하시겠습니까?
+<string>Microsoft Store에서 구입 정보를 확인하고<lf>게임에 반영하시겠습니까?
+<string>스토어에서 구입 정보를 확인하고 게임에 반영하시겠습니까?
+<string>네트워크 오류가 발생했습니다.<lf>PlayStation™Store에서 구입 정보를 확인할 수 없습니다.<lf>다시 시도하시겠습니까?
+<string>네트워크 오류가 발생했습니다.<lf>Microsoft Store에서 구입 정보를 확인할 수 없습니다.<lf>다시 시도하시겠습니까?
+<string>네트워크 오류가 발생했습니다.<lf>스토어에서 구입 정보를 확인할 수 없습니다.<lf>다시 시도하시겠습니까?
+<string>설정 또는 네트워크 오류로 인해 인터넷<lf>브라우저를 열지 못했습니다.

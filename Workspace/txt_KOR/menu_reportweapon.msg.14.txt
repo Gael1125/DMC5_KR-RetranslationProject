@@ -1,0 +1,28 @@
+<string>
+<string>WEAPON REPORTS
+<string>
+<string><weapon player="n" id="1">
+<string><weapon player="n" id="0">
+<string><weapon player="n" id="2">
+<string><weapon player="n" id="4">
+<string><weapon player="n" id="6">
+<string><weapon player="n" id="5">
+<string><weapon player="n" id="9">
+<string><weapon player="n" id="8">
+<string><weapon player="n" id="3">
+<string><weapon player="n" id="7">
+<string>
+<string><weapon player="d" id="0">
+<string><weapon player="d" id="4">
+<string><weapon player="d" id="5">
+<string><weapon player="d" id="3">
+<string><weapon player="d" id="10">
+<string><weapon player="d" id="6">
+<string><weapon player="d" id="1">
+<string><weapon player="d" id="2">
+<string><weapon player="d" id="7">
+<string><weapon player="d" id="8">
+<string><weapon player="d" id="9">
+<string><weapon player="d" id="11">
+<string>
+<string>{0}에 관한 정보를 확인합니다.

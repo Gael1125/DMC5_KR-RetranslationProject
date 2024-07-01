@@ -1,0 +1,39 @@
+<string>
+<string>あの小僧で勝てるか？
+<string>
+<string>そう願いたい
+<string>そのためにも…<lf>やるべき事をやらなくてはな
+<string>
+<string>おっと 危ねえ！<lf>注意した方がいいぜ？
+<string>
+<string>お前は不安定だ！<lf>ハズミで消えちまう！
+<string>
+<string>逃げてもイイぜ！<lf>死ぬよりゃマシだ！
+<string>
+<string>“欲あれど動かぬ者は災いなり”
+<string>…だそうだ
+<string>上等だ 詩人ちゃん
+<string>だが忘れんな！
+<string>排除は速攻！ それが最高！
+<string>守りも大事だ！ 死にたくないしな！
+<string>
+<string>避けたな！<lf>
+<string>避けやがったな！
+<string>ニーズヘッグか 気持ち悪ィ
+<string>なんだ？ オレを知ってる？
+<string>アイツはバカだ 放っとこうぜ
+<string>クリフォトに寄生する虫ケラさ
+<string>悪口 言ったな！
+<string>あらら！
+<string>
+<string>聞こえちゃったのネ！
+<string>ブチ殺してやるぞ！
+<string>それは無理だ
+<string>“空は鳥 海は魚の為にある如く”
+<string>“下劣なる者には軽蔑を！”
+<string>
+<string>あー… あれはちょっと その…
+<string>ヤバいか？
+<string>おいおい！ マジで逃げんの？
+<string>カッコ悪くね？
+<string>無理だ 俺に勝てる相手じゃない

@@ -1,0 +1,157 @@
+<string>
+<string>TIPS
+<string>STORY
+<string>CHARACTER
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>銃器は<ICON ACT_BtnL>を押し続けて威力を高めることができる。<lf>激しい乱戦の最中に銃器のチャージを使いこなせれば<lf>スタイリッシュランクも上がりやすいだろう。
+<string>デビルブレイカーの所持数が少なくなったら、<lf>様々な場所を探索してみよう。<lf>路上、通路の奥、物陰…ひょんな場所から<lf>入手できる可能性がある。<lf>ただし周囲に敵がいる場合は、<lf>踏みつけて壊される場合もあるため<lf>必要ならば速やかに回収しよう。
+<string>ニコいわく「芸術品」であるデビルブレイカーは<lf>非常にもろい。<lf>使用時に攻撃を受けると壊れてしまう。<lf>繊細に、ときに大胆に使いこなす必要がある。
+<string>
+<string>
+<string>
+<string>デビルブレイカー <RUBY><RB>OVERTURE</RB><RT>オーバーチュア</RT></RUBY><lf>扱いやすくスタンダードな性能を持つ。<lf>攻撃力も比較的高く、<lf>小型の悪魔なら一撃で葬ることができる。
+<string><RUBY><RB>BATTERY</RB><RT>バッテリー</RT></RUBY><lf><RUBY><RB>OVERTURE</RB><RT>オーバーチュア</RT></RUBY>のスキル。掌底から電撃を放つ。<lf>敵の状態（空中、ダウン中、壁際）で性能が変化する。
+<string><RUBY><RB>EXPLODER</RB><RT>エクスプローダー</RT></RUBY><lf><RUBY><RB>OVERTURE</RB><RT>オーバーチュア</RT></RUBY>のスキル。<lf>時限爆弾化した装備を対象に仕込み、遠隔爆発させる。<lf>最大３本まで重ねて仕込み、ダメージを増加できる。
+<string>デビルブレイカー <RUBY><RB>GERBERA</RB><RT>ガーベラ</RT></RUBY><lf>空中移動や貫通光弾攻撃を得意とする。<lf>制空能力の高い敵への対処に向く。
+<string><RUBY><RB>JOCKY</RB><RT>ジョッキー</RT></RUBY><lf><RUBY><RB>GERBERA</RB><RT>ガーベラ</RT></RUBY>のスキル。掌底から衝撃波を放ち移動する。<lf>回避や敵弾の打消しなどにも応用できる。
+<string><RUBY><RB>PETAL RAY</RB><RT>ペタルレイ</RT></RUBY><lf><RUBY><RB>GERBERA</RB><RT>ガーベラ</RT></RUBY>のスキル。空中で始動すると<lf>貫通力のある光弾を発射する。<lf>狭い通路や入り組んだ場所で撃つと、激しく跳弾する。<lf>敵を誘い入れれば連続ダメージを与えられる。
+<string>デビルブレイカー <RUBY><RB>PUNCH LINE</RB><RT>パンチライン</RT></RUBY><lf>推進力を持った装甲の厚い腕で攻撃。<lf>拘束、搭乗、吹き飛ばしなど応用パターンが豊富。
+<string><RUBY><RB>JET GADGET</RB><RT>ジェットガジェット</RT></RUBY><lf><RUBY><RB>PUNCH LINE</RB><RT>パンチライン</RT></RUBY>のスキル。前腕を誘導弾として射出する。<lf>射出後は任意のタイミングで爆破できる。
+<string><RUBY><RB>BOOST KNUCKLE</RB><RT>ブーストナックル</RT></RUBY><lf><RUBY><RB>PUNCH LINE</RB><RT>パンチライン</RT></RUBY>のスキル。推進力を全開にして殴る。<lf>クリーンヒットすれば重い敵も吹き飛ばす。
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>デビルブレイカー <RUBY><RB>BUSTER ARM</RB><RT>バスターアーム</RT></RUBY><lf>ネロの<RUBY><RB>悪魔の右腕</RB><RT>デビルブリンガー</RT></RUBY>のバスターを極限まで再現。<lf>力場をまとった巨大な腕に展開する。
+<string><RUBY><RB>SUPER BUSTER</RB><RT>スーパーバスター</RT></RUBY><lf><RUBY><RB>BUSTER ARM</RB><RT>バスターアーム</RT></RUBY>のスキル。チャージ完了後発動すると<lf>敵につぶされることなく超威力の投げ技を出せる。
+<string>デビルブレイカーはミッション中の<lf>様々な場所で見つけることができる。<lf>ただし周囲に敵がいる場合は、<lf>踏みつけて壊される場合もあるため<lf>必要ならば速やかに回収しよう。
+<string>デビルブレイカーは<ICON ACT_LB>を押すと<lf>爆発を伴って破壊できる。<lf>敵に掴まれた際の緊急脱出や、<lf>多くの敵をまとめて吹き飛ばすのに効果的だ。<lf>ただし装備中のデビルブレイカーは失うことになる。<lf>使いどころはよく考えよう。
+<string>デビルブレイカーは<ICON ACT_BtnR>を押し続けて<lf>右腕の光を強めてから離すことで<lf>潜在性能を解放した強烈な技を発動できる。<lf>ただし発動後は壊れてしまう。<lf>また<ICON ACT_BtnR>押し中に攻撃を受けても壊れるので<lf>注意が必要だ。
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>進路上に気になる場所があれば行ってみよう。<lf>隠されたレッドオーブを発見できるかも知れない。<lf>もちろん、何もない場合だってある。<lf>でもその探究心と好奇心は、きっと無駄にはならない。
+<string>
+<string>
+<string>
+<string>迷子のデビルハンターは<RUBY><RB>様</RB><RT>さま</RT></RUBY>にならない。<lf>進行中、どこに向かうべきか迷ったら<lf><ICON ACT_LStP>を長押しすることで<lf>目的地方向にカメラが注視してくれる。
+<string>障害物や段差は<ICON ACT_BtnD>でジャンプして飛び越えられる。<lf>また、一度のジャンプで届かない場所にも<lf>壁を蹴ることで登れる場合がある。<lf>あきらめずに<ICON ACT_BtnD>の壁蹴りを試してみよう。
+<string>戦闘中に挑発（<ICON ACT_CenL>）を行うと<lf>スタイリッシュランクが上がる。<lf>派手なコンボの後や敵の目前など<lf>ここぞの場面でキメてやろう。<lf>なお挑発は空中でも行える。
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>手軽に気持ちよく技を繋ぎたい…<lf>そんなときはオートマチックアシストを<lf>試してみよう。<lf>攻撃入力を連続で行うだけで、<lf>スタイリッシュな技が簡単に繰り出せる。<lf>プレイ中<ICON ACT_RStP>を長押しして、いつでも<lf>ON／OFFを切り替えられる。
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><ICON CenR>でポーズメニューを開き、<lf>画面右上で入力操作の確認ができる。<lf>基本行動はここで把握しよう。
+<string>よりスタイリッシュな動きを試すなら<lf>ポーズメニューのSKILL LISTを調べよう。<lf>様々なアクションの操作が記されている。

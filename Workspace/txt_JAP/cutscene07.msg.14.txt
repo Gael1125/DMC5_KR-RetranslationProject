@@ -1,0 +1,48 @@
+<string>
+<string>ダンテやトリッシュも<lf>捕まってるのか？
+<string>記憶にある限り…<lf>トリッシュはそうね
+<string>ダンテは分からないわ
+<string>…そうか
+<string>車はここまでだな
+<string>お前を待ってたんだ
+<string>クリフォトは近い<lf>出発の準備だ
+<string>
+<string>元気そうで何よりだ
+<string>…あんたもね
+<string>拾っておいた<lf>使えそうなら使え
+<string>最高だ！<lf>また傑作が生まれる！
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>を信用してるの？
+<string>さあね 使える間は利用するだけさ
+<string>あんたはゆっくり休んでてくれ
+<string>
+<string>起きろ レディ！
+<string>仕事だぞ！
+<string>ネロが“休め”って
+<string>そうかもしれんが<lf>工事しなきゃ先に進めない
+<string>
+<string>ほら 立て！ 手伝え！
+<string>
+<string>作業着とか ある？
+<string>
+<string>前にも こんなのいたな
+<string>目障りだ
+<string>粉々にしてやる！
+<string>同じコト思ってたぜ
+<string>
+<string>やっと着いたな
+<string>何だよ？ バテた？
+<string>この街はこうなる前にも<lf>悪魔に襲われた事がある
+<string>
+<string>…それで？
+<string>俺はその時 この場所にいたんだ
+<string>ここが俺の遊び場でね
+<string>…俺の家だ
+<string>ここで別れよう 先に行け
+<string>逃げる気か？
+<string>いや 俺は魔剣スパーダを探す
+<string>はあ？
+<string>あんなもん必要ねえよ
+<string>俺も昔は そう思った
+<string>だが勝つためには<lf>最善を尽くすべきだ
+<string>“俺も昔は”？
+<string>どういう事だ？

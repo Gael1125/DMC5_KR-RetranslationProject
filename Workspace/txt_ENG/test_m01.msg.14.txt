@@ -1,0 +1,3 @@
+<string>You look like you need a hug. But you're not gonna get one from me. Better get lost.
+<string>Hey, who are you? You're gonna get yourself killed.
+<string>Don't crap yourself. He likes to kill demon things. Let him do his thang.

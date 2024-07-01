@@ -1,0 +1,27 @@
+<string>
+<string>Unless you wanna die, I suggest you<lf>get the hell out of my way!
+<string>Gotta cut my way through!
+<string>Whoa... Keeps putting itself back together.<lf>That's weird...
+<string>"When in doubt, smack it." That's our family motto.
+<string>Yep, here comes the blood.
+<string>If I follow these grooves...
+<string>There we go... Next.
+<string>I was hoping I could just follow the groove,<lf>but they're not making it easy for me.
+<string>Don't wanna keep Mr. Demon King waiting.<lf>Gotta pick up the pace.
+<string>That should be all of 'em.
+<string>You need some blood huh? Sorry, you wouldn't like mine.
+<string>Man...this brings me back.
+<string>Holy shit... Can't believe<lf>any of this is still standing...
+<string>Huh, dried blood in the gutter here...<lf>Guess that explains how the pools down there get filled.
+<string>It's been a while since I used my brain this much.
+<string>Oh great, crossroads. Decisions, decisions...
+<string>
+<string>Dante... You dare approach me in that form!?
+<string>You're one to talk! Do you know what you look like now?
+<string>
+<string>As long as you live, you will never understand.<lf>Power is everything!
+<string>
+<string>
+<string>You will not overcome me!
+<string>Run while you can...
+<string>Nowhere to go!

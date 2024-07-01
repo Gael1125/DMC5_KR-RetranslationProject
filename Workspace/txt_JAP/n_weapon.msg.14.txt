@@ -1,0 +1,58 @@
+<string>
+<string>Blue Rose
+<string>Red Queen
+<string>Overture
+<string>Ragtime
+<string>Helter Skelter
+<string>Gerbera
+<string>Punch Line
+<string>Buster Arm
+<string>Rawhide
+<string>Tomboy
+<string>Rock Buster
+<string>Gerbera GP01
+<string>Pasta Breaker
+<string>Sweet Surrender
+<string>MONKEY BUSINESS
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ブルーローズ
+<string>レッドクイーン
+<string>オーバーチュア
+<string>ラグタイム
+<string>ヘルタースケルター
+<string>ガーベラ
+<string>パンチライン
+<string>バスターアーム
+<string>ローハイド
+<string>トムボーイ
+<string>ロックバスター
+<string>ガーベラ ＧＰ０１
+<string>パスタブレイカー
+<string>スイートサレンダー
+<string>モンキービジネス
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ブルーローズ
+<string>レッドクイーン
+<string>オーバーチュア
+<string>ラグタイム
+<string>ヘルタースケルター
+<string>ガーベラ
+<string>パンチライン
+<string>バスターアーム
+<string>ローハイド
+<string>トムボーイ
+<string>ロックバスター
+<string>ガーベラ ＧＰ０１
+<string>パスタブレイカー
+<string>スイートサレンダー
+<string>モンキービジネス

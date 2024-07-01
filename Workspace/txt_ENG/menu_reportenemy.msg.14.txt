@@ -1,0 +1,49 @@
+<string>
+<string>ENEMY REPORTS
+<string>
+<string>LESSER DEMONS
+<string>BOSSES
+<string>
+<string><enemy id="3">
+<string><enemy id="4">
+<string><enemy id="5">
+<string><enemy id="6">
+<string><enemy id="19">
+<string><enemy id="0">
+<string><enemy id="1">
+<string><enemy id="2">
+<string><enemy id="17">
+<string><enemy id="18">
+<string><enemy id="16">
+<string><enemy id="7">
+<string><enemy id="8">
+<string><enemy id="9">
+<string><enemy id="14">
+<string><enemy id="15">
+<string><enemy id="10">
+<string><enemy id="11">
+<string><enemy id="12">
+<string><enemy id="13">
+<string>
+<string><enemy id="40">
+<string><enemy id="26">
+<string><enemy id="29">
+<string><enemy id="28">
+<string><enemy id="32">
+<string><enemy id="31">
+<string><enemy id="30">
+<string><enemy id="14">
+<string><enemy id="15">
+<string><enemy id="13">
+<string><enemy id="41">
+<string><enemy id="42">
+<string><enemy id="43">
+<string><enemy id="27">
+<string><enemy id="33">
+<string><enemy id="37">
+<string><enemy id="37"> (Mission 08)
+<string><enemy id="37"> (Mission 17)
+<string><enemy id="38">
+<string><char id="2">
+<string>
+<string>View information about this enemy.

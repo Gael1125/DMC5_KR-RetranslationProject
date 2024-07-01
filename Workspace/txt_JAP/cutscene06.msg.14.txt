@@ -1,0 +1,30 @@
+<string>
+<string>命に別状なし
+<string>しかし スケベな体だな
+<string>別に… 深い意味はないぞ
+<string>後は私に任せて仕事に励め
+<string>ああ
+<string>何だ…？
+<string>こりゃデカいな<lf>さすがに無視できねえ
+<string>用心しろよ
+<string>
+<string>何してんだ？
+<string>手助けしてたんだろ！
+<string>鳥肉くせえと思った
+<string>てめえ この…
+<string>後は任せるぞ
+<string>じゃあな
+<string><lf>アイツ、カエルの脚みてーな味だぜ、絶対。
+<string>さてと
+<string>ゴキブリ退治だな
+<string>
+<string>コイツも根っこ… って事か？<lf>
+<string>レディが目覚めた
+<string>少し話してみるか？
+<string>そうだな
+<string>待て待て！ それ拾え！
+<string>それじゃない！
+<string>これか？
+<string>と…隣！ その横！
+<string>どれだよ？ コレ？
+<string>…正解

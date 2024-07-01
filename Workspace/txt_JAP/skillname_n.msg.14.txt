@@ -1,0 +1,340 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>ENEMY STEP
+<string>AIR HIKE
+<string>SIDE ROLL
+<string>TABLE HOPPER
+<string>TABLE HOPPER 2
+<string>TABLE HOPPER 3
+<string>PROVOCATION
+<string>RAINBOW
+<string>SPEED
+<string>GET MORE ORBS
+<string>
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>RECOVERY PROVOCATION
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RED QUEEN COMBO A
+<string>RED QUEEN COMBO B
+<string>RED QUEEN COMBO C
+<string>RED QUEEN COMBO D
+<string>AERIAL COMBO
+<string>ROULLETTE SPIN
+<string>HIGH ROLLER
+<string>EX HIGH ROLLER
+<string>STREAK
+<string>STREAK 2
+<string>EX STREAK
+<string>SPLIT
+<string>DOUBLE DOWN
+<string>CALIBUR
+<string>EX CALIBUR
+<string>SHUFFLE
+<string>EX SHUFFLE
+<string>HARD WAY
+<string>HARD WAY
+<string>PAYLINE
+<string>EX PAYLINE
+<string>
+<string>
+<string>
+<string>
+<string>NORMAL SHOT
+<string>COLOR UP
+<string>HIGH SHOT
+<string>CHARGE SHOT
+<string>CHARGE SHOT 2
+<string>CHARGE SHOT 3
+<string>COLOR UP 2
+<string>COLOR UP 3
+<string>
+<string>
+<string>EXCEED
+<string>EXCEED 2
+<string>EXCEED 3
+<string>EX-Act
+<string>MAX-Act
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>DEVIL TRIGGER
+<string>TRIGGER HEART
+<string>BUSTER
+<string>DEVIL BUSTER
+<string>BRINGER KNUCKLE
+<string>DOUBLE BRINGER KNUCKLE
+<string>WIRE SNATCH
+<string>WIRE SNATCH 2
+<string>WIRE SNATCH 3
+<string>
+<string>DUAL SNATCH
+<string>
+<string>HELL BOUND
+<string>HOLD
+<string>DUAL HOLD
+<string>
+<string>FLAP TOP
+<string>SUMMONED SWORDS
+<string>BRINGER CLAW
+<string>MAXIMUM BET
+<string>SHOWDOWN
+<string>SNATCH
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>BREAK AGE
+<string>BREAK AWAY
+<string>SCAPEGOAT
+<string>
+<string>BREAKER PLUS
+<string>BREAKER PLUS 2
+<string>BREAKER PLUS 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>WIRE BOUND
+<string>
+<string>
+<string>
+<string>BATTERY
+<string>EXPLODER
+<string>JOCKY
+<string>STAMEN RAY/ PETAL RAY
+<string>
+<string>JET GADGET
+<string>BOOST KNUCKLE
+<string>ONE NIGHT STAND
+<string>RENDEZVOUS
+<string>EX SHOT
+<string>EX SHOT AIR
+<string>EX CHARGE SHOT 
+<string>RED QUEEN COMBO EX
+<string>RED QUEEN AIR EX
+<string>BLOODY QUEEN 
+<string>BLOODY QUEEN AIR
+<string>DRILL RIG
+<string>DRILL MASTER
+<string>SLOW SPHERE
+<string>SLOW WORLD
+<string>SIDE WINDER
+<string>LOOP THE LOOP
+<string>NEO BUSTER
+<string>SUPER BUSTER
+<string>BREAKER PLUS 4
+<string>BREAKER PLUS 5
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>移動
+<string>カメラ
+<string>ロックオン
+<string>ジャンプ
+<string>キックジャンプ
+<string>エネミーステップ
+<string>エアハイク
+<string>サイドロール
+<string>テーブルホッパー
+<string>テーブルホッパー２
+<string>テーブルホッパー３
+<string>挑発
+<string>レインボウ
+<string>スピード
+<string>ゲットモアオーブ
+<string>
+<string>ＥＸ挑発
+<string>スペシャル挑発
+<string>リカバリー挑発
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>レッドクイーンコンボＡ
+<string>レッドクイーンコンボＢ
+<string>レッドクイーンコンボＣ
+<string>レッドクイーンコンボＤ
+<string>エリアルコンボ
+<string>ルーレットスピン
+<string>ハイローラー
+<string>ＥＸハイローラー
+<string>ストリーク
+<string>ストリーク２
+<string>ＥＸストリーク
+<string>スプリット
+<string>ダブルダウン
+<string>キャリバー
+<string>ＥＸキャリバー
+<string>シャッフル
+<string>ＥＸシャッフル
+<string>ハードウェイ
+<string>ハードウェイ
+<string>ペイライン
+<string>ＥＸペイライン
+<string>
+<string>
+<string>
+<string>
+<string>ノーマルショット
+<string>カラーアップ
+<string>ハイショット
+<string>チャージショット
+<string>チャージショット２
+<string>チャージショット３
+<string>カラーアップ２
+<string>カラーアップ３
+<string>
+<string>
+<string>イクシード
+<string>イクシード２
+<string>イクシード３
+<string>ＥＸアクト
+<string>ＭＡＸアクト
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>デビルトリガー
+<string>トリガーハート
+<string>バスター
+<string>デビルバスター
+<string>ブリンガーナックル
+<string>ダブルブリンガーナックル
+<string>ワイヤースナッチ
+<string>ワイヤースナッチ２
+<string>ワイヤースナッチ３
+<string>
+<string>デュアルスナッチ
+<string>
+<string>ヘルバウンド
+<string>ホールド
+<string>デュアルホールド
+<string>
+<string>フラップトップ
+<string>幻影刀
+<string>ブリンガークロー
+<string>マキシマムベット
+<string>ショウダウン
+<string>スナッチ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ブレイクエイジ
+<string>ブレイクアウェイ
+<string>スケープゴート
+<string>
+<string>ブレイカープラス
+<string>ブレイカープラス２
+<string>ブレイカープラス３
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ワイヤーバウンド
+<string>
+<string>
+<string>
+<string>バッテリー
+<string>エクスプローダー
+<string>ジョッキー
+<string>ステイメンレイ／ペタルレイ
+<string>
+<string>ジェットガジェット
+<string>ブーストナックル
+<string>ワンナイトスタンド
+<string>ランデブー
+<string>ＥＸショット
+<string>ＥＸショット エア
+<string>ＥＸチャージショット
+<string>レッドクイーンコンボＥＸ
+<string>レッドクイーンコンボ エアＥＸ
+<string>ブラッディクイーン
+<string>ブラッディクイーン エア
+<string>ドリルリグ
+<string>ドリルマスター
+<string>スロースフィア
+<string>スローワールド
+<string>サイドワインダー
+<string>ループザループ
+<string>ネオバスター
+<string>スーパーバスター
+<string>ブレイカープラス４
+<string>ブレイカープラス５
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>PASTA JET
+<string>PASTA MIX
+<string>BRIEF RELIEF
+<string>SWEET RELEASE
+<string>ROCK SHOT
+<string>ROCK CHARGE SHOT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ジョッキー
+<string>ステイメンレイ／ペタルレイ
+<string>パスタジェット
+<string>パスタミックス
+<string>ブリーフリリーフ
+<string>スイートリリース
+<string>ロックショット
+<string>ロックチャージショット

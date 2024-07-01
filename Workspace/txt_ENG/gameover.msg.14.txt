@@ -1,0 +1,26 @@
+<string>
+<string>USE ORBS?
+<string>RED ORBS
+<string>GOLD ORB
+<string>GIVE UP
+<string>Use Red Orbs to revive.
+<string>Use a Gold Orb to revive.
+<string>Don't use orbs to revive.
+<string>
+<string>RED ORBS:
+<string>Revive with {0} bars of vitality.<lf>(More Red Orbs are required each time.)
+<string>Revive with {0} bars of vitality and<lf>{1} Devil Breaker(s).<lf>(More Red Orbs are required each time.)
+<string>Damage surrounding enemies and revive<lf>with full vitality.<lf>(More Red Orbs are required each time.)
+<string>Damage enemies around you, completely<lf>refill your vitality and replenish your<lf>Devil Breaker magazine.<lf>(More Red Orbs are required each time.)
+<string>Damage enemies around you and completely<lf>refill your vitality and Devil Trigger gauge.<lf>(More Red Orbs are required each time.)
+<string>Vitality Recovered
+<string>NEXT
+<string>
+<string>The last judgment draweth nigh...
+<string>The last judgment draweth nigh...
+<string>CHECKPOINT
+<string>RETRY MISSION
+<string>MAIN MENU
+<string>Restart from the most recent checkpoint.
+<string>Restart from the beginning of the mission.
+<string>Return to the Main Menu.

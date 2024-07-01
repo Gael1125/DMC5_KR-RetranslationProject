@@ -1,0 +1,43 @@
+<string>
+<string>最後の希望 ネロも――
+<string>無力だった
+<string>
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>！ ネロを連れて行け！
+<string><lf>俺もやる！
+<string>足手まといだ！
+<string>“足手まとい”だと！？<lf>舐めやがって！
+<string><lf>ヤツの力は予想以上だ…<lf>ここは退くしかない！
+<string>これが 真の<RUBY><RB>力<RT>ちから</RUBY>だ
+<string>魔剣スパーダなど もはや無意味よ
+<string>お前達は利用させて貰おう
+<string>俺が更なる力を得るためにな！
+<string>この魔王に尽くせる事を<lf>光栄に思うがいい！
+<string>
+<string>そろそろ行くとするか
+<string>坊やには――
+<string>酷な仕事だ
+<string>待て！ まだ話は終わって…
+<string>そこで休んでろ
+<string>一応 礼は言っとくぜ
+<string>
+<string>もう ハロウィンか？
+<string>スパーダ…！
+<string>センス最悪だ サイズもデカすぎる
+<string>寸法 直してやるよ
+<string>
+<string><RUBY><RB>丈<RT>たけ</RUBY>を詰め過ぎたな
+<string>大丈夫か？
+<string>…何とかね
+<string>ダンテ あの悪魔は…
+<string>気にせず休んでろ
+<string>ダンテ！
+<string>トリッシュを頼む
+<string>待ってくれ！
+<string>ダンテは…？
+<string>行ったよ
+<string>だが勝てまい
+<string>そろそろ話して <RUBY><RB>Ｖ<RT>ブイ</RUBY><lf>あの悪魔の正体は？
+<string>ユリゼンなんて<lf>今まで聞いた事もないわ
+<string>それに… 貴方の目的は何なの？
+<string>俺は何者でもない<lf>全てを失った抜け殻さ
+<string>俺が生まれた理由を教えてやろう

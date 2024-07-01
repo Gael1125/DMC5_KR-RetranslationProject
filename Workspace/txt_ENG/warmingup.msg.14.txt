@@ -1,0 +1,12 @@
+<string>
+<string>WARM UP
+<string>
+<string>STAGE
+<string>RANK:
+<string>BEST TIME SCORE
+<string>Best Time
+<string>Best Play Time
+<string>Best Bonus Time
+<string>INCOMING ENEMIES
+<string>
+<string>Practice on Stage {0}.

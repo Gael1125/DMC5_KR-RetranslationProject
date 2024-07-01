@@ -1,0 +1,74 @@
+<string>
+<string>CHARACTER
+<string>ENEMY
+<string>WEAPON
+<string>CONCEPT ART
+<string>OTHERS
+<string>
+<string><char id="31">
+<string><char id="33">
+<string><char id="36">
+<string><char id="39">
+<string><char id="43">
+<string><char id="41">
+<string><char id="40">
+<string><char id="37">
+<string><char id="42">
+<string><enemy id="87">
+<string><char id="32">
+<string><char id="34">１
+<string><char id="34">２
+<string><char id="38">１
+<string><char id="38">２
+<string>
+<string>オーブデザイン１
+<string>オーブデザイン２
+<string>血を吸われた人々
+<string>小魔界樹
+<string>大魔界樹
+<string>クリフォト
+<string>ご褒美アート１
+<string>ご褒美アート２
+<string>ご褒美アート３
+<string>
+<string><enemy id="54">
+<string>ヘル１
+<string>ヘル２
+<string><enemy id="67">
+<string><enemy id="58">
+<string><enemy id="63">
+<string><enemy id="88">
+<string><enemy id="77">
+<string><enemy id="80">
+<string><enemy id="79">
+<string>エルダーゲリュオン
+<string><enemy id="81">
+<string>アンジェロ１
+<string>アンジェロ２
+<string><enemy id="78">
+<string><enemy id="84">
+<string>
+<string>コンセプトアート {0}
+<string>
+<string><weapon player="n" id="21">
+<string><weapon player="v" id="1">
+<string>閻魔刀
+<string><weapon player="d" id="22">
+<string><weapon player="n" id="22">
+<string><weapon player="d" id="25">
+<string><weapon player="d" id="32">
+<string><weapon player="d" id="28">
+<string><weapon player="d" id="24">
+<string><weapon player="d" id="21">
+<string><weapon player="d" id="26">
+<string>デビルブレイカー接続部構造
+<string><weapon player="n" id="23">
+<string><weapon player="n" id="24">
+<string><weapon player="n" id="28">
+<string><weapon player="n" id="25">
+<string><weapon player="n" id="27">
+<string><weapon player="n" id="29">
+<string><weapon player="n" id="26">
+<string><weapon player="n" id="30">１
+<string><weapon player="n" id="30">２
+<string>デザインミーティング風景

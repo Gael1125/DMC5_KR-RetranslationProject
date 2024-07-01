@@ -1,0 +1,10 @@
+<string>
+<string>THE VOID
+<string>
+<string>TOTAL DAMAGE
+<string>
+<string>START
+<string>CUSTOMIZE
+<string>
+<string>훈련을 시작합니다.
+<string>캐릭터를 커스터마이징합니다.

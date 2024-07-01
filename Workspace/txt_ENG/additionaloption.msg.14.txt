@@ -1,0 +1,90 @@
+<string>TURBO
+<string>RAY TRACING
+<string>3D AUDIO
+<string>TRIGGER EFFECT
+<string>HIGH FRAMERATE MODE
+<string>GRAPHICS
+<string>AUTO TRANSITION
+<string>Enable Turbo Mode.<lf><lf>This will disable ray tracing support as<lf>well as matchmaking with other players.
+<string>Enable Turbo Mode.<lf><lf>This will disable matchmaking with<lf>other players.
+<string>Enable Turbo Mode.<lf><lf>Ray tracing and player matchmaking are<lf>automatically disabled in Turbo Mode.
+<string>Disable Turbo Mode.
+<string>Enable ray tracing.<lf><lf>This mode prioritizes graphical quality<lf>and may adversely affect framerate.<lf><lf>Ray tracing is automatically disabled in<lf>LEGENDARY DARK KNIGHT and Turbo Mode.
+<string>This enables ray tracing at 1080p.<lf>Choose this if you want enhanced<lf>light reflections without heavily<lf>taxing your system. <lf><lf>Ray tracing is automatically disabled in<lf>LEGENDARY DARK KNIGHT and Turbo Mode.
+<string>Disable ray tracing.
+<string>Enable 3D audio.<lf><lf>Headphones are strongly recommended.
+<string>Disable 3D audio.
+<string>Communication-related data, such <lf>as matchmaking information, will be<lf>shared with other players except when<lf>playing as Vergil.
+<string>Asynchronous communication data will be<lf>sent and received, but you will not be<lf>matched with other players. <lf><lf>Data will not be shared when playing<lf>as Vergil.
+<string>Communication data will be shared except<lf>when playing as Vergil, and missions<lf>with matchmaking will have auto<lf>transitioning enabled.<lf>Matchmaking will be disabled when <lf>playing LEGENDARY DARK KNIGHT<lf>and Turbo Mode. 
+<string>Communication data will be shared except<lf>when playing as Vergil, and missions<lf>with matchmaking will have auto<lf>transitioning enabled.<lf>Matchmaking will be disabled when <lf>playing LEGENDARY DARK KNIGHT<lf>and Turbo Mode. 
+<string>Asynchronous communication data will be<lf>sent and received, but you will not be<lf>matched with other players. <lf><lf>Data will not be shared when playing<lf>as Vergil.
+<string>Asynchronous communication data will be<lf>sent and received, but matchmaking <lf>between players will not take place.<lf><lf>Data will not be shared when playing<lf>as Vergil. 
+<string>Matchmaking data will not be sent<lf>or received.
+<string>Enable Trigger Effect.
+<string>Disable Trigger Effect.
+<string>Enable High Framerate Mode.<lf><lf>Not available if ray tracing is enabled.
+<string>Enable High Framerate Mode.
+<string>Disable High Framerate Mode.
+<string>Enable auto transitions.<lf><lf>This allows you to automatically start,<lf>or continue, playing once loading is<lf>complete without the need to press a <trc id="0">.<lf>
+<string>Disables auto transitions.<lf><lf>You will need to press a <trc id="0"> to start,<lf>or continue, playing after loading is<lf>complete.
+<string>View the details of this game's privacy policy.<lf>A network connection is required.<lf><lf>Privacy Policy:<lf>https://www.capcom.co.jp/privacy/game/
+<string>CONTROLS: VERGIL
+<string>Change controls for various actions.
+<string>Change your ray tracing settings.
+<string>Change your turbo mode settings.
+<string>Change your 3D audio settings.
+<string>Changes your trigger effect settings.
+<string>Change your high framerate mode settings.
+<string>Change your graphic settings.
+<string>Change auto transition settings.
+<string>MELEE ATTACK
+<string>MIRAGE BLADE
+<string>JUMP
+<string>TRICK ACTION
+<string>DOPPELGANGER (SUMMON)
+<string>CHANGE TARGET
+<string>LOCK-ON
+<string>CHANGE WEAPON (RIGHT)
+<string>CHANGE WEAPON (LEFT)
+<string>DOPPELGANGER (BANISH)
+<string>DOPPELGANGER (NORMAL)
+<string>DOPPELGANGER (HASTE)
+<string>DOPPELGANGER (SLOW)
+<string>RESET CAMERA
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>Close-range attacks.
+<string>Attack with a Mirage Blade.
+<string>Jump into the air.
+<string>Perform a trick action.
+<string>Summon a devil clone to fight by your side.<lf>(When DT Gauge is level 3 or higher.)<lf>
+<string>Switch lock-on targets.
+<string>Lock on to a target.
+<string>Cycle right through your weapons.
+<string>Cycle left through your weapons.
+<string>Sends your devil clone back to the void.
+<string>Order your devil clone to attack normally.
+<string>Order your devil clone to wait less<lf>before attacking.
+<string>Order your devil clone to wait longer <lf>before attacking.
+<string>Return camera to default position.
+<string>Taunt the enemy.
+<string>Move your character.
+<string>Move your character.
+<string>Move your character.
+<string>Move your character.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>
+<string>ON (GRAPHICS)
+<string>ON (PERFORMANCE)
+<string>OFF

@@ -1,0 +1,355 @@
+<string>
+<string>TUTORIAL
+<string>
+<string><ICON CenR> Close
+<string>
+<string>
+<string>
+<string>
+<string>SEALS
+<string>MORRISON'S LETTER
+<string>THE SHOP
+<string>STYLISH RANK
+<string>
+<string>TELEPHONE BOOTHS
+<string>DEMON TREE BLOOD CLOTS
+<string>DIVINITY STATUES
+<string>MOVEMENT
+<string>CAMERA
+<string>JUMPING
+<string>KICK JUMP
+<string>LOCK-ON
+<string>CHANGE LOCK-ON
+<string>DODGING
+<string>NORMAL ATTACK
+<string>SPECIAL ATTACKS
+<string>MELEE ATTACK
+<string>RANGED ATTACK
+<string>HIGH ROLLER
+<string>COLOR UP
+<string>EXCEED
+<string>EX-ACT
+<string>WIRE BOUND 1
+<string>DEVIL BREAKER
+<string>BREAK AGE
+<string>BREAK AWAY
+<string>PICKING UP DEVIL BREAKERS
+<string>WIRE SNATCH
+<string>WIRE BOUND 2
+<string>GRIM GRIP
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>TIPS
+<string>THE NEXT OBJECTIVE
+<string>REEQUIPPING DEVIL BREAKERS
+<string>HEAVEN OR HELL
+<string>HELL AND HELL
+<string>BLOODSTREAMS
+<string>JET GADGET
+<string>TIPS
+<string>AUTO-ASSIST
+<string>DR. FAUST
+<string>CAVALIERE
+<string>DEVIL SWORD DANTE
+<string>KING CERBERUS
+<string>TELEPHONE BOOTHS
+<string>TELEPHONES
+<string>CALLING NICO
+<string>MEMORIAL PHOTOS
+<string>STYLISH!
+<string>BLOODY PALACE
+<string>SUSPEND
+<string>RED ORB BONUS (1/2)
+<string>RED ORB BONUS (2/2)
+<string>WARM UP
+<string>CUSTOMIZE
+<string>THE VOID
+<string>VITALITY GAUGE
+<string>TREE ROOT OBSTACLES
+<string>CALLING NICO
+<string>GERBERA
+<string>BUSTER ARM
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Press <ICON ACT_LS>
+<string>Press <ICON ACT_BtnD>
+<string>During a jump, press <ICON ACT_BtnD> near a wall
+<string>Move <ICON ACT_RS>
+<string>Press <ICON ACT_BtnU>
+<string>Press <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>Hold <ICON ACT_BtnL>
+<string>Press and hold <ICON ACT_RB>
+<string>Press <ICON ACT_RB>+<ICON ACT_LStP>
+<string>Press <ICON ACT_BtnR>
+<string>Hold <ICON ACT_BtnR> then release<lf>(consumes one Devil Breaker)
+<string>Press <ICON ACT_LB><lf>(consumes one Devil Breaker)
+<string>Touch a Devil Breaker
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR> (also works while jumping)
+<string>Rev with <ICON ACT_LT>
+<string>Press <ICON ACT_LT> after any attack
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> horizontally +<ICON ACT_BtnD>
+<string>Lock on with <ICON ACT_RB> then press <ICON ACT_BtnR>
+<string>Lock on to a Grim Grip point with <ICON ACT_RB><lf>then press <ICON ACT_BtnR>
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR><lf>after attacking target
+<string>Press <ICON ACT_BtnU>
+<string>Press <ICON ACT_BtnR> close to a dying enemy
+<string>Attack with <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> horizontally +<ICON ACT_BtnD>
+<string>Hold <ICON ACT_RT>
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR>
+<string>Press <ICON ACT_LB> when DT Gauge is at level 3
+<string>Press <ICON ACT_LT>+<ICON ACT_BtnU><lf>or <ICON ACT_LT>+<ICON ACT_BtnL>
+<string>Press <ICON ACT_LT> or <ICON ACT_RT>
+<string>
+<string>
+<string>
+<string>Change style with <ICON ACT_DirU><ICON ACT_DirD><ICON ACT_DirL><ICON ACT_DirR><lf>and use style action with <ICON ACT_BtnR>
+<string>Change style: <ICON ACT_DirU><lf>Style action: <ICON ACT_BtnR>
+<string>Change style: <ICON ACT_DirL><lf>Style action: <ICON ACT_BtnR>
+<string>Change style: <ICON ACT_DirR><lf>Style action: <ICON ACT_BtnR>
+<string>Change style: <ICON ACT_DirD><lf>Style action: <ICON ACT_BtnR>
+<string>Press <ICON ACT_LB> when DT Gauge is at level 3
+<string>
+<string>
+<string>Press <ICON ACT_Dir> when DT Gauge is at level 3
+<string>Press <ICON ACT_RT> near a staggered enemy
+<string>Hold <ICON ACT_LB> to change from the<lf>DT Gauge to the SDT Gauge
+<string>Charge SDT Gauge to max<lf>then hold <ICON ACT_LB>
+<string>Destroy spots on the legs to expose<lf>Grim Grip points (use with <ICON ACT_RB>+<ICON ACT_BtnR>)
+<string>Press and hold <ICON ACT_LStP>
+<string>Press <ICON ACT_RT> near an enemy in Devil Trigger<lf>(must also be close to clone)
+<string>After launching Punch Line,<lf>call it back by holding <ICON ACT_BtnR>
+<string>Enter with <ICON ACT_BtnR>
+<string>Activate Devil Trigger (<ICON ACT_LT>+<ICON ACT_BtnU> or <ICON ACT_BtnL>) to<lf>make your demons attack automatically
+<string>Hold <ICON ACT_RStP>
+<string>Press <ICON ACT_LB> to escape by<lf>expending a Devil Breaker
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>After launching Punch Line,<lf>call it back by holding <ICON ACT_BtnR>
+<string>With Gerbera equipped:<lf>Press <ICON ACT_BtnR> or <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>With Gerbera equipped: Press and hold<lf><ICON ACT_BtnR> until the arm glows, then release
+<string>With Buster Arm equipped: Press <ICON ACT_BtnR>
+<string>With Buster Arm equipped: Hold and<lf>release <ICON ACT_BtnR> once your right arm glows
+<string>
+<string>Switch player to Nero.<lf><lf>Vitality and orbs held carry over,<lf>but you must obtain skills for Nero.
+<string>Switch player to Dante.<lf>Wield a variety of weapons and skills<lf>for smooth and stylish combat.<lf><lf>Vitality and orbs held carry over,<lf>but you must obtain skills for Dante.
+<string>Switch player to V.<lf>Command three demons on the battlefield,<lf>controlling the flow of combat from a<lf>distance.<lf><lf>Vitality and orbs held carry over,<lf>but you must obtain skills for V.
+<string>When a barrier blocks off your<lf>path, it means a battle is going<lf>to take place. Defeat all of the<lf>enemies to destroy the barrier<lf>and proceed.
+<string>The more missions you complete,<lf>the more information you'll be<lf>able to view, like Morrison's<lf>Letter. View such documents from<lf>the Main Menu, under the Library<lf>section of the Gallery.
+<string>Use the Customize screen to buy<lf>more Devil Breakers with Red Orbs<lf>and change equipment order.
+<string>Among other things, the length and<lf>variety of your combos determine<lf>how many Stylish Points you get<lf>and the Stylish Rank displayed on<lf>screen. Stylish Ranks affect your<lf>score on the result screen after a<lf>mission, so make your moves count.
+<string>As you progress through missions,<lf>you will come across special<lf>patterns scrawled on parts of the<lf>environment, such as the walls,<lf>ceiling, and ground.
+<string>Stand on the glowing point nearby<lf>and adjust your viewing angle to<lf>line up the pattern correctly.<lf>This will let you access this<lf>area's secret mission.
+<string>Secret missions present you with<lf>a challenge that you will get a<lf>reward for completing.<lf>After discovering a secret mission,<lf>it will be selectable from the Main<lf>Menu and you can replay it as many<lf>times as you want.
+<string>Some telephones still have active<lf>phone lines. Get closer and check<lf>it out.
+<string>You can call Nico's trailer, where<lf>you can trade Red Orbs for skills<lf>and items. Any telephone you find<lf>is a chance to call Nico.
+<string>Some demon tree roots contain<lf>clots of blood. Destroy these clots<lf>to get Red Orbs. Destroying the clots<lf>sometimes opens up new paths,<lf>or triggers something in the<lf>environment.
+<string>Use Divinity Statues to trade<lf>Red Orbs for skills and items.
+<string>Tilt <ICON ACT_LS> in any direction to move<lf>the character in that direction.<lf>Tilt further to move faster.
+<string>Use <ICON ACT_RS> to move the camera around and<lf>view your surroundings. Press <ICON ACT_RStP> to<lf>return the camera to the default<lf>position behind you. You can change<lf>camera functionality in Options.
+<string>Press <ICON ACT_BtnD> to jump into the air.<lf>The height of your jump changes<lf>depending on how long you hold it.
+<string>After jumping, press <ICON ACT_BtnD> near a<lf>wall to jump again by pushing off<lf>of the wall.
+<string>You can lock on to enemies<lf>or other targets with <ICON ACT_RB>.<lf>The targeting marker also indicates<lf>how much HP the target has left.
+<string>You can change lock-on<lf>targets with <ICON ACT_RB>+<ICON ACT_LStP>.
+<string>
+<string>
+<string>Use <ICON ACT_BtnU> to attack.<lf>Attacks vary depending on the<lf>number of times you press <ICON ACT_BtnU><lf>and your timing.
+<string>Use <ICON ACT_BtnL> to fire the weapon<lf>you have equipped.<lf>You can also fire in mid-air.
+<string>You have a number of special moves<lf>in addition to normal attacks.<lf><lf>Example: High Roller<lf>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU> to slash an<lf>enemy into the air. Hold down <ICON ACT_BtnU><lf>to follow them into the air.
+<string>Hold <ICON ACT_BtnL> to up the power<lf>up your shot. Release <ICON ACT_BtnL> to fire.
+<string>Press <ICON ACT_LT> to charge your<lf>Ex-Gauge and power up the<lf>Red Queen sword.
+<string>Press <ICON ACT_LT> at the right time after<lf>any attack to instantly charge<lf>your Ex-Gauge to full.<lf>(If your timing is off, you only<lf>gain a small amount of charge.)
+<string>Move side to side to evade attacks.<lf>Low attacks can also be evaded<lf>with a jump.
+<string>Hold <ICON ACT_BtnL> to up the power<lf>up your shot. Release <ICON ACT_BtnL> to fire.
+<string>Press <ICON ACT_BtnR> to attack with your Devil<lf>Breaker. Taking damage during this<lf>attack will destroy your current<lf>Devil Breaker.
+<string>Charging an attack will make<lf>that attack more powerful,<lf>but destroy the Devil Breaker<lf>after only one use.
+<string>Sever and detonate your arm,<lf>losing a Devil Breaker in your<lf>magazine.
+<string>Walk over to any Devil Breaker<lf>you find on your path to pick it<lf>up and equip it automatically.<lf>You cannot pick up any new arms<lf>if your magazine is already full.
+<string>Pull in enemies you've locked on<lf>to. Heavy enemies can't be pulled<lf>in, so using this technique will<lf>pull you closer to them instead<lf>(see Wire Bound).
+<string>Lock on to Grim Grip points and<lf>pull yourself towards them to<lf>traverse parts of the stage.
+<string>Standing on platforms lit with<lf>red flames when no enemies are<lf>around will turn the flames blue,<lf>and cause Grim Grip points to<lf>appear in the air.
+<string>Lock on to a Grim Grip point and<lf>use the snatch command to move to<lf>a set location in the distance.<lf>When you stumble across one of<lf>these platforms, clear enemies<lf>from the area before you use it.
+<string>Grim Grip points can be revealed<lf>by attacking certain spots.
+<string>Nero can now wield the power of<lf>his new Devil Trigger. Press <ICON ACT_Dir><lf>with three units of the DT Gauge<lf>to activate Devil Trigger.
+<string>Press <ICON ACT_RT> near a staggered enemy<lf>to perform a Buster, a powerful<lf>throwing move.
+<string>While fighting Vergil in Devil<lf>Trigger form, you can press <ICON ACT_RT><lf>when a clone is close by to grab<lf>them both and slam them into<lf>the ground.
+<string>After summoning Shadow,<lf>press <ICON ACT_BtnU> to make him perform<lf>a close-range attack.
+<string>Shadow can't finish off dying<lf>enemies—V has to do that himself.
+<string>After summoning Griffon,<lf>press <ICON ACT_BtnL> to make him perform<lf>a long-range attack.
+<string>Use Shadow to evade attacks.<lf>This will allow for a faster and<lf>wider range of movement.
+<string>Fills the DT Gauge during battle.<lf>You'll be wide open to attacks<lf>while doing this, so be careful.
+<string>Moves you right to a locked-on<lf>target in an instant, killing any<lf>dying enemies instantly. Works on<lf>airborne targets as well.
+<string>Landing blows on enemies or taking<lf>damage will fill the Devil Trigger<lf>(DT) Gauge.
+<string>If your DT Gauge is at level 3 or higher,<lf>you can use it to summon Nightmare<lf>by pressing <ICON ACT_LB>.<lf>He will attack enemies on his own<lf>until your gauge runs out.
+<string>Your demon pets will stop moving<lf>if they take too much damage.<lf>Keep an eye on their gauges<lf>in the upper-left corner of the<lf>screen to see how much<lf>vitality they have left.
+<string>V's demons recover from stalemate<lf>by themselves over time. You can<lf>speed up their recovery time by<lf>moving V close to them.
+<string>Use 1 stock of DT Gauge to make<lf>Shadow and Griffon attack foes<lf>with increased strength for a<lf>set time. Execute the same<lf>command again will extend attack<lf>time at the cost of more of the<lf>DT Gauge.
+<string>You can quickly change your<lf>weapon at any time. Press <ICON ACT_LT> to<lf>change long-range weapons, and<lf><ICON ACT_RT> to change close-range weapons.<lf>You can change which weapons<lf>you want to use and their order<lf>on the Customize screen.
+<string>Hold <ICON ACT_LT> or <ICON ACT_RT> to change<lf>weapons in reverse order.<lf>Use this to quickly find the<lf>weapon you want.
+<string>Use <ICON ACT_DirU><ICON ACT_DirD><ICON ACT_DirL><ICON ACT_DirR> to change Dante's style.<lf><ICON ACT_BtnR> will perform different actions<lf>depending on the current style.
+<string>- Trickster -<lf>A style that enhances movement,<lf>giving you more freedom in battle.
+<string>- Gunslinger -<lf>A style geared towards long-range<lf>combat, allowing you to keep your<lf>distance in an engagement.
+<string>- Swordmaster -<lf>A style geared towards close-range<lf>swordplay. Use unwavering combos<lf>to cut down enemies.
+<string>- Royalguard -<lf>A style geared towards defense.<lf>Turn the tables with powerful<lf>counterattacks. Guarding consumes<lf>the Devil Trigger gauge, and<lf>nullifies enemy attacks.
+<string>When your DT Gauge is at level 3<lf>or higher, press <ICON ACT_LB> to activate<lf>Devil Trigger form. Your HP will<lf>slowly recover while in this<lf>state, and you gain boosts to<lf>attack, defense, and speed. Press<lf><ICON ACT_LB> again to deactivate this form.
+<string>There is a new gauge above the<lf>DT Gauge: the Sin Devil Trigger<lf>(SDT) Gauge. To fill this gauge,<lf>transfer power from the DT Gauge<lf>by holding down <ICON ACT_LB>.
+<string>Hold <ICON ACT_LB> with a full SDT Gauge to<lf>activate Sin Devil Trigger.<lf>You gain insane attack power,<lf>but vitality does not recover and<lf>you can't deactivate this form<lf>manually.
+<string>Here you can use Red Orbs to<lf>acquire skills or change equipped<lf>gear to help you get a leg up<lf>in battle.
+<string>Cycle through the tabs at the top<lf>of the screen to select a section<lf>to customize.
+<string>SKILLS<lf><lf>Here you can acquire new skills<lf>and abilities. Purchases here are<lf>permanent, and cannot be undone.<lf>Note: In the full game, you can<lf>try out skills before buying them.
+<string>DEVIL BREAKERS<lf><lf>Here you can replenish your Devil Breakers.<lf>Their special abilities will help you in<lf>battle, so make sure you have enough<lf>for the road ahead.
+<string>EQUIPMENT<lf><lf>Here you can manage your weapons and<lf>gear. Use "Edit" to help find a setup<lf>that best fits your fighting style.
+<string>ITEMS<lf><lf>Here you can buy orbs to increase<lf>your maximum vitality or revive<lf>you when you fall.
+<string>The Customize screen is accessible<lf>from the mission menu. Preparation is<lf>key if you want to fight with style!
+<string>These conduits snake throughout<lf>the Qliphoth, transporting blood<lf>gathered in the human world.<lf>Offer yourself to the flow and it<lf>will carry you deeper into the<lf>tree. But be warned: there's no<lf>turning back once you enter.
+<string>Press and hold <ICON ACT_LStP> to orient the<lf>camera towards your next<lf>objective. (Cannot be used<lf>during combat.)
+<string>The next Devil Breaker in your<lf>magazine will be equipped if<lf>your current arm is destroyed.
+<string>If you run out of Devil Breakers, try searching<lf>around. You may find replacement arms lying<lf>around that'll help you get out of a tight spot.
+<string>A thrilling mode where a single<lf>blow means death for friend and<lf>foe alike. Clear the mission<lf>before using up all three Gold<lf>Orbs provided.<lf>(Asynchronous connections only<lf>in this mode.)
+<string>Enemies face you at full strength,<lf>while doom awaits you behind the<lf>next blow. Clear the mission<lf>before using up all three Gold<lf>Orbs provided.<lf>(Asynchronous connections only<lf>in this mode.)
+<string>Use Jet Gadget to climb steep<lf>slopes. The higher your Stylish<lf>Rank, the longer you can ride.
+<string>You can check the controls anytime<lf>from the Pause Menu.
+<string>Unleash stylish techniques and<lf>combos with simple attack inputs.<lf>Hold <ICON ACT_RStP> to turn this feature on or<lf>off at any time. While active, an<lf>"AUTO" icon is displayed in the<lf>top-right corner of the screen.
+<string>You can purchase items and skills<lf>from Nico in the main game, but<lf>this feature is not available in<lf>the demo.
+<string>In Bloody Palace mode, you battle<lf>against waves of deadly foes,<lf>clearing as many stages as you<lf>can before time runs out.<lf>The more stylish the combat, the<lf>more you extend the time limit.
+<string>You can pause your progress in<lf>the Bloody Palace when no enemies<lf>are around. Just select Suspend<lf>from the Pause Menu.
+<string>Fulfill certain conditions in<lf>missions to generate an ongoing<lf>list of Red Orb bonuses. Reaching<lf>specific stages will cause all<lf>accumulated bonuses to be added<lf>to your Red Orb total.
+<string>Failing to reach these specific<lf>stages makes the list disappear,<lf>and no bonus Orbs are awarded.
+<string>Select WARM UP from the menu to<lf>practice on any stages you've<lf>already completed. Perfect stages<lf>that gave you trouble to dominate<lf>the Bloody Palace completely.
+<string>Dr. Faust consumes Red Orbs to<lf>attack foes. Most attacks require<lf>a sufficient amount of Red Orbs<lf>to use. The orbs consumed are<lf>displayed on the upper-right side<lf>of the screen. Keep an eye on your<lf>balance and don't spend them all!
+<string>Using the Dr. Faust skill Set Hat<lf>(<ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnL>) lets you earn<lf>a ton more Red Orbs. Strike foes<lf>with the hat, then go on the<lf>offensive.
+<string>Many of Cavaliere's attacks<lf>inflict continuous damage from<lf>the rotation of the wheels. Chain<lf>attacks and connect with the<lf>spinning wheels to take advantage<lf>of all this weapon has to offer.
+<string>The basic abilities of Rebellion<lf>and Devil Sword Sparda carry over<lf>to this blade, and pressing <ICON ACT_BtnR> in<lf>Swordmaster style conjures swords<lf>that attack autonomously. Use the<lf>blades in tandem for a relentless<lf>wave of hack-and-slash carnage.
+<string>Activating Devil Trigger with this<lf>equipped will conjure swords<lf>that provide different types of<lf>support depending on your style.<lf>These include higher mobility,<lf>simultaneous attacks, automatic<lf>counters, or stronger defense.
+<string>This weapon has three unique<lf>modes. Twirl freezing nunchaku<lf>with <ICON ACT_BtnU>, and in Swordmaster style,<lf>wield a blazing rod with <ICON ACT_BtnR>, or<lf>hold and release <ICON ACT_BtnR> to unleash an<lf>electrifying three-section staff.
+<string>Standing on platforms lit with<lf>red flames when no enemies are<lf>around will turn the flames blue,<lf>and cause Grim Grip points to<lf>appear in the air.
+<string>Lock on to a Grim Grip point and<lf>use the snatch command to move to<lf>a set location in the distance.<lf>When you stumble across one of<lf>these platforms, clear enemies<lf>from the area before you use it.
+<string>Pictures taken when defeating<lf>enemies appear in their reports.<lf>Check them out under Nico's Reports<lf>in the Gallery. If you want, you<lf>can retake these photos later.
+<string>You can evaluate any players you<lf>match with online. Try giving a<lf>"Stylish!" rating for anyone who<lf>shows their stuff. Collect enough<lf>ratings to obtain a Gold Orb.
+<string>The Void is a training ground<lf>offering free reign to try out<lf>skills and techniques. Tweak<lf>specific settings in the menu<lf>to set up a training session<lf>just for you.
+<string>Vitality is presented by the gauge<lf>in the upper-left corner of the<lf>screen. Taking damage decreases<lf>the gauge, downing your character<lf>when it depletes completely.<lf>A Game Over occurs if you lack<lf>the Red Orbs needed to revive.
+<string>Drop a parasitic Nidhogg Hatchling<lf>into a demon tree root in your<lf>path to proceed forward. Look for<lf>the hatchling somewhere nearby.
+<string>Some telephones still have active<lf>phone lines. Get closer and check<lf>it out.
+<string>Call Nico's trailer in the main<lf>game to trade Red Orbs for<lf>skills and items (not available<lf>in the demo).
+<string>Press <ICON ACT_BtnR> to fire a shockwave in<lf>front of you. Press <ICON ACT_LS>+<ICON ACT_BtnR> to move<lf>around quickly.
+<string>Fires a thick energy beam ahead<lf>on the ground. Shockwaves gather<lf>in its fingertips in mid-air for a<lf>penetrating laser that ricochets<lf>off of walls and floors.
+<string>Grab and throw enemies. Taking<lf>damage while using this technique<lf>will break the arm.
+<string>A throw technique that delivers<lf>even more punishment to foes.<lf>Enemy attacks will not cause<lf>you to flinch while this move is<lf>activated, but the arm breaks<lf>after one use.

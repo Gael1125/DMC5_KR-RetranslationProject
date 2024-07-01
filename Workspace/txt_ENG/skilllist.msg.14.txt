@@ -1,0 +1,4 @@
+<string>
+<string>SKILL LIST
+<string>
+<string>Check {0}'s skills.

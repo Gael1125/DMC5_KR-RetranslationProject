@@ -1,0 +1,4 @@
+<string>
+<string>SKILL LIST
+<string>
+<string>{0}의 스킬을 확인합니다.

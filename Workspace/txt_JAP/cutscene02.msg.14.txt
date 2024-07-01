@@ -1,0 +1,62 @@
+<string>
+<string>この先は車じゃ無理だな
+<string>だったら歩くさ
+<string>おっと！ ちょい待ち！
+<string>何だよ
+<string>これは？
+<string>モリソンから お手紙だ
+<string>
+<string>仕事を頼めるか？
+<string>モチロン
+<string>さあ 何が望みだ？
+<string>
+<string>俺の方が早いかな
+<string>
+<string>患者はどこだ？
+<string>人間… まだ生き残りがいたか！
+<string>悪かったな
+<string>杖をついたヤツと<lf>待ち合わせ中でね
+<string>
+<string>まさか 食ってねえよな？
+<string>俺が食うはずがないだろう<lf>人間の血は大事な<RUBY><RB>贄<RT>にえ</RUBY>だ
+<string>全ての血を捧げ…<lf>俺は魔界の王となるのだ！
+<string>“王”？　お前が？
+<string>確かにデカいけど――
+<string>それだけじゃ無理だ<lf>他に特技あるか？
+<string>ないだろ？
+<string>人間め！<lf>思い知らせてやる！
+<string>このゴリアテ様の<lf>恐ろしさをな！
+<string>特技は手品か 笑えるな
+<string>
+<string>こんな所で死んでたまるか！
+<string>果実は俺の物だ！<lf>ヤツより先に俺が…
+<string>“我は嘆き そして悲しみ<lf>自らの星を呪う”
+<string>“我が愛しき人を高め<lf>卑しめた あの星を…”
+<string>何故だ！ お前は…！
+<string>“迷い子よ…”
+<string>“家へと帰れ”
+<string>食われちまったと思ってたぜ
+<string>遅れてすまない<lf>本を読んでいた
+<string>へー… おもしろそー…
+<string>で？ ダンテはあの中か？
+<string>ユリゼンに敗れたのなら<lf>“クリフォト”の養分だ
+<string>…何の養分？
+<string>“クリフォト”だ<lf>魔界に生える大樹…
+<string>人の血を養分とする<lf>血を吸われた人間は――
+<string>見ての通りの有様だ
+<string>ま 行ってみるか
+<string>生きてりゃ助けるさ
+<string>待て
+<string>まずはクリフォトの根を<lf>駆除する必要がある
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>…
+<string>お前 何者だ？
+<string>遅れてすまんな！
+<string>道が狭かった
+<string>お前が<RUBY><RB>Ｖ<RT>ブイ</RUBY>か？
+<string>拾ってくれ
+<string>それそれ！ 足元の！
+<string>傑作が生まれる予感！
+<string>よく嗅げるな
+<string>何か分かってる？
+<string>お前のクソ？
+<string>…作戦会議だ

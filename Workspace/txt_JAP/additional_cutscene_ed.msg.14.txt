@@ -1,0 +1,28 @@
+<string>
+<string>あばよ！
+<string>やけにデカく育てたな
+<string>ガーデニングが趣味なのか？
+<string>いいから黙ってろ
+<string>それで？　息子に会った感想は？
+<string>何の感慨もない
+<string>もうすぐ孫までできるってのに…
+<string>黙れ
+<string>何度も言わせるな
+<string>いいか　足を引っ張るなよ
+<string>こっちのセリフだよ
+<string>
+<string>そろそろ死ね！
+<string>お前の考えなんぞ お見通しだ
+<string>楽勝だぜ！
+<string>“樹を倒すべく兄弟は手をつなぎ<lf>やがて互いの林檎をも奪い合う”
+<string>
+<string>ノリが悪いな<lf>昔は一緒に言ってたろ
+<string>記憶にないな
+<string>これは覚えてるか？
+<string>ガキの頃…
+<string>母さんに怒られて<lf>泣きベソかいてたろ？
+<string>お前こそ<lf>親父に怒られて泣いてた
+<string>２人にゃ見せられねえ姿だ
+<string>どうでもいい<lf>俺たちは まだ生きてる
+<string>確かに そうだな
+<string>

@@ -1,0 +1,21 @@
+<string>
+<string>バージル… “扉”を開けっぱなしだぜ
+<string><RUBY><RB>閻魔刀<RT>ヤマト</RUBY>をよこせ
+<string>欲しければ奪えばいいだろう
+<string>…いつもの事だ
+<string>だと思ったよ
+<string>戦うのは もう何度目だ？
+<string>さあね
+<string>ガキの頃からだしな
+<string>勝負だ バージル！
+<string>最後のな！
+<string>
+<string>ネロは俺の息子か？
+<string>おいおい
+<string>身に憶えはあるだろ？
+<string>そうだな… 遠い昔の記憶ならな
+<string>若気の至りか
+<string>興味はあるが 今はそんな話より――
+<string>決着だ
+<string><lf>これは…！？
+<string><lf>ネロ…？

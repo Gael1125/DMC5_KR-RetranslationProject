@@ -1,0 +1,53 @@
+<string>
+<string><item id="31"><lf><lf>악마의 피가 크리스탈로 변한<lf>빨간색 마법 돌. 악마를 해치우면<lf>얻을 수 있으며 데빌 헌터의 실력을<lf>나타내는 징표라 할 수 있다.<lf>새로운 무기나 스킬을 획득하거나<lf>부활을 위해 사용할 수 있다.
+<string><item id="32"><lf><lf>악마의 체액이 크리스탈로 변한<lf>초록색 마법 돌.<lf>생명의 파동을 통해 상처나<lf>출혈을 치유한다.<lf>획득하는 즉시 생명력이<lf>일정량 회복된다.
+<string><item id="33"><lf><lf>악마의 영혼이 크리스탈로 변한<lf>하얀색 마법 돌.<lf>투지를 증가시키고 비축한다.<lf>획득하는 즉시 데빌 트리거 게이지가<lf>일정량 회복된다.
+<string><item id="35"><lf><lf>생명력이 크리스탈처럼 변한<lf>파란색 마법 돌조각.<lf>생명력의 최대치를 늘리는<lf>힘이 있지만 하나로는 효과가 없다.<lf>4개의 조각을 모으면<lf>하나의 크리스탈이 된다.
+<string><item id="36"><lf><lf>강한 생명력이 응축된<lf>파란색 마법 돌.<lf>4개의 블루 오브 조각이 모여<lf>하나를 이룬다.<lf>영혼 속에 숨겨진 힘을 해방 해<lf>생명력의 최대치를 증가시킨다.
+<string><item id="37"><lf><lf>마력이 크리스탈로 변한<lf>보라색 마법 돌조각.<lf>데빌 트리거의 최대치를<lf>늘리는 힘이 있지만,<lf>하나로는 효과가 없다.<lf>4개의 조각을 모으면<lf>하나의 크리스탈이 된다.
+<string><item id="38"><lf><lf>강한 마력이 응축된<lf>보라색 마법 돌.<lf>4개의 퍼플 오브 조각이 모여<lf>하나를 이룬다.<lf>영혼의 진정한 외침과 반응하여,<lf>데빌 트리거 게이지의<lf>최대치를 증가시킨다.
+<string><item id="39"><lf><lf>비법을 통해 만들어진<lf>황금색 마법 돌.<lf>생명의 이치를 능가하는<lf>초월적인 힘을 가지고 있다.<lf>사용하면 생명력을 모두 회복하고<lf>부활할 수 있다.
+<string>
+<string>
+<string><item id="41"><lf><lf>갓 부화한 니드호그의 유충.<lf>클리포트에 기생하여<lf>내부 조직을 망가뜨린다.<lf>침식 속도가 매우 빨라서,<lf>뿌리의 약한 부분들은<lf>순식간에 말라 버린다.
+<string>
+<string><item id="36"><lf><lf>생명력의 크리스탈인<lf>블루 오브의 조각이<lf>4개 모여 만들어진 돌.<lf>최대 생명력을 늘려준다.
+<string><item id="38"><lf><lf>마력의 크리스탈인<lf>퍼블 오브의 조각이<lf>4개 모여 만들어진 돌.<lf>데빌 트리거 게이지를 늘려준다.
+<string><item id="39"><lf><lf>비법을 통해 탄생한 황금색 마법 돌.<lf>죽은 자를 부활 시키는<lf>힘을 가지고 있다.
+<string>
+<string>악마의 피가 크리스탈로 변한<lf>빨간색 마법 돌.<lf>새로운 무기나 스킬을 획득하거나<lf>부활을 위해 사용할 수 있다.
+<string>악마의 체액이 크리스탈로 변한<lf>초록색 마법 돌.<lf>획득하는 즉시 생명력이<lf>일정량 회복된다.
+<string>악마의 영혼이 크리스탈로 변한<lf>하얀색 마법 돌.<lf>획득하는 즉시 데빌 트리거 게이지가<lf>일정량 회복된다.
+<string>생명력이 크리스탈로 변한<lf>파란색 마법 돌조각.<lf>4개의 조각을 모으면<lf>최대 생명력을 늘려준다.
+<string>블루 오브의 조각이<lf>4개 모여 만들어진 돌.<lf>최대 생명력을 늘려준다.
+<string>마력이 크리스탈처럼 변한<lf>보라색 마법 돌 조각.<lf>4개가 모으면<lf>데빌 트리거 게이지를 늘려준다.
+<string>퍼플 오브의 조각이<lf>4개 모여 만들어진 돌.<lf>데빌 트리거 게이지의<lf>최대치를 늘려 준다.
+<string>비법을 통해 탄생한<lf>황금색 마법 돌.<lf>죽은 자를 부활 시키는 힘을<lf>가지고 있다.
+<string>기생 생물<lf>니그호그의 유체.<lf>클리포트에 기생하면서<lf>약한 조직을 붕괴 시킨다.
+<string>
+<string>Crystallized demon blood
+<string>Vitality recovery orb
+<string>Devil Trigger replenishment orb
+<string>Gather four pieces to make an orb
+<string>Vitality increasing orb
+<string>Gather four pieces to make an orb
+<string>Devil Trigger increasing orb
+<string>Revival orb
+<string>Larva that kills the demon tree
+<string>
+<string>크리스탈로 변한 악마의 피
+<string>생명력 회복 오브
+<string>데빌 트리거 회복 오브
+<string>4조각을 모으면 오브로 변화
+<string>생명력 최대치 증가 오브
+<string>4조각을 모으면 오브로 변화
+<string>데빌 트리거 증가 오브
+<string>부활 오브
+<string>클리포트를 죽이는 유충
+<string>
+<string>레드 오브
+<string>레드 오브 클러스터
+<string>그린 오브
+<string>그린 오브 클러스터
+<string>화이트 오브
+<string>화이트 오브 클러스터

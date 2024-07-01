@@ -1,0 +1,282 @@
+<string>
+<string>Tilt <ICON ACT_LS>
+<string>Move <ICON ACT_RS>
+<string>Press and hold <ICON ACT_RB>
+<string>While on the ground, press <ICON ACT_BtnD>
+<string>During a jump, press <ICON ACT_BtnD> near a wall
+<string>In mid-air, press <ICON ACT_BtnD> near an enemy
+<string>During a jump, press <ICON ACT_BtnD>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> horizontally +<ICON ACT_BtnD>
+<string>While on the ground, just before an attack<lf>hits, press <ICON ACT_RB>+<ICON ACT_LS> horizontally +<ICON ACT_BtnD>
+<string>After executing a Table Hopper, press<lf><ICON ACT_RB>+<ICON ACT_LS>+<ICON ACT_BtnD>
+<string>After executing a Table Hopper 2, press<lf><ICON ACT_RB>+<ICON ACT_LS>+<ICON ACT_BtnD>
+<string>Press <ICON ACT_CenL>
+<string>Press <ICON ACT_CenL> while running
+<string>Hold <ICON ACT_LS> in any direction
+<string>Automatic
+<string>
+<string>Press and hold <ICON ACT_LStP>+<ICON ACT_CenL>
+<string>Press <ICON ACT_LStP>+<ICON ACT_CenL> quickly
+<string>Press <ICON ACT_LStP>+<ICON ACT_RB>+<ICON ACT_CenL> quickly<lf>(Only one use per mission)
+<string>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU>, then <ICON ACT_BtnU><lf>and tap <ICON ACT_BtnU> repeatedly
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU>, then <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>,<lf>then <ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU>, then <ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>While on the ground, hold and release <ICON ACT_BtnU><lf>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, hold and release <ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>When the Ex-Gauge is powered:<lf>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>
+<string>Press <ICON ACT_BtnL>
+<string>Press and hold <ICON ACT_BtnL>, then release when your<lf>left arm glows
+<string>Press <ICON ACT_BtnL> with stock in the Bullet Gauge
+<string>Press and hold <ICON ACT_BtnL>, then release after<lf>your left arm begins to glow
+<string>Press and hold <ICON ACT_BtnL>, then release after<lf>the glow in your left arm grows stronger
+<string>Press and hold <ICON ACT_BtnL>, then release after<lf>the glow of your left arm has reached its peak
+<string>Press and hold <ICON ACT_BtnL>, then release when your<lf>left arm glows
+<string>Press and hold <ICON ACT_BtnL>, then release when your<lf>left arm glows
+<string>
+<string>Press and hold <ICON ACT_LT> several times until<lf>the EX-Gauge is filled
+<string>Normal attack upgrade for Exceed
+<string>Normal attack upgrade for Exceed
+<string>Press <ICON ACT_LT> after an attack
+<string>Press <ICON ACT_LT> immediately after an attack
+<string>Press <ICON ACT_LT> before or after an attack
+<string>
+<string>Press <ICON ACT_Dir> when DT Gauge is at level 3<lf>or higher
+<string>Automatic
+<string>Press <ICON ACT_RT> near an enemy
+<string>When Devil Trigger is active:<lf>Press <ICON ACT_RT> near an enemy
+<string>Press <ICON ACT_RT> immediately after attacking
+<string>When Devil Trigger is active:<lf>Press <ICON ACT_RT> immediately after attacking
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR>
+<string>Normal attack upgrade for Wire Snatch
+<string>Normal attack upgrade for Wire Snatch
+<string>
+<string>When Devil Trigger is active:<lf>Press <ICON ACT_RB>+<ICON ACT_RT>
+<string>
+<string>Lock on to a Grim Grip with <ICON ACT_RB>, then<lf>press <ICON ACT_RT>
+<string>After executing a Buster, continue to<lf>hold <ICON ACT_RT>
+<string>When Devil Trigger is active:<lf>After executing a Buster, continue to<lf>hold <ICON ACT_RT> with another enemy nearby
+<string>
+<string>After jumping, hold <ICON ACT_BtnD> in mid-air
+<string>When Devil Trigger is active:<lf>Press <ICON ACT_BtnL>
+<string>When Devil Trigger is active:<lf>Press <ICON ACT_BtnU>
+<string>When Devil Trigger is active:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>+<ICON ACT_BtnR>
+<string>When Devil Trigger is active:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>+<ICON ACT_BtnR>
+<string>Press <ICON ACT_RB>+<ICON ACT_RT>
+<string>
+<string>With a Devil Breaker equipped:<lf>Press and hold <ICON ACT_BtnR> then release when your<lf>right arm sparks with more power
+<string>With a Devil Breaker equipped:<lf>Press <ICON ACT_LB>
+<string>Press <ICON ACT_BtnR> while getting attacked,<lf>or get attacked while holding <ICON ACT_BtnR><lf>with a Devil Breaker equipped
+<string>Press <ICON ACT_BtnR> without a Devil Breaker equipped
+<string>Automatic
+<string>Automatic
+<string>Automatic
+<string>
+<string>
+<string>With Buster Arm equipped:<lf>After executing a Dual Buster,<lf>continue to hold <ICON ACT_RT>
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR>
+<string>
+<string>
+<string>Lock on to a Grim Grip with <ICON ACT_RB>, then<lf>press <ICON ACT_BtnR>
+<string>With Rawhide equipped:<lf>Press <ICON ACT_RB>+<ICON ACT_BtnR>
+<string>
+<string>
+<string>With Overture equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Overture equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Gerbera equipped:<lf>Press <ICON ACT_BtnR> or <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>With Gerbera equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>
+<string>With Punch Line equipped: Hold <ICON ACT_BtnR><lf>during aerial recovery to ride it. Perform<lf>various maneuvers with <ICON ACT_BtnL><ICON ACT_BtnU><ICON ACT_BtnR><ICON ACT_BtnD>.
+<string>With Punch Line equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Tomboy equipped:<lf>Press <ICON ACT_BtnR><lf>Press <ICON ACT_BtnR> again to deactivate it
+<string>With Tomboy equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>When Tomboy is active:<lf>Press <ICON ACT_BtnL> to prep the shot<lf>While on the ground, press <ICON ACT_BtnL> to fire
+<string>When Tomboy is active:<lf>Press <ICON ACT_BtnL> in mid-air to prep the shot,<lf>Then press <ICON ACT_BtnL> again in mid-air to fire
+<string>When Tomboy is active: Press <ICON ACT_BtnL> to prep<lf>the shot, press and hold <ICON ACT_BtnL>, then release<lf>after your arm crackles with max power
+<string>When Tomboy is active:<lf>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>When Tomboy is active:<lf>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>When Tomboy is active:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_BtnU>
+<string>When Tomboy is active:<lf>In mid-air, press <ICON ACT_RB>+<ICON ACT_BtnU>
+<string>With Helter Skelter equipped:<lf>Tap <ICON ACT_BtnR> repeatedly
+<string>With Helter Skelter equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Ragtime equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Ragtime equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Rawhide equipped:<lf>While on the ground, press <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR>
+<string>With Rawhide equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Buster Arm equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Buster Arm equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>Automatic
+<string>Automatic
+<string>
+<string>With Gerbera GP01 equipped:<lf>While on the ground, press <ICON ACT_BtnR>,<lf>or in mid-air, press <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>With Gerbera GP01 equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Pasta Breaker equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Pasta Breaker equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Sweet Surrender equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Sweet Surrender equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>With Mega Buster equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Mega Buster equipped:<lf>Press and hold <ICON ACT_BtnR>, then release after<lf>your right arm sparks with more power
+<string>
+<string>Tilt <ICON ACT_LS> in any direction to move<lf>the character in that direction.<lf>Tilt further to move faster.
+<string>Move the camera around to view your<lf>surroundings. Press <ICON ACT_RStP> to return the<lf>camera to the default position behind you.
+<string>Lock on to enemies and certain objects.<lf>Hold <ICON ACT_RB> to strafe, and press <ICON ACT_LStP><lf>to change lock-on target.
+<string>Jump into the air. The height of your jump<lf>changes depending on how long you hold <ICON ACT_BtnD>.
+<string>Jump again by pushing off of a wall.
+<string>In mid-air, use an enemy as a stepping<lf>stone to execute a double jump.
+<string>Concentrate demonic power into the area<lf>under your feet to perform a double jump<lf>that can reach higher locations.
+<string>Evade an enemy attack by rolling to the<lf>side. Press <ICON ACT_BtnL> while evading to shoot.
+<string>Evade an enemy attack with a slight<lf>movement of the body, allowing for<lf>easier counter-attacks.
+<string>Evade in any direction after a<lf>Table Hopper.
+<string>An even more effective evasive maneuver<lf>that expands upon what you have learned<lf>before.
+<string>Taunt enemies in various ways on the<lf>ground or in mid-air. The taunt executed<lf>depends on your current Stylish Rank.
+<string>Perform a savage dropkick from a running<lf>position.
+<string>Keep holding <ICON ACT_LS> in the same direction<lf>to build up speed into a full sprint.
+<string>Increase the range from which you can<lf>gather orbs.
+<string>
+<string>A special taunt given only to those who<lf>paid a heavy price. Increases Stylish<lf>Rank more than a normal taunt.
+<string>A special taunt given only to those who<lf>braved the Bloody Palace and came away<lf>victorious. Pulls a hood over your face.
+<string>A special taunt given only to those who<lf>beat the game during the ending credits.<lf>Recover vitality while chewing gum.
+<string>
+<string>A quick and dirty 4-hit sword combo.
+<string>A series of heavy blows deal massive<lf>damage to anything unlucky enough to get<lf>in the way.
+<string>A flashy sword combo versatile enough to<lf>lay out unsuspecting foes over a wider<lf>area.
+<string>A brutal series of strikes culminating<lf>in a powerful final blow.
+<string>A series of mid-air sword slashes.
+<string>Spin the Red Queen's blade in mid-air,<lf>cutting up enemies. This attack will<lf>allow you to gain a little altitude.
+<string>Cleave into an enemy, launching them skyward.<lf>Continue holding <ICON ACT_BtnU> to follow the enemy<lf>into the air.
+<string>High Roller powered-up by the Red Queen's<lf>Exceed system. Revolutions increase<lf>depending on the Ex-Gauge level.
+<string>A magnificent rushing attack that sweeps<lf>up surrounding enemies.
+<string>An improved Streak attack with greatly<lf>extended range.
+<string>Streak powered-up by the Red Queen's<lf>Exceed system. Revolutions increase<lf>depending on the Ex-Gauge level.
+<string>A violent descending slash that slams<lf>through an enemy and splits them right<lf>down the middle.
+<string>The propellant ignited on the blade of<lf>the Red Queen by the Exceed system powers<lf>the weapon downwards, eviscerating the enemy.<lf>The attack area increases depending on the<lf>Ex-Gauge level.
+<string>Streak towards your foe in mid-air and<lf>strike with a heavy blow.
+<string>A version of Calibur powered by the Red<lf>Queen's Exceed system, increasing its<lf>distance depending on the Ex-Gauge level.
+<string>After avoiding an attack by backstepping,<lf>rush forward and counter with a fast,<lf>powerful blow.
+<string>The Exceed system powers up the Shuffle<lf>skill, increasing the number of hits<lf>depending on the Ex-Gauge level.
+<string>A swift strike that exploits an enemy's<lf>weak point. Brushes off enemy attacks<lf>when activated.
+<string>A swift strike that exploits an enemy's<lf>weak point. Brushes off enemy attacks<lf>when activated.
+<string>A swift mid-air strike that exploits<lf>an enemy's weak point. Brushes<lf>off enemy attacks when activated.
+<string>Payline powered-up by the Red Queen's<lf>Exceed system. Attack range changes<lf>depending on the Ex-Gauge level.
+<string>
+<string>Fire two bullets at once.
+<string>Load up special bullets with more power<lf>than regular bullets. Hold <ICON ACT_BtnL> to fill up<lf>the Bullet Gauge, letting you fire three<lf>shots once the gauge is full.
+<string>Fire special bullets more powerful than<lf>your regular ammo. Multiple hits will<lf>stun the enemy.
+<string>Channel the power from your body into<lf>the Blue Rose to fire powerful shots that<lf>send foes flying. Hold <ICON ACT_BtnL> while attacking<lf>to build up the charge.
+<string>A powered-up version of Charge Shot,<lf>packing more pain into each bullet.
+<string>The strongest version of Charge Shot.<lf>These demonic bullets run wild inside an<lf>enemy's body, detonating after a certain<lf>amount of time.
+<string>Pack even more power into your Color Up<lf>shots. Hold <ICON ACT_BtnL> to fill up the Bullet Gauge,<lf>letting you fire three shots once the<lf>gauge is full. 
+<string>The final upgrade to Color Up, cramming<lf>explosive power into your special bullets.<lf>Hold <ICON ACT_BtnL> to fill up the Bullet Gauge,<lf>letting you fire three shots once the<lf>gauge is full.
+<string>
+<string>Unleash powerful attacks by igniting<lf>propellant in the blade. Consume one stock<lf>of Ex-Gauge to use level 1 Exceed moves.
+<string>An upgrade to the Exceed system. Consume<lf>two stocks of the Ex-Gauge to use level 2<lf>Exceed moves.
+<string>The final upgrade to the Exceed system.<lf>Consume three stocks of the Ex-Gauge to<lf>use level 3 Exceed moves.
+<string>Activate Exceed after an attack to fill<lf>one stock of your Exceed gauge.<lf><lf>If your timing is off, you only gain a<lf>small amount of charge.
+<string>Right after an attack, activate Exceed<lf>with perfect timing to max out your<lf>Exceed gauge.
+<string>Activate Exceed with poor timing after<lf>an attack and fill a small portion of<lf>the Exceed gauge.
+<string>
+<string>Unleash the demon within and transform<lf>into a fearsome devil form.<lf>Depletes the DT Gauge. Raises attack,<lf>defense, and speed while activated,<lf>and restores vitality over time.
+<string>While Devil Trigger is active, the DT<lf>Gauge will deplete at a reduced rate.
+<string>After grabbing an enemy with the Devil<lf>Bringer, bust them up with this damaging<lf>throw. Throws vary according to the enemy.
+<string>After grabbing an enemy with your<lf>demonic arm, perform a throw made even<lf>more devastating through the power of<lf>Devil Trigger.
+<string>Follow up with a ferocious attack from<lf>your demonic arm. The type of attack<lf>changes depending on the position and<lf>condition of the enemy.
+<string>Unleash a brutal combo from your twin<lf>demonic arms. The type of attack changes<lf>depending on the position and condition of<lf>the enemy.
+<string>Extend a wire from the right arm to reel<lf>in foes from a distance. Large or heavy<lf>enemies cannot be pulled in.
+<string>An upgrade to Wire Snatch with a<lf>longer reach.
+<string>The final Wire Snatch upgrade, extending<lf>the wire reach even farther.
+<string>
+<string>Unfurl twin demonic arms to grasp two<lf>enemies at once in devil form. Large or<lf>heavy enemies cannot be pulled in.
+<string>
+<string>Grab a Grim Grip to move long distances<lf>in a heartbeat. Using Snatch against<lf>enemies that cannot be pulled will<lf>execute a Hell Bound instead.
+<string>Position a captured enemy in front of you<lf>as a demon shield to ward off attacks.<lf>Enemies who cannot be snatched up cannot<lf>be used as shields.
+<string>Position two captured enemies in front of<lf>you for a larger shield to ward off more<lf>attacks. Enemies who cannot be snatched<lf>up cannot be used as shields.
+<string>
+<string>Twist your body into the air and unfurl<lf>your demonic arms for a second jump.<lf>Hold <ICON ACT_BtnD> to extend your air time.
+<string>Use demonic power to summon blades<lf>and send them flying at your foe. More<lf>blades appear during Charge Shot for<lf>additional attacks.
+<string>Follow up sword slashes with attacks from<lf>your demonic arms.
+<string>Demonic arms and the Red Queen combine<lf>to blow through enemies like a powerful<lf>wind. Holding then releasing <ICON ACT_BtnU>+<ICON ACT_BtnR> will<lf>increase its attack strength.
+<string>An incredibly powerful series of strikes<lf>with the Red Queen and your demonic arms.
+<string>Send forth the Devil Bringer and grasp a<lf>distant enemy within its clutches. Large<lf>or heavy enemies cannot be pulled in.
+<string>
+<string>Unleash the power of your equipped<lf>Devil Breaker to perform a devastating<lf>attack. The sheer power of this technique<lf>will destroy any arm you currently have<lf>equipped, as will taking any damage while<lf>holding down <ICON ACT_BtnR>.
+<string>Rip off your current Devil Breaker to<lf>create an explosion from the energy held<lf>within. Use this to quickly escape from<lf>damage.
+<string>Attacks won't stagger you while using a<lf>Devil Breaker, or while preparing to use<lf>Break Age. You still take some damage,<lf>and your current arm will be destroyed.
+<string>
+<string>Up the size of your magazine, increasing<lf>the total number of Devil Breakers you can<lf>take on a mission to four.
+<string>Up the size of your magazine again,<lf>increasing the total number of Devil<lf>Breakers you can take on a mission<lf>to five.
+<string>Up the size of your magazine again,<lf>increasing the total number of Devil<lf>Breakers you can take on a mission<lf>to six.
+<string>
+<string>
+<string>Position a captured demon in your Devil<lf>Breaker and demonic arm for an even<lf>bigger shield. Enemies who cannot be<lf>snatched up cannot be used as shields.
+<string>Extend a wire from your right arm to reel<lf>in foes from a distance. Large or heavy<lf>enemies cannot be pulled in.
+<string>An upgrade to the Wire Hook with a<lf>longer reach.
+<string>The final Wire Hook upgrade, extending<lf>the wire length even further.
+<string>Grab a Grim Grip to move long distances<lf>in a heartbeat. Using Wire Hook against<lf>enemies that cannot be pulled will<lf>execute a Wire Bound instead.
+<string>A punishing grab that damages enemies<lf>with the Devil Breaker blade as it reels<lf>them in. Strong enough to pull in certain<lf>heavier enemies.
+<string>An upgrade to the Power Snatch with a<lf>longer reach.
+<string>The final Power Snatch upgrade, extending<lf>the blade length even further.
+<string>Fire an electric burst from the palm of<lf>the Overture. The direction changes<lf>depending on the state of the enemy.
+<string>Overload the energy inside Overture to<lf>turn it into a bomb. Shove it into an<lf>enemy and it explodes after a set amount<lf>of time. Multiple units can be placed at<lf>once. Follow up with a bullet or other<lf>attacks to detonate it manually.
+<string>Release a shockwave from the palm of the<lf>Gerbera. Press <ICON ACT_BtnR> to attack in front of<lf>you. This attack can negate or reflect<lf>enemy projectiles. Press <ICON ACT_BtnR>+<ICON ACT_LS> to change<lf>the shockwave into thrust to move around.
+<string>While on the ground, Stamen Ray unleashes<lf>a powerful blast. In mid-air, Petal Ray will<lf>gather shockwaves in your fingertips for a<lf>more penetrating laser. Ricochets off of<lf>walls and floors around you.
+<string>
+<string>Launches the Punch Line like a rocket.<lf>Press <ICON ACT_BtnR> after launch to call it back,<lf>then hold <ICON ACT_BtnR> when it returns to ride it.<lf>Press <ICON ACT_BtnL> <ICON ACT_BtnU> or <ICON ACT_BtnR> while riding it to do<lf>tricks, drop off with <ICON ACT_BtnD>, and blow it up<lf>with <ICON ACT_LB>. You can ride it longer at<lf>higher Stylish Ranks.
+<string>Unleash the Punch Line's propulsion<lf>potential in a haymaker punch.<lf>Even larger enemies will be knocked<lf>back by a clean hit.
+<string>Push your weapons past their limits!<lf>The Red Queen and Blue Rose are powered<lf>up while this ability is activated.<lf>Press <ICON ACT_BtnR> while activated to turn it off.
+<string>Power-ups for the Red Queen and Blue Rose<lf>last longer the more you charge up.<lf>Tomboy won't be destroyed from enemy<lf>attacks while this is activated, but the<lf>arm is lost after a set period.
+<string>Attach Tomboy to the Blue Rose for a<lf>performance boost. Lets you fire powerful,<lf>penetrating shots.
+<string>Attach Tomboy to the Blue Rose for<lf>a performance boost. Lets you fire<lf>powerful, penetrating shots.
+<string>Attach Tomboy to the Blue Rose for a<lf>performance boost. Lets you fire a shot<lf>with even more penetrating power. Able<lf>to shoot through multiple foes at once.
+<string>Attach Tomboy to the Red Queen for a<lf>performance boost. Beast out a ferocious<lf>7-hit sword combo. Each blow changes up<lf>your combo, culminating in a powerful<lf>coup de grâce if you land each one.
+<string>Attach Tomboy to the Red Queen for a<lf>performance boost. Attack again after<lf>the spinning slash to unleash a single<lf>blow like a wild animal pouncing on prey.
+<string>Become a whirling demon as the souped-<lf>up Red Queen goes on a rampage, taking<lf>you along for the ride. Shred any foe in<lf>your path, with successful blows opening<lf>foes to follow-up attacks.
+<string>Become a whirling demon as the souped-<lf>up Red Queen goes on a rampage, taking<lf>you along for the ride. Shred any foe met<lf>in mid-air, and add extra blows with <ICON ACT_BtnU>.
+<string>Spin your arm to unleash a penetrating<lf>attack that punches through guards and<lf>barriers alike.<lf>Tap <ICON ACT_BtnR> repeatedly to<lf>increase the number of hits.
+<string>Spin your arm to unleash a penetrating<lf>attack. Break through all barriers and<lf>guards with a single blow, but the arm<lf>will break after a single use.
+<string>Fire a sphere that slows anything within<lf>its area of influence, including enemies,<lf>their projectiles, and even you. Larger<lf>foes will break the sphere.
+<string>Overcomes Ragtime's limitations to slow<lf>down everything around you. Enemies,<lf>projectiles, fast-moving thorns, nothing<lf>escapes its influence.
+<string>Rawhide changes into countless blades<lf>that you can whip around you with <ICON ACT_BtnR>.<lf>Press <ICON ACT_BtnR> with the right timing to<lf>increase the number of attacks and<lf>strike more enemies.
+<string>Stretches Rawhide to its limits, pulling<lf>in enemies it connects with and slamming<lf>them into the ground.<lf>Larger enemies experience a multi-step<lf>stab attack instead.
+<string>Reminiscent of the Devil Bringer's Buster<lf>attack. Packed with power, but being<lf>attacked while executing the move will<lf>cause the Buster Arm to shatter.
+<string>Reminiscent of the Devil Bringer's Buster<lf>attack. Attacks won't cause you to flinch<lf>while this is activated, making Busters<lf>easier to execute. Breaks after one use.
+<string>Up the size of your magazine once more,<lf>increasing the total number of Devil<lf>Breakers you can take on a mission<lf>to seven.
+<string>Up the size of your magazine for a<lf>final time, increasing the total number<lf>of Devil Breakers you can take on a<lf>mission to eight.
+<string>
+<string>A Devil Breaker that just barely compensates<lf>for Nero's missing right arm. Pretty standard<lf>fare, but easy to use.
+<string>Named after a flower, this Devil Breaker<lf>can help Nero maneuver by producing<lf>a shockwave from the fingers. It can<lf>also fire a large beam for attacks.<lf>The shockwave can also deflect or<lf>negate some projectile attacks.
+<string>Nico gave this Devil Breaker a few of her<lf>own special touches. She made sure<lf>Nero could use it to fly, ride on, and<lf>punch enemies with, just as requested.<lf>It will attack enemies automatically<lf>while in flight.
+<string>A Devil Breaker of uncontrollable power.<lf>You can't lock-on while this is in use,<lf>but Blue Rose and Red Queen will<lf>become more powerful.
+<string>Named for its ability to send enemies<lf>spiraling into confusion, this Devil Breaker<lf>has a short range, but easily breaks through<lf>enemy guards to make them stumble. Use<lf>consecutive attacks for higher damage.
+<string>A Devil Breaker that can control<lf>space-time. Using a special force field,<lf>it bends time for any target it touches<lf>to slow it down. Using Break Age will<lf>slow down time for the entire world.
+<string>This Devil Breaker has a long attack<lf>range. Let loose a special metal whip to<lf>catch faraway enemies. It can even pull<lf>in some of the heavier enemies. Best used<lf>when in combat against multiple foes.
+<string>This Devil Breaker lets Nero use the<lf>Buster technique he previously performed<lf>with his demonic right arm. Thanks to<lf>Nico's skill, the Buster is just as strong<lf>as the original, but the power causes the<lf>arm to break easily.
+<string>A Devil Breaker modeled after Mega Man's<lf>main weapon. Its distinctive form is<lf>specially designed for long-range combat.<lf>While equipped, your jump and side roll<lf>will have special variations.
+<string>A special Devil Breaker made in honor<lf>of the legendary artisan Shoji Kawamori.<lf>Control the shockwave produced by the<lf>fingers to move freely along the ground<lf>or in the sky.
+<string>A Devil Breaker packed with the joy of<lf>eating pasta. Made for a hapless Nero<lf>out of leftover Punch Line materials.<lf>The fork on the tip rotates briskly,<lf>but is practically useless in combat.
+<string>A Devil Breaker made to help Kyrie relax<lf>after a long day. Nero's clumsy technique<lf>is likely to hurt more than help, so this is<lf>made out of more supple materials.<lf>Its vibration setting is good for stiff<lf>shoulders or lower back pain.
+<string>A Devil Breaker shaped like a ripe bunch<lf>of bananas. Created by Nico on a whim,<lf>this arm was made from leftover materials<lf>from Helter Skelter. The bunch unfurls and<lf>spins around, offering little to no help<lf>in actual combat.
+<string>
+<string>Release a shockwave from the palm of the<lf>Gerbera GP01. While on the ground, press <ICON ACT_BtnR><lf>to take to the sky, or in mid-air, press <ICON ACT_BtnR><lf>to return to earth. In mid-air, you can<lf>move around with <ICON ACT_BtnR>+<ICON ACT_LS>.<lf>Fly freely through the skies with this<lf>special weapon.
+<string>While on the ground, Stamen Ray unleashes<lf>a powerful blast. In mid-air, Petal Ray will<lf>gather shockwaves in your fingertips for a<lf>more penetrating laser. Ricochets off of<lf>walls and floors around you.
+<string>Launch the Pasta Breaker as a rocket-<lf>propelled projectile to attack enemies.<lf>While in flight, the remaining Devil<lf>Breakers in your magazine change order,<lf>moving the next in line to the end of<lf>the magazine.
+<string>Shove the Pasta Breaker into an enemy's<lf>body, where it will explode after a set<lf>amount of time. The explosion itself is<lf>weak, but you can equip your next Devil<lf>Breaker and move around until detonation.
+<string>Flip the switch on Sweet Surrender to<lf>make it vibrate. The massage function<lf>gradually refills your vitality. You can<lf>move around while it's on, but taking a<lf>hit will break it. Press <ICON ACT_BtnR> to turn the<lf>arm off again.
+<string>Jerk Sweet Surrender off your arm for<lf>an explosion of healing energy. Restores<lf>vitality in an instant, but blowing the<lf>entire load at once destroys the arm.
+<string>Rapid-fire energy bullets from the<lf>Mega Buster. You can even run and<lf>jump while shooting.<lf>A charge builds up in your right arm<lf>over time, and pressing <ICON ACT_BtnR> when it glows<lf>will fire a more powerful Mega Shot.
+<string>Charge the Mega Buster to release a<lf>massive ball of destructive energy.<lf>This powerful, penetrating blast can<lf>engulf multiple foes, but breaks the<lf>arm in the process.

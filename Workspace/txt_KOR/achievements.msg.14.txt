@@ -1,0 +1,108 @@
+<string>
+<string>악마도 울 수 있다
+<string>로큰롤!
+<string>쇼타임!
+<string>자랑스러운 아버지
+<string>악마와 함께 춤을
+<string>천국의 계단
+<string>지옥행 고속열차
+<string>근사하네
+<string>스타일 좋네
+<string>스타일 죽이는데!
+<string>탄로난 비밀
+<string>퀵 앤 데드
+<string>허, 이럴 수가
+<string>사냥꾼에게 지옥이란
+<string>가히 전설이군
+<string>거위의 꿈
+<string>불가능은 없다
+<string>전설이 되다
+<string>악마 사육사
+<string>몸짱
+<string>악마 그 자체
+<string>숨 고르고 다시
+<string>새 일거리
+<string>잭팟!
+<string>도박꾼 단테
+<string>퇴마사
+<string>타락천사
+<string>사람들을 지켜라
+<string>레드 오브를 찾아라
+<string>다시 함께
+<string>뒷길
+<string>내 다리 내놔
+<string>그 길의 끝에서
+<string>고통은 나누면 반
+<string>어둠 속 빛 한 줄기
+<string>매의 눈으로 보아라
+<string>아직 안 끝났어
+<string>내 눈에 띄지 마
+<string>클리포트
+<string>저마다의 길 위에서
+<string>서둘러
+<string>현란한 몸놀림
+<string>강아지 훈련
+<string>부활
+<string>몰두하는 남자
+<string>지긋지긋한 싸움
+<string>누구 무기 필요한 사람?
+<string>주먹 쥐고 일어서
+<string>반려동물 보호법
+<string>정복자의 길
+<string>슬램 덩크
+<string>너무 쉽죠
+<string>고이 잠드소서
+<string>
+<string>모든 트로피를 획득하십시오.
+<string>HUMAN 모드를 클리어하십시오.
+<string>DEVIL HUNTER 모드를 클리어하십시오.
+<string>SON OF SPARDA 모드를 클리어하십시오.
+<string>DANTE MUST DIE 모드를 클리어하십시오.
+<string>HEAVEN OR HELL 모드를 클리어하십시오.
+<string>HELL AND HELL 모드를 클리어하십시오.
+<string>스타일리시 랭크 S 콤보에 성공하십시오.
+<string>스타일리시 랭크 SS 콤보에 성공하십시오.
+<string>스타일리시 랭크 SSS 콤보에 성공하십시오.
+<string>모든 비밀 미션을 클리어하십시오.
+<string>1초 안에 적 5명을 해치우십시오.
+<string>예상치 못한 결과를 불러올 수 있는 압도적인 힘을 휘두르십시오.
+<string>모든 미션을 S 랭크로 클리어하십시오.
+<string>HEAVEN OR HELL 모드를 제외한 모든 난이도에서 모든 미션을 S 랭크로 클리어하십시오.
+<string>점프나 다른 수단을 통해 총 60분 동안 공중에 머무르십시오.
+<string>네로의 스킬을 모두 획득하십시오.
+<string>단테의 스킬을 모두 획득하십시오.
+<string>V의 스킬을 모두 획득하십시오.
+<string>생명력 게이지를 최대로 업그레이드하십시오.
+<string>데빌 트리거 게이지를 최대로 업그레이드하십시오.
+<string>미션 중 데빌 브레이커를 100개 이상 수집하십시오.
+<string>레드 그레이브 사건 이후에 모리슨에게서 새 일거리를 수락하십시오.
+<string>레드 오브를 총 1,000,000개 이상 수집하십시오.
+<string>닥터 파우스트로 레드 오브를 총 500,000개 이상 사용하십시오.
+<string>적을 총 1,000명 해치우십시오.
+<string>프롤로그 미션을 클리어하십시오.
+<string>미션 01에서 모든 적을 해치우십시오.
+<string>미션 02 진행 중에 예상치 못한 곳에서 레드 오브를 수집하십시오.
+<string>미션 03을 클리어하십시오.
+<string>미션 04에서 특정 벽을 파괴하십시오.
+<string>미션 05에서 위에서 떨어지는 위협을 막아내십시오.
+<string>미션 06을 클리어하십시오.
+<string>네로와 V 모두로 미션 07을 클리어하십시오.
+<string>미션 08을 클리어하십시오.
+<string>미션 09에서 특정 벽을 파괴하십시오.
+<string>미션 10을 클리어하십시오.
+<string>미션 11에서 보스와 근접전을 벌일 때 적절한 타이밍으로 검을 튕겨내십시오.
+<string>미션 12를 클리어하십시오.
+<string>네로, V, 단테로 미션 13을 클리어하십시오.
+<string>미션 14를 클리어하십시오.
+<string>미션 15를 신중히 진행하면서 불필요한 데미지를 피하십시오.
+<string>미션 16의 보스전에서 짐승의 힘에 의존하지 않고 맹공격을 계속하십시오.
+<string>미션 17을 클리어하십시오.
+<string>미션 18을 클리어하십시오.
+<string>계속하기 기능을 쓰지 않고 미션 19와 20을 클리어하십시오(HEAVEN OR HELL 난이도 제외).
+<string>단테의 무기를 쓰지 않고 미션 11을 클리어하십시오(HEAVEN OR HELL 난이도 제외).
+<string>초기 장착된 데빌 브레이커를 쓰지 않고 미션 07을 클리어하십시오(HEAVEN OR HELL 난이도 제외).
+<string>V의 악마들이 하나도 잠든 상태가 되지 않고 미션 05를 클리어하십시오(HEAVEN OR HELL 난이도 제외).
+<string>모든 캐릭터로 블러디 팰리스를 클리어하십시오.
+<string>네로로 블러디 팰리스를 클리어하십시오.
+<string>단테로 블러디 팰리스를 클리어하십시오.
+<string>V로 블러디 팰리스를 클리어하십시오.

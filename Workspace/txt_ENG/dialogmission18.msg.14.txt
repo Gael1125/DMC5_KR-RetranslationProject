@@ -1,0 +1,42 @@
+<string>
+<string>Never would've guessed you'd come back...<lf>Dammit, V, was this your plan all along?
+<string>Something crushed up there...
+<string>Great...can't wait for the rematch.
+<string>One more round... It's like I'm back on Mallet Island.
+<string>Running away? ...Nah, didn't think so.
+<string>They know they don't stand a chance...<lf>Are they trying to atone for something?
+<string>Now... All that's left is the main dish.
+<string>Oops, that doesn't sound good.<lf>...Eh, I'm sure it's fine.
+<string>
+<string>Come here and face me like a man, boy!
+<string>Why the rush? I'm enjoyin' this!
+<string>
+<string>Ya can't kill what's already dead...<lf>And a demon is a demon, even in death!
+<string>Not a bad line... I feel the same way.
+<string>
+<string>Bring it on! This is a grave—either yours, or ours!
+<string>Not the worst place to die...<lf>But death's not on my agenda just yet!
+<string>
+<string>This is the climax! If you've got any regrets, voice 'em<lf>now before we shut your stupid mouth for good!
+<string>I'm too young for regrets... Now, let's end this!
+<string>
+<string>All right, let's get started! This'll be quite the party!
+<string>Damn... You're as tough as you look!
+<string>Time out! Gimme some time out!
+<string>Hey! Watch the birdie, Dante!
+<string>Even that couldn't stop ya!? You ain't so bad!
+<string>You'll take care of the rest...
+<string>It's not over yet...
+<string>
+<string>Welcome to your Nightmare!
+<string>Sweet dreams!
+<string>It all ends now with this!
+<string>Good, good! Now you're talking!
+<string>I'm not done yet!
+<string>Sorry pal, we don't know when to stop. Get used to it.
+<string>I'm going to kill you! I'll kill you, Dante!
+<string>Ahh, reminiscence of a time long past!
+<string>I won't...let you go to Vergil!
+<string>What a mess!
+<string>Just close your eyes and go to sleep...forever!
+<string>Not bad, but I'm just getting started!

@@ -1,0 +1,33 @@
+<string>
+<string>Dammit, running a little low...
+<string>Not gonna last much longer without a refill.
+<string>
+<string>Hey, honey. Need assistance?
+<string>What the hell's your problem?<lf>You TRYIN' to kill me!?
+<string>If you wanna bitch, blame it on Lady.<lf>SHE's behind the wheel.
+<string>
+<string>Okay, enough with the suspense. What do you need?
+<string>
+<string>
+<string>I'm cooomiiing...
+<string>Gotta pay attention, sweetheart.
+<string>Sparda's kin... But you're nothing more<lf>than an empty shell with no power.
+<string>You are as weak as your flesh, human.
+<string>Hey, we're tougher than we look.
+<string>But...there's only one way to find out.
+<string>I will enjoy this!
+<string>
+<string>
+<string>How do you have so much power left!?
+<string>You can come out now!
+<string>I guess I owe you one.
+<string>You should turn around.<lf>Your body's not gonna last much longer.
+<string>That, I cannot do. I must go!
+<string>Dammit, V.
+<string>Don't push yourself. You need some rest!
+<string>I must go...to where Urizen is.
+<string>Why!? Why the hell do you have to—
+<string>I beg you!
+<string>This is my last request.
+<string>Fine.
+<string>Dante's definitely gonna beat us there...

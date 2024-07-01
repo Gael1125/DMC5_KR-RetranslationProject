@@ -1,0 +1,30 @@
+<string>
+<string>The high road's out... So I'll take the low road.
+<string>Go down to go up. Sure, that's straightforward.
+<string>Good! I get to go wild.
+<string>This presence... That devil's down even deeper.
+<string>Down we go...
+<string>Looks like there's a cave down there.
+<string>Hey, V! I'm smellin' something down there. How 'bout you?
+<string>I told you not to overdo it!<lf>We can't do this by ourselves!
+<string>We'll meet back up at some point.<lf>But for now, one foot in front of the other.
+<string>Ugh, it stinks... Must be in the right spot.
+<string>I can smell that piece of shit from up here.<lf>He needs to be flushed.
+<string>I will never make the same mistake again.<lf>I will...regain myself...
+<string>Wait for me, Kyrie... I'll be home soon.
+<string>Rebellion... Power of revenge...<lf>Dad really was pretty grim...
+<string>Now I can go even lower...
+<string>Going down, huh? Alrighty then.
+<string>Quickly, below.
+<string>Dante! You need a hand?
+<string>No way! I'm not THAT old!
+<string>Hey, V! How's that bird of yours working out?
+<string>Better than you, numbnuts!
+<string>Take a break, kid!
+<string>While you're talkin', I'm still fighting!
+<string>V, fall back if you can't take it. I've got it from here.
+<string>I'm afraid not. I've got my own mission to complete.
+<string>Nero! Don't strain yourself!
+<string>Can it. I'm just getting started!
+<string>Hey, hey, Dante! You need a hand?
+<string>You kidding!? This is where things get fun!<lf>You just watch!

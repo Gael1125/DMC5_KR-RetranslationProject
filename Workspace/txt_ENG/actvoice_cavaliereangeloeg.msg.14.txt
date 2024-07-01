@@ -1,0 +1,14 @@
+<string>
+<string>Must...retreat...
+<string>Sparda...I couldn't...for Spardaaa...
+<string>
+<string>You won't get through!
+<string>Time...!
+<string>Stop!
+<string>
+<string>It's over...
+<string>Impossible!?
+<string>Come!
+<string>You! What are you doing!?
+<string>My spear shall pierce though thy flesh!
+<string>May my lightening burneth thy flesh!

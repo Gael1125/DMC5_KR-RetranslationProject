@@ -1,0 +1,202 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>ENEMY STEP
+<string>PROVOCATION
+<string>GET MORE ORBS
+<string>
+<string>GREEN GAINER
+<string>WHITE GAINER
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>
+<string>
+<string>
+<string>CHECKMATE
+<string>GAMBIT
+<string>TOUCH AND MOVE
+<string>THE BOOK
+<string>NIGHTMARE
+<string>TRIGGER HEART
+<string>PROMOTION
+<string>SWITCHBACK
+<string>HANGING
+<string>
+<string>FORCED MOVE
+<string>QUICKPLAY
+<string>ROYAL FORK
+<string>DEVIL TRIGGER
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>BULLET
+<string>BLOCKADE
+<string>BLOCKADE 2
+<string>BLOCKADE 3
+<string>FLANK ATTACK
+<string>DOUBLE CHECK
+<string>DOUBLE CHECK 2
+<string>DOUBLE CHECK 3
+<string>ROUND ROBIN
+<string>ROUND ROBIN 2
+<string>ROUND ROBIN 3
+<string>GRIFFON VIGOR
+<string>GRIFFON VIGOR 2
+<string>GRIFFON VIM
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>SHADOW COMBO A
+<string>SHADOW COMBO B
+<string>SHADOW COMBO C
+<string>BREAKTHROUGH
+<string>
+<string>HEDGEHOG
+<string>HEDGEHOG 2
+<string>ARBITER
+<string>SKEWER
+<string>BAYONET
+<string>GUILLOTINE
+<string>
+<string>SHADOW VIGOR
+<string>SHADOW VIGOR 2
+<string>SHADOW VIM
+<string>AMBUSH
+<string>
+<string>
+<string>
+<string>
+<string>NIGHTMARE COMBO A
+<string>NIGHTMARE COMBO B
+<string>DOMINATION
+<string>STRONGPOINT
+<string>CRITICAL POSITION
+<string>DESPERADO
+<string>ILLEGAL MOVE
+<string>KISS OF DEATH
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>이동
+<string>카메라
+<string>록온
+<string>점프
+<string>킥 점프
+<string>에너미 스텝
+<string>프로버케이션
+<string>겟 모어 오브
+<string>
+<string>그린 게이너
+<string>화이트 게이너
+<string>EX 프로버케이션
+<string>스페셜 프로버케이션
+<string>
+<string>
+<string>체크메이트
+<string>갬빗
+<string>터치 앤 무브
+<string>더 북
+<string>나이트메어
+<string>트리거 하트
+<string>프로모션
+<string>스위치백
+<string>행잉
+<string>
+<string>포스드 무브
+<string>퀵플레이
+<string>로얄 포크
+<string>데빌 트리거
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>불릿
+<string>블로케이드
+<string>블로케이드 2
+<string>블로케이드 3
+<string>플랭크 어택
+<string>더블 체크
+<string>더블 체크 2
+<string>더블 체크 3
+<string>라운드 로빈
+<string>라운드 로빈 2
+<string>라운드 로빈 3
+<string>그리폰 비거 1
+<string>그리폰 비거 2
+<string>그리폰 빔
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>쉐도우 콤보 A
+<string>쉐도우 콤보 B
+<string>쉐도우 콤보 C
+<string>브레이크쓰루
+<string>
+<string>헤지호그
+<string>헤지호그 2
+<string>아비터
+<string>스큐어
+<string>베이어넷
+<string>기요틴
+<string>
+<string>쉐도우 비거
+<string>쉐도우 비거 2
+<string>쉐도우 빔
+<string>앰부쉬
+<string>
+<string>
+<string>
+<string>
+<string>나이트메어 콤보 A
+<string>나이트메어 콤보 B
+<string>도미네이션
+<string>스트롱포인트
+<string>크리티컬 포지션
+<string>데스페라도
+<string>일리걸 무브
+<string>키스 오브 데스
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

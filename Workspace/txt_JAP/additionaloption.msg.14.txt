@@ -1,0 +1,90 @@
+<string>TURBO
+<string>RAY TRACING
+<string>3D AUDIO
+<string>TRIGGER EFFECT
+<string>HIGH FRAMERATE MODE
+<string>GRAPHICS
+<string>TIPS/STORY AUTO TRANSITION
+<string>ターボモードを有効にします。<lf><lf>ターボモードでは自動的に<lf>レイトレーシングが無効になり、<lf>他のユーザーとマッチングしません。
+<string>ターボモードを有効にします。<lf><lf>ターボモードでは他のユーザーと<lf>マッチメイキングしません。
+<string>ターボモードを有効にします。<lf><lf>ターボモードでは自動的に<lf>レイトレーシングが無効になり、<lf>他のユーザーとマッチメイキングしません。
+<string>ターボモードを無効にします。
+<string>レイトレーシングを有効にします。<lf>光の反射などを計算する表現技法を用いた<lf>映像品質を最優先にしたモードです。<lf><lf><RUBY><RB>LEGENDARY DARK KNIGHT<RT>レジェンダリーダークナイト</RUBY>や<lf>ターボモードを有効にして遊ぶ場合は、<lf>この機能が自動的に無効になります。
+<string>レイトレーシングを有効にします。<lf>光の反射などを計算する表現技法を用いつつ、<lf>パフォーマンスを優先したモードです。<lf><lf><RUBY><RB>LEGENDARY DARK KNIGHT<RT>レジェンダリーダークナイト</RUBY>や<lf>ターボモードを有効にして遊ぶ場合は、<lf>この機能が自動的に無効になります。
+<string>レイトレーシングを無効にします。
+<string>3Dオーディオを有効にします。<lf>ヘッドホンの使用を推奨します。
+<string>3Dオーディオを無効にします。
+<string>他のユーザーとのマッチングなど<lf>各種すべての通信データの送受信を行います。<lf><lf>VERGIL GAMEでは通信を行いません。
+<string>他のユーザーとマッチングはしませんが<lf>非同期の通信データのみ送受信を行います。<lf><lf>VERGIL GAMEでは通信を行いません。
+<string>他のユーザーとのマッチングなど<lf>各種すべての通信データの送受信を行います。<lf><lf>VERGIL GAMEでは通信を行いません。<lf><RUBY><RB>LEGENDARY DARK KNIGHT<RT>レジェンダリーダークナイト</RUBY>やターボモード<lf>では他ユーザーとのマッチングは行いません。<lf>マッチングする可能性があるミッションでは<lf>TIPS/STORYが一定時間で自動遷移します。
+<string>他のユーザーとのマッチメイキングなど<lf>各種すべての通信データの送受信を行います。<lf><lf>VERGIL GAMEでは通信を行いません。<lf><RUBY><RB>LEGENDARY DARK KNIGHT<RT>レジェンダリーダークナイト</RUBY>やターボモード<lf>では他ユーザーとのマッチメイキングは行いません。<lf>マッチメイキングする可能性があるミッションでは<lf>TIPS/STORYが一定時間で自動遷移します。
+<string>他のユーザーとマッチングはしませんが<lf>非同期の通信データのみ送受信を行います。<lf><lf>VERGIL GAMEでは通信を行いません。
+<string>他のユーザーとマッチメイキングしませんが<lf>非同期の通信データのみ送受信を行います。<lf><lf>VERGIL GAMEでは通信を行いません。
+<string>マッチメイキングデータなどの<lf>送受信を行いません。
+<string>トリガーエフェクトを有効にします。
+<string>トリガーエフェクトを無効にします。
+<string>ハイフレームレートモードを有効にします。<lf><lf>レイトレーシングが有効な場合は<lf>この機能は自動的に無効になります。
+<string>ハイフレームレートモードを有効にします。
+<string>ハイフレームレートモードを無効にします。
+<string>TIPS/STORYの自動遷移を有効にします。<lf><lf>TIPS/STORYが<trc id="0">入力無しで<lf>速やかに次の画面に進む機能です。
+<string>TIPS/STORYの自動遷移を無効にします。<lf><lf>TIPS/STORYが<trc id="0">入力により<lf>次の画面に進みます。
+<string>プライバシーポリシーの詳細内容について<lf>確認します。<lf>ネットワークへの接続が必要です。<lf><lf>プライバシーポリシー<lf>https://www.capcom.co.jp/privacy/game/
+<string>CONTROL VERGIL
+<string>コントローラーに割り当てられた各操作の変更を行います
+<string>レイトレーシングの設定を変更します
+<string>ターボモードの設定を変更します
+<string>3Dオーディオの設定を変更します
+<string>トリガーエフェクトの設定を変更します
+<string>ハイフレームレートモードの設定を変更します
+<string>グラフィックに関する設定を変更します
+<string>TIPS/STORYの自動遷移設定を変更します
+<string>MELEE ATTACK
+<string>MIRAGE BLADE
+<string>JUMP
+<string>TRICK ACTION
+<string>DOPPELGANGER (SUMMON）
+<string>TARGET CHANGE
+<string>LOCK-ON
+<string>CHANGE SWORD→
+<string>CHANGE SWORD←
+<string>DOPPELGANGER (BANISH)
+<string>DOPPELGANGER (NORMAL)
+<string>DOPPELGANGER (HASTE)
+<string>DOPPELGANGER (SLOW)
+<string>RESET CAMERA
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>近距離武器で攻撃します。
+<string>幻影剣で攻撃します。
+<string>空中へ跳びあがります。
+<string>トリックアクションを行います。
+<string>ドッペルゲンガーを発動します。<lf>（デビルトリガーゲージが３つ以上必要）
+<string>ロックオン対象を切り替えます。
+<string>対象をロックオンします。
+<string>近距離武器を右回りに切り替えます。
+<string>近距離武器を左回りに切り替えます。
+<string>ドッペルゲンガーを解除します。
+<string>分身の追従を標準にします。
+<string>分身の追従を早くします。
+<string>分身の追従を遅くします。
+<string>カメラの向きを定位置に戻します。
+<string>敵を挑発します。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>キャラクターを移動させます。
+<string>カメラを操作します。<lf>※一部操作できない場所があります。
+<string>カメラを操作します。<lf>※一部操作できない場所があります。
+<string>カメラを操作します。<lf>※一部操作できない場所があります。
+<string>カメラを操作します。<lf>※一部操作できない場所があります。
+<string>
+<string>ON(解像度優先)
+<string>ON(フレームレート優先)
+<string>OFF

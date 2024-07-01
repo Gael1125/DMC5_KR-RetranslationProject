@@ -1,0 +1,110 @@
+<string>
+<string>CUSTOMIZE
+<string>
+<string>SKILLS
+<string>DEVIL BREAKERS
+<string>EQUIPMENT
+<string>ITEMS
+<string>
+<string>ABILITIES
+<string>
+<string>RED QUEEN
+<string>BLUE ROSE
+<string>EXCEED
+<string>DEVIL BREAKER
+<string>DEVIL BRINGER
+<string>
+<string>REBELLION
+<string>DEVIL SWORD SPARDA
+<string>DEVIL SWORD DANTE
+<string>BALROG
+<string>CAVALIERE
+<string>KING CERBERUS
+<string>EBONY & IVORY
+<string>COYOTE-A
+<string>KALINA ANN
+<string>DOUBLE KALINA ANN
+<string>DR. FAUST
+<string>TRICKSTER
+<string>SWORDMASTER
+<string>GUNSLINGER
+<string>ROYALGUARD
+<string>SIN DEVIL TRIGGER
+<string>CAVALIERE R
+<string>
+<string>GRIFFON
+<string>SHADOW
+<string>NIGHTMARE
+<string>CANE
+<string>
+<string>MAGAZINE
+<string>SWORDS
+<string>GUNS
+<string>
+<string>Select a skill to purchase.
+<string>Select a Devil Breaker to purchase.
+<string>Select equipment you want to equip.
+<string>Select an item to purchase.
+<string>Select weapons to equip.
+<string>
+<string>Learn new abilities.
+<string>Learn skills for {0}.
+<string>
+<string>Learn new Exceed skills.
+<string>Learn new Devil Bringer skills.
+<string>Learn new Devil Breaker skills.
+<string>
+<string>Learn new skills for each style.
+<string>Learn new Sin Devil Trigger skills.
+<string>
+<string>Upgrade skills for {0}.
+<string>
+<string>Buy
+<string>Try
+<string>Learn
+<string>Expand
+<string>Upgrade
+<string>Equip
+<string>Edit
+<string>Swap
+<string>???
+<string>Remove
+<string>
+<string>Equipped
+<string>
+<string>ASK NICO
+<string><ICON SORT> Use Nico's recommended set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>Nico's Special Magazine Set
+<string>
+<string>COMMAND
+<string>Magazine Size +1
+<string>Devil Trigger +1
+<string>Vitality +1
+<string><item id="39"> +1
+<string>BUY IN BULK
+<string>All Devil Breakers<lf><lf>Purchase one of each Devil Breaker<lf>currently available in the menu.<lf>There is no discount for buying in bulk.
+<string>STOCK
+<string>SOLD OUT
+<string>
+<string>How many?
+<string>Buy
+<string>Cancel

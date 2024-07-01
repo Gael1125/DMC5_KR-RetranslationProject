@@ -1,0 +1,30 @@
+<string>
+<string>음, 죽지는 않았어.
+<string>근데 몸매 하나는 죽여주네.
+<string>아니 뭐, 그냥 그렇다고.
+<string>넌 가서 네 할 일이나 해. 여긴 내가 맡을 테니.
+<string>그래.
+<string>뭐지?
+<string>와... 놔두기엔 너무 큰 놈이야.<lf>처리하는 게 좋겠어.
+<string>잘 보고 있어.
+<string>
+<string>그 밑에서 뭐해?
+<string>설마 너 혼자 다 한 거라고 생각하냐?
+<string>그거 알아? 넌 분명 치킨 맛일 거야...
+<string>뭐, 이 배은망덕한 애송이...
+<string>이놈은 너한테 맡길게.
+<string>난 계속 가야 하니까.
+<string>
+<string>그럼...
+<string>둘이서 잘 놀아 보자, 바퀴벌레야.
+<string>
+<string>이것도 뿌리였네. 대체 뭐지?
+<string>야, 레이디가 깨어났어.
+<string>뭐 물어보려면 지금이야.
+<string>알았어.
+<string>아, 잠깐잠깐. 저거 쓸 만한데. 주워 와봐.
+<string>아니 그거 말고, 저거.
+<string>— 이거?
+<string>— 아니, 그 옆에!
+<string>니코, 좀! 이거?<lf>
+<string>어.

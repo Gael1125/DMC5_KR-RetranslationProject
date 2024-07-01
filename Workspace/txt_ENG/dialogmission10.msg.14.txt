@@ -1,0 +1,20 @@
+<string>
+<string>Did that guy really do this?<lf>Well, there's no accounting for taste.
+<string>That thing's gonna close if I don't hurry.
+<string>Ah, man... Well, that option's off the table.<lf>Still, there's gotta be another route.
+<string>Yup! Bet I'll find something here...<lf>Call it hunter's intuition.
+<string>And back here again... Shit, this place is confusing.
+<string>Yeah, gettin' close...I can feel him.
+<string>Oh yeah, I'm feeling it. It's him...
+<string>I heard you got a new Devil Arm.<lf>Whip it out, lemme see it!
+<string>Are you done playing around? Just get it over with.
+<string>This isn't like you, Dante.<lf>Isn't Style-switching your specialty?
+<string>There's no time to hesitate.<lf>Why won't you unleash the beast?
+<string>Did you forget how to fight? Be serious, Dante.
+<string>He's mine!
+<string>We'll see about that! C'mon, Dante!
+<string>Aw man, they're already here! These ladies work fast.
+<string>C'mon, Dante, you're gonna miss the fun!
+<string>
+<string>You shall regret your existence!
+<string>Petty...

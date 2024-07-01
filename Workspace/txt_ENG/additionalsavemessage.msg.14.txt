@@ -1,0 +1,11 @@
+<string>
+<string>VERGIL SAVED DATA
+<string>ENEMY PHOTO DATA
+<string>
+<string>Failed to load saved data. 
+<string>Checking saved data. Do not turn off the console. 
+<string>Checking saved data. Do not turn off the console. 
+<string>Saving. Do not turn off the console. 
+<string>Saving. Do not turn off the console. 
+<string>Delete corrupted saved data and create new saved data? 
+<string>No saved data exists.<lf>You must create new save data to save your game.<lf><lf>(You cannot start the game without save data.)

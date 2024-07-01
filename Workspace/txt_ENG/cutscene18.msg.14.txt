@@ -1,0 +1,94 @@
+<string>
+<string>Ya got some pretty big cojones for comin' back.
+<string>Just don't know when to give up, do ya!?
+<string>Get out of my way, Nero!
+<string>Defeating you like this has no meaning.
+<string>C'mon, Vergil. Let's do this!
+<string>Heal your wounds, Dante. Get strong.
+<string>After that, we'll settle the matter.
+<string>Thank you, Nero.
+<string>Dammit!
+<string>If that's your brother, what happened to V?
+<string>He returned...
+<string>to himself.
+<string>Go home, Nero. This doesn't concern you.
+<string>Like hell! I lost my right arm because of him!
+<string>This is not your fight. I need to stop him,<lf>and that's all that matters.
+<string>
+<string>I'm not gonna let you have all the fun, Dante!
+<string>You don't get it!
+<string>Lemme guess, I'm dead weight? You can shove that—
+<string>That's not it, Nero.
+<string>What is it, then!?
+<string>He's your father!
+<string>What!?
+<string>I had the feeling, the first time<lf>I saw you, but I just wasn't sure.
+<string>And then I saw how the Yamato reacted...and I was certain.
+<string>He's your father.
+<string>Now, he needs an ass-kicking...
+<string>But I can't have you go kill your old man.
+<string>My father...?
+<string>
+<string>That day, if our positions were switched...
+<string>Would our fates be different?
+<string>Would I have your life, and you mine?
+<string>Let's settle this...
+<string>Dante.
+<string>
+<string>What? What's happening now!?
+<string>Oh God, I thought it was over!
+<string>This isn't good. We're gonna get dragged into this!
+<string>Dante! What happened?
+<string>My dumbass brother's back, and I'm gonna rip him a new one.
+<string>Vergil's—? How!?
+<string>Dante!
+<string>Made it for Lady and she paid for it,<lf>so consider it a rental.
+<string>Hey, you can't just—!
+<string>Okay, okay, we'll take care of that later. Right now,<lf>you three get the hell out of here.
+<string>I'm gonna go take care of old douchebag.
+<string>Got a feeling this one's gonna be a doozy.
+<string>
+<string>Hey, guys where ya been? I thought you went<lf>back into Vergil.
+<string>You're gonna wish you did.
+<string>
+<string>Oh, the wise guy Dante.
+<string>We were spawned from Vergil's abominable<lf>thoughts. But you knew that already...
+<string>Come to think of it, I did know somethin' was off.
+<string>Just like with my old brother.
+<string>
+<string>Well, we're merely the discarded thoughts from when<lf>he was Nelo Angelo. No longer bound in his consciousness.
+<string>
+<string>We're here now to kill you of our own free will.
+<string>Liberating!
+<string>And kill you we shall, Dante. Us, not Vergil.
+<string>
+<string>Should'a known better. You got a good heart,<lf>but you're about as sharp as marble.
+<string>
+<string>Perhaps...
+<string>But if you had even a little bit of trouble<lf>defeating us, imagine what Vergil can do to you.
+<string>Go see for yourself.
+<string>Us? This is our final flight...
+<string>And the end of Vergil's nightmares.
+<string>Godspeed, Dante... You'll need it.
+<string>Rest in peace, little chicken.
+<string>It's been a bash.
+<string>
+<string>Nero, jump in!
+<string>Where's Dante!?
+<string>He's got this. We gotta go, now!
+<string>So this guy Vergil, you know him?
+<string>Vaguely, yes.
+<string>Dante said that guy's my father...<lf>What the hell's going on, Trish!?
+<string>
+<string>His logic is sound... I had a hunch myself.
+<string>This doesn't make any SENSE!
+<string>I know you hate Vergil, but you<lf>can't kill your own father.
+<string>
+<string>It's true. You'd never recover from that.
+<string>You saved us, you should be proud.<lf>Now you can put all this behind you—
+<string>
+<string>Nico! Stop the car!
+<string>No chance! After all this, are you insane!?
+<string>Fine, I'll go by myself!
+<string>
+<string>Nero!

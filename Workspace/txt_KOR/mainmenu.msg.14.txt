@@ -1,0 +1,21 @@
+<string>MAIN MENU
+<string>CONTINUE
+<string>MISSION SELECT
+<string>SECRET MISSIONS
+<string>TOTAL RESULTS
+<string>BLOODY PALACE
+<string>THE VOID
+<string>GALLERY
+<string>OPTIONS
+<string>STORE
+<string>EXIT
+<string>마지막 세이브 포인트부터 계속합니다.
+<string>진행할 미션을 선택합니다.
+<string>발견한 비밀 미션을 다시 진행합니다.
+<string>전체 미션 결과를 확인합니다.
+<string>블러디 팰리스 챌린지 모드에서 적을 해치웁니다.
+<string>컨트롤과 움직임을 연습합니다.
+<string>니코의 보고서를 둘러보고 주크박스를 듣습니다.
+<string>게임 설정을 변경합니다.
+<string>온라인 상점에서 아이템을 구입합니다.
+<string>게임을 그만둡니다.

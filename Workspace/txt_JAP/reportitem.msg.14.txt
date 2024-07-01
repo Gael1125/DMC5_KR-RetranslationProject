@@ -1,0 +1,53 @@
+<string>
+<string><item id="31"><lf><lf>悪魔の血が結晶化した赤い魔石。<lf>デビルハンターにとっては<lf>討ちとった悪魔から得られる報酬<lf>であり、実力の指標でもある。<lf>新たな武器やスキルの獲得、<lf>体力を失った際の復活の対価として<lf>活用できる。
+<string><item id="32"><lf><lf>悪魔の体液が結晶化した<lf>緑色の魔石。<lf>触れたものに生命の波動を送り、<lf>傷や出血を癒す力がある。<lf>取得したその場で体力を<lf>一定量回復する。
+<string><item id="33"><lf><lf>悪魔の魂が結晶化した白い魔石。<lf>闘争心を増幅し蓄える作用がある。<lf>取得したその場で<lf>デビルトリガーゲージを一定量<lf>回復させる。
+<string><item id="35"><lf><lf>生命力が結晶化した青い魔石の<lf>欠片。<lf>体力の最大値を上昇させる力が<lf>あるが単体では効果を得られない。<lf>４つ集まると１つの結晶となる。
+<string><item id="36"><lf><lf>強い生命力の結晶が凝縮した<lf>青い魔石。<lf>４つのブルーオーブの欠片が<lf>集まって一つの魔石となったもの。<lf>魂の深奥に秘められた力を解放し、<lf>体力の最大値を上昇させる。
+<string><item id="37"><lf><lf>魔力が結晶化した紫色の魔石の<lf>欠片。<lf>デビルトリガーゲージの最大値を<lf>上昇させる力があるが<lf>単体では効果を得られない。<lf>４つ集まると１つの結晶となる。
+<string><item id="38"><lf><lf>強い魔力の結晶が凝縮した<lf>紫色の魔石。<lf>４つのパープルオーブの欠片が<lf>集まって一つの魔石となったもの。<lf>魂の真の叫びに呼応し、<lf>デビルトリガーゲージの最大値を<lf>上昇させる。
+<string><item id="39"><lf><lf>秘法によって生み出された<lf>金色の魔石。<lf>命の<RUBY><RB>理<RT>ことわり</RUBY>をも凌駕した<lf>超越的な力をもたらす。<lf>力尽き倒れた者に触れさせると、<lf>その場で体力をすべて回復した<lf>状態で蘇生する。
+<string>
+<string>
+<string><item id="41"><lf><lf>一部の弱体化した魔界樹に寄生し<lf>内部組織を冒す寄生生物<lf>ニーズヘッグの幼体。<lf>その侵食スピードは驚異的で、<lf>根の<RUBY><RB>洞<RT>うろ</RUBY>状の柔弱部位から<lf>瞬時に組織を崩壊させる。
+<string>
+<string><item id="36"><lf><lf>生命力の結晶であるブルーオーブの欠片が<lf>４つ集まる事で完全な結晶となったもの。<lf>体力の上限を増大させる力を持つ。
+<string><item id="38"><lf><lf>魔力の結晶であるパープルオーブの欠片が<lf>４つ集まる事で完全な結晶となったもの。<lf>魔力の上限を増大させる力を持つ。
+<string><item id="39"><lf><lf>秘法によって生み出された金色の魔石。<lf>力尽きた時、失われた魂を呼び戻し<lf>蘇生させる力を持つ。
+<string>
+<string>悪魔の血が結晶化した赤い魔石。<lf>新たな武器やスキルの獲得、<lf>復活の対価として使用できる。
+<string>悪魔の体液が結晶化した緑の魔石。<lf>取得時に体力を一定量回復させる。
+<string>悪魔の魂が結晶化した白い魔石。<lf>取得時にデビルトリガーゲージを<lf>一定量回復させる。
+<string>命が結晶化した青い魔石の欠片。<lf>４つ集めると一つの結晶となり、<lf>体力の最大値を上昇させる。
+<string>ブルーオーブの欠片が４つ集まり<lf>完全な生命力の結晶となったもの。<lf>体力の最大値を上昇させる。
+<string>魔力が結晶化した紫の魔石の欠片。<lf>４つ集めると一つの結晶となり、<lf>デビルトリガーゲージの最大値を<lf>上昇させる。
+<string>パープルオーブの欠片が４つ集まり<lf>完全な魔力の結晶となったもの。<lf>デビルトリガーゲージの最大値を<lf>上昇させる。
+<string>秘法により生まれた金色の魔石。<lf>力尽きた時、体力をすべて回復し<lf>蘇生させる力を持つ。
+<string>寄生生物ニーズヘッグの幼体。<lf>一部の弱体化した魔界樹に侵食し<lf>組織を崩壊させる。
+<string>
+<string>Crystallized demon blood
+<string>Vitality recovery orb
+<string>Devil Trigger replenishment orb
+<string>Gather four pieces to make an orb
+<string>Vitality increasing orb
+<string>Gather four pieces to make an orb
+<string>Devil Trigger increasing orb
+<string>Revival orb
+<string>Larva that kills the demon tree
+<string>
+<string>悪魔の血の結晶
+<string>体力回復オーブ
+<string>魔力充填オーブ
+<string>４つ集めてオーブ化
+<string>体力上限拡張オーブ
+<string>４つ集めてオーブ化
+<string>魔力上限拡張オーブ
+<string>蘇生オーブ
+<string>魔根を枯らす幼虫
+<string>
+<string>レッドオーブ
+<string>レッドオーブ　大
+<string>グリーンオーブ
+<string>グリーンオーブ　大
+<string>ホワイトオーブ
+<string>ホワイトオーブ　大

@@ -1,0 +1,14 @@
+<string>
+<string>退却…せねば…
+<string>スパーダ…スパーダを…！
+<string>
+<string>やらせん…！
+<string>時よ…！
+<string>止まれ…！
+<string>フッフッフッフッ…！
+<string>貰った…！
+<string>馬鹿な…！？
+<string>来い…
+<string>何をしている…？
+<string>我が槍…耐えられるか…？
+<string>我が雷に身を焼かれよ…

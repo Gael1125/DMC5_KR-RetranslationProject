@@ -1,0 +1,6 @@
+<string>
+<string>The one who usurped the demon throne was vanquished.<lf>Peace returned to the world above.
+<string>Indeed, this was the perfect conclusion all had hoped for.
+<string>Come, raise your fist in victory and celebration.<lf>A new legend has been born.
+<string>
+<string>And they all lived happily ever after.

@@ -1,0 +1,67 @@
+<string>
+<string>魔剣士降臨
+<string>一分の隙も無い
+<string>閻魔刀の錆となれ
+<string>これが…”力”だ
+<string>蘇る伝説
+<string>征服せし者
+<string>魔界の覇者
+<string>
+<string>バージルを使用して全ミッションをクリアする
+<string>バージルのスキルを全て所持する
+<string>ミッション19で、バージルの閻魔刀以外の武器を使わずにクリアする（HEAVEN OR HELLを除く）
+<string>ブラッディパレスを「バージル」でクリアする
+<string>LEGENDARY DARK KNIGHTモードををクリアする
+<string>ブラッディパレスをクリアする
+<string>ブラッディパレスを全てのキャラでクリアする
+<string>
+<string>全てのトロフィーを獲得する
+<string>NERO/DANTE/V GAMEのHUMANモードをクリアする
+<string>NERO/DANTE/V GAMEのDEVIL HUNTERモードをクリアする
+<string>NERO/DANTE/V GAMEのSON OF SPARDAモードをクリアする
+<string>NERO/DANTE/V GAMEのDANTE MUST DIEモードをクリアする
+<string>NERO/DANTE/V GAMEのHEAVEN OR HELLモードをクリアする
+<string>NERO/DANTE/V GAMEのHELL AND HELLモードをクリアする
+<string>NERO/DANTE/V GAMEのプロローグミッションをクリアする
+<string>NERO/DANTE/V GAMEのミッション01で全ての敵を倒す
+<string>NERO/DANTE/V GAMEのミッション02で意外な場所にあるレッドオーブを取得する
+<string>NERO/DANTE/V GAMEのミッション03をクリアする
+<string>NERO/DANTE/V GAMEのミッション04で壁の一部を破壊する
+<string>NERO/DANTE/V GAMEのミッション05で頭上からの脅威に徹底的な反撃を行う
+<string>NERO/DANTE/V GAMEのミッション06をクリアする
+<string>NERO/DANTE/V GAMEのミッション07をネロ、Ｖの双方でクリアする
+<string>NERO/DANTE/V GAMEのミッション08をクリアする
+<string>NERO/DANTE/V GAMEのミッション09で壁の一部を破壊する
+<string>NERO/DANTE/V GAMEのミッション10をクリアする
+<string>NERO/DANTE/V GAMEのミッション11のボス戦でタイミングを見計らい近接戦を制する
+<string>NERO/DANTE/V GAMEのミッション12をクリアする
+<string>NERO/DANTE/V GAMEのミッション13をネロ、Ｖ、ダンテの３者でクリアする
+<string>NERO/DANTE/V GAMEのミッション14をクリアする
+<string>NERO/DANTE/V GAMEのミッション15で余分なダメージを受けぬよう慎重に立ち回る
+<string>NERO/DANTE/V GAMEのミッション16のボス戦で力押しに頼らない攻め方を示す
+<string>NERO/DANTE/V GAMEのミッション17をクリアする
+<string>NERO/DANTE/V GAMEのミッション18をクリアする
+<string>NERO/DANTE/V GAMEのミッション19とミッション20をコンティニューせずにクリアする（HEAVEN OR HELLを除く）
+<string>スタイリッシュランクでＳを出す
+<string>スタイリッシュランクでＳＳを出す
+<string>スタイリッシュランクでＳＳＳを出す
+<string>NERO/DANTE/V GAMEのシークレットミッションを全てクリアする
+<string>1秒以内に敵を5体倒す
+<string>NERO/DANTE/V GAMEで圧倒的な力を振るい意外な結末を引き出す
+<string>NERO/DANTE/V GAMEの全ミッションをＳランク獲得してクリアする
+<string>NERO/DANTE/V GAMEの全ミッションを全ての難易度でＳランク獲得してクリアする（HEAVEN OR HELL、LEGENDARY DARK KNIGHTを除く）
+<string>NERO/DANTE/V GAMEの全ミッションを全ての難易度でＳランク獲得してクリアする（HEAVEN OR HELL、LEGENDARY DARK KNIGHTを除く）
+<string>ジャンプ等での滞空時間の累計量が60分を超える
+<string>ネロのスキルを全て所持する
+<string>ダンテのスキルを全て所持する
+<string>Ｖのスキルを全て所持する
+<string>体力ゲージをMAXの長さにする
+<string>デビルトリガーゲージをMAXの長さにする
+<string>NERO DANTE V GAMEで主要事件の解決後にモリソンの新たな依頼を受ける
+<string>レッドオーブの通算獲得量が100万を超える
+<string>敵を通算1000体倒す
+<string>デビルブレイカーをステージ上で取得した累計数が100を超える
+<string>Dr.ファウストで消費したレッドオーブの累計量が50万を超える
+<string>ミッション11で、ダンテの武器セットを全て外した状態でクリアする（HEAVEN OR HELLを除く）
+<string>ミッション07で、ネロのデビルブレイカーをひとつも装備せずに始めてクリアする（途中入手は可）<lf>（HEAVEN OR HELLを除く）
+<string>ミッション05で、Ｖの操る従者を一度もステイルメイト状態にせずにクリアする（HEAVEN OR HELLを除く）

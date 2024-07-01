@@ -1,0 +1,19 @@
+<string>
+<string>JUKEBOX
+<string>
+<string>BATTLE TRACKS
+<string>STYLISH VOICE
+<string>TITLE VOICE
+<string>
+<string>게임 배틀 음악을 변경합니다(보스 배틀 및 특정 컷신에는 영향 없음).
+<string>스타일리시 랭크 알림 음성을 변경합니다.
+<string>타이틀 화면 음성을 변경합니다.
+<string>
+<string>이 노래가 선택한 캐릭터의<lf>배틀 트랙이 됩니다.
+<string>스타일리시 랭크 알림 음성이 선택한 캐릭터의<lf>다양한 음성 중에서 랜덤으로 재생됩니다.
+<string>타이틀 화면의 알림 음성이 다양한<lf>캐릭터 음성 중 랜덤으로 재생됩니다.
+<string>
+<string>STYLISH RANK
+<string>TITLE SCREEN
+<string>스타일리시 랭크 음성 설정
+<string>타이틀 화면 음성 설정

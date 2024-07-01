@@ -1,0 +1,13 @@
+<string>
+<string>You ready to do this, Vergil? It all ends here!
+<string>
+<string>This is true power... The power I've sought for so long!
+<string>You've been chasing this for an eternity...<lf>and it's nothing but useless shit.
+<string>
+<string>What's wrong, Vergil? This is no time to hold back.
+<string>It would seem so...
+<string>
+<string>How... How are you so powerful!? You never lost anything!
+<string>It's not about loss... Strength is a choice.<lf>Fighting like hell to protect what's important.
+<string>You threw away everything you ever had...<lf>No wonder you have no true power!
+<string>Danteeeeee!

@@ -1,0 +1,12 @@
+<string>
+<string>I...must not be defeated!
+<string>Damn you...!
+<string>This...cannot be...
+<string>You've gotta be kidding me...
+<string>
+<string>Eat dirt, you scum!
+<string>Heed my power!
+<string>Is that all, you puny human?
+<string>Death upon you!
+<string>The fruit is mine!
+<string>Stop buzzing around!

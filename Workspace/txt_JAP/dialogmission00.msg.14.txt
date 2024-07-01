@@ -1,0 +1,26 @@
+<string>あそこにダンテが…
+<string>片腕だと思って甘く見るなよ
+<string>悪魔も助け合いするのか…？<lf>世も末だな
+<string>待ってろ、ダンテ…
+<string>さっさと行きな、このノロマ！
+<string>羽がねェってのは不便だな！　ハッハー！
+<string>ブッタ斬るんだよ！<lf>その背中のオモチャでなァ！
+<string>豆鉄砲でも、ないよりゃマシだ！<lf>撃ちまくれッ！　ハッヒーッ！
+<string>どこ見てんだ？　<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>が呼んでるぜ？
+<string>こっちだ、ネロ！
+<string>撃ちすぎにゃ注意しな！<lf>タマなし野郎になりたくなきゃな！
+<string>ダンテが苦戦する相手…<lf>想像もつかねェな
+<string><RUBY><RB>V</RB><RT>ブイ</RT></RUBY>…信用していいのかね
+<string>さて、ダンテに追い着かなきゃな
+<string>こっちだ、ネロ…急ぐぞ！
+<string>モタモタするな
+<string>ダンテが苦戦しているようだ
+<string>俺は先に行く…！
+<string>ハッハー！　坊やにゃまだお守りが必要かァ！？
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>こんな…はずでは…

@@ -1,0 +1,140 @@
+<string>
+<string><ICON ACT_LS>
+<string><ICON ACT_RS>
+<string><ICON ACT_RB>を押し続ける
+<string>地上で<ICON ACT_BtnD>
+<string>ジャンプ後に壁の近くで<ICON ACT_BtnD>
+<string>空中で敵に近づき<ICON ACT_BtnD>
+<string><ICON ACT_CenL>
+<string>常時発動
+<string>
+<string>常時発動
+<string>常時発動
+<string><ICON ACT_LStP>＋<ICON ACT_CenL>を押し続ける
+<string><ICON ACT_LStP>＋<ICON ACT_CenL>を短く押す
+<string>
+<string><ICON ACT_BtnR>
+<string><ICON ACT_RB>＋<ICON ACT_BtnR>
+<string>チェックメイトで杖を抜く瞬間に<lf><ICON ACT_BtnR>
+<string><ICON ACT_RT>長押し
+<string><ICON ACT_LB>
+<string>常時発動
+<string>ナイトメア発動中に<ICON ACT_LB>＋<ICON ACT_BtnR>または<lf>ジャンプでナイトメアに触れ<ICON ACT_BtnD>で乗り込む<lf><ICON ACT_LB>＋<ICON ACT_BtnD>またはジャンプ中<ICON ACT_BtnD>で離れる
+<string>地上で<ICON ACT_RB>＋<ICON ACT_LS>後方向＋<ICON ACT_BtnD>
+<string>ジャンプ後<ICON ACT_BtnD><lf>そのまま<ICON ACT_BtnD>を押し続けて派生
+<string>
+<string>地上で<ICON ACT_RB>＋<ICON ACT_LS>横方向＋<ICON ACT_BtnD>
+<string><ICON ACT_LS>を<lf>同じ方向に入力し続ける
+<string><ICON ACT_RB>＋<ICON ACT_LS>一回転＋<ICON ACT_BtnR>
+<string>ＤＴゲージを１つ消費して<lf><ICON ACT_LT>＋<ICON ACT_BtnL>または<ICON ACT_BtnU>
+<string>
+<string><ICON ACT_BtnL>
+<string><ICON ACT_BtnL>を押し続けてから離す
+<string><ICON ACT_BtnL>をさらに押し続けてから離す
+<string><ICON ACT_BtnL>を限界まで押し続けてから離す
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnL>
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnL>
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnL><lf>を押し続けて離す
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnL><lf>を長く押し続けて離す
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnL>
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnL><lf>を押し続けて離す
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnL><lf>を長く押し続けて離す
+<string>常時発動
+<string>常時発動
+<string>常時発動
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>連打
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>
+<string>地上で<lf><ICON ACT_BtnU>を押し続けて離す
+<string>地上で<lf><ICON ACT_BtnU>を押し続けて離す
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方または後方＋<ICON ACT_BtnU>
+<string>
+<string>常時発動
+<string>常時発動
+<string>常時発動
+<string>地上で<lf>敵の近くでシャドウを登場させる
+<string>
+<string>プロモーション時に<lf>地上で<ICON ACT_BtnR>→<ICON ACT_BtnR>→<ICON ACT_BtnR>
+<string>プロモーション時に地上で<lf><ICON ACT_BtnR>→<ICON ACT_BtnR>→少し待って<ICON ACT_BtnR>連打
+<string>イリーガルムーブ出現時に<lf><ICON ACT_BtnR>を押し続ける
+<string>プロモーション時に<lf>地上で<ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnR>
+<string>ストロングポイント発動後に<lf><ICON ACT_BtnR>を押し続ける
+<string>プロモーション時に<lf>空中で<ICON ACT_BtnR>
+<string>プロモーション時に<lf><ICON ACT_RB>＋<ICON ACT_LS>前方すばやく２回<lf>または<lf><ICON ACT_RB>＋<ICON ACT_LS>前方→後方<lf><lf>
+<string>プロモーション時に<lf><ICON ACT_BtnL>＋<ICON ACT_BtnU>＋<ICON ACT_BtnR>を押し続ける
+<string>
+<string><skill player="v" id="101"><lf><lf><ICON ACT_LS>を倒した方向に、<lf>キャラクターを移動させる。<lf>倒し具合によって移動速度を調整できる。
+<string><skill player="v" id="102"><lf><lf>カメラを自由に操作し、周囲を見渡せる。<lf><ICON ACT_RStP>でカメラ位置を正面方向に戻す。
+<string><skill player="v" id="103"><lf><lf>敵または特定の対象物に、<lf>ロックオンマーカーを付けて狙いを定める。<lf><ICON ACT_RB>を押しながらの構え移動が可能。<lf><ICON ACT_LStP>でロックオン対象を切り替える。
+<string><skill player="v" id="104"><lf><lf>空中に飛び上がる。<lf><ICON ACT_BtnD>を短く押すと低く、押し続けると<lf>高くジャンプする。
+<string><skill player="v" id="105"><lf><lf>壁を足場にして再度ジャンプする。
+<string><skill player="v" id="106"><lf><lf>空中で敵を踏み台にして再度ジャンプする。
+<string><skill player="v" id="107"><lf><lf>地上や空中で、敵を挑発する様々な動作を<lf>行う。<lf>スタイリッシュランクに応じて動作内容が<lf>変化する。
+<string><skill player="v" id="108"><lf><lf>オーブを吸収できる範囲がより広くなる。
+<string>
+<string><skill player="v" id="110"><lf><lf>ナイトメア発動時、敵からの<lf>グリーンオーブ出現確率が上昇する。
+<string><skill player="v" id="111"><lf><lf>ナイトメア発動時、敵からの<lf>ホワイトオーブ出現確率が上昇する。
+<string><skill player="v" id="112"><lf><lf>高額な代価を払った者だけに与えられる<lf>特別な挑発動作。<lf>通常の挑発よりもスタイリッシュランク<lf>が上がりやすくなっている。
+<string><skill player="v" id="113"><lf>　　　　　　　　　　　<lf>ブラッディパレスをクリアした者だけに<lf>与えられる特殊な挑発動作。<lf>ステッキに力を込めて振り回す。
+<string>
+<string><skill player="v" id="116"><lf><lf>リザイン状態の敵にとどめを刺す。
+<string><skill player="v" id="117"><lf><lf>瞬間移動を行う特殊技。<lf>ターゲットに向かって杖を投げ、<lf>姿を消して杖の位置に再出現する。<lf>リザイン状態の敵へ移動すると<lf>そのままとどめを刺す。
+<string><skill player="v" id="118"><lf><lf>敵にとどめを刺した瞬間に<lf>次のターゲットへ瞬間移動を行う。
+<string><skill player="v" id="119"><lf><lf>戦闘時に集中することで<lf>ＤＴゲージを蓄積する。<lf><ICON ACT_RT>を押したままで行動を続ける。
+<string><skill player="v" id="120"><lf><lf>蓄積した悪魔の力と引き換えに<lf>強力な魔獣ナイトメアを召喚する。<lf>ナイトメアは自動的に敵を攻撃する。<lf>発動中はＤＴゲージを消費し続ける。<lf>発動中は防御力が上昇する。
+<string><skill player="v" id="121"><lf><lf>ナイトメア発動中の<lf>消費ＤＴゲージ量が減少する。
+<string><skill player="v" id="122"><lf><lf>召喚した魔獣ナイトメアに乗り込む。
+<string><skill player="v" id="123"><lf><lf>グリフォンを呼びよせ、つかまりながら<lf>後方へ移動する。<lf>グリフォンがステイルメイト状態だと<lf>発動できない。
+<string><skill player="v" id="124"><lf><lf>グリフォンを呼び寄せ、つかまりながら<lf>空中で一度上昇する。<lf>グリフォンがステイルメイト状態だと<lf>発動できない。<lf>そのままつかまり続けると<lf>ゆるやかに浮遊する。
+<string>
+<string><skill player="v" id="126"><lf><lf>シャドウを呼び寄せ、素早く横方向に<lf>移動して敵の攻撃をかわす。<lf>シャドウがステイルメイト状態だと<lf>発動できない。
+<string><skill player="v" id="127"><lf><lf>シャドウを呼び寄せ、自身の脚として<lf>高速移動の力を得る。<lf>戦闘中は発動されない。<lf>シャドウがステイルメイト状態だと<lf>発動できない。
+<string><skill player="v" id="128"><lf><lf>魔力の杖を高所から全方位に射出して<lf>周囲のリザイン状態の敵に打ち込み、<lf>まとめてとどめを刺す。<lf>ＤＴゲージを消費する。
+<string><skill player="v" id="129"><lf><lf>ＤＴゲージを１つ消費して、シャドウと<lf>グリフォンが一定時間自動で敵を攻撃する。<lf>発動中は攻撃力もＵＰする。<lf>追加コマンドでＤＴゲージを追加消費して<lf>継続時間を延長できる。
+<string>
+<string><skill player="v" id="141"><lf><lf>グリフォンの口から<lf>敵に向かって雷弾を放つ。
+<string><skill player="v" id="142"><lf><lf>グリフォンの魔力により<lf>敵に向かって柱状の雷を放つ。
+<string><skill player="v" id="143"><lf><lf>ブロッケイドの強化版。<lf>同時に放たれる雷柱が３つに増加する。
+<string><skill player="v" id="144"><lf><lf>ブロッケイドの最終強化版。<lf>同時に放たれる雷柱が５つに増加する。
+<string><skill player="v" id="145"><lf><lf>敵に向かってグリフォンが突進し<lf>上空に打ち上げる。
+<string><skill player="v" id="146"><lf><lf>グリフォンの魔力により<lf>敵を挟み込む電撃を生み出す。
+<string><skill player="v" id="147"><lf><lf>ダブルチェックの強化版。<lf>生み出される電撃が２連になる。
+<string><skill player="v" id="148"><lf><lf>ダブルチェックの最終強化版。<lf>生み出される電撃が３連になる。
+<string><skill player="v" id="149"><lf><lf>Ｖの近くへ移動して<lf>周囲への電撃攻撃を行う。
+<string><skill player="v" id="150"><lf><lf>ラウンドロビンの強化版。<lf>攻撃回数が増加する。
+<string><skill player="v" id="151"><lf><lf>ラウンドロビンの最終強化版。<lf>攻撃回数がさらに増加する。
+<string><skill player="v" id="152"><lf><lf>グリフォンの耐久力が上がり、<lf>敵からの攻撃を受けてステイルメイト状態に<lf>なりにくくなる。
+<string><skill player="v" id="153"><lf><lf>グリフォンの耐久力がさらに上がり、<lf>敵からの攻撃を受けてステイルメイト状態に<lf>なりにくくなる。
+<string><skill player="v" id="154"><lf><lf>ステイルメイト状態から復帰するまでの<lf>時間が短くなる。
+<string>
+<string><skill player="v" id="161"><lf><lf>シャドウの切り裂き攻撃の後、触手による<lf>連続突き刺し攻撃を見舞う。<lf>空中の敵に対しては自動的に空中攻撃と<lf>なる。
+<string><skill player="v" id="162"><lf><lf>シャドウコンボの派生形。<lf>尻尾を振り回し敵をひるませ、巨大な牙で<lf>噛み砕く。
+<string><skill player="v" id="163"><lf><lf>シャドウコンボの派生形。<lf>切り裂き攻撃の後、ムチと化した首で<lf>敵を連打する。
+<string><skill player="v" id="164"><lf><lf>シャドウが地中に潜り前方へ高速移動する。<lf>移動中に触手攻撃をともなう。
+<string>
+<string><skill player="v" id="166"><lf><lf>シャドウの体が針状に変形し、全方位への<lf>突き刺し攻撃を繰り出す。
+<string><skill player="v" id="167"><lf><lf>ヘッジホッグの強化版。<lf>地面からの針の追撃が追加される。
+<string><skill player="v" id="168"><lf><lf>シャドウの尻尾が斧状に変化し<lf>敵を打ち上げる。<lf><ICON ACT_BtnU>を押し続けることで自身も空中へ<lf>飛び上がる。
+<string><skill player="v" id="169"><lf><lf>シャドウの頭部が針状に変化し<lf>敵を突き刺す。<lf>Ｖ自身は針部分に乗ることができる。
+<string><skill player="v" id="170"><lf><lf>シャドウの全身が手裏剣のように変形し<lf>回転攻撃を見舞う。
+<string><skill player="v" id="171"><lf><lf>シャドウの全身変形による回転突進攻撃。<lf><ICON ACT_RB>＋<ICON ACT_LS>前方で斜め下方向に突進、<lf><ICON ACT_RB>＋<ICON ACT_LS>後方で真下に落下しつつ攻撃する。
+<string>
+<string><skill player="v" id="173"><lf><lf>シャドウの耐久力が上がり、<lf>敵からの攻撃を受けてステイルメイト状態に<lf>なりにくくなる。
+<string><skill player="v" id="174"><lf><lf>シャドウの耐久力がさらに上がり、<lf>敵からの攻撃を受けてステイルメイト状態に<lf>なりにくくなる。
+<string><skill player="v" id="175"><lf><lf>ステイルメイト状態から復帰するまでの<lf>時間が短くなる。
+<string><skill player="v" id="176"><lf><lf>地面から、歯車状の姿で<lf>敵に襲いかかりつつ出現する。
+<string>
+<string><skill player="v" id="181"><lf><lf>ナイトメアが強烈な威力の<lf>パンチ連続攻撃を繰り出す。
+<string><skill player="v" id="182"><lf><lf>ナイトメアコンボの派生形。<lf>広範囲に回転移動攻撃を繰り出す。
+<string><skill player="v" id="183"><lf><lf>ナイトメアが前方に極太の光束線を<lf>照射する。<lf><ICON ACT_LS>横方向でわずかに角度を調整できる。
+<string><skill player="v" id="184"><lf><lf>ナイトメアによる光束線照射攻撃。<lf>左右掃射によって広範囲の敵を焼き尽くす。
+<string><skill player="v" id="185"><lf><lf>ナイトメアによる光束線照射攻撃。<lf>下から上に向かって射ち払う。
+<string><skill player="v" id="186"><lf><lf>ナイトメアが両手を豪快に振り下ろし<lf>叩きつける。
+<string><skill player="v" id="187"><lf><lf>ナイトメアがターゲット方向へ<lf>瞬時に移動する。
+<string><skill player="v" id="188"><lf><lf>すべての魔力を開放し、周囲の敵全体に<lf>無差別破壊攻撃を行う。<lf>すべてのＤＴゲージを消費する。<lf>ステイルメイト状態の魔獣がいると<lf>発動できない。

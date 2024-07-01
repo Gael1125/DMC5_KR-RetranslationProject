@@ -1,0 +1,19 @@
+<string>
+<string>JUKEBOX
+<string>
+<string>BATTLE TRACKS
+<string>STYLISH VOICE
+<string>TITLE VOICE
+<string>
+<string>Change the in-game battle music (does not affect boss battles and certain cutscenes).
+<string>Change the voice for Stylish Rank announcements.
+<string>Change the voice on the title screen.
+<string>
+<string>This song will become the battle track for the<lf>selected character.
+<string>The Stylish Rank announcement voice will contain variations<lf>that play randomly for the character of your choice.
+<string>The announcement on the title screen will play in various<lf>character voices at random.
+<string>
+<string>STYLISH RANK
+<string>TITLE SCREEN
+<string>Stylish Rank Voice Settings
+<string>Title Screen Voice Settings

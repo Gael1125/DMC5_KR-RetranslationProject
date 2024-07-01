@@ -1,0 +1,101 @@
+<string>Play Through
+<string>Mission02
+<string>Mission16
+<string>Training
+<string>Customize
+<string>ミッションを続けてプレイします。
+<string>通常戦闘ミッションです。
+<string>ボスと対峙するミッションです。
+<string>道場でトレーニングできます。
+<string>武器やコンボをカスタマイズできます。
+<string>*INFORMATION
+<string>*BRIGHTNESS
+<string>*HDR BRIGHTNESS MAX
+<string>*HDR BRIGHTNESS
+<string>*EASY AUTOMATIC
+<string>*DIFFICULTY
+<string>*NETWORK SETTINGS
+<string>*CONTINUE
+<string>*MISSION SELECT
+<string>*続きからプレイします。
+<string>*プレイするミッションを選びます。
+<string>（仮）
+<string>S & G
+<string>
+<string>（仮）レッドオーブを消費して復活します。<lf>よろしいですか？
+<string>（仮）ゴールドオーブを消費して復活します。<lf>よろしいですか？
+<string>（仮）オンラインストアへ接続します。<lf>よろしいですか？
+<string>（仮）現在地からの復帰をあきらめます。<lf>本当によろしいですか？
+<string>
+<string>*RE.NETに接続しています。
+<string>*RE.NETに接続しました。
+<string>*RE.NETとの接続を切断しました。
+<string>
+<string>（仮）操作に割り当てるボタンを押してください。
+<string>
+<string>CAPCOM
+<string>CUBIC MOTION LTD.
+<string>DEVELOPMENT
+<string>LEAD GAME DESIGNER
+<string>GAME DESIGNER
+<string>CREATURE DESIGNER
+<string>CONCEPTUAL DESIGNER
+<string>PRODUCEREXECUTIVE
+<string>PRODUCER
+<string>LEAD FACIAL ANIMATOR
+<string>MOTION TRACKER
+<string>LEAD MOTION TRACKER
+<string>FACIAL ANIMATOR
+<string>YOICHIRO IKEDA
+<string>KENICHI SUZUKI
+<string>TOMOHIRO SHINGU
+<string>KOJI KAKAE
+<string>MISUZU WATANABE
+<string>TOMONARI GOTO
+<string>KAZUHISA INOUE
+<string>TSUBASA SAIMEN
+<string>MASAKI MORITSUGU
+<string>RYOSUKE YOSHIDA
+<string>JUNYA KUMABE
+<string>NORIMASA SANKODA
+<string>HARUO MURATA
+<string>NANAKO MIURA
+<string>
+<string>DAIGO IKENO
+<string>MAI OHKURA
+<string>RINTARO KOMORI
+<string>KEITARO KATO
+<string>
+<string>
+<string>DAVID BARTON
+<string>CHRIS WALTER
+<string>WEI XING YONG
+<string>CHARLOTTE MOSEY
+<string>ADAM WALTON
+<string>SEB GOUGH
+<string>REECE THOMAS
+<string>NIALL SELMAN
+<string>
+<string>
+<string>From the DMC5 staff
+<string>You didn't think it was over already, did you?<lf>Don't worry, the real Devil May Cry starts here.<lf>Take your new power and show us what you've got.<lf>We're looking forward to it.
+<string>
+<string>NERO'S DEVIL TRIGGER
+<string>
+<string>SOMMONED SWORDS
+<string>BRINGER CLAW
+<string>BUSTER
+<string>DUAL BUSTER
+<string>DEVIL SNATCH
+<string>DUAL SNATCH
+<string>HOLD
+<string>DUAL HOLD
+<string>
+<string>When Devil Trigger is active:<lf>Press <trc id="4">
+<string>When Devil Trigger is active:<lf>Press <trc id="5">
+<string>Press <trc id="7">  near an enemy
+<string>When Devil Trigger is active:<lf>Press <trc id="7">  near an enemy +<trc id="7"> 
+<string>When Devil Trigger is active:<lf><trc id="6">+<trc id="7"> 
+<string>When Devil Trigger is active:<lf><trc id="6">+<trc id="7"> , then <trc id="6">+<trc id="7"> 
+<string>After executing a Buster, <lf>continue tohold <trc id="7">
+<string>When Devil Trigger is active:<lf>After executing a Dual Buster,<lf>continue to hold <trc id="7">

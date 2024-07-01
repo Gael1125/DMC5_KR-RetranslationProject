@@ -1,0 +1,108 @@
+<string>
+<string>悪魔も泣き出す
+<string>悪魔の小手調べ
+<string>悪魔の本領
+<string>悪魔の神髄
+<string>死と踊る者
+<string>天国への到達
+<string>地獄からの生還
+<string>さすが！
+<string>それだ、すごい！
+<string>最高にシビれる瞬間！
+<string>暴かれた秘密
+<string>瞬殺
+<string>想定外の結末
+<string>ハンターなら当然
+<string>文句なしの偉業
+<string>ブッ飛んでるぜ！
+<string>不可能はない
+<string>伝説の完成
+<string>デビルブリーダー
+<string>フィジカルは完璧
+<string>悪魔的成長
+<string>芸術品のバーゲン
+<string>新たな依頼
+<string>ミリオンゲッター
+<string>ダンテ・ザ・ギャンブラー
+<string>狩り放題
+<string>発端の敗走
+<string>市民の安全確保
+<string>冴えてるぜ
+<string>再会
+<string>裏道開放
+<string>助けたかったわけじゃない
+<string>進撃もここまで
+<string>苦労はお互い様
+<string>絶望に差す光
+<string>お見通し
+<string>このままでは済ませない
+<string>剣さばきならオレが上
+<string>クリフォト
+<string>三者三様
+<string>急がなくては
+<string>華麗な体術
+<string>先見の明
+<string>甦る姿
+<string>託された使命
+<string>ふさわしい戦い
+<string>徒手空拳
+<string>片手で十分
+<string>一糸乱れず
+<string>征服者たち
+<string>大したことねえ
+<string>イイね、最高だ
+<string>当然の帰結だ
+<string>
+<string>全てのトロフィーを獲得する
+<string>HUMANモードをクリアする
+<string>DEVIL HUNTERモードをクリアする
+<string>SON OF SPARDAモードをクリアする
+<string>DANTE MUST DIEモードをクリアする
+<string>HEAVEN OR HELLモードをクリアする
+<string>HELL AND HELLモードをクリアする
+<string>スタイリッシュランクでＳを出す
+<string>スタイリッシュランクでＳＳを出す
+<string>スタイリッシュランクでＳＳＳを出す
+<string>シークレットミッションを全てクリアする
+<string>1秒以内に敵を5体倒す
+<string>圧倒的な力を振るい意外な結末を引き出す
+<string>全ミッションをＳランク獲得してクリアする
+<string>全ミッションを全ての難易度でＳランク獲得してクリアする（HEAVEN OR HELLを除く）
+<string>ジャンプ等での滞空時間の累計量が60分を超える
+<string>ネロのスキルを全て所持する
+<string>ダンテのスキルを全て所持する
+<string>Ｖのスキルを全て所持する
+<string>体力ゲージをMAXの長さにする
+<string>デビルトリガーゲージをMAXの長さにする
+<string>デビルブレイカーをステージ上で取得した累計数が100を超える
+<string>主要事件の解決後にモリソンの新たな依頼を受ける
+<string>レッドオーブの通算獲得量が100万を超える
+<string>Dr.ファウストで消費したレッドオーブの累計量が50万を超える
+<string>敵を通算1000体倒す
+<string>プロローグミッションをクリアする
+<string>ミッション01で全ての敵を倒す
+<string>ミッション02で意外な場所にあるレッドオーブを取得する
+<string>ミッション03をクリアする
+<string>ミッション04で壁の一部を破壊する
+<string>ミッション05で頭上からの脅威に徹底的な反撃を行う
+<string>ミッション06をクリアする
+<string>ミッション07をネロ、Ｖの双方でクリアする
+<string>ミッション08をクリアする
+<string>ミッション09で壁の一部を破壊する
+<string>ミッション10をクリアする
+<string>ミッション11のボス戦でタイミングを見計らい近接戦を制する
+<string>ミッション12をクリアする
+<string>ミッション13をネロ、Ｖ、ダンテの３者でクリアする
+<string>ミッション14をクリアする
+<string>ミッション15で余分なダメージを受けぬよう慎重に立ち回る
+<string>ミッション16のボス戦で力押しに頼らない攻め方を示す
+<string>ミッション17をクリアする
+<string>ミッション18をクリアする
+<string>ミッション19とミッション20をコンティニューせずにクリアする（HEAVEN OR HELLを除く）
+<string>ミッション11で、ダンテの武器セットを全て外した状態でクリアする（HEAVEN OR HELLを除く）
+<string>ミッション07で、ネロのデビルブレイカーをひとつも装備せずに始めてクリアする（途中入手は可）<lf>（HEAVEN OR HELLを除く）
+<string>ミッション05で、Ｖの操る従者を一度もステイルメイト状態にせずにクリアする（HEAVEN OR HELLを除く）
+<string>ブラッディパレスを「３キャラ」でクリアする（ネロ・ダンテ・V）
+<string>ブラッディパレスを「ネロ」でクリアする
+<string>ブラッディパレスを「ダンテ」でクリアする
+<string>ブラッディパレスを「V」でクリアする

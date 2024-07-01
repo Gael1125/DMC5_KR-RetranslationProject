@@ -1,0 +1,96 @@
+<string>
+<string>Hoo-wee. I'm still in friggin' shock...
+<string>About what?
+<string>Uhh, duh! Your arm?
+<string>Who the hell grows an arm back, it's just weird.
+<string>It's like a...lizard tail, or something?
+<string>Look, I don't know, it just grew. I mean, are<lf>you kiddin' me? Lots of weird stuff happened.
+<string>There were demons and scary plant roots,<lf>and arms growin' back. Lots of stuff.
+<string>Do you know how much love and care<lf>I put in that Devil Breaker?
+<string>Nope.
+<string>But this arm, it's nice.
+<string>So, uh, how's it feel?
+<string>How's what feel?
+<string>Saving the man who killed your own father.
+<string>Heard Dante killed Vergil once.
+<string>Doesn't matter. They're both gone now anyway.
+<string>It's okay to cry if you want, Nero, over a loss.
+<string>I'm not crying.
+<string>It doesn't make you a crybaby. Does make you a little bitch though.
+<string>There it is.
+<string>You think I'm a demon?
+<string>I didn't cry when my asshole daddy died.
+<string>But...
+<string>Yeah, I know, I know.
+<string>I wouldn't be here without him, that's a biological fact.
+<string>Right.
+<string>All I'm saying is, tough guy...it's okay to cry if you want.
+<string>— Devils cry.
+<string>— I'm not crying.
+<string>Devils cry!
+<string>I'm not gonna cry.
+<string>— Kittens cry "meow," puppies cry "woof!"
+<string>— Will you shut up? Will you stop it?
+<string>— Why don't you cry on my shoulder.
+<string>— Look at you. You're—nobody's crying, all right?
+<string>— Come on, cry on my shoulder! I know you wanna.
+<string>— Stop saying cry. If you say cry again―
+<string>Devil May Cry—@#$!
+<string>You said it.
+<string>Hey, Kyrie.
+<string>...Yeah, I'm comin' home.
+<string>Oh yeah, I don't wanna spoil it<lf>but I've got a surprise for you.
+<string>Oh yeah, he's got a HUGE surprise.
+<string>Will you shut up!?
+<string>No no no no, Kyrie, not you. Nico, you know,<lf>and her big mouth. We're just—
+<string>
+<string>What the hell's your problem!?<lf>Where'd you learn to drive!?
+<string>Hey, uh...sorry, I gotta call ya later.
+<string>It's time to get back to work.
+<string>Got an arm, I'm good.
+<string>It's a prototype. And this is the perfect place to<lf>test it out! Look, you're gonna use it, and—
+<string>"It's a work of ART!"
+<string>I gotcha.
+<string>...and it ain't complete without you.
+<string>Well, how sweet...
+<string>Feels good!
+<string>You'll get fixed as soon as we get back!
+<string>So...devils cry, huh?
+<string>Let's hear what that SOUNDS LIKE!
+<string>
+<string>Guess that's the end, then.
+<string>
+<string>So, all we gotta do is cut this thing down?
+<string>That's right.
+<string>I'm more than capable of handling this on my own.
+<string>You're gonna need some help...<lf>And someone to keep an eye on you.
+<string>
+<string>
+<string>Wow, no sign of him. Nothing.
+<string>Mmm... Yeah.
+<string>Then, can I have this office? Because I've been thinking<lf>it's almost time for me to settle down somewhere.
+<string>
+<string>No, I don't think so. I rather quite like it.
+<string>Oh, I hate to spoil your dreams, ladies,<lf>but that shit ain't gonna happen.
+<string>Whattaya mean, Morrison?
+<string>See, there's this deed to this place, and I have it.
+<string>Why do you—?
+<string>Clever little devil came to see me right before his last job.
+<string>Said something like, "My dearest friend, I know<lf>you'll keep this safe, 'cause them crazy bitches—"
+<string>Did I say crazy bitches? I'm sorry, I meant ladies.
+<string>Anyway, the rest of the story is not<lf>important, you get the gist.
+<string>I wonder if he even plans on coming back.
+<string>Got me.
+<string>What is important is I have a job for you two.
+<string>...'Cause the rent ain't free.
+<string>
+<string>Score for Dante! I'm up one.
+<string>Where did you learn to count!? We're even.
+<string>You know...
+<string>I'm starting to think this is never gonna end.
+<string>Maybe.
+<string>We got plenty of time.
+<string>Don't you dare say it—!
+<string>
+<string>Jackpot!
+<string>

@@ -1,0 +1,68 @@
+<string>
+<string>Red Orb
+<string>Green Orb
+<string>White Orb
+<string>Black Orb
+<string>Blue Orb Fragment
+<string>Blue Orb
+<string>Purple Orb Fragment
+<string>Purple Orb
+<string>Gold Orb
+<string>
+<string>
+<string>
+<string>
+<string>Nidhogg Hatchling
+<string>Goliath Shard
+<string>Artemis Orb
+<string>Geryon Splinter
+<string>Gilgamesh Plate
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>레드 오브
+<string>그린 오브
+<string>화이트 오브
+<string>
+<string>블루 오브 프래그먼트
+<string>블루 오브
+<string>퍼플 오브 프래그먼트
+<string>퍼플 오브
+<string>골드 오브
+<string>
+<string>니드호그 해츨링
+<string>골리앗 샤드
+<string>아르테미스 오브
+<string>게리온 스플린터
+<string>길가메시 플레이트
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>레드 오브
+<string>그린 오브
+<string>화이트 오브
+<string>
+<string>블루 오브 프래그먼트
+<string>블루 오브
+<string>퍼플 오브 프래그먼트
+<string>퍼플 오브
+<string>골드 오브
+<string>
+<string>니드호그 해츨링

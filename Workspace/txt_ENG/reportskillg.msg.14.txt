@@ -1,0 +1,140 @@
+<string>
+<string>Tilt <ICON ACT_LS>
+<string>Move <ICON ACT_RS>
+<string>Press and hold <ICON ACT_RB>
+<string>While on the ground, press <ICON ACT_BtnD>
+<string>Press <ICON ACT_CenL>
+<string>While on the ground, <lf>press <ICON ACT_RB>+<ICON ACT_LS> horizontally +<ICON ACT_BtnD>
+<string>During a jump, press <ICON ACT_BtnD> near a wall
+<string>Hold <ICON ACT_LS> in any direction
+<string>In mid-air, press <ICON ACT_BtnD> near an enemy
+<string>While your Concentration Gauge<lf>is level 1 or higher, press <ICON ACT_RB><lf>when attacked by an enemy.
+<string>Automatic
+<string>Automatic
+<string>Press and hold <ICON ACT_LStP>+<ICON ACT_CenL>
+<string>Press <ICON ACT_LStP>+<ICON ACT_CenL> quickly
+<string>Press <ICON ACT_LB> or <ICON ACT_DirU>
+<string>Press <ICON ACT_RB>+<ICON ACT_BtnR><lf>or<ICON ACT_LS>+<ICON ACT_RB>+<ICON ACT_BtnR>
+<string>Lock on to a Grim Grip with <ICON ACT_RB>,<lf>then press <ICON ACT_BtnR>
+<string>Press <ICON ACT_BtnR>
+<string>While on the ground, press <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<ICON ACT_BtnR>
+<string>
+<string>While on the ground,<lf>press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground,<lf>press <ICON ACT_BtnU><ICON ACT_BtnU>, pause, then <ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>,<lf>pause, then tap <ICON ACT_BtnU> repeatedly
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU>,<lf>pause, then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>Hold and release <ICON ACT_BtnU><lf>Release when the scabbard<lf>sparkles to increase power
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>After performing Rapid Slash,<lf>hold <ICON ACT_BtnU> until attack connects
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> back + hold <ICON ACT_BtnU>
+<string>While in Sin Devil Trigger<lf>or while SDT Gauge is MAX and<lf>Concentration is at level 2,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>+<ICON ACT_BtnR>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU>,<lf>pause, then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>Perform a Beast Uppercut, but hold <ICON ACT_BtnU><lf>until your fist glows
+<string>Perform a Beast Uppercut, but hold <ICON ACT_BtnU><lf>until your fist glows twice.
+<string>While on the ground, press <ICON ACT_BtnD>
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<ICON ACT_BtnU>
+<string>While in Sin Devil Trigger<lf>or while SDT Gauge is MAX and<lf>Concentration is at level 2,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>+<ICON ACT_BtnR>
+<string>While on the ground,<lf>press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><lf>pause, <ICON ACT_BtnU>, then tap <ICON ACT_BtnU> repeatedly
+<string>Hold <ICON ACT_BtnU>, then release when<lf>your sword glows
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>Execute a Stinger, but delay releasing<lf><ICON ACT_BtnU> until ready to strike.<lf>Tap <ICON ACT_BtnU> repeatedly for more attacks.
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<ICON ACT_BtnU>
+<string>While on the ground after<lf>executing a Drive, press<lf>and hold <ICON ACT_BtnU> again, then<lf>release when your sword glows
+<string>While in Sin Devil Trigger<lf>or while SDT Gauge is MAX and<lf>Concentration is at level 2,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>+<ICON ACT_BtnR>
+<string>Press <ICON ACT_BtnL>
+<string>Press <ICON ACT_BtnL>
+<string>Press <ICON ACT_BtnL>
+<string>Press and hold <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back +<lf>hold and release <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<lf>hold and release <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward + hold and release <ICON ACT_BtnL>
+<string>With a full SDT Gauge, hold <ICON ACT_LB>
+<string>In human form, hold <ICON ACT_LB>
+<string>Press <ICON ACT_LB> or <ICON ACT_DirU>  when DT Gauge<lf>is at level 3 or higher
+<string>Press <ICON ACT_RB>+ rotate <ICON ACT_LS> once +<ICON ACT_BtnR>
+<string>
+<string>Tilt <ICON ACT_LS> in any direction to move<lf>the character in that direction.<lf>Tilt further to move faster.
+<string>Move the camera around to view your<lf>surroundings. Press <ICON ACT_RStP> to return the<lf>camera to the default position behind you.
+<string>Lock on to enemies and certain objects.<lf>Hold <ICON ACT_RB> to strafe, and press <ICON ACT_LStP><lf>to change lock-on target.
+<string>Jump into the air. The height of your jump<lf>changes depending on how long you hold <ICON ACT_BtnD>.
+<string>Taunt enemies in various ways on the<lf>ground or in mid-air. The taunt executed<lf>depends on your current Stylish Rank.
+<string>Dash to the side to evade enemy attacks.
+<string>Jump again by pushing off of a wall.
+<string>Keep holding <ICON ACT_LS> in the same direction<lf>to build up speed into a full sprint.
+<string>In mid-air, use an enemy as a stepping<lf>stone to execute a double jump.
+<string>Defend against enemy attacks,<lf>preventing damage. Decreases the<lf>Concentration Gauge. If the Gauge is<lf>at level 2 or higher, you'll parry<lf>with finesse.
+<string>Increase the range from which you can<lf>gather orbs.
+<string>While Sin Devil Trigger or Doppelganger<lf>is active, both the SDT Gauge and <lf>DT Gauge will deplete at a slower rate.
+<string>A special taunt given only to those who<lf>have paid a heavy price. Increases<lf>Stylish Rank more than a normal taunt.
+<string>A special taunt given only to those who<lf>have braved the Bloody Palace and come <lf>away victorious. Show them your blade,<lf>let them see in it beauty--and death.
+<string>Use demonic power to create a Devil<lf>Clone that will follow Vergil, mimicking<lf>his movements. You can alter the speed<lf>at which it acts with <ICON ACT_DirR> and <ICON ACT_DirL> to speed up<lf>or slow down, and <ICON ACT_DirU> to return to normal.<lf>Press <ICON ACT_LB> or <ICON ACT_DirD> to dismiss the clone.<lf>Consumes DT Gauge.
+<string>Mark your target with a Mirage Blade,<lf>then teleport to its location.<lf>If multiple enemies are marked,<lf>choose the enemy to teleport<lf>to with <ICON ACT_LS>.
+<string>Mark a Grim Grip with a Mirage Blade,<lf>then teleport to it.
+<string>Teleport directly upwards.
+<string>Teleport in the direction<lf>indicated with <ICON ACT_LS>.
+<string>Teleport diagonally down and<lf>back if performed in mid-air,<lf>or backwards if on the ground.
+<string>
+<string>A flurry of blows with the scabbard<lf>and a cleaving blow with the blade.<lf>When in Sin Devil Trigger, press <ICON ACT_BtnU><lf>to follow up with a devastating<lf>finishing blow.
+<string>Send an enemy flying, then fire a<lf>Mirage Blade that explodes when<lf>the blade is sheathed.<lf><lf>When in Sin Devil Trigger, you will fire<lf>more blades and can press <ICON ACT_BtnU><lf>to follow up with an additional strike.
+<string>Unleash countless strikes before<lf>cleaving your target in twain.<lf>When in Sin Devil Trigger, the<lf>finishing blow will strike an<lf>even larger area.
+<string>Pummel your enemy with a<lf>relentless flurry of strikes<lf>performed in mid-air.
+<string>Carve up an enemy with a spinning<lf>aerial combo, then send them crashing<lf>down with a mighty blow.
+<string>Unsheathe your sword with blinding<lf>speed and unleash a whirlwind of<lf>slashes. This can be used after most<lf>Yamato skills. Increase the attack power<lf>by releasing <ICON ACT_BtnU> at the right time.<lf><lf>When in Sin Devil Trigger, this attack<lf>can hit up to three enemies at once.
+<string>Dash forward, relentlessly slashing<lf>everything in your path. When in Sin<lf>Devil Trigger, finish the attack with<lf>a single Mirage Blade that explodes for<lf>additional damage when the sword is<lf>sheathed. This move can be performed<lf>multiple times in succession.
+<string>Ascend while attacking enemies around<lf>you, lifting them off the ground.
+<string>Launch enemies into the air with an<lf>upwards strike from Yamato.<lf>When in Sin Devil Trigger, his sword<lf>hits twice and for more damage.
+<string>Press and hold <ICON ACT_BtnU> to launch, <lf>and then follow, an enemy skyward.
+<string>Slash your foes with such speed that<lf>you appear in multiple places at once.<lf>Consumes SDT Gauge when performed.
+<string>Gather your strength before<lf>descending on your target<lf>in a merciless falling attack.
+<string>Slash at the area before you with<lf>tremendous speed, cleaving the air<lf>itself and drawing enemies toward you.
+<string>A powerful combo that ends with a double<lf>roundhouse kick. Hold the button<lf>during the combo to charge power.<lf>When in Sin Devil Trigger, press <ICON ACT_BtnU> to<lf>follow up with a devastating finisher.
+<string>Lightning fast kicks rock an opponent<lf>with speed and fury. Hold the button<lf>during the combo to charge power.<lf>When in Sin Devil Trigger, press <ICON ACT_BtnU> to<lf>follow up with a devastating finisher.
+<string>Focus upon an opponent from mid-air<lf>and dive down feet first to send them<lf>hurtling away.<lf>When in Sin Devil Trigger, hold <ICON ACT_BtnU><lf>to follow up with a flying kick.
+<string>An improved version of Starfall that<lf>hits for greater damage. 
+<string>Close in on your enemies with a vicious<lf>spin attack, finishing with a forceful<lf>heel kick that sends them to the ground.<lf>When in Sin Devil Trigger, the spin's<lf>speed is dramatically increased,<lf>further increasing the devastation.
+<string>A stronger version of Lunar Phase with<lf>faster spinning leading to more pain.
+<string>Lunge toward an enemy and launch them<lf>into the air with a heavy uppercut.
+<string>Charge up power to unleash a rising<lf>uppercut upon your enemy.
+<string>Charge up all of your demonic strength<lf>to unleash a devastating rising double<lf>uppercut to obliterate foes.<lf>When in Sin Devil Trigger, the blow<lf>is strengthened further and a third<lf>blow is added.
+<string>Transform simple jumps into damage-<lf>dealing attacks.
+<string>Face down an enemy and unleash a flurry<lf>of powerful kicks. Hold <ICON ACT_BtnU> to ascend<lf>along with your foe.<lf>When in Sin Devil Trigger, the kicks<lf>are further empowered and even<lf>greater in number.
+<string>Project the essence of your being into<lf>a single blow, directly into the ground.<lf>The shockwave is powerful enough to<lf>launch the heaviest of foes.<lf>Consumes SDT Gauge when performed.
+<string>A combo that does damage to enemies<lf>both before and behind you. After the<lf>first press, rapidly tap <ICON ACT_BtnU> for<lf>additional stabbing strikes.<lf>When in Sin Devil Trigger, press <ICON ACT_BtnU><lf>once for the third attack to lash out<lf>with two more devastating thrusts.
+<string>A combo that utilizes both Mirage Edge<lf>and Yamato. Use <ICON ACT_LS> while attacking<lf>to direct your movement.
+<string>Hurl Mirage Edge at an enemy, creating<lf>a whirlwind vacuum that will draw<lf>enemies in and slice them to ribbons. 
+<string>A devastating overhead attack powerful<lf>enough to shatter the sturdiest of<lf>armored helms or demonic skulls.
+<string>An even faster version of Helm Breaker.
+<string>Lunge toward an enemy at high speed<lf>and skewer them with a deadly thrust.<lf>When in Sin Devil Trigger, this attack<lf>is strengthened and hits multiple times.
+<string>Go faster and farther with this<lf>powered up version of Stinger.
+<string>A blinding whirlwind of stabs with<lf>enough momentum to blast an<lf>enemy backwards.
+<string>A powerful attack that launches<lf>an enemy skyward. Hold <ICON ACT_BtnU> to follow<lf>the enemy into the air.<lf>When in Sin Devil Trigger, the attack<lf>unleashes multiple blows for even<lf>greater destruction.
+<string>Attack even distant enemies with<lf>a shockwave from your sword. 
+<string>Release a second shockwave to follow<lf>the one from Drive.<lf>When in Sin Devil Trigger, the wave<lf>is even larger, trapping more enemies<lf>within its wake.
+<string>A forward lunge using both Yamato and<lf>Mirage Edge, with all the strength of<lf>your body and soul behind them.<lf>Consumes SDT Gauge when performed.
+<string>Launch swords created from<lf>demonic power.
+<string>A stronger, faster, and farther-<lf>reaching Mirage Blade.<lf><lf>Increases the number of Mirage Blades<lf>that can be summoned, and strengthens<lf>skills that use them.
+<string>The strongest, fastest, and farthest-<lf>reaching form of Mirage Blade.<lf><lf>Increases the number of Mirage Blades<lf>that can be summoned, and strengthens<lf>skills that use them.
+<string>Creates a ring of Mirage Blades around<lf>you that acts as a shield.<lf>Consumes DT Gauge when performed.
+<string>Countless swords surround an enemy,<lf>then attack all at once, launching them<lf>into the air.<lf>Consumes DT Gauge when performed.
+<string>Create swords around you that launch<lf>themselves at your enemy one<lf>after another.<lf>Consumes DT Gauge when performed.
+<string>Create a deadly rainfall of Mirage<lf>Blades above your enemy's head,<lf>temporarily pinning them in place.<lf>Consumes DT Gauge when performed.
+<string>Vergil unshackles his true power to<lf>become the demon within. Depletes <lf>the SDT Gauge to raise attack, defense,<lf>movement speed, and restore vitality.<lf>Press <ICON ACT_LB> again to end the effect.
+<string>Expend the DT Gauge to charge<lf>the SDT Gauge.
+<string>Use demonic power to create a Devil<lf>Clone. The Devil Clone will follow<lf>Vergil, mimicking his movements.<lf>The speed at which it acts can be<lf>altered using <ICON ACT_DirR> and <ICON ACT_DirL> to speed up or<lf>slow down, and <ICON ACT_DirU> to return to normal.<lf>Press <ICON ACT_LB> or <ICON ACT_DirD> to dismiss the clone.<lf>Consumes DT Gauge.
+<string>Use the power of Yamato to cleave devil<lf>from man, allowing V and his minions to<lf>unleash a devastating attack that<lf>restores vitality on use. <lf><lf>Enemies defeated will drop green orbs<lf>with greater frequency. Consumes<lf>Concentration Gauge.

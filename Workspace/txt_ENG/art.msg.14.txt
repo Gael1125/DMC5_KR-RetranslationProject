@@ -1,0 +1,10 @@
+<string>
+<string>ART
+<string>
+<string>BLUEPRINTS
+<string>BONUS ART
+<string>PUBLICITY ART
+<string>
+<string>View weapon blueprints you have obtained.
+<string>View bonus images.
+<string>View images used in DMC5 advertisements.

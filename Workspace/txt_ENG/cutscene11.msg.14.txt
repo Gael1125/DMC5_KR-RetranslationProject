@@ -1,0 +1,43 @@
+<string>
+<string>Our last hope, Nero...
+<string>was completely useless.
+<string>
+<string>V, get Nero out of here! This was a bad move!
+<string>
+<string>Nero, go! You're just dead weight.
+<string>That bastard called me dead weight!<lf>I didn't come all this way for nothing!
+<string>
+<string>This...is power.
+<string>The devil sword Sparda no longer serves a purpose.
+<string>I have plans for the both of you.
+<string>You will exist to give me strength.
+<string><lf>How fortunate to serve such divine purpose.
+<string>
+<string>All right, enough's enough.
+<string>Can't let a boy...
+<string>do a man's job.
+<string>Hey, wait! I'm not done talking yet—
+<string>Okay, you get some rest.
+<string>By the way...I guess owe you one.
+<string>
+<string>Is it Halloween already?
+<string>Sparda...!
+<string>That costume looks a little big...<lf>I thought you had better taste than that.
+<string>How about I take it in a little?
+<string>
+<string>Whoa, looks like I took in a little too much.
+<string>You okay?
+<string>I've been better.
+<string>Dante...that demon is—!
+<string>Don't even think about it. Just rest.
+<string>Dante!
+<string>Take care of Trish for me!
+<string>Dante, wait—!
+<string>Dante's left...
+<string>Yes...
+<string>And I don't think he can win.
+<string>What was that demon, V? Where did it come from?
+<string>Urizen is not a demon. I know that for a fact<lf>because I'm from the underworld.
+<string>My God, what are you, then?
+<string>It doesn't matter. I'm a shadow<lf>of my former self who lost everything.
+<string>I will tell you the story of my birth.

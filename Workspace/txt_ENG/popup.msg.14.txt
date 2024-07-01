@@ -1,0 +1,159 @@
+<string>
+<string>ATTENTION
+<string>How many?
+<string>POWER UP
+<string>
+<string>Yes
+<string>No
+<string>Buy
+<string>Cancel
+<string>
+<string>Use a Gold Orb to completely refill your vitality and<lf>Devil Trigger Gauge?
+<string>Use a Gold Orb to completely refill your vitality?
+<string>Use a Gold Orb to completely refill your vitality and<lf>replenish your Devil Breaker magazine?
+<string>Use Red Orbs to revive?
+<string>Are you sure you don't want to revive here?
+<string>Try out this skill in The Void?
+<string>Use Red Orbs to learn this skill?
+<string>Use Red Orbs to strengthen Griffon?
+<string>Use Red Orbs to strengthen Shadow?
+<string>Use Red Orbs to strengthen Nightmare?
+<string>Use Red Orbs to increase your magazine?
+<string>Use Red Orbs to expand your weapon slots?
+<string>Buy this with Red Orbs?
+<string>Quit customization?
+<string>Quit and change characters?
+<string>Quit the Void?
+<string>Save current state, quit the Bloody Palace<lf>and return to the Main Menu?<lf>Any orbs left uncollected in the stage will be lost.
+<string>Quit playing and return to the Main Menu?<lf>Any unsaved progress will be lost.
+<string>Save state data exists for a Bloody Palace session.<lf>You must delete this data to play another mode.<lf>Delete the current save state?
+<string>Save state data exists for a Bloody Palace session.<lf>You must delete this data to start over from the beginning.<lf>Delete the current save state?
+<string>Start the mission from the beginning?<lf>All save state data will be lost.
+<string>Enter the Bloody Palace?<lf>All mission save state data will be lost.
+<string>Selecting this will delete all mission save state data.<lf>Continue?
+<string>Selecting this will delete Bloody Palace save state data.<lf>Continue?
+<string>An update is required to read Bloody Palace save state data.<lf>Selecting this will delete Bloody Palace save state data.<lf>Continue?
+<string>Return to the Main Menu?
+<string>Restore all options to default settings?
+<string>Quit the mission?<lf>All progress will be lost, but you will keep<lf>any orbs or skills you have obtained.
+<string>Restart from the last checkpoint?<lf>Some progress will be lost, but you will keep<lf>any orbs or skills you have obtained.
+<string>Return to the Main Menu?<lf>Restarting will let you continue from the last checkpoint.
+<string>Start with {0}?
+<string>Battles with characters who do not have a<lf>designated song will use a preset battle track.<lf>Continue?
+<string>This add-on has not been purchased.<lf>Go to <trc id="3">?
+<string>This add-on has not been purchased.<lf>Go to <trc id="3">?
+<string>Return to the title screen?
+<string>Quit the secret mission?
+<string>No saved data exists. You must create new saved data to<lf>save your game. Create new saved data? <lf><lf>(You cannot start the game without save data.)
+<string>The Void is a combat training area where you can test<lf>weapons and skills.
+<string>You do not have the Red Orbs required for this purchase.<lf>Go to <trc id="3">?
+<string>Opening the Pause Menu during coop play will sever the<lf>connection and move you into offline play.
+<string>Equip a Devil Breaker loadout recommended by Nico for the<lf>battle ahead?
+<string>You have not equipped any Devil Breakers.<lf>Start the mission anyway?
+<string>There are empty slots in your Devil Breaker magazine.<lf>Start the mission anyway?
+<string>Start Stage {0}?
+<string>Weapons that cannot be used in this mode have been equipped.<lf>They will be removed before entering the Bloody Palace.<lf>Continue anyway?
+<string>You do not have any of Nico's<lf>recommended Devil Breakers.
+<string>You do not have the Red Orbs required for this purchase.
+<string>Are you sure you want to quit Warm Up?
+<string>
+<string>A new mode has been unlocked: Son of Sparda.
+<string>A new mode has been unlocked: Dante Must Die.
+<string>A new mode has been unlocked: Heaven or Hell.
+<string>A new mode has been unlocked: Hell and Hell.
+<string>A new mode has been unlocked: Bloody Palace.
+<string>A new mode has been unlocked: Divergence.
+<string>A new mode has been unlocked: Online Bloody Palace.
+<string>"Super Nero" costume is now available.<lf>(Not available for online play in certain missions.)
+<string>"Super Dante" costume is now available.<lf>(Not available for online play in certain missions.)
+<string>"Super V" costume is now available.<lf>(Not available for online play in certain missions.)
+<string>"Nero EX Color" has been added.
+<string>"Dante EX Color" has been added.
+<string>"V EX Color" has been added.
+<string>"EX Color" costume added for Nico.
+<string>"EX Color" costume added for Lady.
+<string>"EX Color" costume added for Trish.
+<string>"EX Color" costume added for Vergil.
+<string>"Special Provocation" has been added for Nero.
+<string>"EX Provocation" has been added for Nero.
+<string>"Recovery Provocation" has been added for Nero.
+<string>"Special Provocation" has been added for Dante.
+<string>"EX Provocation" has been added for Dante.
+<string>"Special Provocation" has been added for V.
+<string>"EX Provocation" has been added for V.
+<string>Devil Breaker "Gerbera GP01" has been added.
+<string>Devil Breaker "Pasta Breaker" has been added.
+<string>Devil Breaker "Sweet Surrender" has been added.
+<string>Devil Breaker "Mega Buster" has been added.
+<string>Weapon "Cavaliere R" has been added.
+<string>Obtained Gold Orb x{0} as a login bonus!
+<string>You have earned Gold Orb x{1} for<lf>getting {0} Stylish ratings.
+<string>Obtained "Red Orb" x{0}.<lf>(Will not be reflected while in Bloody Palace.)
+<string>Obtained "Blue Orb" x{0}.
+<string>"Alt Style Rank Announcers" has been added.<lf>(Check the Jukebox in the Gallery for details.)
+<string>"Alt Title Calls" has been added.<lf>(Check the Jukebox in the Gallery for details.)
+<string>"Live Action Cutscenes" have been added.<lf>(Check out Customize Cutscenes in the Options for details.)
+<string>Japanese voice option has been added.<lf>(Check out Language in the Options for details.)
+<string>Multiple commands have been assigned to the same <trc id="0">.<lf>Please set a different <trc id="0"> for each command.
+<string>"DMC1 Battle Track 3-Pack" has been added.<lf>(Check the Jukebox in the Gallery for details.)
+<string>"DMC2 Battle Track 3-Pack" has been added.<lf>(Check the Jukebox in the Gallery for details.)
+<string>"DMC3 Battle Track 3-Pack" has been added.<lf>(Check the Jukebox in the Gallery for details.)
+<string>"DMC4 Battle Track 3-Pack" has been added.<lf>(Check the Jukebox in the Gallery for details.)
+<string>Nero's demonic right arm has been restored, and he can<lf>now use both Devil Bringer and Devil Trigger.
+<string>Dante's skill "Irregular Full Custom" is now available.
+<string>DANTE'S BLADES<lf>Dante can equip Rebellion, Devil Sword Sparda,<lf>or Devil Sword Dante on the Customize screen.
+<string>In Nico's Reports, the Enemy Reports have expanded to<lf>include photos capturing the moment of an enemy's defeat.
+<string>Costume changes are now reflected on the title screen.<lf>The last costume you played with will be shown.
+<string>Save data for "Devil May Cry 5" demo found on Hard Disc Drive.<lf>Received {0} Red Orbs as a special first-time bonus!
+<string>Simplified Chinese, Traditional Chinese<lf>and Korean language options have been added.<lf>(Check out Language in the Options for details.)
+<string>Devil Breaker "Buster Arm" has been added.
+<string>Devil Breaker "Monkey Business" has been added.
+<string>
+<string>This game has an autosave feature. Do not turn off<lf>the power while the save icon below is displayed. 
+<string>This game has an autosave feature. Do not turn off<lf>the power while the save icon below is displayed.
+<string>Change network settings to Limited<lf>from Network in the Options menu?<lf>Note: This setting allows data exchange<lf>without matching with other users.
+<string>Turn off network settings from Network<lf>in the Options menu?
+<string>Network settings changed to Limited.<lf>Please check your settings again<lf>after joining PlayStation®Plus.
+<string>Network settings changed to Limited.<lf>Please check your settings again<lf>whenever you play in online multiplayer.
+<string>Network settings changed to Limited.<lf>Please check your settings again<lf>after the error has been resolved.
+<string>Network settings have been turned off.<lf>Please check your settings again<lf>after the error has been resolved.
+<string>Add-ons have finished downloading.<lf>Content will be available when you go to the title screen.
+<string>Add-ons have finished downloading.<lf>Content will be available when you go to the title screen.
+<string>Play data cannot be sent<lf>without a network connection.
+<string>Jump to the website to read our privacy policy?
+<string>Are you sure you want to quit the game?
+<string>- Data Processing for Statistical Purposes -<lf> <lf>Capcom Co., Ltd. (“Capcom”) collects information regarding your gameplay<lf>(play data, add-ons purchase history by the customer (excluding settlement information), identification information assigned by the platform holder, user<lf>changeable Options setting such as language selection, graphics settings,<lf>sound settings, controller settings), and prepares and uses statistical<lf>data for analyzing the way the game is played.<lf><lf>The statistical data prepared by Capcom is used for various purposes<lf>including as a reference for development of future games and other<lf>promotional activities.<lf><lf>When your consent is obtained, data regarding your gameplay will be<lf>transmitted and stored in Japanese servers which are managed by Capcom<lf>and/or North American servers of any cloud service provider used by<lf>Capcom, regardless of the country where you reside.<lf><lf>Your consent for data processing for statistical purposes is not<lf>mandatory, and you may freely decide whether or not to give your<lf>consent. Your gameplay will not be affected even if you refuse<lf>to consent.<lf><lf>You may withdraw your consent at any time in the Network settings under<lf>Options; however, this will not affect lawful processing of the data<lf>transmitted prior to withdrawal of your consent. Please read this<lf>Privacy Policy before giving your consent.<lf><lf>Do you consent to collection of your data by Capcom<lf>for statistical purposes?<lf><lf>Privacy Policy (https://www.capcom.co.jp/privacy/game/)
+<string>- Data Processing for Statistical Purposes -<lf> <lf>Capcom Co., Ltd. (“Capcom”) collects information regarding your gameplay<lf>(play data, add-ons purchase history by the customer (excluding settlement information), identification information assigned by the platform holder, user<lf>changeable Options setting such as language selection, graphics settings,<lf>sound settings, controller settings), and prepares and uses statistical<lf>data for analyzing the way the game is played.<lf><lf>The statistical data prepared by Capcom is used for various purposes<lf>including as a reference for development of future games and other<lf>promotional activities.<lf><lf>When your consent is obtained, data regarding your gameplay will be<lf>transmitted and stored in Japanese servers which are managed by Capcom<lf>and/or North American servers of any cloud service provider used by<lf>Capcom, regardless of the country where you reside.<lf><lf>Your consent for data processing for statistical purposes is not<lf>mandatory, and you may freely decide whether or not to give your<lf>consent. Your gameplay will not be affected even if you refuse<lf>to consent.<lf><lf>You may withdraw your consent at any time in the Network settings under<lf>Options; however, this will not affect lawful processing of the data<lf>transmitted prior to withdrawal of your consent. Please read this<lf>Privacy Policy before giving your consent.<lf><lf>Do you consent to collection of your data by Capcom<lf>for statistical purposes?<lf><lf>Privacy Policy (https://www.capcom.co.jp/privacy/game/)<lf>
+<string>
+<string>Vergil is now available as a playable character.<lf>(You can enjoy the original DMC V story by<lf>playing as Nero, Dante, or V.)
+<string>"Super Vergil" costume is now available.<lf>(Not available for use in online play.)
+<string>"Special Provocation" has been added for Vergil. 
+<string>"EX Provocation" has been added for Vergil. 
+<string>"Vergil Battle Track 4-Pack" has been added.<lf>(Check the Jukebox in the Gallery for details.)
+<string>Ray tracing is not available in Turbo Mode<lf>Disable ray tracing and proceed?<lf><lf>(Ray tracing will be enabled when viewing <lf>cutscenes via the Gallery.) 
+<string>Ray tracing is disabled in LEGENDARY DARK<lf>KNIGHT. Change difficulty levels to reenable<lf>ray tracing.<lf><lf>
+<string>You can now access the Customize screen<lf>via the mission menu while playing as Vergil.<lf>Here you can use Red Orbs to purchase new<lf>items and skills to increase your arsenal!
+<string>Your television or monitor must support a refresh rate<lf>of 120 Hz or higher to enable high framerate mode.
+<string>Your saved data did not meet the required conditions<lf>to fulfill this request.
+<string>Starting a mission from this point will delete all mission<lf>save state data. Continue?
+<string>Selecting this mode will delete your Bloody Palace save<lf>state data. Continue?
+<string>Ray Tracing is now available!<lf>(Check out Graphics in the Options for details.)
+<string>Vergil is now available for purchase!<lf>Download now to unlock the ability to play as your greatest,<lf>most fearsome rival.<lf><lf>Check out the PlayStation™Store for more details.
+<string>Vergil is now available for purchase!<lf>Download now to unlock the ability to play as your greatest,<lf>most fearsome rival.<lf><lf>Check out the Microsoft Store for more details.
+<string>Vergil is now available for purchase!<lf>Download now to unlock the ability to play as your greatest,<lf>most fearsome rival.<lf><lf>Check out Steam for more details.
+<string>Go to the PlayStation™Store?<lf><lf>Vergil is now available for purchase!<lf>Buy now to unlock the ability to play as your greatest,<lf>most fearsome rival.
+<string>Go to the Microsoft Store?<lf><lf>Vergil is now available for purchase!<lf>Buy now to unlock the ability to play as your greatest,<lf>most fearsome rival.
+<string>Go to the Steam store?<lf><lf>Vergil is now available for purchase!<lf>Buy now to unlock the ability to play as your greatest,<lf>most fearsome rival.
+<string>Add-ons updating.<lf>Returning to the title screen now.
+<string>Add-ons updating.<lf>Returning to the title screen now.
+<string>Multiple save state data detected.<lf>The game will resume using only the newest data.
+<string>Support for Vergil as a playable character could not be<lf>found. Please download the appropriate add-on from<lf>the PlayStation™Store. <lf>Playing past this point will delete any save state data you<lf>have containing Vergil.
+<string>Support for Vergil as a playable character could not be<lf>found. Please download the appropriate add-on from<lf>the Microsoft Store.<lf>Playing past this point will delete any save state data you<lf>have containing Vergil.
+<string>Support for Vergil as a playable character could not be<lf>found. Please download the appropriate add-on.<lf><lf>Playing past this point will delete any save state data you<lf>have containing Vergil.
+<string><COLOR FF0000>#Rejected#</COLOR> PopUp_text_5180
+<string>
+<string>This game has an autosave feature. Do not turn off<lf>the power while the save icon below is displayed.  
+<string>Change network settings to Limited<lf>from Network in the Options menu?<lf>Note: This setting allows data exchange<lf>without player matchmaking. 
+<string>
+<string>- Data Processing for Statistical Purposes -<lf> <lf>Capcom Co., Ltd. (“Capcom”) collects information regarding your gameplay<lf>(play data, add-ons purchase history by the customer (excluding settlement information), identification information assigned by the platform holder, user<lf>changeable Options setting such as language selection, graphics settings,<lf>sound settings, controller settings), and prepares and uses statistical<lf>data for analyzing the way the game is played.<lf><lf>The statistical data prepared by Capcom is used for various purposes<lf>including as a reference for development of future games and other<lf>promotional activities.<lf><lf>When your consent is obtained, data regarding your gameplay will be<lf>transmitted and stored in Japanese servers which are managed by Capcom<lf>and/or North American servers of any cloud service provider used by<lf>Capcom, regardless of the country where you reside.<lf><lf>Your consent for data processing for statistical purposes is not<lf>mandatory, and you may freely decide whether or not to give your<lf>consent. Your gameplay will not be affected even if you refuse<lf>to consent.<lf><lf>You may withdraw your consent at any time in the Network settings under<lf>Options; however, this will not affect lawful processing of the data<lf>transmitted prior to withdrawal of your consent. Please read this<lf>Privacy Policy before giving your consent.<lf><lf>Do you consent to collection of your data by Capcom<lf>for statistical purposes?<lf><lf>Privacy Policy (https://www.capcom.co.jp/privacy/game/)
+<string>- Data Processing for Statistical Purposes -<lf> <lf>Capcom Co., Ltd. (“Capcom”) collects information regarding your gameplay<lf>(play data, add-ons purchase history by the customer (excluding settlement information), identification information assigned by the platform holder, user<lf>changeable Options setting such as language selection, graphics settings,<lf>sound settings, controller settings), and prepares and uses statistical<lf>data for analyzing the way the game is played.<lf><lf>The statistical data prepared by Capcom is used for various purposes<lf>including as a reference for development of future games and other<lf>promotional activities.<lf><lf>When your consent is obtained, data regarding your gameplay will be<lf>transmitted and stored in Japanese servers which are managed by Capcom<lf>and/or North American servers of any cloud service provider used by<lf>Capcom, regardless of the country where you reside.<lf><lf>Your consent for data processing for statistical purposes is not<lf>mandatory, and you may freely decide whether or not to give your<lf>consent. Your gameplay will not be affected even if you refuse<lf>to consent.<lf><lf>You may withdraw your consent at any time in the Network settings under<lf>Options; however, this will not affect lawful processing of the data<lf>transmitted prior to withdrawal of your consent. Please read this<lf>Privacy Policy before giving your consent.<lf><lf>Do you consent to collection of your data by Capcom<lf>for statistical purposes?<lf><lf>Privacy Policy (https://www.capcom.co.jp/privacy/game/)

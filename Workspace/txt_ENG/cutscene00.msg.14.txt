@@ -1,0 +1,96 @@
+<string>
+<string>
+<string>We've known each other a long time...
+<string>Ya never had this much trouble.
+<string>You gonna make it through this, Dante?
+<string>What am I doin', wasting my time here? He's got this.
+<string>You should not underestimate this demon.
+<string>After all, it was he who took your right arm...
+<string>...and gained a great deal of power from it.
+<string>I'm leaving... I suggest you do not fall behind.
+<string>Yeah...
+<string>OK, V... You're an interesting guy, but you're right.
+<string>
+<string>I've got a score to settle with that son of a bitch.
+<string>
+<string>What am I doin', wasting my time here? He's got this.
+<string>You should not underestimate this demon.
+<string>After all, it was he who took your right arm...
+<string>...and gained a great deal of power from it.
+<string>I'm leaving.
+<string>I suggest you do not fall behind.
+<string>Yeah...
+<string>Okay, V... You're an interesting guy, but you're right.
+<string>I've got a score to settle with that son of a bitch.
+<string>
+<string>Alright, let's get started. Who's first?
+<string>
+<string>All right, let's get started. Who's first?
+<string>
+<string>Hey! Thought you took off?
+<string>Do you not understand?<lf>We cannot hope to do this without you.
+<string>That's all right, superstar, go on with your bad self.<lf>Go ahead, we got this.
+<string>
+<string>
+<string>Well... Looks like this won't be a<lf>total waste of time after all.
+<string>Hey, jackass!
+<string>Didn't your mother ever teach you it's not nice to steal?
+<string>Sorry, Dante...
+<string>I'm baggin' this bitch!
+<string>
+<string>This is it, this is the end!<lf>It's all over!
+<string>
+<string>Round two!
+<string>V, get Nero out of here! This was a bad move!
+<string>I can still fight!
+<string>Nero, go! You're just dead weight.
+<string>Back off!
+<string>Come on!
+<string>Let go!
+<string>We must leave here. He is far stronger<lf>than we ever could have imagined.
+<string>That bastard called me dead weight!<lf>I didn't come all this way for nothing!
+<string>
+<string>Stop hitting yourself, and think of ways<lf>to get stronger and actually help.
+<string>If Dante loses...you are all that can defeat Urizen.
+<string>Is that what you call him?
+<string>Yes. Urizen, the demon king...
+<string>That's the name of the demon that took your arm.
+<string>What happened to Dante? Where's Dante?
+<string>He's buying time, but... It doesn't look good.
+<string>This can't be happening... Dante lost?
+<string>Forget it, there's nothing we can do...
+<string>We must go.
+<string>
+<string>What happened to Dante?
+<string>Where's Dante?
+<string>He's buying time, but... It doesn't look good.
+<string>This can't be happening... Dante lost?
+<string>Forget it, there's nothing we can do...
+<string>We must go.
+<string>
+<string>Red Grave and its surrounding cities have ceased to function as a result
+<string>of the mysterious tree that apparently attacked the city one month ago.
+<string>In light of this incident, the government has now—
+<string>They're demons! I've seen them with my own eyes!
+<string>Red Grave is completely taken over!
+<string>Let us pray for mercy. This is a trial from the heavens above...
+<string>The end of the world, as predicted by the Revelation.
+<string>Same crap, different day.
+<string>So, tell me.
+<string>Tell you what?
+<string>How's it feel to be rescuing the guy that killed your father?
+<string>Hey, I'm glad we're gettin' personal. 
+<string>Well, he abandoned my mother and I and left us for dead...
+<string>So, I feel nothin'.
+<string>Well he's not exactly going up for a Father of the Year award, now is he?
+<string>His research wasn't half bad. Came in handy.
+<string>Mildly thankful for that...
+<string>
+<string>You have to do that in here? It already smells like ass...
+<string>
+<string>That's you.
+<string>Hey, Nico!
+<string>Don't lose your tits, I see 'em.
+<string>Hey, you have to hit every single bump in the road?
+<string>Gonna ruin my groove!
+<string>"Two kilometers to Red Grave City"

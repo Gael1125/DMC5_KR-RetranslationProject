@@ -1,0 +1,43 @@
+<string>
+<string>考えても仕方ねえか
+<string>いいタイミングだ<lf>相棒っぽい
+<string>口説いてんのか？
+<string>お断りだ さっさと乗れ
+<string>死ぬかと思った…
+<string>
+<string>なるほど 出口はナシか
+<string>上等だ クソ野郎
+<string>借りを返すぜ
+<string>
+<string>よう 寂しかったろ？
+<string>ダンテは…
+<string>いないな ミイラにもなってない？
+<string>わざわざ死にに来たか
+<string>喋るのか
+<string>“ユリゼン”だっけ？
+<string>イタい名前だ 親もアホなのか？
+<string>名前など 俺にはない
+<string>俺は<RUBY><RB>”力”<RT>ちから</RUBY>… 絶対の<RUBY><RB>”力”<RT>ちから</RUBY>そのものだ
+<string>“名無し”ね<lf>墓標の名前はそれでいいか？
+<string>愚かな人間め
+<string>死ぬがいい
+<string>
+<string>やってやるよ
+<string>
+<string>一発入れてやった！
+<string>虫ケラめ！
+<string>悪魔の<RUBY><RB>力<RT>ちから</RUBY>も持たぬ分際で！
+<string>よくも――
+<string>よくもこの俺に<lf>傷を付けてくれたな！
+<string>何だ！？
+<string>人間という無力な存在に<lf>生まれた事を悔いろ
+<string>思い知るがいい
+<string>真の悪夢とは何かを
+<string>その悪夢の中で――
+<string>絶望を抱き 朽ち果てろ！
+<string>
+<string>人間… まったく忌々しい生物よ
+<string>この世から消し去らねばならぬ
+<string>俺に逆らうとは… 何者だ？
+<string>魔王であるこの俺に<lf>匹敵する力だと！？
+<string>何だ あの悪魔は…

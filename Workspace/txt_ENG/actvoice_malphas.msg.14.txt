@@ -1,0 +1,15 @@
+<string>
+<string>Have mercy on my soul!
+<string>
+<string>What kind of power is it!?
+<string>Such a splendid offering.
+<string>What are you looking for? Here, I'm over here!
+<string>You're still too immature to defeat my master.
+<string>Look at you! Crawling on the ground is your best move.
+<string>Behold, the one and only power of the underground!
+<string>What's the matter? Are you afraid?
+<string>Futile attempt.
+<string>You try in vain.
+<string>What a fool.
+<string>Now die!
+<string>You will wake in Hell!

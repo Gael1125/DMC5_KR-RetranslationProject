@@ -1,0 +1,112 @@
+<string>
+<string>Red Grave and its surrounding cities<lf>have ceased to function
+<string>as a result of the mysterious tree that apparently<lf>attacked the city approximately one month ago.
+<string>In light of this incident, the government has now—
+<string>They're demons! I've seen them with my own eyes!
+<string>Red Grave is completely taken over!
+<string>Let us pray for mercy. This is a trial<lf>from the heavens above... The end—
+<string>
+<string>Same crap, different day.
+<string>So, tell me.
+<string>Tell you what?
+<string>How's it feel to be rescuing the guy<lf>that killed your father?
+<string>Hey, I'm glad we're gettin' personal.
+<string>Well, he abandoned my mother and I and left us for dead...
+<string>So, I feel nothin'.
+<string>Well he's not exactly going up for a<lf>Father of the Year award, now is he?
+<string>His research wasn't half bad. Came in handy.
+<string>Mildly thankful for that...
+<string>
+<string>You have to do that in here?
+<string>It already smells like ass...
+<string>That's you.
+<string>Hey, Nico!
+<string>Don't lose your tits, I see 'em.
+<string>Hey, you have to hit every single bump in the road?
+<string>Gonna ruin my groove!
+<string>
+<string>
+<string>Hold the line. Hold the line! Nothing gets through!
+<string>What's happening? What's going on!?
+<string>
+<string>You look like you need a hug,<lf>but you're not gonna get one from me.
+<string>— Better get lost. 
+<string>— What the hell?
+<string>Hey, who are you?<lf>Hey, you're gonna get yourself killed!
+<string>Don't crap yourself. He likes to kill demon things.
+<string>Let him do his thing.
+<string>You hear what I said, you dumb one-armed<lf>son of a bitch!? You're gonna die!
+<string>Cheer up, crew cut.
+<string>You takin' notes?
+<string>All right, time to kick some ass.
+<string>
+<string>
+<string>Yeah he's a real pro at smackin' demons around.
+<string>That's why I built him that well-functioning<lf>arm... To kick demon ass.
+<string>Hey, psycho! Watch the merchandise!
+<string>Hey, stop bitchin' and take cover!
+<string>
+<string>
+<string>What a lovely house plant.
+<string>Oh, I get it...
+<string>Who brought the marshmallows?<lf>'Cause I'm bringin' the fire.
+<string>
+<string>Hey, tough guy. That'll keep 'em, but not for long.
+<string>Whattaya mean?
+<string>Soldier boy said city's goin' to hell and back,<lf>taken over by the underworld.
+<string>Not just here, but everywhere.
+<string>Yamato did this...
+<string>Why do I feel like your pet mechanic?
+<string>Don't get used to it...
+<string>Nico, I showed you those Order docs.
+<string>So you still owe me, remember?
+<string>Hey, you two! Dinner's ready!
+<string>Be right there!
+<string>Hey, why don't you go ahead? I'm gonna finish up here.
+<string>
+<string>I'll try to save you some... Not.
+<string>You, uh, you need something?
+<string>What is it, you hungry?
+<string>Well,  you're in luck pal, 'cause food's ready and Kyrie always makes too much.
+<string>Hope you like loud talkers, too, 'cause we got a pair of those upstairs.
+<string>You see something you like?
+<string>What the hell? You a demon?
+<string>Nero, the food's getting cold. What's goi—?
+<string>Kyrie! Get back inside, now!
+<string>
+<string>I'm taking this back.
+<string>I'm running out of time...
+<string>Wait... Wait!
+<string>Nero!
+<string>I leave you alone for two minutes, what the hell happened!?
+<string>V's waiting for us up ahead.
+<string>Try not to get us killed on the way there.
+<string>
+<string>Why do I feel like your pet mechanic?
+<string>Don't get used to it...
+<string>Nico, I showed you those Order docs.<lf>So you still owe me, remember?
+<string>
+<string>Hey, you two! Dinner's ready!
+<string>Be right there!
+<string>Hey, why don't you go ahead? I'm gonna finish up here.
+<string>
+<string>I'll try to save you some... Not.
+<string>You, uh, you need something?
+<string>What is it, you hungry?
+<string>Well, you're in luck pal, 'cause food's ready<lf>and Kyrie always makes too much.
+<string>Hope you like loud talkers, too,<lf>'cause we got a pair of those upstairs.
+<string>You see something you like?
+<string>What the hell?
+<string>You a demon?
+<string>Nero, the food's getting cold. What's goi—?
+<string>Kyrie! Get back inside, now!
+<string>
+<string>I'm taking this back.
+<string>I'm running out of time...
+<string>Wait...
+<string>Wait!
+<string>Nero!
+<string>I leave you alone for two minutes,<lf>what the hell happened!?
+<string>
+<string>V's waiting for us up ahead.
+<string>Try not to get us killed on the way there.

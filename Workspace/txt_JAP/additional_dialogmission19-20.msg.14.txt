@@ -1,0 +1,14 @@
+<string>
+<string>余裕たっぷりだな<lf>本気で来いよ、俺に勝ちたいならな
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0005
+<string>そんなに遊びたいのか？　上等だ！
+<string>ビビったのか？<lf>それとも武者震いってやつか？
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0025
+<string>…すげぇな！
+<string>負けだと…
+<string>ヒュー　やるねぇ～！
+<string>マジか…？　もっと踊ろうぜ！
+<string>おしまいかい？　泣き虫～「バージルちゃん」よぉ。
+<string>
+<string>さらばだ ダンテ
+<string>終わらせよう ダンテ…　全てをな

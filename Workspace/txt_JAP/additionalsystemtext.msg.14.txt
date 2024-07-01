@@ -1,0 +1,10 @@
+<string>
+<string>サインインしていない状態では、この項目は選択できません。
+<string>ネットワークエラーが発生しました。
+<string>ネットワークエラーが発生しました。リトライしますか？
+<string>PlayStation™Networkへのサインインをキャンセルしました。
+<string>PlayStation™Network にサインインされていません。
+<string>PlayStation™Network にサインインされていないため<lf>各種ネットワーク機能が利用できません。
+<string>コントローラーが検出できません。<lf>使用するコントローラーを本体に接続して、 <ICON DECIDE> を押してください。
+<string>追加コンテンツをチェックしています。<lf>本体の電源を切らないでください。
+<string>追加コンテンツをチェックしています。<lf>本体の電源を切らないでください。

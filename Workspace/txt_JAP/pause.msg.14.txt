@@ -1,0 +1,65 @@
+<string>
+<string>PAUSE MENU
+<string>CONTINUE
+<string>CHECKPOINT
+<string>RETRY MISSION
+<string>QUIT MISSION
+<string>TUTORIAL
+<string>SKILL LIST
+<string>PHOTO MODE
+<string>OPTIONS
+<string>EXIT
+<string>
+<string>ゲームに戻ります
+<string>チェックポイントからやり直します
+<string>ミッションの最初からやり直します
+<string>メインメニューに戻ります
+<string>今までに見たチュートリアルを確認します
+<string>スキルリストを確認します
+<string>画面撮影を補助するフォトモードを起動します
+<string>各種設定を行います
+<string>タイトル画面に戻ります
+<string>シークレットミッションを終了します
+<string>
+<string>
+<string>挑発
+<string>ポーズ
+<string>カメラ操作
+<string>カメラ位置リセット
+<string>移動
+<string>ロックオン切り替え
+<string>（未使用）
+<string>
+<string>近距離攻撃
+<string>遠距離攻撃
+<string>デビルブレイカー
+<string>ジャンプ
+<string>ロックオン
+<string>デビルブリンガー
+<string>ブレイクアウェイ
+<string>イクシード
+<string>デビルトリガー
+<string>
+<string>近距離攻撃
+<string>遠距離攻撃
+<string>スタイルアクション
+<string>ジャンプ
+<string>ロックオン
+<string>近距離武器切り替え
+<string>デビルトリガー
+<string>遠距離武器切り替え
+<string>トリックスター
+<string>ガンスリンガー
+<string>ソードマスター
+<string>ロイヤルガード
+<string>
+<string>シャドウ攻撃
+<string>グリフォン攻撃
+<string>仮死敵にとどめ攻撃
+<string>ジャンプ
+<string>ロックオン
+<string>ＤＴゲージ溜め
+<string>ナイトメア
+<string>デビルトリガー
+<string>
+<string>SECRET MISSION

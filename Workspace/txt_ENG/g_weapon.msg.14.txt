@@ -1,0 +1,31 @@
+<string>
+<string>Yamato
+<string>Beowulf
+<string>Mirage Edge
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><RUBY><RB>Yamato</RB><RT></RT></RUBY>
+<string>Beowulf
+<string>Mirage Edge
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><RUBY><RB>YAMATO</RB><RT></RT></RUBY>
+<string>BEOWULF
+<string>MIRAGE EDGE
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

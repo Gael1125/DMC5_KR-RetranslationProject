@@ -1,0 +1,19 @@
+<string>
+<string>A strange demonic life form is blocking the way forward.
+<string>A Nidhogg Hatchling should be able to open this path.
+<string>The demonic tree blocks the path forward. 
+<string>There's something about this poster...
+<string>Nero appears to be fighting something up above.
+<string>The road continues up there, from the looks of it.
+<string>Blood's gushing through here like a freakin' water slide.
+<string>I have a bad feeling about this...
+<string>Weird-lookin' walls... Better not stick around in there.
+<string>The path forward's changed up on me.
+<string>There's a passage below...looks like the statue moves. 
+<string>I sense something above...like a wide-open space.
+<string>I can't go beyond here.
+<string>Something's moving a level above me.
+<string>This blood clot looks fragile. It connects to those roots.
+<string>A flammable tank... I'd better not attack it while close by.
+<string>I think I can drop down from here.
+<string>I can't go this way.

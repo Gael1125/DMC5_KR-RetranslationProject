@@ -1,0 +1,12 @@
+<string>
+<string>こ……この俺がッ……！？
+<string>おのれえェェェ！！
+<string>あり得ねええええッ！
+<string>ふざけ…やがってェ…！
+<string>
+<string>潰れろ、ゴミめェッ！
+<string>俺様の力を…思い知れェッ！
+<string>どうしたァ？　ビビったか？
+<string>死にやがっれェッ！
+<string>あの果実は俺様が頂く…！
+<string>チョコマカしやがって…！

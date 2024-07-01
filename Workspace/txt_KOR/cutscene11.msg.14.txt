@@ -1,0 +1,43 @@
+<string>
+<string>네로가 마지막 희망이었는데...
+<string>결국 쓸모가 없었지.
+<string>
+<string>V, 네로를 데리고 가! 안 되겠어!
+<string>
+<string>네로, 그냥 가! 걸리적거리지 말고.
+<string>내가 걸리적거린다잖아!<lf>그딴 소리나 듣자고 온 줄 알아!
+<string>
+<string>이것이... 힘이다.
+<string>데빌 소드 스파다도 이제 소용없다.
+<string>허나 너희 둘은 쓸모가 있겠어.
+<string>내 힘이 되어주어야겠다.
+<string><lf>나를 위해 쓰이는 걸 영광으로 알아라.
+<string>
+<string>됐어, 더는 못 들어주겠군.
+<string>꼬맹이한테...
+<string>사나이 일을 맡길 순 없지.
+<string>잠깐! 아직 얘기 안 끝났...
+<string>됐어, 좀 쉬기나 해.
+<string>아무튼... 신세 한 번 졌어.
+<string>
+<string>벌써 핼러윈인가?
+<string>스파다...!
+<string>근데 옷이 좀 커보이는데...<lf>패션 센스가 영 별로네.
+<string>내가 좀 잘라줄까?
+<string>
+<string>이런, 너무 많이 잘라버렸네.
+<string>괜찮아?
+<string>좀 살 것 같네.
+<string>단테... 그 악마는...!
+<string>딴생각 말고 일단 좀 쉬어.
+<string>단테!
+<string>트리쉬를 부탁해!
+<string>단테, 잠깐...!
+<string>단테는 벌써...
+<string>그래...
+<string>하지만 이길 수는 없겠지.
+<string>그 악마는 뭐지, V? 정체가 뭐냐고.
+<string>유리즌이란 악마는 없어.<lf>나도 마계에서 왔기 때문에 알 수 있지.
+<string>잠깐, 그럼 당신은 어떻게...?
+<string>그건 중요하지 않아.<lf>난 과거의 내가 벗어버린 그림자일 뿐.
+<string>내가 어떻게 태어났는지 알려줘야겠군.

@@ -1,0 +1,351 @@
+<string>
+<string>OPTIONS
+<string>GAME OPTIONS
+<string>SOUND
+<string>BRIGHTNESS
+<string>CONTROLS
+<string>LANGUAGE
+<string>NETWORK
+<string>CUSTOMIZE CUTSCENES
+<string>PC OPTIONS
+<string>SELECT CUTSCENE
+<string>NPC COSTUMES
+<string>
+<string>Change game settings.
+<string>Change sound settings.
+<string>Change brightness settings.
+<string>Change controller settings.
+<string>Change language settings.
+<string>Change network settings.
+<string>Change cutscene settings.
+<string>Adjust keyboard controls, mouse controls and graphics settings.
+<string>Change cutscene type.
+<string>Change NPC costumes in cutscenes.
+<string>Change controller settings.
+<string>
+<string>
+<string>GAME OPTIONS
+<string>LOCK-ON MARKER
+<string>CAMERA (HORIZONTAL)
+<string>CAMERA (VERTICAL)
+<string>CAMERA SPEED
+<string>AUTO-ASSIST
+<string>TUTORIAL DISPLAY
+<string>INTRODUCTION
+<string>VIBRATION
+<string>CAMERA SPEED (LEFT/RIGHT)
+<string>CAMERA SPEED (UP/DOWN)
+<string>CAMERA DISTANCE
+<string>CAMERA TRACKING
+<string>ATTENTION CAMERA
+<string>Turn lock-on marker on/off.
+<string>Change left/right camera controls.
+<string>Change up/down camera controls.
+<string>Adjust camera speed.
+<string>Change auto-assist settings.
+<string>Change tutorial display settings.
+<string>Change introduction display settings.
+<string>Change controller vibration settings.
+<string>Adjust horizontal camera speed.
+<string>Adjust vertical camera speed.
+<string>Adjust camera distance to the player.
+<string>Change settings for the camera that follows behind the player.
+<string>Change settings for the camera highlighting certain things of interest.
+<string>Change controller vibration settings.
+<string>ON
+<string>OFF
+<string>NORMAL
+<string>INVERTED
+<string>Display lock-on marker.
+<string>Hide lock-on marker.
+<string>Use default camera controls.<lf>(Push left to look left and<lf>push right to look right.)
+<string>Use inverted camera controls.<lf>(Push left to look right and<lf>push right to look left.)
+<string>Use default camera controls.<lf>(Push up to look up and<lf>push down to look down.)
+<string>Use inverted camera controls.<lf>(Push up to look down and<lf>push down to look up.)
+<string>Adjust camera speed.<lf>Increasing scale speeds up the camera.
+<string>Don't use auto-assist.<lf><lf>Note: The auto-assist function lets you<lf>perform intricate combos with simple<lf><trc id="0"> inputs. Various skills will<lf>activate automatically.<lf>(Toggle on and off in-game by holding <ICON ACT_RStP>)
+<string>Use auto-assist.<lf>Perform intricate combos with simple<lf><trc id="0"> inputs, but earn fewer bonus<lf>points at the Results screen.<lf>(Toggle on and off in-game by holding <ICON ACT_RStP>)
+<string>Display tutorials (control guides) at<lf>helpful times during the game.
+<string>Don't display any tutorials.
+<string>Display introduction screens for enemies<lf>and items when you encounter them for<lf>the first time.
+<string>Don't display introduction screens.
+<string>Enable controller vibration.
+<string>Enable controller vibration.
+<string>Disable controller vibration.
+<string>Disable controller vibration.
+<string>Increasing scale speeds up the camera.
+<string>Increasing scale speeds up the camera.
+<string>Increasing scale pulls the camera<lf>farther away from the player character.
+<string>The camera automatically swings behind<lf>the player.
+<string>The camera does not automatically swing<lf>behind the player.
+<string>Turns on a camera that focuses on<lf>certain in-game occurrences.
+<string>Turns off the camera that focuses on<lf>certain in-game occurrences.
+<string>
+<string>SOUND
+<string>MUSIC VOLUME
+<string>SOUND EFFECT VOLUME
+<string>VOICE VOLUME
+<string>DYNAMIC RANGE
+<string>Adjust music volume.
+<string>Adjust sound effect volume.
+<string>Adjust voice volume.
+<string>Adjust the volume range to suit your listening environment.
+<string>LARGE
+<string>SMALL
+<string>Adjust left or right to decrease or increase<lf>the music volume.
+<string>Adjust left or right to decrease or increase<lf>the sound effect volume.
+<string>Adjust left or right to decrease or increase<lf>the voice volume.
+<string>Increase the dynamic range.<lf>Soft and loud noises will be more pronounced.
+<string>Decrease the dynamic range.<lf>Abrupt volume changes will be subdued.
+<string>
+<string>BRIGHTNESS
+<string>HDR BRIGHTNESS
+<string>Adjust screen brightness. (1/4)
+<string>Adjust screen brightness. (2/4)
+<string>Adjust screen brightness. (3/4)
+<string>Adjust screen brightness. (4/4)
+<string>Adjust until the internal brightness matches the external brightness.
+<string>Move the white part to adjust the light/dark (blue/red) area balance. Default position recommended.
+<string>The screen may look different depending on the angle you view it from.<lf>We recommend playing while directly facing the screen.
+<string>Adjust left or right until the image is barely visible.
+<string>Adjust left or right until the image is barely visible.
+<string>Adjust scale until the pattern meets the required condition.
+<string>Not Visible
+<string>Barely Visible
+<string>Maximum Luminance
+<string>Emphasize dark areas
+<string>Emphasize light areas
+<string>
+<string>CONTROLS: NERO
+<string>Change controls for various actions.
+<string>MELEE ATTACK
+<string>GUN ATTACK
+<string>JUMP
+<string>DEVIL BREAKER
+<string>DEVIL BRINGER
+<string>BREAK AWAY
+<string>CHANGE TARGET
+<string>LOCK-ON
+<string>EXCEED
+<string>RESET CAMERA
+<string>DEVIL TRIGGER
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>(UNUSED)
+<string>Close-range attacks.
+<string>Long-range attacks.
+<string>Jump into the air.
+<string>Use a Devil Breaker to attack.
+<string>Use the Devil Bringer to attack.
+<string>Detach the Devil Breaker currently equipped.
+<string>Switch lock-on targets.
+<string>Lock on to a target.
+<string>Use Exceed.
+<string>Return camera to default position.
+<string>Activate Devil Trigger.<lf>(Requires 3 units of DT Gauge.)
+<string>Taunt the enemy.
+<string>Move the character.
+<string>Move the character.
+<string>Move the character.
+<string>Move the character.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>
+<string>
+<string>CONFIRM
+<string>
+<string>Press <trc id="0"> to assign (<ICON BtnD>/<ICON BtnR>/<ICON BtnL>/<ICON BtnU>/<ICON LB>/<ICON LT>/<ICON RB>/<ICON RT>/<ICON Dir>).
+<string>Press <trc id="0"> to assign (<ICON BtnD>/<ICON BtnR>/<ICON BtnL>/<ICON BtnU>).
+<string>Press <trc id="0"> to assign (<ICON LB>/<ICON LT>/<ICON RB>/<ICON RT>).
+<string>Press <trc id="0"> to assign (<ICON DirU>/<ICON DirD>/<ICON DirL>/<ICON DirR>).
+<string>Press <trc id="0"> to assign (<ICON LStP>/<ICON RStP>).
+<string>Press <trc id="0"> to assign (some cannot be assigned).
+<string>Press key to assign (some keys cannot be assigned).
+<string>
+<string>Multiple commands have been assigned to the same <trc id="0">.
+<string>Multiple commands have been assigned to the same key.
+<string>
+<string>CONTROLS: DANTE
+<string>Change controls for various actions.
+<string>MELEE ATTACK
+<string>GUN ATTACK
+<string>JUMP
+<string>STYLE ACTION
+<string>DEVIL TRIGGER
+<string>CHANGE TARGET
+<string>LOCK-ON
+<string>CHANGE SWORD
+<string>CHANGE GUN
+<string>CHANGE STYLE: TRICKSTER
+<string>CHANGE STYLE: ROYALGUARD
+<string>CHANGE STYLE: GUNSLINGER
+<string>CHANGE STYLE: SWORDMASTER
+<string>RESET CAMERA
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>Close-range attacks.
+<string>Long-range attacks.
+<string>Jump into the air.
+<string>Attack using a style.
+<string>Activate Devil Trigger.<lf>(Requires 3 units of DT Gauge.)
+<string>Switch lock-on targets.
+<string>Lock on to a target.
+<string>Change close-range weapon.
+<string>Change long-range weapon.
+<string>Change to Trickster style.
+<string>Change to Royalguard style.
+<string>Change to Gunslinger style.
+<string>Change to Swordmaster style.
+<string>Return camera to default position.
+<string>Taunt the enemy.
+<string>Move the character.
+<string>Move the character.
+<string>Move the character.
+<string>Move the character.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>
+<string>CONTROLS: V
+<string>Change controls for various actions.
+<string>SHADOW
+<string>GRIFFON
+<string>NIGHTMARE
+<string>JUMP
+<string>CHANGE TARGET
+<string>LOCK-ON
+<string>FINISHING BLOW
+<string>CHARGE DEVIL TRIGGER
+<string>AUTO ATTACK
+<string>RESET CAMERA
+<string>TAUNT
+<string>MOVE (UP)
+<string>MOVE (DOWN)
+<string>MOVE (LEFT)
+<string>MOVE (RIGHT)
+<string>CAMERA CONTROL (UP)
+<string>CAMERA CONTROL (DOWN)
+<string>CAMERA CONTROL (LEFT)
+<string>CAMERA CONTROL (RIGHT)
+<string>Order Shadow to attack.
+<string>Order Griffon to attack.
+<string>Summon Nightmare.<lf>(Requires 3 units of DT Gauge.)
+<string>Jump into the air.
+<string>Switch lock-on targets.
+<string>Lock on to a target.
+<string>Deliver the final blow to dying enemies.
+<string>Recover DT Gauge.<lf>(Requires the relevant skill.)
+<string>Order V's pet demons to enter<lf>auto-attack mode.
+<string>Return camera to default position.
+<string>Taunt the enemy.
+<string>Move the character.
+<string>Move the character.
+<string>Move the character.
+<string>Move the character.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>Move the camera.<lf>Note: Does not function in certain areas.
+<string>
+<string>LANGUAGE
+<string>DISPLAY SUBTITLES
+<string>SUBTITLE LANGUAGE
+<string>VOICE LANGUAGE
+<string>Turn subtitles on/off.
+<string>Change subtitle language.
+<string>Change voice language.
+<string>ON
+<string>OFF
+<string>JAPANESE
+<string>ENGLISH
+<string>FRENCH
+<string>ITALIAN
+<string>GERMAN
+<string>SPANISH
+<string>CHINESE (TRADITIONAL)
+<string>CHINESE (SIMPLIFIED)
+<string>KOREAN
+<string>POLISH
+<string>BRAZILIAN PORTUGUESE
+<string>RUSSIAN
+<string>Display subtitles.
+<string>Don't display subtitles.
+<string>Change subtitles to Japanese.
+<string>Change subtitles to English.
+<string>Change subtitles to French.
+<string>Change subtitles to Italian.
+<string>Change subtitles to German.
+<string>Change subtitles to Spanish.
+<string>Change subtitles to Chinese (Traditional).
+<string>Change subtitles to Chinese (Simplified).
+<string>Change subtitles to Korean.
+<string>Change subtitles to Polish.
+<string>Change subtitles to Brazilian Portuguese.
+<string>Change subtitles to Russian.
+<string>Change voices to Japanese.
+<string>Change voices to English.
+<string>
+<string>NETWORK
+<string>NETWORK
+<string>SPOILER FILTER
+<string>FRIEND PRIORITY
+<string>UNIQUE INFORMATION
+<string>PRIVACY POLICY
+<string>Turn network connectivity for this game on/off.
+<string>Turn spoiler filter on/off.
+<string>Change friend matching priority settings.
+<string>Change unique information transfer settings.
+<string>View privacy policy.
+<string>ON
+<string>OFF
+<string>
+<string>
+<string>ON
+<string>OFF
+<string>LIMITED
+<string>Communication data will be sent and<lf>received, such as matching data with<lf>other users.
+<string>Matching data will not be sent<lf>or received.
+<string>Hides any information received from<lf>other players that contains content not<lf>yet available in your game, such as<lf>character costumes.<lf>(Filter does not catch player weapons.)
+<string>Data received from other players will<lf>not be filtered. Content not yet available<lf>in your game may be revealed, such as<lf>character costumes.
+<string>Friends are prioritized when matching.
+<string>You will be matched with any player.
+<string>Unique information for this game and<lf>usage statistics will be transferred over<lf>the network.
+<string>Data will not be transferred.
+<string>Asynchronous communication data will be<lf>sent and received, but you will not be<lf>matched with other players.
+<string>View the details of this game's privacy policy.<lf>A network connection is required.<lf><lf>Privacy Policy:<lf>https://www.capcom.co.jp/privacy/game/
+<string>
+<string>CUSTOMIZE CUTSCENES
+<string>SELECT CUTSCENE
+<string>CUSTOMIZE GALLERY CHARACTERS
+<string>SELECT NPC COSTUMES
+<string>SELECT CUTSCENE TYPE
+<string>CUSTOMIZE GALLERY CHARACTERS
+<string>Change NPC cutscene costumes.
+<string>Change cutscene type.
+<string>View Gallery characters in alternate costumes.
+<string><ICON BtnR> Change costumes
+<string>ORIGINAL
+<string>DEVELOPMENT
+<string>Go to NPC costume select screen.
+<string>Play original cutscenes.
+<string>Play previs cutscenes to see live-action<lf>video used during development.<lf>(Only available for certain cutscenes.)
+<string>Go to the character costume customization<lf>screen (only affects Gallery costumes).
+<string>Scroll to the bottom of the agreement to view your options.
+<string>PRIVACY POLICY

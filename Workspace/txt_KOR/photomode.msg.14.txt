@@ -1,0 +1,13 @@
+<string>
+<string>PHOTO MODE
+<string>
+<string><ICON Dir> 카메라 위치 조절
+<string><ICON LS_UD> 카메라 줌 인/아웃
+<string><ICON RS_LR> 카메라 회전
+<string><ICON CenR> 가이드 표시 켜기/끄기
+<string><ICON BtnL> 정보 표시 켜기/끄기
+<string><ICON BtnU> 난이도 표시 켜기/끄기
+<string><ICON CANCEL> 뒤로
+<string><ICON MOUSE_DRAG_3> 카메라 위치 조절
+<string><ICON MOUSE_SCR_UD> 카메라 줌 인/아웃
+<string><ICON KEY_DRAG> 카메라 회전

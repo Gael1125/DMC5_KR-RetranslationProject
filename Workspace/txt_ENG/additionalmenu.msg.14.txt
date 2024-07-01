@@ -1,0 +1,64 @@
+<string>
+<string>NERO/DANTE/V
+<string>VERGIL
+<string>LEGENDARY DARK KNIGHT
+<string>NERO/DANTE/V
+<string>VERGIL
+<string>UNLEASH VERGIL
+<string>
+<string>Embark with Nero, Dante, and V through the events of DMC V.
+<string>Embark with Vergil through the events of DMC V.
+<string>A mode tailored for highly skilled players.<lf>Hordes of demons await.
+<string>A mode tailored for highly skilled players.
+<string>Purchase Vergil as a playable character from the online store.
+<string>
+<string>STORY EX
+<string>
+<string>Play Vergil's cutscenes.
+<string>
+<string><ICON BtnU>
+<string>
+<string>OFF
+<string>Level 0
+<string>Level 1
+<string>Level 2
+<string>
+<string>Recover Devil Trigger Gauge
+<string>Lock Concentration Gauge
+<string>Recover Sin Devil Trigger Gauge
+<string>
+<string>"ON" makes the Devil Trigger Gauge<lf>recover slowly over time and devil clones<lf>will not disappear even if the gauge<lf>runs out. "OFF" disables this effect.
+<string>Selecting a level will set the<lf>concentration gauge to that level,<lf>preventing it from decreasing.<lf>"OFF" disables this effect.
+<string>"Automatic" makes the Sin Devil Trigger<lf>Gauge recover slowly over time.<lf>"Unlimited" makes the gauge stay full at<lf>all times. "OFF" disables this effect.
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>SUPER VERGIL <lf>ORIGINAL
+<string>SUPER VERGIL <lf>EX COLOR
+<string>
+<string>ABILITIES
+<string>YAMATO
+<string>BEOWULF
+<string>MIRAGE EDGE
+<string>MIRAGE BLADE
+<string>
+<string>Learn new abilities.
+<string>Learn skills for Yamato.
+<string>Learn skills for Beowulf.
+<string>Learn skills for Mirage Edge.
+<string>Learn new Mirage Blade skills.
+<string>
+<string>MELEE ATTACK
+<string>MIRAGE BLADE
+<string>TRICK ACTION
+<string>JUMP
+<string>LOCK-ON
+<string>CHANGE MELEE WEAPON
+<string>SUMMON CLONE
+<string>CHANGE MELEE WEAPON
+<string>RESET CLONE
+<string>SLOW CLONE
+<string>HASTEN CLONE
+<string>BANISH CLONE
+<string>
+<string>Devil May Cry 5 Special Edition

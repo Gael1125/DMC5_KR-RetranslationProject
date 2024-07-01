@@ -1,0 +1,25 @@
+<string>
+<string>Kyrie...
+<string>Dammit...
+<string>No way in hell...
+<string>Just my luck...
+<string>I'm not done...
+<string>
+<string>Round two!
+<string>Ready to die?
+<string>Thought you had this, didn't ya?
+<string>Say your prayers.
+<string>In your face!
+<string>
+<string>Want it? All yours!
+<string>
+<string>Happy birthday... Now make a wish!
+<string>
+<string>Try this on for size!
+<string>Open up, Gerbera!
+<string>Here's what you've been waiting for!
+<string>Get in there!
+<string>Nobody move!
+<string>Take your time!
+<string>Caught ya!
+<string>Screwed now!

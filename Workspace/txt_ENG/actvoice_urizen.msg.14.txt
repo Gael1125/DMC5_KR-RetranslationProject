@@ -1,0 +1,35 @@
+<string>
+<string>I...can still fight!
+<string>Impossible...!
+<string>
+<string>Scatter like dust...
+<string>What an eyesore.
+<string>Insolence!
+<string>Insignificant.
+<string>What a futile attempt...
+<string>You shall regret your existence!
+<string>You will not overcome me!
+<string>Petty...
+<string>The power is the truth.
+<string>You're nothing but a maggot!
+<string>You worthless piece of scum!
+<string>Humans... Conceited and useless beings...
+<string>Run while you can...
+<string>Nowhere to go!
+<string>Only pain!
+<string>Swarm him!
+<string>Your efforts are in vain!
+<string>Surrender...NOW!
+<string>Begone!
+<string>You VERMIN!
+<string>Die!
+<string>Scatter!
+<string>Wasted effort...
+<string>What a bore...
+<string>This is despair!
+<string>Witness the true power...!
+<string>This is the end!
+<string>Over here...
+<string>Power... More POWER...
+<string>Nothing will be left!
+<string>True despair...begins now.

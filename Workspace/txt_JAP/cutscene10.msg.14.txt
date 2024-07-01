@@ -1,0 +1,50 @@
+<string>
+<string>こっちよ！
+<string>隠れてるのよ ダンテ<lf>動いては駄目！
+<string>バージルを探してくるわ
+<string>でも戻れないかもしれない…<lf>だからよく聞いて
+<string>私が戻らなかったら<lf>あなた１人で逃げるのよ
+<string>そして名前も過去も捨てて<lf>別人として生きるの
+<string>いいわね？
+<string>バージル！ どこにいるの？
+<string>
+<string>危うく串刺しだ
+<string>こうでもしないと――
+<string>起きそうもなかった
+<string>今 何日だ？
+<string>１５日だ… ６月の
+<string>１か月…？
+<string>体が硬いワケだ
+<string>急げよ オッサン！
+<string>ネロはユリゼンのトコだ！
+<string>だけど たぶん…
+<string>人殺しィ！
+<string>俺の仕事だ ネロを巻き込むな
+<string>お前がユリゼンに勝てるなら<lf>あんな小僧に頼らない
+<string>だがユリゼンの<RUBY><RB>力<RT>ちから</RUBY>は…<lf>俺の想像を越えていた
+<string>
+<string>嫌なニオイね
+<string>掃き溜めだからな
+<string>これ程の<RUBY><RB>力<RT>ちから</RUBY>とは…
+<string>逃げたきゃ逃げろよ<lf>お前にゃ荷が重い
+<string>
+<string>悪いが そうさせて貰おう
+<string>は？ へ？ おいおい <RUBY><RB>Ｖ<RT>ブイ</RUBY>ちゃん？
+<string>待てよ！ マジ逃げ？ なあ！？
+<string>
+<string>保険を用意しておく
+<string>本当に逃げるとはね
+<string>気にすんな ゴミ掃除が先さ
+<string>
+<string>早い者勝ちよね？
+<string>当然よ！  お先に失礼！
+<string>本当に“アイツ”なのか…
+<string>確かめなきゃな
+<string>
+<string>これはこれは 掃き溜めの王様
+<string>この悪女どもは俺でも手こずる
+<string>
+<string>それを瞬殺となりゃ――
+<string>“大当たり”か！
+<string>ダンテ…！
+<string>

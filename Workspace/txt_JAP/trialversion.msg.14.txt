@@ -1,0 +1,299 @@
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ガーベラ装備時に<ICON ACT_BtnR><lf>または<lf><ICON ACT_LS>＋<ICON ACT_BtnR>
+<string>ジョッキー<lf><lf><ICON ACT_BtnR>で前方に衝撃波を放つ。<lf>（敵の遠距離攻撃を一部跳ね返す）<lf><ICON ACT_LS>＋<ICON ACT_BtnR>で素早く移動。
+<string>ガーベラ装備時に<lf><ICON ACT_BtnR>を押し続けてから離す<lf>（右腕の光が強くなるまで数秒間）
+<string>ステイメンレイ／ペタルレイ<lf><lf>地上で放てば太い光線を前方に発射。<lf>空中で放てば何本もの貫通光線となって<lf>壁や床で跳ね回る。
+<string>
+<string><SIZE 180>D</SIZE>EMO
+<string>DEMO
+<string>
+<string>CONTROL GUIDE
+<string>操作ガイド
+<string>・<ICON CenR>でポーズメニューを開き<lf>画面右上で入力操作の確認ができる。<lf>　<lf>・様々なアクションの操作方法についても<lf>ポーズメニュー内のSKILL LISTから調べられる。
+<string>（青）
+<string>（緑）
+<string>電撃でブッ飛ばす！
+<string>衝撃波で空中移動！
+<string>（赤）
+<string>舞う鉄拳を叩き込め！
+<string>
+<string>デモ版では「試す」の機能を利用できません。<lf>製品版では「試す」を選択すると<lf>購入前にスキルの試用ができます。
+<string>
+<string>ミッション進行を中断し、タイトルに戻ります。<lf>再開はミッションの始めからとなります。<lf>よろしいですか？
+<string>製品版ではトレーラーに入り<lf>スキルやデビルブレイカーのカスタマイズが行えます。<lf> （このバージョンでは利用できません）
+<string>タイトルに戻ります。<lf>よろしいですか？
+<string>ミッションの進行状況はすべてリセットされます。<lf>よろしいですか？
+<string>
+<string>スキルコマンドリスト<lf><lf>入力の組み合わせにより、<lf>様々なスキルアクションが行える。<lf>まずは簡単なものから試してみよう。<lf>（製品版ではより多くのスキルを習得できる）
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>TITLE
+<string>タイトルに戻ります
+<string>
+<string>BUY NOW
+<string>製品版を購入できます
+<string>PlayStation™Storeへ移行します
+<string>Xbox Games ストアへ移行します
+<string>Storeへ移行します
+<string>
+<string>EXIT
+<string>ゲームを終了します
+<string>
+<string>CONTROL
+<string>ゲーム中でもポーズメニューより詳細な操作説明を確認可能です
+<string>※この操作は初期設定時のものです
+<string>
+<string>悪魔の血が結晶化した赤い魔石。<lf>新たな武器やスキル獲得の対価として<lf>利用できる。
+<string>
+<string>DMC is BACK!!
+<string>イケてるよ、文句なしだ！
+<string>
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>SIDE ROLL
+<string>
+<string>PROVOCATION
+<string>RAINBOW
+<string>SPEED
+<string>WIRE SNATCH
+<string>WIRE SNATCH 2
+<string>WIRE BOUND
+<string>AIR HIKE
+<string>ENEMY STEP
+<string>
+<string>RED QUEEN COMBO A
+<string>RED QUEEN COMBO C
+<string>AERIAL COMBO
+<string>ROULLETTE SPIN
+<string>HIGH ROLLER
+<string>EX HIGH ROLLER
+<string>STREAK
+<string>EX STREAK
+<string>SPLIT
+<string>DOUBLE DOWN
+<string>CALIBUR
+<string>SHUFFLE
+<string>EX CALIBUR
+<string>EX SHUFFLE
+<string>
+<string>NORMAL SHOT
+<string>COLOR UP
+<string>HIGH SHOT
+<string>
+<string>EXCEED
+<string>EX-Act
+<string>EXCEED 2 
+<string>
+<string>BREAKAGE
+<string>BREAK AWAY
+<string>SCAPEGOAT
+<string>
+<string>BATTERY
+<string>EXPLODER
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>JET GADGET
+<string>BOOST KNUCKLE
+<string>NEO BUSTER
+<string>SUPER BUSTER
+<string>
+<string>移動
+<string>カメラ
+<string>ロックオン
+<string>ジャンプ
+<string>キックジャンプ
+<string>サイドロール
+<string>
+<string>挑発
+<string>レインボウ
+<string>スピード
+<string>ワイヤースナッチ
+<string>ワイヤースナッチ２
+<string>ワイヤーバウンド
+<string>エアハイク
+<string>エネミーステップ
+<string>
+<string>レッドクイーンコンボＡ
+<string>レッドクイーンコンボＣ
+<string>エリアルコンボ
+<string>ルーレットスピン
+<string>ハイローラー
+<string>ＥＸハイローラー
+<string>ストリーク
+<string>ＥＸストリーク
+<string>スプリット
+<string>ダブルダウン
+<string>キャリバー
+<string>シャッフル
+<string>
+<string>ノーマルショット
+<string>カラーアップ
+<string>ハイショット
+<string>
+<string>イクシード
+<string>ＥＸアクト
+<string>イクシード２ 
+<string>
+<string>ブレイクエイジ
+<string>ブレイクアウェイ
+<string>スケープゴート
+<string>
+<string>バッテリー
+<string>エクスプローダー
+<string>ジョッキー
+<string>ステイメンレイ／ペタルレイ
+<string>
+<string><ICON ACT_LS>
+<string><ICON ACT_RS>
+<string><ICON ACT_RB>を押し続ける
+<string>地上で<ICON ACT_BtnD>
+<string>ジャンプ後に壁の近くで<ICON ACT_BtnD>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>横方向＋<ICON ACT_BtnD>
+<string>
+<string><ICON ACT_CenL>
+<string>走り状態から<ICON ACT_CenL>
+<string><ICON ACT_LS>を入力し続ける
+<string><ICON ACT_RB>＋<ICON ACT_BtnR>
+<string>ワイヤースナッチの常時機能強化
+<string>一部の重い敵に対し <lf><ICON ACT_RB> でロックオンして<ICON ACT_BtnR>
+<string>ジャンプ後に<ICON ACT_BtnD> 
+<string>空中で敵に近づき<ICON ACT_BtnD> 
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>ＥＸゲージストック時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>ＥＸゲージストック時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>ＥＸゲージストック時 空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU> 
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU> 
+<string>ＥＸゲージストック時 空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>ＥＸゲージストック時 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>
+<string><ICON ACT_BtnL>
+<string><ICON ACT_BtnL>を押し続ける<lf>左腕が光ったら離す
+<string>バレットゲージストック時<lf><ICON ACT_BtnL>
+<string>
+<string>ＥＸゲージが溜まるまで何度か<lf><ICON ACT_LT>を押し続ける
+<string>各攻撃の直後<ICON ACT_LT>
+<string>イクシードの常時機能強化
+<string>
+<string>デビルブレイカーを装備時に<lf><ICON ACT_BtnR>を押し続け<lf>右腕の光がより強くなってから離す
+<string>デビルブレイカーを装備時に<ICON ACT_LB>
+<string>デビルブレイカー装備時に<ICON ACT_BtnR>を押した時、<lf>または<lf><ICON ACT_BtnR>を押し続けている間に攻撃を受ける
+<string>
+<string>オーバーチュア装備時に<lf><ICON ACT_BtnR>
+<string>オーバーチュア装備時に<lf><ICON ACT_BtnR>を押し続け<lf>右腕の光がより強くなってから離す
+<string>ガーベラ装備時に<lf><ICON ACT_BtnR><lf>または<lf><ICON ACT_LS>＋<ICON ACT_BtnR>
+<string>ガーベラ装備時に<ICON ACT_BtnR>を押し続け<lf>右腕の光がより強くなってから離す
+<string>パンチライン装備時に<ICON ACT_BtnR><lf>回収時に<ICON ACT_BtnR>を押し続けて搭乗<lf>搭乗中<ICON ACT_BtnL>、<ICON ACT_BtnU>、<ICON ACT_BtnR>、<ICON ACT_BtnD>で各種挙動発動
+<string>パンチライン装備時に<lf><ICON ACT_BtnR>を押し続け<lf>右腕の光がより強くなってから離す
+<string>バスターアーム装備時に<lf><ICON ACT_BtnR>
+<string>バスターアーム装備時に<lf><ICON ACT_BtnR>を押し続け<lf>右腕の光がより強くなってから離す
+<string>
+<string>移動<lf><lf><ICON ACT_LS>を倒した方向に、<lf>キャラクターを移動させる。<lf>倒し具合によって移動速度を調整できる。
+<string>カメラ<lf><lf>カメラを自由に操作し、周囲を見渡せる。<lf><ICON ACT_RStP>でカメラ位置を正面方向に戻す。
+<string>ロックオン<lf><lf>敵または特定の対象物に、ロックオン<lf>マーカーを付けて狙いを定める。<lf><ICON ACT_RB>を押しながらの構え移動が可能。<lf><ICON ACT_LStP>でロックオン対象を切り替える。
+<string>ジャンプ<lf><lf>空中に飛び上がる。<lf><ICON ACT_BtnD>を短く押すと低く、押し続けると<lf>高くジャンプする。
+<string>キックジャンプ<lf><lf>壁を足場にして再度ジャンプする。
+<string>サイドロール<lf><lf>横方向に転がり敵の攻撃をかわす。<lf>回避中に<ICON ACT_BtnL>で弾丸発射。
+<string>
+<string>挑発<lf><lf>地上や空中で、敵を挑発する様々な動作を<lf>行う。<lf>スタイリッシュランクに応じて動作内容が<lf>変化する。
+<string>レインボウ<lf><lf>走り状態から、強烈な飛び蹴りを見舞う。
+<string>スピード<lf><lf><ICON ACT_LS>を同じ方向に入れ続けると、<lf>より速く走る。<lf>走り状態から<ICON ACT_BtnU>でレッドクイーンコンボＡに<lf>つながる斬撃を発動できる。
+<string>ワイヤースナッチ<lf><lf>右腕のコネクターに付属しているワイヤーを<lf>伸ばし、遠方の敵を引き寄せる。<lf>巨大な敵や重い敵は引き寄せられない。
+<string>ワイヤースナッチ２<lf><lf>引き寄せ装備ワイヤースナッチの強化版。<lf>ワイヤーを伸ばす距離がより長くなる。
+<string>ワイヤーバウンド<lf><lf>ワイヤーフックでは引き寄せられない<lf>一部の重い敵をつかみ、<lf>近くに素早く移動する。
+<string>エアハイク<lf><lf>体内に残った微かな魔力によって<lf>空中に足場を作り、再度ジャンプする。
+<string>エネミーステップ<lf><lf>空中で敵を踏み台にして再度ジャンプする。
+<string>
+<string>レッドクイーンコンボＡ<lf><lf>素早く４連斬を繰り出す。
+<string>レッドクイーンコンボＣ<lf><lf>レッドクイーンコンボの派生形。<lf>より広範囲の敵にダメージを与える。
+<string>エリアルコンボ<lf><lf>空中で連続攻撃を放つ。
+<string>ルーレットスピン<lf><lf>空中で回転しながら敵を斬り払い、<lf>その勢いでわずかに上昇する。
+<string>ハイローラー<lf><lf>敵を斬り上げ、上空に打ち上げる。<lf><ICON ACT_BtnU>を押し続けて自身も上空に舞い上がる。
+<string>ＥＸハイローラー<lf><lf>イクシードによってパワーアップした<lf>ハイローラー。<lf>ＥＸゲージのストック数によって<lf>斬り付ける回数が変化する。
+<string>ストリーク<lf><lf>流れるような華麗な動きで<lf>一気に踏み込み、周囲を斬り払う。
+<string>ＥＸストリーク<lf><lf>イクシードによってパワーアップした<lf>ストリーク。<lf>ＥＸゲージのストック数によって<lf>斬り付ける回数が変化する。
+<string>スプリット<lf><lf>空中から急速に落下し、<lf>敵を両断する勢いで剣を叩き付ける。
+<string>ダブルダウン<lf><lf>推進剤の勢いで急降下しつつ、剣を真下に<lf>突き立てて、敵に大ダメージを与える。<lf>ＥＸゲージのストック数によって<lf>攻撃範囲が変化する。
+<string>キャリバー<lf><lf>空中で敵に向かって突進し、強烈な斬撃を<lf>放つ。
+<string>シャッフル<lf><lf>バックステップで攻撃をかわした後、<lf>素早く踏み込んで大振りの一撃を加える。
+<string>ＥＸキャリバー<lf><lf>イクシードによってパワーアップした<lf>キャリバー。<lf>ＥＸゲージのストック数によって<lf>突進距離が変化する。
+<string>ＥＸシャッフル<lf><lf>イクシードによってパワーアップした<lf>シャッフル。<lf>ＥＸゲージのストック数によって<lf>ヒット数が変化する。
+<string>
+<string>ノーマルショット<lf><lf>同時に２発の弾丸を発射する。
+<string>カラーアップ<lf><lf>特殊弾を用いて、通常よりも強力な弾丸を<lf>装てんする。<lf><ICON ACT_BtnL>を押し続けるとバレットゲージが<lf>溜まり、点灯時は３連射となる。
+<string>ハイショット<lf><lf>通常の弾丸より高威力な特殊弾を発射する。<lf>多段ヒットで敵の動きを止める。
+<string>
+<string>イクシード<lf><lf>推進剤を一気に点火して強力な攻撃を放つ。<lf>ＥＸゲージを１つ消費して<lf>ＥＸレベル１の技を使用できる。
+<string>ＥＸアクト<lf><lf>攻撃後の特定のタイミングでイクシードを<lf>発動させることで、ＥＸゲージを１つ<lf>溜められる。<lf><lf>タイミングが少しずれてもＥＸゲージを<lf>少量溜められる。
+<string>イクシード２ <lf><lf>イクシードの強化版。<lf>ＥＸゲージを２つ消費して<lf>ＥＸレベル２の技を使用できる。
+<string>
+<string>ブレイクエイジ<lf><lf>装備中のデビルブレイカーの潜在性能を<lf>強制的に引き出し、強烈な攻撃を放つ。<lf>発動後は壊れてしまう。<lf><ICON ACT_BtnR>を押し続けている間に攻撃を受けても<lf>壊れる。
+<string>ブレイクアウェイ<lf><lf>装備中のデビルブレイカーを強制的に<lf>切り離し、内部エネルギーを爆発させる。<lf>ダメージ状態からの緊急脱出手段として<lf>利用する。
+<string>スケープゴート<lf><lf>デビルブレイカーの使用中や<lf>ブレイクエイジの発動準備中に<lf>攻撃を受けても体勢を崩されなくなる。<lf>ただし相応のダメージは受け、<lf>デビルブレイカーは壊れてしまう。
+<string>
+<string>バッテリー<lf><lf>内部エネルギーを増幅し、掌底から強烈な<lf>電撃として撃ち出す。<lf>敵の状態により掌底の方向が変化する。
+<string>エクスプローダー<lf><lf>内部エネルギーを暴走させ、装備を爆弾化。<lf>敵の体に差し込み、切り離したのちに<lf>時間経過で自動起爆する。<lf>複数個の埋設が可能。<lf>遠距離攻撃などの追撃で任意に起爆できる。
+<string>ジョッキー<lf><lf>掌から衝撃波を放つ。<lf><ICON ACT_BtnR>で前方に攻撃。敵の遠距離攻撃の<lf>打ち消しや撃ち返しができる。<lf><ICON ACT_LS>＋<ICON ACT_BtnR>で、衝撃波を<lf>推進力に変えて素早く移動する。
+<string>ステイメンレイ／ペタルレイ<lf><lf>地上で放てば（ステイメンレイ）、<lf>リミッターを解除した大威力の光束線を<lf>照射する。<lf>空中で放てば（ペタルレイ）、指先から<lf>貫通力を高めた光束線を照射する。<lf>周囲の壁や床に跳弾する。
+<string>ジェットガジェット<lf><lf>パンチラインをロケット推進器として射出。<lf>射出後に<ICON ACT_BtnR>で呼び戻し、回収時に<ICON ACT_BtnR>を<lf>押し続けると飛翔体に乗ることができる。<lf>搭乗時に<ICON ACT_BtnL>、<ICON ACT_BtnU>、<ICON ACT_BtnR>でトリック挙動、<lf><ICON ACT_BtnD>で飛び降り、<ICON ACT_LB>で爆破。<lf>スタイリッシュランク上昇で搭乗時間延長。
+<string>ブーストナックル<lf><lf>パンチラインの飛行推進力を全て使い切り<lf>渾身の殴りを行う。<lf>クリーンヒットすれば重い敵も吹き飛ばす。
+<string>ネオバスター<lf><lf>悪魔の右腕のつかみ投げを再現した攻撃。<lf>威力は高いが、発動中に攻撃を受けると<lf>バスターアームが壊れてしまう。
+<string>スーパーバスター<lf><lf>悪魔の右腕のつかみ投げを再現した攻撃。<lf>発動中は敵の攻撃に怯まなくなり、<lf>「バスター」を当てやすくなる。<lf>発動後は壊れてしまう。
+<string>
+<string>回避
+<string>地上で<ICON ACT_RB>＋<ICON ACT_LS>横方向＋<ICON ACT_BtnD>
+<string>
+<string>Devil May Cry 5 Xbox Exclusive Demo
+<string>Devil May Cry 5 Demo
+<string>
+<string>この文字列は、ループPVの字幕サンプルです
+<string>悪夢が始まるのは これからだ
+<string>思い知るがいい
+<string>真の悪夢とは何かを
+<string>その悪夢の中で――
+<string>絶望を抱き 朽ち果てろ！
+<string>まずは ゴミ掃除だな
+<string>悪魔をボコるのが趣味なのさ
+<string>義手にも その機能を付けてやった
+<string><RUBY><RB>二手<RT>ふたて</RUBY>に別れるか
+<string>そうだな その方が早い
+<string>上等だ 詩人ちゃん
+<string>だが忘れんな！
+<string>排除は速攻！ それが最高！
+<string>目障りだ
+<string>粉々にしてやる！
+<string>分かった <RUBY><RB>Ｖ<RT>ブイ</RUBY>だな<lf>頼みたい事は何だ？
+<string>強大な悪魔が復活した<lf>力を貸してくれ ダンテ
+<string>お前も来る気か？
+<string>見届ける義務がある
+<string>見届けましょう
+<string>ダンテの戦いを
+<string>おいで ワンちゃん！ 散歩だぜ！ ほれ！
+<string>レディのだが貸してやる
+<string>何が起きてるの？
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>！ ネロを連れて行け！
+<string>足手まといだ！

@@ -1,0 +1,6 @@
+<string>
+<string>SCENE SELECT
+<string>
+<string>SCENE
+<string>
+<string>선택한 장면을 재생합니다.

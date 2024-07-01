@@ -1,0 +1,39 @@
+<string>
+<string>So, V. You think this kid can kill Urizen?
+<string>
+<string>One can only hope.
+<string>But for now, we have a more...pressing engagement.
+<string>
+<string>Oooh, genius, says "be careful." Yeah, no shit, Shirley!<lf>Ain't that right, V?
+<string>
+<string>I mean, you ARE fragile at the moment. Wouldn't<lf>take much to wipe you out in a sticky situation.
+<string>
+<string>I'm just saying running away is okay. It's always<lf>okay to run away, if you're not up for it!
+<string>
+<string>"He who desires but act not, breeds pestilence."
+<string>...So it is written.
+<string>Okay Shakespeare. Just remember this:
+<string>You and I like to exist.
+<string>So get rid of those demons quick,<lf>'cause killin' them ain't my shtick!
+<string>I got your back, 'cause dying is whack!
+<string>
+<string>You dodged me!
+<string>Did you dodge me!?
+<string>Nidhogg, I never liked this guy.
+<string>You pest. Do I know you?
+<string>Dumb as a box of rocks.<lf>Let's not even mess with this guy, V.
+<string>He can't even leave the Qliphoth, anyway.<lf>Just a Qliphoth parasite.
+<string>Did you insult me?
+<string>— Uh-oh.
+<string>― You insulted me!
+<string>I think he heard me...and he's angry!
+<string>I'm going to kill you!
+<string>Not in this lifetime.
+<string>"As the air to a bird, or the sea to a fish,"
+<string>"so is contempt to the contemptible."
+<string>
+<string>Okay, um, all right that's not good at all.
+<string>That's not good.
+<string>Wait, where—where are you going?<lf>Are you running away?
+<string>That, that's not a good sign.
+<string>I'm afraid that...that's a little bit more<lf>than I can take on right now.

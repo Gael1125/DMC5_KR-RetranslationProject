@@ -1,0 +1,52 @@
+<string>
+<string>뭐 해? 엉뚱한 짓 말고 얼른 가!
+<string>미안한데, 혼자 있고 싶거든. 빨리 가, 울보야!
+<string>
+<string>엉망진창이군...
+<string>쉽게 넘어가질 않는구만?
+<string>날 막으시겠다? 어떻게 해야 하나?
+<string>흠... 좋아, 써먹을 수 있겠어.
+<string>그냥 뚫고 지나갈 수 있으면 편할 텐데.
+<string>또야...?
+<string>아, 진짜... 지긋지긋하구만.
+<string>바닥 때문이야, 내가 아니라.
+<string>이 빌어먹을 나무는 정말 지긋지긋하군...
+<string>출구가 근처에 있을 거야.
+<string>슬슬 가야겠어.
+<string>잠깐... 내가 어디서 왔더라?
+<string>V는 아직인가?
+<string>오, 좋아. 이건 내가 가져가지.
+<string>이런 도시에서 악마들은 대체 뭘 하는 거지...?<lf>여기에 뭐가 있나?
+<string>내가 보기에 V는 악마 같진 않은데...
+<string>솔직히 말하면... 이 새 팔 아주 끝내주네.
+<string>
+<string>더럽게 큰 놈이군...
+<string>이건 뭐지...?
+<string>가기 전에 데빌 브레이커 세팅하는 거 잊지 마.
+<string>V를 따라잡아야 돼, 빨리.
+<string>
+<string>후회하게 해주마!
+<string>후회? 그건 네가 죽으면서 할 거고!
+<string>건방진 놈! 죽는 건 바로 너다!
+<string>
+<string>하하하! 내 힘 앞에 벌벌 떨어라!
+<string>네 무덤이 될 곳인데 다 망쳐 놓게?
+<string>다음엔 네 뼈가 산산조각 날 것이다!
+<string>
+<string>이젠 쓰레기도 먹어? 입맛 한번 특이하군.
+<string>날 바보 취급해? 죽어!
+<string>
+<string>미천한 인간 따위가 어떻게!?
+<string>잘났다고 떠드네... 슬슬 끝을 낼까?
+<string>젠장할!
+<string>
+<string>죽어라, 벌레야!
+<string>내 힘을 보여주마!
+<string>그게 다냐, 하찮은 인간아?
+<string>죽여주마!
+<string>열매는 내 거야!
+<string>정말 성가시군!
+<string>
+<string>전화는 아직 되는 것 같네...
+<string>참 빨리도 받는다, 멍청아!<lf>세 번 울릴 때 받으라고 했지?
+<string>다음부터는 네가 나한테 전화해.<lf>그럼 내가 찾아갈 테니까.

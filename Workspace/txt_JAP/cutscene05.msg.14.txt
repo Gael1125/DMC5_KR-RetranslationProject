@@ -1,0 +1,34 @@
+<string>
+<string>危ねえトコだ！
+<string>ツイてるな <RUBY><RB>Ｖ<RT>ブイ</RUBY>！<lf>ポーカーでもする？
+<string>クリフォトの根だらけだな
+<string>そりゃそうさ 地下だもんよ
+<string>ゴミ掃除が楽になった
+<string>ホウキはねえけどな
+<string>
+<string>マルファスだ ちょい面倒だな
+<string>あっちは魔界で見たコト――
+<string>あったっけ！？
+<string>魔剣スパーダを探せ<lf>貴様なら在り処が分かる
+<string>あの方は“捨て置け”と<lf>だが私は気がかりだ
+<string>スパーダの血族は まだ残っている
+<string>不安要素は消しておきたい
+<string>分かったか！
+<string>見付け出し そして破壊しろ！
+<string>それでこそ…<lf>あの方の支配は盤石となる！
+<string>そうか 貴様の正体が読めた
+<string>ならば――
+<string>手心が必要か
+<string>
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY>！
+<string>問題ない
+<string>ヤツを追う
+<string>魔剣スパーダがあれば<lf>俺達の最後の希望となる
+<string>マジで言ってる？<lf>探してどうすんの？
+<string>
+<string>スパーダを見付けても<lf>お前にゃ使えねえ！
+<string><RUBY><RB>力<RT>ちから</RUBY>を失ったお前じゃ<lf>持て余すだけだ！
+<string>確かにそうだ<lf>だが俺達には――
+<string>ネロがいる
+<string>行くぞ
+<string>スパーダに近付けば<lf>俺でも在り処は分かる

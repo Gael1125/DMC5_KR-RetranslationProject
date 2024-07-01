@@ -1,0 +1,55 @@
+<string>
+<string>All right...just you wait, you big bastard.<lf>I'll drag you all the way down here.
+<string>Onwards and upwards...
+<string>This again... Where's it gonna take me now?
+<string>Man... I got blood all over me.<lf>There better be a shower in here.
+<string>Are there no express elevators?<lf>Someone's a lousy architect.
+<string>Your interior design sucks, dude.<lf>You and your treehouse will be gone soon.
+<string>Good, finally made it. Now, about that payback.
+<string>Think it's good to be king, huh? Not for much longer.
+<string>Where does this go?
+<string>It's still falling?
+<string>Damn, all the way down. Too heavy, huh?
+<string>Out of my way, wimps!
+<string>Well, well. Haven't had enough yet?
+<string>Never stood a chance.
+<string>What the hell? ...This is bad.
+<string>A phone, here? Does it still work?
+<string>Guess that's my ride.
+<string>All right... Going down is the only way, huh?
+<string>
+<string>You would so readily throw away your life, child?
+<string>I'm not interested in you having a winning streak.<lf>Now I can break it for ya.
+<string>
+<string>Humans...are all so foolish.<lf>Don't you understand that your efforts are futile?
+<string>Best thing about humans is that we never give up.<lf>Just watch, I'll beat it into your head!
+<string>
+<string>Very well... I shall show you my true power.
+<string>You were holding back!? Dammit!
+<string>Die in the depths of despair!
+<string>
+<string>It's working! That shield of yours...is done for!
+<string>You...!
+<string>
+<string>It's almost broken! You ready to get slapped!?
+<string>You will suffer!
+<string>
+<string>You shall regret your existence!
+<string>You will not overcome me!
+<string>You're nothing but a maggot!
+<string>You worthless piece of scum!
+<string>Run while you can...
+<string>Nowhere to go!
+<string>Humans... Conceited and useless beings...
+<string>
+<string>So, think you can make it all the way here?
+<string>Duh. Who do you think you're talking to?
+<string>
+<string>Hate to say it, but I'm running out of arms.
+<string>I'll be right there, ya damn klutz.
+<string>
+<string>I kinda screwed up... Hurry over here.
+<string>Boo-hoo. Wait there, and try not to cry.
+<string>
+<string>
+<string>Is this...my limit...?

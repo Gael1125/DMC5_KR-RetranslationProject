@@ -1,0 +1,17 @@
+<string>
+<string>I can't carry you anymore!
+<string>I gotta put you down! I gotta put you down...
+<string>
+<string>Damn, just a little longer.
+<string>Come on...
+<string>I must...go...
+<string>Before he loses completely!
+<string>
+<string>If he reaches the fruit, it will all be over.
+<string>Even Mundus failed to reign over the human world...
+<string>Surely, we know he will not.
+<string>Malphas! No way can we handle her,<lf>we don't have the strength!
+<string>I know.
+<string>But we must get through this, somehow.
+<string>Ahh, an intruder perhaps?
+<string>I'm cooomiiing...

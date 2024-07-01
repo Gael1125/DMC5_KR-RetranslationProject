@@ -1,0 +1,109 @@
+<string>
+<string>LAN ケーブルが接続されていないため、各種ネットワーク機能が利用できません。
+<string>ネットワーク接続が失われました。
+<string>通信の立ち上げに失敗しました。再度接続し直しますか？
+<string>インストールしています。しばらくお待ちください。
+<string>サインインしていない状態では、この項目は選択できません。
+<string>ネットワーク接続中です。しばらくお待ちください。
+<string>ネットワーク接続を中断しました。
+<string>ネットワーク接続の開始に失敗しました。
+<string>ネットワークエラーが発生しました。
+<string>ネットワークエラーが発生しました。リトライしますか？
+<string>ネットワーク接続に失敗したため一時的にネットワーク機能をOFFにします。<lf>OPTION の NETWORK からネットワーク接続を行うか選択できます。
+<string>招待を受けたため現在の情報を保存しセッションへ参加します。
+<string>招待を受けたセッションへ参加します。
+<string>このアカウントではセッションに参加することができません。
+<string>ゲームデータの準備が完了していません。<lf>しばらくお待ちください。
+<string>
+<string>Steamネットワークに接続しました。
+<string>Xbox Liveに接続されていないため、<lf>Xbox Liveを利用した機能を使用できません。
+<string>ネットワーク接続が失われました。<lf>Xbox Liveを利用した機能を使用できません。
+<string>Xbox Live への接続に失敗しました。
+<string>Xbox Live に接続しています。<lf>しばらくお待ちください。
+<string>Xbox Live に接続しました。
+<string>Xbox Live にサインインされていません。
+<string>Xbox Live にサインインされていないため<lf>各種ネットワーク機能が利用できません。
+<string>サインインしないでゲームを始めると、PlayStation™Network を利用した<lf>各種機能が使用できなくなります。サインインしますか？
+<string>サインインしていないため、PlayStation™Network を利用した<lf>機能を使用できません。サインインしますか？
+<string>ネットワーク接続が失われました。<lf>PlayStation™Network を利用した機能を使用できません。
+<string>あなたのSony Entertainment Networkアカウントでは、<lf>PlayStation™Store を利用できません。
+<string>PlayStation™Network への接続に失敗しました。
+<string>PlayStation™Network に接続していますしばらくお待ちください。
+<string>PlayStation™Network に接続しました。
+<string>PlayStation™Networkへのサインインをキャンセルしました。
+<string>PlayStation™Networkからサインアウトされました。
+<string>PlayStation™Networkからサインアウトされました。タイトル画面に戻ります。
+<string>PlayStation™Network にサインインされていません。
+<string>PlayStation™Networkからサインアウトされました。<lf>PlayStation™Network を利用したオンライン機能を利用することができません。
+<string>PlayStation™Network にサインインされていないため<lf>各種ネットワーク機能が利用できません。
+<string>Storeへ移動しますか？
+<string>PlayStation™Storeへ移動しますか？
+<string>
+<string>Microsoft Storeへ移動しますか？
+<string>プロフィールを変更しますか？<lf>（保存していないデータは失われます。）
+<string>プロフィールを変更しました。<lf>タイトル画面に戻ります。
+<string>プロフィールが選択されていません。<lf>プロフィールを設定していないと、<lf>ゲームをプレイすることができません。
+<string>現在のプロフィールに権限がないため<lf>この機能を利用できません。
+<string>コントローラーが検出できません。<lf>使用するコントローラーを本体に接続して、 <ICON DECIDE> を押してください。
+<string>使用するコントローラーの <ICON DECIDE> を押してください。
+<string>
+<string>参加できる部屋が見つかりませんでした。
+<string>招待機能による参加に失敗しました
+<string>招待機能による参加に失敗しました。メニューに戻ります
+<string>ゲームを開始しますか？
+<string>待機中です・・・
+<string>検索中です・・・
+<string>{0}が部屋から抜けました
+<string>
+<string>ダウンロード可能な追加コンテンツがありません。
+<string>ダウンロード可能な追加コンテンツがありません。
+<string>追加コンテンツをチェックしています。<lf>PCの電源を切らないでください。
+<string>追加コンテンツをチェックしています。<lf>本体の電源を切らないでください。
+<string>追加コンテンツをチェックしています。<lf>本体の電源を切らないでください。
+<string>破損した追加コンテンツがあります。<lf>ゲームを終了して、PlayStation™Storeから再ダウンロードしてください。<lf>このままゲームを開始すると、一部の追加コンテンツが、<lf>使用できない可能性があります。
+<string>破損した追加コンテンツがあります。<lf>ゲームを終了して、Microsoft Storeから再ダウンロードしてください。<lf>このままゲームを開始すると、一部の追加コンテンツが、<lf>使用できない可能性があります。
+<string>破損した追加コンテンツがあります。<lf>ゲームを終了して、Storeから再ダウンロードしてください。<lf>このままゲームを開始すると、一部の追加コンテンツが、<lf>使用できない可能性があります。
+<string>追加コンテンツの読み込みに失敗したため、<lf>追加コンテンツを使用できません。
+<string>追加コンテンツの読み込みに失敗したため、<lf>追加コンテンツを使用できません。
+<string>追加コンテンツが破損しています。<lf>追加コンテンツを取得しなおしてください。
+<string>追加コンテンツが破損しています。<lf>追加コンテンツを取得しなおしてください。
+<string>追加コンテンツを正しく読み込めませんでした。<lf><lf>このままゲームを開始すると、<lf>正常にゲームに反映されない恐れがあります。
+<string>追加コンテンツを正しく読み込めませんでした。<lf><lf>このままゲームを開始すると、<lf>正常にゲームに反映されない恐れがあります。
+<string>追加コンテンツ{0}のデータが見つかりませんでした。<lf>追加コンテンツ{0}を再ダウンロードしてください。
+<string>追加コンテンツ{0}のデータが見つかりませんでした。<lf>追加コンテンツ{0}を再ダウンロードしてください。
+<string>追加コンテンツのデータが見つかりませんでした。<lf>追加コンテンツを再ダウンロードしてください。
+<string>追加コンテンツのデータが見つかりませんでした。<lf>追加コンテンツを再ダウンロードしてください。
+<string>
+<string>
+<string>
+<string>
+<string>この追加コンテンツを所持していません。<lf>取得のためStoreに移動しますか？
+<string>この追加コンテンツを所持していません。<lf>取得のためPlayStation™Storeに移動しますか？
+<string>この追加コンテンツを所持していません。<lf>取得のためMicrosoft Storeに移動しますか？
+<string>この追加コンテンツを所持していません。<lf>取得のためMicrosoft Storeに移動しますか？
+<string>この追加コンテンツは未購入です。<lf>購入のためStoreに移動しますか？
+<string>この追加コンテンツは未購入です。<lf>購入のためPlayStation™Storeに移動しますか？
+<string>この追加コンテンツは未購入です。<lf>購入のためMicrosoft Storeに移動しますか？
+<string>この追加コンテンツは未購入です。<lf>購入のためMicrosoft Storeに移動しますか？
+<string>
+<string>{0}を購入しました
+<string>
+<string>リプレイデータのダウンロード中です。しばらくお待ちください
+<string>リプレイデータのアップロード中です。しばらくお待ちください
+<string>ネットワークに接続し各種情報を照合中です
+<string>各種情報を照合中です
+<string>{0}への評価を送信します
+<string>ネットワークエラーが発生しました。<lf>評価のアップロードに失敗しました。
+<string>
+<string>今日のログインボーナスです。　<lf>{0}
+<string>
+<string>{0}サーバへ接続中です
+<string>{0}サーバに接続できませんでした
+<string>
+<string>PlayStation™Storeの購入情報を確認し<lf>ゲームに反映させますか？
+<string>Microsoft Storeの購入情報を確認し<lf>ゲームに反映させますか？
+<string>Storeの購入情報を確認し<lf>ゲームに反映させますか？
+<string>ネットワークエラーが発生しました。<lf>PlayStation™Storeの購入情報を確認できませんでした。<lf>リトライしますか？
+<string>ネットワークエラーが発生しました。<lf>Microsoft Storeの購入情報を確認できませんでした。<lf>リトライしますか？
+<string>ネットワークエラーが発生しました。<lf>Storeの購入情報を確認できませんでした。<lf>リトライしますか？
+<string>設定もしくはネットワークエラーのため<lf>ブラウザーを開くことができませんでした。

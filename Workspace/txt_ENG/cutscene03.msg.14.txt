@@ -1,0 +1,46 @@
+<string>
+<string>I think we should split into two groups.
+<string>...And cover more ground. Good idea.
+<string>Behold my genius.
+<string>Cash first.
+<string>All the materials I collected for your<lf>little pet projects don't count for anything?
+<string>My brilliant, badass work is worth<lf>every dime, you know it.
+<string>Well, your quality control sucks ass, and you know that.
+<string>Or maybe don't let the demons smack you around so much?
+<string>Whatever...
+<string>I am truly gifted. It's a work of art!
+<string>So you're an artist now, huh?
+<string>Yes I am. Got any questions, little chicken?
+<string>My grandmother was called the<lf>".45 Caliber Virtuoso"... Legendary gunsmith.
+<string>I hope to be like her someday.<lf>An artist, and a lethal artisan.
+<string>Everything I create is art, whether it's a gun...
+<string>Or a steel pot...to cook birds in.
+<string>Any more questions? Huh?
+<string>...Little chickee.
+<string>I'll take my leave now.
+<string>And if I don't see you along the way,
+<string>I'll see you at the bottom of the Qliphoth.
+<string>Sure.
+<string>What're you gonna do?
+<string>I gotta shake the cobwebs out. I'll let you know.
+<string>Hey, you got any more questions, better ask it now.
+<string>I can't read minds...
+<string>Well, yet.
+<string>
+<string>All right, move out!
+<string>So much for teamwork.
+<string>
+<string>What, no chit-chat or monologue?
+<string>Just getting right to the point, huh?
+<string>
+<string>Dante's friend...
+<string>It's Lady.
+<string>You know her?
+<string>From my gunsmith days.
+<string>What?
+<string>I can't believe you'd do this to Kyrie.<lf>I'm gonna have to tell her, man...
+<string>
+<string>I'm jokin'...
+<string>Hey, loosen up your jock strap.
+<string>Don't do anything I wouldn't do.
+<string>Kyrie would kill me right now...

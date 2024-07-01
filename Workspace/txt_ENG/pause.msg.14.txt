@@ -1,0 +1,65 @@
+<string>
+<string>PAUSE MENU
+<string>CONTINUE
+<string>CHECKPOINT
+<string>RETRY MISSION
+<string>QUIT MISSION
+<string>TUTORIAL
+<string>SKILL LIST
+<string>PHOTO MODE
+<string>OPTIONS
+<string>EXIT
+<string>
+<string>Return to the game.
+<string>Restart from the most recent checkpoint.
+<string>Restart from the beginning of the mission.
+<string>Return to the Main Menu.
+<string>Check previously viewed tutorials.
+<string>Check the skill list.
+<string>Activate Photo Mode to take pictures of the screen.
+<string>Adjust various settings.
+<string>Return to the title screen.
+<string>End the secret mission.
+<string>
+<string>
+<string>TAUNT
+<string>PAUSE
+<string>CAMERA
+<string>RESET CAMERA
+<string>MOVE
+<string>CHANGE LOCK-ON
+<string>(UNUSED)
+<string>
+<string>MELEE ATTACK
+<string>GUN ATTACK
+<string>DEVIL BREAKER
+<string>JUMP
+<string>LOCK-ON
+<string>DEVIL BRINGER
+<string>BREAK AWAY
+<string>EXCEED
+<string>DEVIL TRIGGER
+<string>
+<string>MELEE ATTACK
+<string>GUN ATTACK
+<string>STYLE ACTION
+<string>JUMP
+<string>LOCK-ON
+<string>CHANGE MELEE WEAPON
+<string>DEVIL TRIGGER
+<string>CHANGE GUN
+<string>TRICKSTER
+<string>GUNSLINGER
+<string>SWORDMASTER
+<string>ROYALGUARD
+<string>
+<string>SHADOW ATTACK
+<string>GRIFFON ATTACK
+<string>FINISHING BLOW
+<string>JUMP
+<string>LOCK-ON
+<string>BUILD DT GAUGE
+<string>NIGHTMARE
+<string>DEVIL TRIGGER
+<string>
+<string>SECRET MISSIONS

@@ -1,0 +1,21 @@
+<string>
+<string>PAUSE MENU
+<string>
+<string>PLAYER SETTINGS
+<string>ENEMY SETTINGS
+<string>RESET
+<string>SKILL LIST
+<string>PLAYER SELECT
+<string>OPTIONS
+<string>EXIT
+<string>
+<string>プレイヤーの設定を行います
+<string>敵の設定を行います
+<string>プレイヤーと敵を初期位置に戻し、ダメージ量を0にします
+<string>スキルリストを確認します
+<string>プレイヤーを選択します
+<string>各種設定を行います
+<string>THE VOIDを終了します
+<string>
+<string>REPLAY
+<string>直前の動きを確認します

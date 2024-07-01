@@ -1,0 +1,4 @@
+<string>
+<string>V's Cane
+<string>Vの杖
+<string>Vの杖

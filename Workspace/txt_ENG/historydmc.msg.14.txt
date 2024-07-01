@@ -1,0 +1,52 @@
+<string>Long ago...
+<string>...a single demon challenged the emperor of the<lf>underworld for the sake of mankind. The demon<lf>would prove victorious, and seal off the underworld.
+<string>That demon was the Dark Knight Sparda.
+<string>Sparda's legend spread, and the<lf>Legendary Dark Knight was revered by mankind.
+<string>But as the years slipped by,<lf>the memory of his deeds and the<lf>existence of demons faded from memory.
+<string>After 2000 years, the seal on the underworld began to<lf>weaken. The Demon Emperor Mundus sent his minions<lf>after Sparda's wife and twin sons in an act of revenge.
+<string>Sparda's human wife, Eva, stood no chance<lf>against the demons and lost her life.<lf>One of Sparda's sons, Vergil, went missing.
+<string>The only survivor was Dante,<lf>Vergil's twin brother.
+<string>Decades later...
+<string>Dante was reunited with his lost brother, Vergil.
+<string>Vergil survived the years with the help of his<lf>father's sword, Yamato, and longed to obtain even<lf>greater strength by unlocking the power of Sparda.
+<string>Arkham, a man bent on obtaining demonic power,<lf>knew that unlocking Sparda's power would weaken<lf>the seal on the underworld.
+<string>To this end, Arkham manipulated Vergil<lf>from the shadows to fulfill his deluded ambitions.
+<string>Conflicted over his feelings for his lost brother,<lf>Dante set out to stop Vergil and Arkham.
+<string>Along the way, Dante met a demon hunter named Lady.<lf>Her lust for revenge against Arkham, the man who killed<lf>her mother, served to steel Dante's resolve.
+<string>After learning that Arkham was the<lf>real threat all along, Dante and Vergil<lf>teamed up to fight the mad scholar.
+<string>However, this comradery did not last long,<lf>as the two could not overcome their differences.
+<string>The battle between brothers was fierce, but Vergil<lf>met his match. In the end, he refused Dante's help<lf>as he fell alone into the underworld.
+<string>Soon after, Dante opened his shop for business:<lf>Devil May Cry.
+<string>Fronting as a local handyman,<lf>he used his business to hunt down demons<lf>and collect information on Mundus.
+<string>Some time later...
+<string>A mysterious and beautiful woman<lf>appeared at Dante's door.
+<string>The woman's name was Trish and she bore<lf>a striking resemblance to Dante's deceased mother.
+<string>She led Dante to Mallet Island,<lf>where Mundus had been sealed away.
+<string>There Dante faced a gauntlet of<lf>Mundus' minions, all of whom fell to<lf>the Devil Hunter's inordinate strength.
+<string>One such adversary was revealed<lf>to be Vergil, warped into the demon<lf>known only as Nelo Angelo.
+<string>In the face of Mundus' cruelty, Dante's<lf>anger erupted like never before.
+<string>The true power Dante inherited from<lf>his father Sparda was unleashed, which he<lf>used to seal Mundus away once again.
+<string>Dante then returned to hunting demons<lf>with Trish and Lady at his side.
+<string>Many demons continued to<lf>invade the human world...
+<string>...but not even demonic rulers rivaling the<lf>power of Mundus could match Dante’s strength.
+<string>All was at peace in the human world...
+<string>...but not for long.
+<string>A Sparda-worshiping cult known as the<lf>Order of the Sword aimed to take control of<lf>the human world through demonic forces.
+<string>Thus Dante traveled to their base in Fortuna<lf>to assassinate the Order leader Sanctus.
+<string>Incensed by this affront, the Order dispatched<lf>young Holy Knight Nero to kill Dante.
+<string>Nero learned of the Order's true goals<lf>during his pursuit of Dante, and was killed<lf>for it by the scientist Agnus.
+<string>Unbeknownst to all, Vergil's sword Yamato had been<lf>in the Order's possession. The blade resonated with<lf>Nero, reviving him with new demonic powers.
+<string>This was proof enough that the blood of Sparda<lf>coursed through Nero's veins as well.
+<string>Having learned of the Order's sinister<lf>plans, Nero confronted fellow Holy Knight<lf>and mentor Credo about his involvement.
+<string>But alas, his former mentor had been working<lf>towards the Order's goals all along.
+<string>On top of everything, Sanctus was revived<lf>with the aid of nefarious powers.
+<string>Nero's beloved Kyrie was then taken hostage...
+<string>...and the lovers were absorbed into<lf>the core of the Order's ultimate weapon:<lf>the Savior.
+<string>Enraged over his sister Kyrie's treatment,<lf>Credo tried to save Nero, only to be dealt<lf>a fatal blow at the hands of Sanctus.
+<string>Just when all seemed lost, the legendary Dante<lf>arrived to battle the Savior and rescue Nero.
+<string>Nero was then able to defeat Sanctus,<lf>and put an end to the Order's evil machinations.
+<string>Dante sensed in Nero the same connection<lf>to Sparda's power, and so entrusted<lf>Yamato to the youth before leaving Fortuna.
+<string>The two parted ways, and continued their fight<lf>against demons in defense of the human world.
+<string>The two descendants of Sparda kept<lf>the world safe and at peace for many years.
+<string>But nothing lasts forever...
+<string>...and a crisis looms on the horizon the likes<lf>of which their world has never seen.

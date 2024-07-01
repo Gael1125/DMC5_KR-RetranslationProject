@@ -1,0 +1,108 @@
+<string>
+<string>Devil May Cry
+<string>Let's Rock!
+<string>Showtime!
+<string>Doing Daddy Proud
+<string>Dance with the Devil
+<string>Stairway to Heaven
+<string>Highway to Hell
+<string>Not Too Shabby
+<string>Steppin' up the Style
+<string>Seriously Stylish Slaying!
+<string>Secrets Exposed
+<string>The Quick and the Dead
+<string>Well I'll Be Damned
+<string>Hell of a Hunter
+<string>Worthy of Legend
+<string>I Believe I Can Fly
+<string>Nothing's Impossible
+<string>Be the Legend
+<string>Demon Breeder
+<string>Physical Perfection
+<string>The Devil's Own
+<string>Rearm and Repeat
+<string>A New Job
+<string>Jackpot!
+<string>Dante the Gambler
+<string>Demon Destroyer
+<string>Fall from Grace
+<string>Protect the People
+<string>Where the Red Orbs Grow
+<string>Reunion
+<string>Backroad
+<string>Break a Leg
+<string>End of the Line
+<string>Share the Pain
+<string>Light in the Darkness
+<string>Eagle-Eyed
+<string>This Ain't Over
+<string>Don't Mess with the Best
+<string>The Qliphoth
+<string>Each In His Own Way
+<string>Gotta Hurry
+<string>Slick Moves
+<string>Obedience Training
+<string>Back to Life
+<string>Man on a Mission
+<string>Battle for the Ages
+<string>Who Needs Weapons Anyway?
+<string>Unarmed and Dangerous
+<string>Pet Protection
+<string>Path of the Conquerors
+<string>Slam Dunk
+<string>Too Easy
+<string>Rest in Peace
+<string>
+<string>Unlock all trophies.
+<string>Complete the game on Human mode.
+<string>Complete the game on Devil Hunter mode.
+<string>Complete the game on Son of Sparda mode.
+<string>Complete the game on Dante Must Die mode.
+<string>Complete the game on Heaven or Hell mode.
+<string>Complete the game on Hell and Hell mode.
+<string>Perform a Stylish Rank S combo.
+<string>Perform a Stylish Rank SS combo.
+<string>Perform a Stylish Rank SSS combo.
+<string>Clear all secret missions.
+<string>Defeat 5 enemies in 1 second.
+<string>Wield overwhelming power to exact an unexpected conclusion.
+<string>Clear all missions with S rank.
+<string>Clear all missions with S rank on all difficulties except Heaven or Hell.
+<string>Rack up a total of 60 minutes in the air by jumping or other means.
+<string>Acquire all of Nero's skills.
+<string>Acquire all of Dante's skills.
+<string>Acquire all of V's skills.
+<string>Upgrade your vitality gauge to max.
+<string>Upgrade your Devil Trigger Gauge to max.
+<string>Collect more than 100 Devil Breakers during missions.
+<string>Accept a new job from Morrison after the Red Grave incident.
+<string>Collect more than 1,000,000 Red Orbs total.
+<string>Use more than 500,000 Red Orbs total with Dr. Faust.
+<string>Defeat 1,000 enemies total.
+<string>Clear the Prologue Mission.
+<string>Defeat all enemies in Mission 01.
+<string>Collected Red Orbs from an unexpected spot in Mission 02.
+<string>Clear Mission 03.
+<string>Destroy a certain wall in Mission 04.
+<string>Fend off a menace from above in Mission 05.
+<string>Clear Mission 06.
+<string>Clear Mission 07 with both Nero and V.
+<string>Clear Mission 08.
+<string>Destroy a certain wall in Mission 09.
+<string>Clear Mission 10.
+<string>Use proper timing to get a leg up in a close-quarters battle against the boss in Mission 11.
+<string>Clear Mission 12.
+<string>Clear Mission 13 with Nero, V, and Dante.
+<string>Clear Mission 14.
+<string>Proceed with caution and avoid unneeded damage in Mission 15.
+<string>Go on the offensive without relying on brute force in the Mission 16 boss battle.
+<string>Clear Mission 17.
+<string>Clear Mission 18.
+<string>Clear Missions 19 and 20 without using continues (any difficulty except Heaven or Hell).
+<string>Clear Mission 11 without equipping a weapon set for Dante (any difficulty except Heaven or Hell).
+<string>Beat Mission 07 without any starting Devil Breakers equipped (any difficulty except Heaven or Hell).
+<string>Clear Mission 05 without V's demons getting stalemated (any difficulty except Heaven or Hell).
+<string>Clear the Bloody Palace with all characters.
+<string>Clear the Bloody Palace with Nero.
+<string>Clear the Bloody Palace with Dante.
+<string>Clear the Bloody Palace with V.

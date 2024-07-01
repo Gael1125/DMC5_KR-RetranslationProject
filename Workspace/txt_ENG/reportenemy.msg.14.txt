@@ -1,0 +1,219 @@
+<string>
+<string>{0} report added.
+<string>
+<string>Seems you'll be running into a<lf>lot of these ugly suckers— and I<lf>mean "suckers" literally!<lf><lf>The good folks of Red Grave have<lf>had their blood sucked dry by<lf>these lil' worker ants. Once the<lf>creatures have a butt full of<lf>the red stuff, they carry it off<lf>to the Qliphoth.<lf><lf>Well, on the plus side, they are<lf>pretty dumb—they might even<lf>ignore you and keep working<lf>until you turn on the heat. Be<lf>careful, though. Worker ants<lf>don't seem so weak when you're<lf>being swarmed by 'em.
+<string>If you thought those other bugs<lf>were bad, you're really gonna<lf>hate these guys.<lf><lf>The green stuff in their butt<lf>ain't any kind of blood—it's a<lf>healing nectar that'll fix up<lf>other demons' wounds in<lf>no time at all.<lf><lf>My recommendation:<lf>Kill these first, before they<lf>make themselves a nuisance.<lf><lf>Oh, and it looks like they spit<lf>some kinda poison juice too.<lf>So, uh, maybe bring an umbrella.
+<string>Ooh mama, this is a rare 'un.<lf><lf>Just goes to show the power o'<lf>blood—this one's sucked up so<lf>much of the red vino that it's<lf>crystallized its body. You could<lf>probably knock some of the<lf>crystals off with a few hits, or<lf>take this guy down and get the<lf>whole lot.<lf><lf>Trouble is, from what I've seen,<lf>these shy lil' monsters are<lf>mighty skittish. First sign o'<lf>danger and they're outta there.<lf>Better work quickly if you want<lf>the big payoff.
+<string>I knew it! Where there's worker<lf>ants, there's gotta be a queen<lf>too.<lf><lf>This big gal's got the armor to<lf>take a beating and the tools to<lf>dish one out. And when she's<lf>angry, she ain't picky about her<lf>targets—she'll scythe through<lf>her own demon buddies to get to<lf>you.<lf><lf>If that ain't enough, she'll get<lf>fired up if she sucks enough<lf>blood. Watch out if her body<lf>turns red—that's your sign that<lf>it's go time.
+<string>These shambling meatsticks are<lf>residents o' the underworld,<lf>foot soldiers straight from the<lf>legions of Hell.<lf><lf>Time was, these things only<lf>appeared on the mortal plane by<lf>possessing a wooden doll, lump<lf>of clay, or something similar.<lf><lf>Now? Those creeps walkin' around<lf>Red Grave are the genuine<lf>article. It's a sign that the<lf>barriers between the demon world<lf>and the human world are breaking<lf>down.<lf><lf>So, tactical breakdown: Their<lf>scythes look simple, but they've<lf>got plenty of reach and they're<lf>serrated to cause maximum blood<lf>loss. So, um, make sure to dodge.
+<string>Take a Hell Caina, torture it<lf>till it goes mad, throw weapons<lf>in its hands, and this is what<lf>you get.<lf><lf>Their hatchets are real nasty,<lf>and they're nimbler than they<lf>look. Expect quick attacks when<lf>they go into a frenzy.<lf><lf>Judging by the samples we got,<lf>these things are extremely<lf>susceptible to pain—so you better<lf>believe they won't take any<lf>punishment lying down.<lf><lf>Knock 'em down, but keep your<lf>guard up. Next thing you know<lf>it'll be back swinging like a<lf>madman on fire.
+<string>A high priest in the choirs<lf>o' Hell. Ain't that somethin'?<lf><lf>These fellas tend to leave<lf>close-quarters fighting to the grunts,<lf>which they can summon in to<lf>take the heat off themselves.<lf>Meanwhile, they attack from long<lf>range by extending those snakey<lf>tentacle arms.<lf><lf>They'll try to keep their distance<lf>and dodge gunfire when they<lf>can. You'll just have to show<lf>these slitherin' scumbags you<lf>got the smarts to get past<lf>their defenses and send 'em<lf>screaming back to the pit.
+<string>Ever heard the phrase "like a<lf>bat outta Hell"? Well, this is it.<lf><lf>These leathery lil' pests have<lf>got some kinda combustion<lf>chamber built into their<lf>biology. Meaning? Well, they<lf>breathe fire.<lf><lf>On their own, these critters<lf>ain't gonna burn your ass up too<lf>bad. Just watch your back when a<lf>whole swarm tries to crash the<lf>party.
+<string>Y'know, we see a lotta weird<lf>things coming up out of the<lf>hot place, but this one's really<lf>somethin' special.<lf><lf>See how the combustion chamber<lf>is mounted on its spine, so when<lf>it spits flame it sets itself on<lf>fire? That's the kinda design<lf>I can get behind.<lf><lf>Not that I'll object if you<lf>smash these little assholes<lf>to kingdom come. Try aiming<lf>for the combustion chamber on<lf>its back—should take the fire out<lf>the critter and make for easy<lf>pickings.
+<string>Now a master engineer like<lf>me's gotta have a profound<lf>respect for the laws o' physics.<lf><lf>So when these creepy specters<lf>come drifting through walls with<lf>their shears a-choppin', it kinda<lf>gets on my nerves.<lf><lf>But they've gotta be solid<lf>sometime—otherwise they<lf>couldn't block your attacks<lf>with them shears.<lf><lf>Near as I can tell, that noggin<lf>controls the whole shebang.<lf>Look for some cue from the head,<lf>and aim your attacks there.<lf>Might go down easier'n you think.
+<string>The pits of Hell spew up all<lf>kinds o' reptilian nasties, and<lf>this is one of them.<lf><lf>I studied their cell samples and<lf>let me tell ya, their muscle<lf>tissue is something else. Each<lf>limb has power like a hydraulic<lf>cylinder. That's how they jump<lf>so dang far.<lf><lf>And I ain't exaggeratin' when I<lf>say their retractable claws are<lf>razor sharp. I tried one on some<lf>sheet metal—zzzzip! cut right<lf>through. Weak to impacts though.<lf>Think you can break 'em off?
+<string>Another big lizard that's<lf>crawled outta some deep dark<lf>hole in the underworld.<lf><lf>Each one of those spikes on<lf>its back is like a giant saw<lf>tooth, and it's not afraid to<lf>get 'em spinning!<lf><lf>They're sharp but brittle,<lf>so try snapping 'em off in<lf>between dodging its attack runs.<lf><lf>Oh, and it's got these nasty<lf>little neurotoxin sacs inside<lf>its chest. Step aside when it<lf>starts hackin' something up<lf>—that stuff is lethal!
+<string>I got this theory that demons<lf>mutate based on their deepest,<lf>darkest desires.<lf><lf>So take this big lizard.<lf>It wants to hunt, right?<lf>It wants to go faster.<lf>Wants to kill faster.<lf>Day in, day out, all it<lf>can think of is speed.<lf><lf>A few generations of that<lf>twisted killer instinct, and you<lf>get a freak so fast it ain't<lf>even moving under its own<lf>power no more. This sucker<lf>uses raw demonic power<lf>to do little space-time jumps.<lf>It'll warp right next to you<lf>and bite your face off before<lf>you can blink! Hope you<lf>got quick reflexes.
+<string>In his journals, my daddy<lf>sometimes mentions the<lf>Black Angel—some kind of<lf>powerful demon that used<lf>to inhabit the underworld.<lf><lf>Daddy had a theory that it was<lf>created by transubstantiating<lf>an unwilling human victim into<lf>demonic flesh.<lf><lf>If that theory was right, then<lf>these dead-eyed creeps are like<lf>a mass-produced version of the<lf>Black Angel.<lf><lf>Their shields? Hella tough.<lf>If you wanna get around 'em,<lf>you're gonna have to use<lf>your head. Good luck with that.
+<string>Check out the armor and weapon<lf>on this demon. I'm seein' clear<lf>similarities to the Black Angel.<lf><lf>My guess is these are some kinda<lf>prototype, or maybe modified<lf>version of the Black Angel.<lf><lf>We've seen these weirdos<lf>speaking to the mass-produced<lf>types, giving them orders like<lf>they're in command. Seems<lf>they're smarter than your<lf>average hell-beast.<lf><lf>And hey, I know you think you're<lf>invincible, but that sword'll<lf>give you more than a close<lf>shave. But, if you can parry it,<lf>I reckon you'll have a pretty<lf>big opening to do your stuff.
+<string>Your average demon don't have<lf>the smarts to actually wield<lf>their power as magic.<lf><lf>This fella breaks the mold,<lf>though—he may only have ice<lf>tricks up his sleeve, but that's<lf>still enough to kill you if you<lf>don't watch your ass.<lf><lf>Just look at those freaky,<lf>stick-thin limbs. Physically<lf>speaking it's weak, and it<lf>knows it, too. It'll try to keep<lf>its distance and throw up a<lf>magic shield to block your<lf>shots. You'll have to get in its<lf>face, or wait for your chance to<lf>shoot past the shield.<lf><lf>Hey, nobody said this business<lf>was easy.
+<string>Sure was interesting dissectin'<lf>this demon.<lf><lf>This thing bears out my theory<lf>on demon evolution. Can't do<lf>magic incantations without a<lf>mouth, right? So after a few<lf>generations of demons obsessed<lf>with arcane chants, you get<lf>something that's all mouths,<lf>with its muscles so atrophied it<lf>can hardly move its limbs.<lf><lf>And more mouths means more<lf>power. My guess is this thing<lf>could kill you dead with a<lf>single spell if you let it get<lf>the chant out. If you see it<lf>startin' something real ominous-<lf>looking, you'd better shut it<lf>down real quick.
+<string>Every now and again you get a<lf>demon so absorbed with gluttony<lf>and power that it starts<lf>cannibalizin' its own demon kin.<lf><lf>See how other demons have<lf>chained up this thing's mouth?<lf>It's good to know that even the<lf>demons are afraid of becoming<lf>chow.<lf><lf>With the restraints in place,<lf>this big boy'll just stumble<lf>around lookin' sorry for<lf>hisself. Not too dangerous.<lf><lf>Bust the chains off, though, and<lf>it'll go hog wild, eatin'<lf>everything in sight. If it<lf>chomps a few bad guys, all the<lf>better. Just don't come cryin'<lf>to me when it nips your buns.
+<string>At first glance, these uglies<lf>seem half-formed, like they<lf>broke outta the egg too early. I<lf>gotta admit, there's still a lot<lf>I can't figure out about 'em.<lf><lf>Half-baked or not, they'll tear<lf>you a new one if you don't watch<lf>out. They got more strength in<lf>those spindly arms than your<lf>three average demons combined.<lf><lf>And what else is on the menu?<lf>Magic powers. When you see 'em<lf>kinda dancing around, they're<lf>absorbing demonic power right<lf>outta the atmosphere.<lf><lf>What really bugs me is those<lf>masks they wear. The masks are<lf>important to 'em somehow... Just<lf>wish I could figure out how.
+<string>
+<string>We're seeing these bundles of<lf>Qliphoth roots all over Red<lf>Grave. The outer skin on 'em is<lf>so thick you'd have to spend<lf>hours working on 'em with your<lf>sword or gun to cut through.<lf>Figures—what other kind of plant<lf>would survive in the underworld?<lf><lf>Luckily these shrinkin' violets<lf>wear their hearts on their<lf>sleeves. Look for the pulsating<lf>mass of red somewhere within the<lf>roots. My theory is that these<lf>spots are like hearts, pumping<lf>collected blood into the<lf>Qliphoth.<lf><lf>Well, like any gal knows, if you<lf>put your heart out in the open<lf>then it's gonna get broke. Take<lf>out the pulsating red blobs and<lf>the roots should wither.<lf><lf>Just try not to think about how<lf>much blood they needed to get<lf>that big...
+<string>This demon calls himself<lf>Goliath. Gotta love it when they<lf>just up and tell you their name—<lf>makes my job so much easier.<lf><lf>Anyway, when you see a<lf>roided-out musclehead demon like<lf>this 'un, you can pretty much<lf>guarantee he'll be dumber'n a<lf>sack of pork chops.<lf><lf>Still, that gnarly belly-mouth<lf>is impressive stuff. Draggin'<lf>crap in and superheatin' it in<lf>his hellfire? That's got<lf>potential. Gave me a few ideas<lf>for expanding the arsenal.<lf><lf>So I guess we kinda owe this ape<lf>a thank-you.
+<string>You heard of Machiavelli? He's a<lf>legend. One of the underworld's<lf>top gunsmiths.<lf><lf>Now would you believe it if I<lf>told you Artemis started out as<lf>a gun he made? Seems that fusing<lf>the gun with a human host<lf>created this.<lf><lf>Man, I wish I could have seen it<lf>in the flesh. Those energy beams<lf>it was shooting at you were<lf>graceful, right? Like a ballet<lf>of destruction. Yeah, I can see<lf>it now.<lf><lf>A priceless relic, one of the<lf>last remaining artifacts of<lf>Machiavelli's genius. ...Until<lf>somebody came along and<lf>smashed it the hell up.<lf><lf>Just...just don't talk to me for<lf>a while.
+<string>According to V, this thing was<lf>livin' symbiotically with the<lf>Qliphoth, a parasite among the<lf>vines.<lf><lf>With all that blood running<lf>through the Qliphoth, it figures<lf>that something would hitch a<lf>free ride.<lf><lf>Its humanoid core would be weak<lf>to attack if it weren't for all<lf>the tentacle-like arms it can<lf>swing around to defend itself.<lf><lf>On top of that, it can hide<lf>itself inside the Qliphoth to<lf>stay safe. If you want to kill<lf>it, you gotta find a way to drag<lf>it kickin' and screamin' into<lf>the open.<lf><lf>Oh, and by the way...this thing<lf>is as dumb as they come.
+<string>Geryon are listed as "equus<lf>daemonicus" in some of the<lf>oldest demonology texts. That's<lf>"horse demon" to the uneducated.<lf>You keeping up okay, sugar?<lf><lf>Anyway, seems these demons come<lf>in all shapes and sizes, but the<lf>one thing they have in common is<lf>the power to mess with time.<lf><lf>They're also proud—this is not a<lf>horse you just jump onto and<lf>ride around.<lf><lf>So if V's tellin' the truth, the<lf>way that knight was able to ride<lf>this Geryon is some mighty<lf>impressive stuff.
+<string>Whatever sorcery it was that<lf>cooked up the original Black<lf>Angel, somebody's been mighty<lf>busy perfectin' it to make this<lf>fella.<lf><lf>Retractable shields built into<lf>both arms? It's attack and<lf>defense in a single package! And<lf>with that demon gal Trish stuck<lf>inside, it could blast lightning<lf>all up in your face too. Lemme<lf>tell ya, I've got a lot of<lf>respect for the design!<lf><lf>Sure wish I coulda seen this one<lf>myself, but I guess I'll have to<lf>quiz Trish and Dante about it<lf>instead...
+<string>Gilgamesh is a kind of metal<lf>that can be mined from the<lf>bedrock of the underworld.<lf>Fuse it with demon flesh, and<lf>you've got armor harder than steel.<lf><lf>That's what we got here. Seems<lf>somebody decided to fuse the<lf>roots of the Qliphoth with a<lf>batch of Gilgamesh, and before<lf>you know it there's a<lf>three-story metal demon walkin'<lf>around.<lf><lf>The really rad thing about<lf>Gilgamesh is that it can create<lf>shockwaves outta thin air.<lf>That's how this varmint was<lf>blowin' things up from a<lf>distance—and it means runnin'<lf>don't do you no good.<lf><lf>If you want to kill somethin'<lf>like this, you gotta get up<lf>close 'n' personal.
+<string>In his journals, my daddy<lf>sometimes mentions the<lf>Black Angel—some kind of<lf>powerful demon that used<lf>to inhabit the underworld.<lf><lf>Daddy had a theory that it was<lf>created by transubstantiating<lf>an unwilling human victim into<lf>demonic flesh.<lf><lf>If that theory was right, then<lf>these dead-eyed creeps are like<lf>a mass-produced version of the<lf>Black Angel.<lf><lf>Their shields? Hella tough.<lf>If you wanna get around 'em,<lf>you're gonna have to use<lf>your head. Good luck with that.
+<string>Check out the armor and weapon<lf>on this demon. I'm seein' clear<lf>similarities to the Black Angel.<lf><lf>My guess is these are some kinda<lf>prototype, or maybe modified<lf>version of the Black Angel.<lf><lf>We've seen these weirdos<lf>speaking to the mass-produced<lf>types, giving them orders like<lf>they're in command. Seems<lf>they're smarter than your<lf>average hell-beast.<lf><lf>And hey, I know you think you're<lf>invincible, but that sword'll<lf>give you more than a close<lf>shave. But, if you can parry it,<lf>I reckon you'll have a pretty<lf>big opening to do your stuff.
+<string>At first glance, these uglies<lf>seem half-formed, like they<lf>broke outta the egg too early. I<lf>gotta admit, there's still a lot<lf>I can't figure out about 'em.<lf><lf>Half-baked or not, they'll tear<lf>you a new one if you don't watch<lf>out. They got more strength in<lf>those spindly arms than your<lf>three average demons combined.<lf><lf>And what else is on the menu?<lf>Magic powers. When you see 'em<lf>kinda dancing around, they're<lf>absorbing demonic power right<lf>outta the atmosphere.<lf><lf>What really bugs me is those<lf>masks they wear. The masks are<lf>important to 'em somehow... Just<lf>wish I could figure out how.
+<string>I guess I'd describe this as a<lf>metaphysical infernal phantasm...<lf>Sounds pretty good, right?<lf>I'mma write that one down.<lf><lf>Looks like this one is supposed<lf>to be Goliath...kind of a waste<lf>of effort if you ask yours truly.<lf>If you're gonna bust out this<lf>kind of power, why not choose<lf>somethin' a bit more badass?<lf><lf>Anyway, if the likes of this fella<lf>caused you trouble, you wouldn't<lf>have survived so long.
+<string>Another metaphysical infernal<lf>phantasm. Man, I love the sound<lf>of that.<lf><lf>This one's based on Artemis...<lf>But just my luck, the gorgeous<lf>light show of the original ain't<lf>nowhere to be seen.<lf><lf>Whatever it was that made this<lf>thing got no appreciation for<lf>the finer things in life!
+<string>*Ahem* What we have here is a<lf>metaphysical infernal phantasm.<lf>Oo-ee! I impress myself.<lf><lf>I got an inklin' that these are<lf>yanked out of the target's<lf>memory and manifested to<lf>go on the attack. The ol'<lf>"nightmares made real" deal.<lf>But heck, I'm an engineer, not<lf>a wicked witch. What do I know<lf>about magic?<lf><lf>What's clear is that no phantasm<lf>is gonna be more powerful<lf>than the original.<lf><lf>You got nothing to fear from<lf>these things...unless you're<lf>already on your last legs.
+<string>According to V, this demon calls<lf>itself Malphas.<lf><lf>Judging by the different body<lf>tissue of its upper and lower<lf>halves, I think it used to be<lf>two separate entities.<lf><lf>My guess is some arcane sorceress<lf>type fused the bird into herself,<lf>but then realized she couldn't<lf>keep the bird under control.<lf><lf>By the way, this bird was still<lf>a lil' chick. If you'd let it<lf>grow up all big an' strong, we<lf>coulda had a real problem on our<lf>hands.
+<string>Everybody knows that when you<lf>see a big mutt with three heads,<lf>that there is a Cerberus. But<lf>Dante managed to run into the king<lf>of the whole bunch? That guy's<lf>movin' up in the world.<lf><lf>Well, you gotta hand it to the<lf>king—wielding fire, lightning,<lf>and ice ain't no mean feat.<lf><lf>But like all Cerberus, under all<lf>the king-this and your-majesty<lf>-that, he ain't nothing but a<lf>glorified guard dog.<lf><lf>Wonder if Urizen was upset about<lf>what happened to his pup.
+<string>Your target—the demon king.<lf><lf>Thing is, I can't find any<lf>mention of Urizen in any of<lf>my demonology texts.<lf>You'd think a guy who crowns<lf>himself king of all demons would<lf>be a little more infamous...<lf><lf>Well, superstar or not, he's<lf>definitely got the power to<lf>keep a grip on the throne.<lf>But you don't need me to tell<lf>you that, huh?<lf><lf>Listen, if you're sure you<lf>wanna take this guy down...<lf>watch your ass, all right?
+<string>This sheds some light on what<lf>Urizen was up to—rooting himself<lf>into the Qliphoth to grow fat on<lf>its power. He wasn't just<lf>fighting you sitting down outta<lf>contempt. He needed to stay<lf>rooted into that thing to absorb<lf>its power.<lf><lf>That makes it all the crazier<lf>that he cut himself off to move<lf>around!<lf><lf>Those shreds of the Qliphoth<lf>left in his body looked like a<lf>real headache, attacking and<lf>defending at Urizen's will. How<lf>you got outta this fight alive<lf>I'll never know.
+<string>All that blood...all that life<lf>force focused into the fruit of<lf>the Qliphoth. When Urizen ate<lf>that thing his whole "king of<lf>hell" gig seemed like nothing—<lf>he had the power to shake<lf>the foundations of the world.<lf><lf>He was so damn powerful that he<lf>just cast off those vestiges of<lf>the Qliphoth that were his<lf>weapons and armor. They were<lf>only slowin' him down.<lf><lf>From then on, all he needed was<lf>his own physique— the ultimate<lf>expression of killing power.<lf><lf>To take him on and win... you'd<lf>need the power of a god.
+<string>Son of the legendary dark knight<lf>and Dante's brother.<lf><lf>Lady says he once lost to Dante<lf>and got his ass thrown into the<lf>depths of the underworld.<lf><lf>Later, he turned his sword— the<lf>Yamato—on himself, using its<lf>power to cleave demon from human<lf>and so sever everything that was<lf>holding back his demonic side.<lf><lf>So V was the humanity he left by<lf>the wayside...<lf><lf>Well, they're back together now.<lf>Vergil's weakened days are over.
+<string>Seems crazy to think that the<lf>weird bastard who ripped your<lf>arm off was Vergil all along.<lf><lf>And once he took Yamato out<lf>of your torn-off arm, he could<lf>use its power to cut the human<lf>side out of himself.<lf><lf>But even with all that raw<lf>power, he couldn't take down<lf>Dante. What he cast aside in his<lf>quest for strength turned out to<lf>be the most important thing of<lf>all... Yep, his true power was<lf>inside him all along...<lf><lf>...Bwahaha! The look on your face.<lf>What a bunch of corny crap.
+<string>Vergil's true form.<lf><lf>He always thought that his<lf>humanity was stopping him<lf>from unleashing his full potential.<lf>Well he's sure got his demon<lf>power figured out now.<lf><lf>Guess this is the payoff<lf>for his time bein' Urizen.<lf><lf>In this form, Yamato—the source<lf>of his power—is stored in his arms.<lf>Maybe this is the true form<lf>of Yamato too.
+<string>Dante, huh. Now I ain't trying<lf>to say anything, but I almost<lf>feel bad for the poor bastards<lf>that find themselves in that<lf>old devil hunter's sights.<lf><lf>I reckon Dante's shot, fired, or<lf>thrown just about everything<lf>grandma's cooked up over the<lf>years an' he's gotten pretty<lf>good at it too.<lf><lf>Your daddy's probably the only<lf>person out there who comes<lf>close to keeping up, and you<lf>think you can top that? <lf><lf>Yeah, good luck...
+<string>Thing about Dante is, right when<lf>you think you got him licked,<lf>he's just getting started.<lf><lf>Once he lets loose with all that<lf>demon power he's got stored up,<lf>he'll be faster, hit harder, and<lf>heal up whatever scratches you<lf>gave him to boot.<lf><lf>Your best bet? You get in there<lf>and give it everything you got.<lf>Ain't worth holding anything<lf>back if he knocks you out<lf>before you can use it.
+<string>Desperate times call for demonic<lf>measures. When Dante drops<lf>that old man bit, you know <lf>it's about to get real.<lf><lf>I'm talking like full mano-a-<lf>demon action, you know what<lf>I mean?<lf><lf>Like when Dante and Vergil<lf>change shape and really start<lf>knocking each other around.<lf><lf>Times like that though, phew,<lf>there's the potential for some<lf>serious demon sword study here.<lf>Dante's sword's all about<lf>combining man and demon, while<lf>Vergil's all about keeping them<lf>apart. Feels like it's more than<lf>just two brothers playing<lf>around, it's like the swords<lf>themselves got something<lf>to settle.
+<string>
+<string>Demonic insect
+<string>Airborne evil
+<string>Bloodgorged scavenger
+<string>Vermin empress
+<string>
+<string>Cleaving vanguard
+<string>Brutal berserker
+<string>Demon horde commander
+<string>Winged deception
+<string>Insanity ablaze
+<string>Shears of annihilation
+<string>Brutal instinct
+<string>Barbed discord
+<string>Breakneck predator
+<string>Dark knight soldier
+<string>Fractured commander
+<string>Elusive incantor
+<string>Chorus of malediction
+<string>Unstoppable appetite
+<string>Abnormal avatar
+<string>Blood-slicked vegetation
+<string>Incandescent colossus
+<string>Illuminating corruption
+<string>Parasitic fiend
+<string>Abyssal cavalry
+<string>Voltaic black knight
+<string>Marauding titan
+<string>Dark knight soldier
+<string>Fractured commander
+<string>Abnormal avatar
+<string>Colossal forgery
+<string>False light
+<string>Fabricated abyss
+<string>Diabolical amalgam
+<string>Gatekeeper unleashed
+<string>Nefarious usurper
+<string>The Alpha and the Omega
+<string>The Alpha and the Omega
+<string>The Legendary Devil Hunter
+<string>The Legendary Devil Hunter
+<string>The Legendary Devil Hunter
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Filthy mother sucker
+<string>Stomp on sight
+<string>A rare specimen
+<string>She's a killer...
+<string>Bring on the weedkiller
+<string>Frontline freakshow
+<string>Sure, give 'em MORE sharp objects
+<string>How does this even work?
+<string>Pain. In. The. Ass.
+<string>Twisted firestarter
+<string>Did nobody tell 'em about runnin' with scissors?
+<string>Somebody say sewer gators?
+<string>Spin me right round
+<string>Speed ain't everything honey
+<string>Love the shield!
+<string>Definitely compensating for something
+<string>Stinks like a goat
+<string>Talk about a chatty Cathy
+<string>Pet trashcan?
+<string>Creepy.
+<string>
+<string>Always bet on red
+<string>All brawn, no brains
+<string>No place for a Lady
+<string>Get off the couch next time
+<string>Talk about horsepower!
+<string>War of a-Trish-ion
+<string>Scrap demon metal jackpot!
+<string>So many shiny toys!
+<string>
+<string>Creepy.
+<string>So fake it hurts
+<string>
+<string>
+<string>So the bird part ends...where, exactly?
+<string>Ugh, doggy drool...
+<string>It's all this guy's fault!
+<string>Another deadbeat dad...
+<string>The bigger they are...
+<string>Gonna miss those critters...
+<string>I wouldn't wanna fight this guy...
+<string>
+<string>Filthy mother sucker
+<string>Stomp on sight
+<string>A rare specimen
+<string>She's a killer...
+<string>Bring on the weedkiller
+<string>Frontline freakshow
+<string>Sure, give 'em MORE sharp objects
+<string>How does this even work?
+<string>Pain. In. The. Ass.
+<string>Twisted firestarter
+<string>Did nobody tell 'em about runnin' with scissors?
+<string>Somebody say sewer gators?
+<string>Spin me right round
+<string>Speed ain't everything honey
+<string>Love the shield!
+<string>Definitely compensating for something
+<string>Stinks like a goat
+<string>Talk about a chatty Cathy
+<string>Pet trashcan?
+<string>Creepy.
+<string>
+<string>Always bet on red
+<string>All brawn, no brains
+<string>No place for a Lady
+<string>Get off the couch next time
+<string>Talk about horsepower!
+<string>War of a-Trish-ion
+<string>Scrap demon metal jackpot!
+<string>So many shiny toys!
+<string>
+<string>Creepy.
+<string>So fake it hurts
+<string>
+<string>
+<string>So the bird part ends...where, exactly?
+<string>Ugh, doggy drool...
+<string>It's all this guy's fault!
+<string>Another deadbeat dad...
+<string>The bigger they are...
+<string>Gonna miss those critters...
+<string>I wouldn't wanna fight this guy...
+<string>
+<string>Vergil
+<string>Devil Trigger Vergil
+<string>Urizen

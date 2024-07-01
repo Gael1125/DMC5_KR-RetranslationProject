@@ -1,0 +1,52 @@
+<string>
+<string>１人になるのが寂しいのか？<lf>そうじゃないならさっさと行けよ
+<string>悪いが私は１人になりたいんだ<lf>さっさと行けよ、寂しんぼう
+<string>
+<string>随分ちらかしやがったな…
+<string>歩きにくいったらありゃしねえ…
+<string>通せんぼか…どうすりゃいいんだ？
+<string>なるほど…使えそうだな
+<string>ブッタ斬って進めりゃ楽なのによ
+<string>またコレかよ…
+<string>Uh oh…コイツにはうんざりだな
+<string>ボロ床め…俺のせいじゃねーぞ
+<string>やれやれ…クソみてえな樹だな
+<string>出口を探さないとな…
+<string>そろそろ先に進むか…
+<string>あー…どっちから来たんだっけ？
+<string><RUBY><RB>V</RB><RT>ブイ</RT></RUBY>は…まだか？
+<string>お宝発見…ツイてるね
+<string>なんでこんな街に悪魔が…<lf>何かあるのか？
+<string><RUBY><RB>V</RB><RT>ブイ</RT></RUBY>か…悪魔じゃねえみたいだが…
+<string>義手がありゃ何も問題ねえさ…
+<string>
+<string>ずいぶんデケェのがいるのな…
+<string>この模様…何だ？
+<string>出発前にデビルブレイカーのセッティングを忘れるなよ
+<string>早く<RUBY><RB>V</RB><RT>ブイ</RT></RUBY>と合流しなきゃな
+<string>
+<string>今さら謝っても遅ェぞ…小僧！
+<string>謝る？　そうだな…謝っとくか。今からブッ殺すけど、ごめんなってよ
+<string>死ぬのはてめェだ！人間がァ！
+<string>
+<string>ハッハッハーッ！　見たか、俺の力をッ！
+<string>お前の墓場だ…好きにしろよ
+<string>次はてめェが粉々になる番だァッ！
+<string>
+<string>ゴミが好物なのか？変わってんな
+<string>馬鹿にしやがって…ブッ殺す！
+<string>
+<string>何故だ…人間ごときにこの俺が…！
+<string>俺に言わせりゃ悪魔ごとき、だぜ…そろそろ終わりにするか？
+<string>クソッタレがぁああぁ！
+<string>
+<string>潰れろ、ゴミめェッ！
+<string>俺様の力を…思い知れェッ！
+<string>どうしたァ？　ビビったか？
+<string>死にやがっれェッ！
+<string>あの果実は俺様が頂く…！
+<string>チョコマカしやがって…！
+<string>
+<string>まだ動くのか…
+<string>何コール目だ？<lf>早く出ろ アホ！
+<string>次はお前がかけろ<lf>そこに合流する

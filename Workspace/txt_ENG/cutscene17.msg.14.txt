@@ -1,0 +1,66 @@
+<string>
+<string>The truth is...
+<string>I wanted to be protected and loved...
+<string>But I was alone. My only choice was to survive.
+<string>V, you gotta rest.
+<string>Nero...
+<string>I will tell you...everything.
+<string>There is no demon named Urizen...
+<string>Only a man who threw away his humanity,<lf>in an endless pursuit of power.
+<string>He is Dante's older brother.
+<string>Dante's brother?
+<string>Yes. 
+<string>And his real name is...
+<string>Vergil.
+<string>
+<string>Vergil...
+<string>Hey, is that the damn fruit that you've been<lf>jabberin' about? Doesn't look so special to me.
+<string>Yup, this is where it all started.
+<string>That day mother saved me and...
+<string>left you behind.
+<string>The thing you don't know is, she tried to save you, too.<lf>She kept searching and searching...
+<string>Until it killed her.
+<string>I have no recollection of this tale, or this place.
+<string>It's all an illusion, created by this extraordinary fruit.
+<string>Its power, you see, is all I ever wanted.
+<string>And with this...
+<string>I will have everything!
+<string>No, brother, you don't have everything.
+<string>That last shred of humanity that you still had?
+<string>You just lost it!
+<string>That is nothing but the pitiful cries<lf>of those without strength.
+<string>Come to me, brother...
+<string>I shall enlighten you, Dante!
+<string>
+<string>They're brothers? Why are they fighting each other?
+<string>To see one's justice through, a man must fight for it.
+<string>Even if the one who stands before him is his kin.
+<string>That's ridiculous.
+<string>The brothers of blood disagree on the<lf>very reason of their existence. 
+<string>They must fight.
+<string>Dante!
+<string>You're late...just finishing up.
+<string>
+<string>Is that really your brother?
+<string>I'm afraid so.
+<string>So he was behind all this. Your own flesh and blood.
+<string>Right again.
+<string>In the last throes of defeat, I see.
+<string>You...
+<string>V, get back! Things are about to get really messy.
+<string>No! Please...
+<string>Let me. 
+<string>I want to end this battle...with my own hands.
+<string>Do not struggle.
+<string>For if you can't even defeat me, then you've already lost.
+<string>I will not lose...
+<string>Not to Dante...
+<string>I need power...
+<string>More power!
+<string>I know...
+<string>We are one and the same, you and I.
+<string>But you've lost me, and I've lost you.
+<string>Yet we are connected by that one feeling.
+<string>"While thy branches mix with mine,<lf>and our roots together join."
+<string>What is this?
+<string>Vergil...!

@@ -1,0 +1,73 @@
+<string>
+<string>You could've at least knocked, Morrison.
+<string>Yeah, I could have.
+<string>I got some good news and some bad news...
+<string>Pick your poison, which you wanna hear first?
+<string>Just speak.
+<string>Bad news it is!
+<string>Lady Patty's feathers are all ruffled.
+<string>See, she wants to invite you to her birthday<lf>party, but your phone is disconnected.
+<string>You're a smart one, Morrison. You notice<lf>the electric and water are out, too?
+<string>I expected nothing less...
+<string>So what's the good news?
+<string>Oh, I got a gig. Cash, up front.
+<string>Cash up front? This, I like.
+<string>The water needs turning on,<lf>and those toilets need flushing.
+<string>Water, gas and power...
+<string>Comin' outta your cut.
+<string>You're a real agency now.
+<string>Devil May Cry.
+<string>Dante, Dante! Do you have any idea how many<lf>times I've tried to call!? Like a zillion!
+<string>Oh my God, tonight's my birthday party! Yeahhhh!! I'm turning 18! Not a little kid—
+<string>
+<string>Okay, Morrison, I'll take you up on that gig. But ONLY<lf>if you can get me out of that hellish birthday party.
+<string>Consider your RSVP declined.
+<string>Meet your new client.
+<string>Listen, I'm gonna find Lady and Trish.<lf>Bring them in on this.
+<string>What!? C'mon, you don't think<lf>I can handle this gig on my own?
+<string>It's a big job... Big job, Dante.
+<string>You're gonna need the help.
+<string>So what's your name?
+<string>"I have no name; I am but two days old..."
+<string>Just kidding. You can call me "V."
+<string>Okay, V... Why don't you tell me<lf>everything about this job?
+<string>A powerful demon is about to resurrect,<lf>and we need your help, Dante.
+<string>Now that's a familiar tune... Do you have any idea<lf>how many times I've heard that exact same line?
+<string>
+<string>This is...special.
+<string>Special? Okay, so what's so special about this one?
+<string>This demon is your "reason"...
+<string>Your reason for fighting.
+<string>This demon got a name?
+<string>
+<string>What the hell!?
+<string>Did you find it?
+<string>Uh, well, I don't know what I found, but...<lf>I think I saw some demons dancing?
+<string>Well, then I guess we keep going.
+<string>The devil sword Sparda is nearby.
+<string>
+<string>Whoa, this is some kind of ritual shindig, isn't it?
+<string>You guys got the dance fever for Sparda, don't you?
+<string>Whoa, easy on the dance floor there, partner.
+<string>I'll be taking that back.
+<string>You know your endless worshipping<lf>isn't making the Sparda any happier.
+<string>
+<string>It seems this sword is still too strong for me...
+<string>So close, though, so close.<lf>
+<string>You got a lot of heart, kid, you really do, but<lf>you're a bit of a sissy in the strength department.
+<string>Hey, hey, no offense, uh, you know.
+<string>That kid, Nero...he has the strength.
+<string>It speaks!
+<string>Dante...
+<string>I don't even have the words. I—He's alive, he's alive!
+<string>
+<string>The devil sword Sparda was concealing Dante's presence.
+<string>How does one friggin' guy have so much luck, huh!?
+<string>Uhh, V?
+<string> No no no, get a grip on yourself now, c'mon!
+<string>If only you could defeat Urizen...
+<string>If only... No.
+<string>V? No no no...
+<string>If only you never existed...
+<string>Then I...!
+<string>Don't do it, V! No no NO!

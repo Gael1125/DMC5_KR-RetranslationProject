@@ -1,0 +1,13 @@
+<string>調べる
+<string>決定
+<string>？？？
+<string>装備を整える
+<string>シークレットミッション
+<string>受話器を取る
+<string>電話をかける
+<string>{0}を使う
+<string>潜り込む
+<string>グリフォンを解放する
+<string>シャドウを解放する
+<string>ナイトメアを解放する
+<string><ICON DECIDE>{0}

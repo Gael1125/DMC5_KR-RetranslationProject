@@ -1,0 +1,210 @@
+<string>
+<string>RESULT
+<string>Stylish Pts
+<string>Bonus & Penalty
+<string>Total Stylish Pts
+<string>Pts
+<string>Bonus Red Orbs
+<string>Extra Bonus
+<string>Total Red Orbs
+<string>Penalty
+<string>
+<string>TOTAL RESULTS
+<string>Pro
+<string>07 N
+<string>07 V
+<string>13 N
+<string>13 D
+<string>13 V
+<string>SECRET MISSIONS
+<string>RECORD:
+<string>CLEAR COUNTS
+<string>TOTAL STYLISH POINTS
+<string>
+<string>ノーアイテム
+<string>ノーダメージ
+<string>ノーコンティニュー
+<string>ゴールドオーブ使用クリア
+<string>オーブ復活３回以上
+<string>チェックポイント復活３回以上
+<string>スーパーキャラクター
+<string>オートマチックアシストを使用しクリア
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>プラクティス
+<string>ガンフリーク
+<string>ソードフリーク
+<string>オールラウンダー
+<string>エネミー３段跳び
+<string>スタイリッシュランクキープ
+<string>ライフマックスフィニッシュ
+<string>ライフミニマムフィニッシュ
+<string>ロングフェイタルダメージ
+<string>ファストリカバリー
+<string>デビルトリガーキープ
+<string>コンティニューフリーク
+<string>リスタートフリーク
+<string>２体同時フィニッシュ
+<string>３体同時フィニッシュ
+<string>５体同時フィニッシュ
+<string>誘爆被害
+<string>連続のダメージ
+<string>痛恨のダメージ
+<string>回避マスター
+<string>挑発マスター
+<string>エア挑発マスター
+<string>エアウォーカー
+<string>グラウンドマスター
+<string>サンドバッグ
+<string>ファストバトルタイム
+<string>ロングバトルタイム
+<string>ノーデビルトリガー
+<string>デビルトリガーフリーク
+<string>コープ 同一敵ヒット成功
+<string>コープ 同一敵ヒットなし
+<string>１ファイトビッグオーブロスト
+<string>１ファイトビッグオーブゲット
+<string>パーフェクトガンマスター
+<string>パーフェクトソードマスター
+<string>スーパーダイブアタック
+<string>エネミーハイローンチ
+<string>スナイパー
+<string>デビルブレイカーブレイカー
+<string>デビルブレイカーキーパー
+<string>ブレイクアウェイフィニッシュ
+<string>アームレスフィニッシュ
+<string>ジェットライダー
+<string>クレイジージェットライダー
+<string>バスターマスター
+<string>ボマー
+<string>マックスイクシード
+<string>ブックマニア
+<string>ドミネーションフィニッシュ
+<string>マルチプルアタック
+<string>ノーステイルメイト
+<string>ノーフィニッシュブロウクリア
+<string>エネミーリサーチャー
+<string>フィニッシュブロウコレクト
+<string>ウェーブライダー
+<string>アローンファイター
+<string>ノーウェポンチェンジ
+<string>オールウェポンチェンジ
+<string>ノースタイルチェンジ
+<string>オールスタイルチェンジ
+<string>ノーエキップメントクリア
+<string>シンマジントランスフォーム
+<string>イグニション サクセス
+<string>トップギア サクセス
+<string>レッドホットナイト マックスチャージ
+<string>ロングライダー
+<string>SSSシンマジントランスフォーム
+<string>アンリアルインパクト
+<string>ヒートアップ ロングパフォーマンス
+<string>ロイヤルリヴェンジ フォームアップ
+<string>エネミーフレンドリーファイア
+<string>マキシマムレジスタンス
+<string>エネミーインスタントデス
+<string>カウンターヒットビギナー
+<string>カウンターヒットマスター
+<string>リフレクトビギナー
+<string>リフレクトマスター
+<string>ガードブレイクビギナー
+<string>ガードブレイクマスター
+<string>リスキームーブフリーク
+<string>レッドエンプーサハンター
+<string>エンプーサエスケープ
+<string>フレームスロワー
+<string>タワーブレイカー
+<string>ジャストバスターヒット
+<string>ベストクライマー
+<string>リングスルー
+<string>ゲートスルー
+<string>ドッグトレーナー
+<string>レイヴンハンター
+<string>サプライズフィニッシュ
+<string>レジェンダリーフィニッシュ
+<string>スピードクリアB
+<string>スピードクリアA
+<string>スピードクリアS
+<string>ノーオーブコレクト
+<string>ターミネーター
+<string>パーフェクトノーオーブ
+<string>オーブジャックポット
+<string>クラッシュマニア
+<string>ノークラッシュ
+<string>フォロー ザ ガイド
+<string>ノーバトル
+<string>ノーショッピング
+<string>ジャスト０オーブ
+<string>ウィンドウショッピング
+<string>ノーリリーフ
+<string>カークラッシャー
+<string>ビッグオーブロスト
+<string>ゲットウェット
+<string>エクスプロージョンフリーク
+<string>クイックルーズ
+<string>ノーダメージロングキープ
+<string>ドラマティックイクシード
+<string>オールルームビジター
+<string>オールバルーンブレイク
+<string>デーモンファースト
+<string>ウォールクラッシャー
+<string>レッグアタッカー
+<string>オールレッグブレイカー
+<string>コフィンブロークン
+<string>ロングサバイバー
+<string>ノーニーズヘッグベビー
+<string>スタイリッシュライダー
+<string>血だまりオールブレイク
+<string>血だまりノーブレイク
+<string>コープタイムロングキープ
+<string>３人集合
+<string>デビルキャプチャー
+<string>ノーランニング
+<string>マックスコンセントレイション
+<string>コンセントレイションゼロ
+<string>次元斬使い
+<string>次元斬を極めし者
+<string>閻魔刀を納めし者
+<string>Vワールド
+<string>ドッペルゲンガーフィニッシュ
+<string>シンマジントランスフォーム
+<string>オールウェポンアタック
+<string>
+<string>エクストリームライダー
+<string>ガーディアンライダー

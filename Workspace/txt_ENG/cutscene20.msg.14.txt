@@ -1,0 +1,77 @@
+<string>
+<string>Hello?
+<string>Nero? Is that you, Nero?
+<string>Did something happen?
+<string>Kyrie...
+<string>When I was a kid, I...I was alone.
+<string>You and Credo were all I knew.
+<string>And now all of a sudden, I find out I have a family.
+<string>What am I supposed to do with that?
+<string>
+<string>You always know which path is right, and which is wrong.
+<string>There's no need to doubt yourself.
+<string>
+<string>Thanks...
+<string>I guess that's all I needed to hear.
+<string>
+<string>I have one last thing to take care of...
+<string>Then I'm coming home.
+<string>
+<string>I couldn't protect Credo.
+<string>To this day, I hate myself for not having enough strength.
+<string>But this time is different.
+<string>I swear!
+<string>I'M NOT LETTING YOU DIE!
+<string>
+<string>This is...curious.
+<string>Nero?
+<string>What form of power is this?
+<string>What the hell?
+<string>This ends, right here.
+<string>Listen to me. I told you already, this is not your—
+<string>You listen, dead weight.
+<string>I won't let you kill each other.
+<string>There are other ways of settling your differences.
+<string>I'm putting a stop to this sibling rivalry.
+<string>Ahh, you came all this way just for that.
+<string>Vergil...V...whatever you call yourself...
+<string>Dante's not gonna die here, and neither are you.
+<string>Do you have a problem with that?
+<string>"Not gonna die," my ass.
+<string>That bitch slap nearly killed me.
+<string>
+<string>If I beat Nero...
+<string>Then by default, I beat you. Agreed, Dante?
+<string>Whatever. I don't really care.
+<string>I'm just gonna sit this one out.
+<string>When this is over, I'll make you submit...
+<string>Father.
+<string>
+<string>Interesting...
+<string>Oh, brother.
+<string>You cut off your own son's arm<lf>for more power, and you still lost.
+<string>Enough, dammit!
+<string>The underworld is taking over, and we<lf>need to do something before it's too late.
+<string>He's right. We need to close that portal.
+<string>Hey, you lost, so you better do what he says.
+<string>I can still fight.
+<string>But if those roots continue to spread through<lf>town, it'll just interfere with our business.
+<string>Now, that's the smartest thing I've ever heard you say.
+<string>Better hurry up... We still got a score to settle.
+<string>Evidently.
+<string>Wait, where are you going?
+<string>We need to sever the Qliphoth roots<lf>from the underworld itself.
+<string>Then, we'll seal the portal with the Yamato.
+<string>
+<string>Hang on, if you do that, you can't come back.
+<string>Why do you think I'm goin'? Somebody's gotta<lf>keep an eye on your old man.
+<string>You can't just expect me to stay here while you both go—
+<string>It's because you're here we can go. 
+<string>We're trusting you with things on this side, capisce?
+<string>Make haste, Dante.
+<string>Yeah, I know.
+<string>Hey, wait!
+<string>Take care, Nero. Adios.
+<string>I won't lose next time.
+<string>Hold onto that until then.
+<string>Idiots...

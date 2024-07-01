@@ -1,0 +1,64 @@
+<string>
+<string>NERO/DANTE/V
+<string>VERGIL
+<string>LEGENDARY DARK KNIGHT
+<string>NERO/DANTE/V
+<string>VERGIL
+<string>GET VERGIL
+<string>
+<string>네로, 단테, V로 DMC V의 스토리를 플레이합니다.
+<string>버질로 DMC V의 스토리를 플레이합니다.
+<string>높은 스킬을 가진 플레이어를 위한 모드.<lf>악마들이 대량으로 출현합니다.
+<string>높은 스킬을 가진 플레이어를 위한 모드.
+<string>온라인 스토어에서 플레이어 캐릭터 버질을 구입합니다.
+<string>
+<string>STORY EX
+<string>
+<string>버질 모드의 컷신을 재생합니다.
+<string>
+<string><ICON BtnU>
+<string>
+<string>끄기
+<string>Level 0
+<string>Level 1
+<string>Level 2
+<string>
+<string>데빌 트리거 게이지 회복
+<string>컨센트레이션 게이지 고정
+<string>진 데빌 트리거 게이지 회복
+<string>
+<string>"켜기"는 데빌 트리거 게이지를 시간이<lf>지나며 천천히 회복시킵니다. 게이지가<lf>고갈되어도 데빌 클론이 소환 해제되지<lf>않습니다. "끄기"는 이 효과를 해제합니다.
+<string>레벨을 지정하면 컨센트레이션 게이지가<lf>고정되어 감소하지 않게 됩니다.<lf>"끄기"는 이 효과를 해제합니다.
+<string>"자동"은 진 데빌 트리거 게이지를 시간이<lf>지나며 천천히 회복시킵니다. "무제한"은<lf>게이지를 항상 최대로 유지시킵니다.<lf>"끄기"는 이 효과를 해제합니다.
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>SUPER VERGIL<lf>ORIGINAL
+<string>SUPER VERGIL<lf>EX COLOR
+<string>
+<string>ABILITIES
+<string>YAMATO
+<string>BEOWULF
+<string>MIRAGE EDGE
+<string>MIRAGE BLADE
+<string>
+<string>새로운 능력을 배웁니다.
+<string>새로운 야마토 스킬을 배웁니다.
+<string>새로운 베오울프 스킬을 배웁니다.
+<string>새로운 미라지 엣지 스킬을 배웁니다.
+<string>새로운 미라지 블레이드 스킬을 배웁니다.
+<string>
+<string>근접 공격
+<string>미라지 블레이드
+<string>트릭 액션
+<string>점프
+<string>록온
+<string>근접 무기 변경
+<string>클론 소환
+<string>근접 무기 변경
+<string>클론 보통으로
+<string>클론 느리게
+<string>클론 빠르게
+<string>클론 소환 해제
+<string>
+<string>데빌 메이 크라이 5 Special Edition

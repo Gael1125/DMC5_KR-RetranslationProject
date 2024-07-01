@@ -1,0 +1,5 @@
+<string>
+<string>これが…力ってやつだ！
+<string>足りないのは…こいつさ！
+<string>なーんてな
+<string>死にたいなら来るがいい

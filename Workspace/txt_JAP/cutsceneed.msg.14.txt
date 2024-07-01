@@ -1,0 +1,96 @@
+<string>
+<string>まったく… 気味が悪い
+<string>何が？
+<string>“何が”って？ お前の腕だ！
+<string>生えてくるか フツー！？
+<string>本当はトカゲの親戚か？
+<string>仕方ねえだろ<lf>世の中 不思議だらけだ
+<string>悪魔やクソ植物もいる<lf>腕ぐらい生えるさ
+<string>折角のデビルブレイカーを…
+<string>知るか
+<string>とりあえず 調子イイぜ
+<string>で… 感想は？
+<string>何の感想？
+<string>ダンテを助けたろ
+<string><RUBY><RB>父親<RT>バージル</RUBY>の仇じゃないか
+<string>２人とも もういねえよ
+<string>寂しいなら泣いてもイイぞ
+<string>泣かねえ
+<string>泣き虫じゃなくて 怒りんぼ？
+<string>かもな
+<string>悪魔っぽいか？
+<string>私も 父の死に涙ゼロだ
+<string>でもな…
+<string>つまり その…
+<string>何だろうと 父は父さ
+<string>…だな
+<string>だから別に泣いてもイイんだぞ？
+<string>
+<string>泣かねえ
+<string>泣け！
+<string>泣かねえって！
+<string>
+<string>おい 黙れよ！
+<string>
+<string>見ろ 涙も出てねえ！
+<string>
+<string>“<RUBY><RB>泣く<RT>クライ</RUBY>”は禁止だ！
+<string>“デビルメイ<RUBY><RB>クライ<RT>・・・</RUBY>”… クソ！
+<string>自爆だな
+<string>キリエか
+<string>ああ… 今 戻ってる
+<string>戻ったら驚くと思うぜ
+<string>デカいアレに？
+<string>うるせえ！
+<string>違う違う！ 君じゃない！<lf>ニコのバカがまた…
+<string><lf>ちょっとニコのバカが…
+<string>何やってる ヘタクソ！
+<string>ごめん かけ直すよ
+<string>また仕事だ
+<string>腕はあるぜ
+<string>性能実験用だ 意地でも使え<lf>何せ そいつは――
+<string>“芸術作品だ”
+<string>…だろ？
+<string>“お前込み”でな
+<string>イカすな
+<string>悪くねえ
+<string>このポンコツめ！
+<string>よう 悪魔も泣くって？
+<string>イイ声 出せよ！
+<string>
+<string>終わったのか…
+<string>
+<string>コレを斬るのか？
+<string>そうだ
+<string>俺１人で充分だがな
+<string>強がるなよ 付き合うぜ
+<string>
+<string>
+<string>戻って来る気配は… ゼロね
+<string>まあ… そうね
+<string>ここ 貰ってもいい？<lf>そろそろ落ち着きたいの
+<string>
+<string>ダメよ だったら私が貰うわ
+<string>夢を壊して悪いが…<lf>それは無理だぜ お嬢様
+<string>どういう意味？
+<string>権利書は俺が持ってるのさ
+<string>どうして…
+<string>仕事の前に預かってね
+<string>ヤツが言うには<lf>“放っておくと恐ろしいビッチどもが…”
+<string>“ビッチ”はマズいな… 失礼
+<string>ま… 後は雰囲気で察してくれ
+<string>戻る気満々…
+<string>みたいね
+<string>そんな事より 仕事だぜ
+<string>稼がなきゃな
+<string>
+<string>ダンテ選手 １点リード！
+<string>算数からやり直せ 同点だ
+<string>なあ
+<string>決着なんか付かねえんじゃねえか？
+<string>…かもな
+<string>だが 時間はある
+<string>“アレ”は言うなよ！
+<string>
+<string>“<RUBY><RB>大当たり<RT>ジャックポット</RUBY>”！
+<string>

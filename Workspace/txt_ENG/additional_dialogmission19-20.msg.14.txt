@@ -1,0 +1,14 @@
+<string>
+<string>Well look at you...<lf>Think ya could take this a teeny bit more seriously? For me?
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0005
+<string>Ha ha ha! All right, you wanna play? Let's play.
+<string>You're trembling...<lf>Is that fear, or excitement?
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0025
+<string>Hot DAMN!
+<string>You got me that time...
+<string>Nice one!
+<string>Come on, the fun's just getting started!
+<string>That really all you've got? Little Vergil's got a boo boo?
+<string>
+<string>Farewell, Dante.
+<string>All things end, Dante. Even us...

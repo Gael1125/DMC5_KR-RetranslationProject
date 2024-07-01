@@ -1,0 +1,21 @@
+<string>I've got some cleaning up to do.
+<string>
+<string>Yeah, I was just gonna make regular prosthetics...
+<string>Nero likes handling demons with that right hook of his,<lf>though. So I made it a little hotter.
+<string>Hey! Forgot what's on your right arm?<lf>Use it or lose it, dumbass!
+<string>Beauty is fragile and fleeting...so's my Devil Breaker.<lf>It's durability sucks, but hey, can't have it all...
+<string>I can make you another one, but try to be<lf>careful with that one, will ya!
+<string>A demon seal, huh? Better get to slashin'.
+<string>What a mess...
+<string>Incinerate 'em! That sword makes it easy, right?
+<string>Hey, don't get your ass whooped.<lf>It'll help you last longer.
+<string>I'm really getting the hang of this new toy!
+<string>Urizen... Next time, you're dead!
+<string>Why are they collecting human blood?<lf>It's not just about feeding... There's something else.
+<string>Did Nico leave this here? Sweet.
+<string>Looks like lead isn't cutting it. Lucky you!
+<string>You like that? Then have some more!
+<string>They're everywhere... Makes me sick...
+<string>Pretty sturdy...gotta be some spots that are softer...
+<string>Swing and a miss!
+<string>I gave you that one! ...Dammit.

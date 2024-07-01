@@ -1,0 +1,14 @@
+<string>
+<string>어서... 후퇴를...
+<string>스파다... 내가... 스파다를...<lf>
+<string>
+<string>지나갈 수 없다!
+<string>시간이...!
+<string>멈춰!
+<string>
+<string>끝이다...
+<string>불가능해!?
+<string>와라!
+<string>지금! 뭐 하는 거냐!?
+<string>내 창으로 몸을 꿰뚫어 주마!
+<string>번개로 몸을 불태워 주마!

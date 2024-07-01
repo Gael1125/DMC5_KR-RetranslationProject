@@ -1,0 +1,9 @@
+<string>
+<string>SCENE LIST
+<string>
+<string>PROLOGUE
+<string>OPENING
+<string>MISSION
+<string>ENDING
+<string>
+<string>再生する映像を選択します

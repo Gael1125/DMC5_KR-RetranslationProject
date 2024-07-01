@@ -1,0 +1,73 @@
+<string>
+<string>ノックしろよ モリソン
+<string>そうだったな
+<string>いい報せと悪い報せ…
+<string>どちらを先にする？
+<string>どっちでも
+<string>では悪い方から
+<string>パティお嬢様がお怒りだ
+<string>誕生パーティに誘いたいのに<lf>電話が繋がらないとさ
+<string>電気も水道も止まってるからな
+<string>…だろうな
+<string>いい報せは？
+<string>仕事だ 前金も頂いた
+<string>“前金”？ そいつはイイ
+<string>そろそろ便所を流してえ
+<string>水道ガスに電気代…
+<string>払っといたぜ
+<string>お前の取り分でな
+<string>“デビルメイクライ”
+<string>ダンテ？ やっと繋がったわ！<lf>何回かけたと思ってるの！？
+<string>パーティは今夜だからね！<lf>１８歳になるの！ もう子供じゃ…
+<string>
+<string>モリソン 仕事の話を頼む<lf>パーティ地獄から抜け出してえ
+<string>欠席と伝えとこう
+<string>今回の依頼人だ
+<string>俺はトリッシュとレディを<lf>探さにゃならん
+<string>待てよ 俺１人で充分だ
+<string>今回は大仕事だぜ ダンテ
+<string>人手がいる
+<string>まず… 名前でも聞くか
+<string>“名前などない<lf>生まれて２日目だもの”
+<string>冗談だ <RUBY><RB>Ｖ<RT>ブイ</RUBY>と呼んでくれ
+<string>分かった <RUBY><RB>Ｖ<RT>ブイ</RUBY>だな<lf>頼みたい事は何だ？
+<string>強大な悪魔が復活した<lf>力を貸してくれ ダンテ
+<string>そのテの話にゃウンザリだ<lf>肩透かしばっかりでな
+<string>
+<string>今回は… 格が違う
+<string>“格が違う”？ どういう意味だ？
+<string>その悪魔はお前が――
+<string>戦う“理由”だ
+<string>…そいつの名は？
+<string>
+<string>何だありゃ？
+<string>見付けたか
+<string>あー… よく分かんねえ<lf>なんか悪魔が踊ってるぜ
+<string>ならば 行ってみるか
+<string>魔剣スパーダは近い
+<string>
+<string>何やってんだ アイツら？
+<string>スパーダに捧げるダンス？
+<string>お呼びじゃねえとよ 相棒！
+<string>あれは返して貰うぞ
+<string>貴様らに崇められては<lf>スパーダも不本意だろう
+<string>
+<string>やはり俺には無理か…
+<string>惜しいトコだぜ
+<string>“心”はあっても<RUBY><RB>“力”<RT>ちから</RUBY>がねえ！<lf>皮肉なもんだ！
+<string>おっと… 怒らないでネ？
+<string>だがネロなら… <RUBY><RB>力<RT>ちから</RUBY>もある
+<string>どうした？
+<string>ダンテ…
+<string>おいおい マジかよ！<lf>生きてやがるぜ！ 生きてる！
+<string>
+<string>魔剣スパーダが<lf>ダンテを守っていたか
+<string>運のイイ野郎だぜ なあ？
+<string>おい <RUBY><RB>Ｖ<RT>ブイ</RUBY>?
+<string>ダメダメ！ 落ち着こうぜ！
+<string>お前が敗れなければ――
+<string>俺はこんな… いや…
+<string><RUBY><RB>Ｖ<RT>ブイ</RUBY> よせよ…！
+<string>お前がいなければ！
+<string>俺は 今頃…！
+<string>やめろ <RUBY><RB>Ｖ<RT>ブイ</RUBY>！ よせ！

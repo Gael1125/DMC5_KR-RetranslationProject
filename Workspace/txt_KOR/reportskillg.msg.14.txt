@@ -1,0 +1,140 @@
+<string>
+<string><ICON ACT_LS> 기울이기
+<string><ICON ACT_RS> 기울이기
+<string><ICON ACT_RB> 누르고 홀드
+<string>땅에서 <ICON ACT_BtnD> 누르기
+<string><ICON ACT_CenL> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 가로 방향 +<ICON ACT_BtnD> 누르기
+<string>점프 중에 벽과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>아무 방향으로나 <ICON ACT_LS> 홀드
+<string>공중에서 적과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>컨센트레이션 게이지가 1레벨 이상<lf>일 때 적이 공격해 오면 <ICON ACT_RB> 누르기
+<string>자동
+<string>자동
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 누르고 홀드
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 짧게 누르기
+<string><ICON ACT_LB> 또는 <ICON ACT_DirU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_BtnR> 누르기<lf>또는 <ICON ACT_LS>+<ICON ACT_RB>+<ICON ACT_BtnR> 누르기
+<string><ICON ACT_RB>으로 그림 그립에 록온 후,<lf><ICON ACT_BtnR> 누르기
+<string><ICON ACT_BtnR> 누르기
+<string>땅에서 <ICON ACT_LS>+<ICON ACT_BtnR> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnR> 누르기
+<string>
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누르고,<lf>조금 있다가 <ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르고,<lf>조금 있다가 <ICON ACT_BtnU> 연타
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누르고,<lf>조금 있다가 <ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string><ICON ACT_BtnU> 홀드 후 놓기<lf>검자루가 빛나는 타이밍에 버튼을 놓으면<lf>위력이 강해집니다.
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로+<ICON ACT_BtnU> 누르기
+<string>래피드 슬래시 발동 후,<lf>공격을 맞출 때까지 <ICON ACT_BtnU> 홀드
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로+<ICON ACT_BtnU> 누르기
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnU> 홀드
+<string>진 데빌 트리거 상태 또는 SDT 게이<lf>지가 최대인 동시에 컨센트레이션<lf>게이지가 2레벨인 상태에서, 땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU>+<ICON ACT_BtnR> 누르기
+<string>공중에서<lf><ICON ACT_RB>+<ICON ACT_LS>뒤로 +<ICON ACT_BtnU> 누르기
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누르고,<lf>조금 있다가 <ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로+<ICON ACT_BtnU> 누르기
+<string>비스트 어퍼컷 발동 후,<lf>주먹이 빛날 때 까지 <ICON ACT_BtnU> 홀드
+<string>비스트 어퍼컷 발동 후,<lf>주먹이 두 번 빛날 때 까지 <ICON ACT_BtnU> 홀드
+<string>땅에서 <ICON ACT_BtnD> 누르기
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>진 데빌 트리거 상태 또는 SDT 게이<lf>지가 최대인 동시에 컨센트레이션<lf>게이지가 2레벨인 상태에서, 땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU>+<ICON ACT_BtnR> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서<lf><ICON ACT_BtnU><ICON ACT_BtnU>누르고, 조금 있다가<lf><ICON ACT_BtnU> 누른 다음 <ICON ACT_BtnU> 연타
+<string><ICON ACT_BtnU> 홀드 후,<lf>검이 빛나면 놓기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU> 누르기
+<string>스팅어 발동 후, 땅에서<lf><ICON ACT_BtnU>을 놓지 말고 있다가 <ICON ACT_BtnU>을 연타해서 계속 공격
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤로+<ICON ACT_BtnU> 누르기
+<string>땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnU> 누르기
+<string>드라이브 발동 후 땅에서<lf><ICON ACT_BtnU> 다시 누르고 홀드 후,<lf>검이 빛나면 놓기
+<string>진 데빌 트리거 상태 또는 SDT 게이<lf>지가 최대인 동시에 컨센트레이션<lf>게이지가 2레벨인 상태에서, 땅에서<lf><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnU>+<ICON ACT_BtnR> 누르기
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 누르고 홀드
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnL> 홀드 후<lf>놓기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnL> 홀드 후<lf>놓기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnL> 홀드 후<lf>놓기
+<string>SDT 게이지가 가득 찼을 때<lf><ICON ACT_LB> 홀드
+<string>인간 모습에서 <ICON ACT_LB> 홀드
+<string>DT 게이지가 3레벨 이상일 때<lf><ICON ACT_LB> 또는 <ICON ACT_DirU> 누르기
+<string><ICON ACT_RB>+ <ICON ACT_LS> 한 번 회전 +<ICON ACT_BtnR> 누르기
+<string>
+<string><skill player="g" id="100"><lf><lf><ICON ACT_LS>을 기울이면 캐릭터가 그 방향으로<lf>움직입니다. 크게 기울이면 빨리 움직입니다.
+<string><skill player="g" id="101"><lf><lf>카메라를 움직여 주변을 봅니다.<lf><ICON ACT_RStP>을 누르면 캐릭터 뒤에서 보는<lf>기본값으로 돌아갑니다.
+<string><skill player="g" id="102"><lf><lf>적과 특정 물체에 록온합니다.<lf><ICON ACT_RB>을 홀드하면 공격하고,<lf><ICON ACT_LStP>을 누르면 록온 타겟이<lf>변경됩니다.
+<string><skill player="g" id="103"><lf><lf>공중으로 점프합니다. 점프 높이는<lf><ICON ACT_BtnD>을 누르는 시간에 따라 달라집니다.
+<string><skill player="g" id="104"><lf><lf>땅이나 공중에서 적을 다양하게<lf>도발합니다. 도발 종류는 현재의<lf>스타일리시 랭크에 따라 달라집<lf>니다.
+<string><skill player="g" id="105"><lf><lf>옆으로 빠르게 이동해 적의 공격을 피합니다.
+<string><skill player="g" id="106"><lf><lf>벽을 박차면서 한 번 더 점프합니다.
+<string><skill player="g" id="107"><lf><lf>같은 방향으로 <ICON ACT_LS>을 계속 홀드하여<lf>전력 질주합니다.
+<string><skill player="g" id="108"><lf><lf>공중에서 적을 디딤돌 삼아<lf>이중 점프를 합니다.
+<string><skill player="g" id="109"><lf><lf>적의 공격을 차단하여 대미지를 막습니<lf>다. 컨센트레이션 게이지가 감소하며,<lf>발동 시 컨센트레이션 게이지가 2레벨<lf>이상이면 세련된 몸놀림으로 슬쩍 피할<lf>수 있습니다.
+<string><skill player="g" id="110"><lf><lf>오브를 수집할 수 있는<lf>범위가 확대됩니다.
+<string><skill player="g" id="111"><lf><lf>도플갱어 발동 중에는 DT 게이지가,<lf>진 데빌 트리거 발동 중에는 SDT<lf>게이지가 서서히 소모됩니다.
+<string><skill player="g" id="112"><lf><lf>큰 값을 치른 자에게만 주어지는<lf>특수 도발입니다. 일반 도발보다<lf>스타일리시 랭크가 크게 증가합<lf>니다.
+<string><skill player="g" id="113"><lf><lf>블러디 팰리스에서 승리한 자에게만<lf>주어지는 특수 도발입니다. 시퍼렇게<lf>갈린 아름다운 칼날을 과시합니다.
+<string><skill player="g" id="114"><lf><lf>악마의 힘을 사용하여 데빌 클론을 만들어 냅니다.<lf>데빌 클론은 버질을 따라다니면서 그의 움직임을<lf>흉내냅니다. 데빌 클론의 반응을 <ICON ACT_DirR>로 빠르게<lf><ICON ACT_DirL>로 느리게로 조절할 수 있으며, <ICON ACT_DirU>로 보통<lf>으로 되돌릴 수 있습니다. <ICON ACT_LB> 또는 <ICON ACT_DirD>를 누르면<lf>데빌 클론의 소환을 해제할 수 있습니다. DT 게이<lf>지를 소모합니다.
+<string><skill player="g" id="115"><lf><lf>미라지 블레이드를 맞은 상대를 표시하<lf>고 적의 방향으로 단숨에 이동합니다.<lf>여러 명의 적이 표시된 경우, <ICON ACT_LS>으로<lf>선택한 적의 방향으로 이동합니다.
+<string><skill player="g" id="116"><lf><lf>미라지 블레이드로 그림 그립을<lf>표시하고 단숨에 이동합니다.
+<string><skill player="g" id="117"><lf><lf>위쪽으로 단숨에 이동합니다.
+<string><skill player="g" id="118"><lf><lf><ICON ACT_LS>을 기울인 방향으로 단숨에 이동합니다.
+<string><skill player="g" id="119"><lf><lf>공중에서 발동하면 대각선 아래 뒤쪽<lf>으로, 땅에서는 뒤쪽으로 단숨에 이동<lf>합니다.
+<string>
+<string><skill player="g" id="120"><lf><lf>검자루와 검을 이용한 빠른 콤보.<lf>진 데빌 트리거 상태에서 <ICON ACT_BtnU>을<lf>누르면 강력한 피니싱 블로가<lf>후속타로 뒤따릅니다.
+<string><skill player="g" id="121"><lf><lf>적이 날아가고 미라지 블레이드가 적을<lf>추격합니다. 검을 검자루에 넣으면 적에<lf>꽂힌 미라지 블레이드가 폭발하여 더 큰<lf>대미지를 줍니다. 진 데빌 트리거 상태<lf>에서 <ICON ACT_BtnU>을 누르면 2연타로 적을<lf>날리며, 더 많은 미라지 블레이드가 적을<lf>추격합니다.
+<string><skill player="g" id="122"><lf><lf>무수한 공격을 퍼부은 다음 적을<lf>둘로 갈라 버립니다.<lf>진 데빌 트리거 상태에서는 피니싱<lf>블로의 범위가 더 넓어집니다.
+<string><skill player="g" id="123"><lf><lf>공중에서 적을 향해 연속으로<lf>공격합니다.
+<string><skill player="g" id="124"><lf><lf>공중에서 회전하면서 적을 산산조각<lf>내고, 혼신의 일격으로 땅에 내리꽂는<lf>콤보.
+<string><skill player="g" id="125"><lf><lf>보이지 않을 정도로 빠른 스피드로 검을<lf>빼들어 적을 향해 회오리 같은 공격을<lf>날립니다. 대부분의 야마토의 기술에<lf>후속으로 발동할 수 있으며, 타이밍에<lf>맞춰 <ICON ACT_BtnU>을 놓으면 공격력이 증가합니<lf>다. 진 데빌 트리거 상태에서는 동시에<lf>3명의 적을 공격할 수 있습니다.
+<string><skill player="g" id="126"><lf><lf>앞으로 돌진하면서 검 공격으로 모든 것들을<lf>가차없이 갈라버립니다.<lf>진 데빌 트리거 상태에서는 검 공격과 동시에<lf>미라지 블레이드로 공격해 검을 검자루에 넣을<lf>때 폭파시켜 추가 대미지를 줍니다.몇 번이고<lf>계속해서 발동할 수 있습니다.
+<string><skill player="g" id="127"><lf><lf>위로 올라가면서 나선형의 검 공격으로<lf>적을 위로 솟구치게 합니다.
+<string><skill player="g" id="128"><lf><lf>야마토로 적을 베어 올리면서 적을<lf>공중으로 날려버립니다.<lf>진 데빌 트리거 상태에서는 매 공격<lf>마다 검 공격을 두 번 날리게 되며,<lf>위력이 크게 증가합니다.
+<string><skill player="g" id="129"><lf><lf>적을 공격해 공중으로 날려버리고 <ICON ACT_BtnU>을<lf>홀드하여 공중으로 쫓아갑니다.
+<string><skill player="g" id="130"><lf><lf>빠른 속도로 동시에 여러 장소에 자신의<lf>분신을 만들어 적을 베어 버립니다.<lf>발동하면 SDT 게이지를 소모합니다.
+<string><skill player="g" id="131"><lf><lf>목표물을 향해 낙하하기 전에 힘을<lf>모아 가차없는 공격을 내리꽂습니다.
+<string><skill player="g" id="132"><lf><lf>엄청난 스피드로 전방을 베어 버리고,<lf>공간 자체를 도려내어 적을 가까이에<lf>오게 만듭니다.
+<string><skill player="g" id="135"><lf><lf>더블 라운드하우스 킥으로 끝나는<lf>강력한 콤보. 콤보 중에 버튼을<lf>홀드하면 힘을 충전할 수 있으며,<lf>진 데빌 트리거 상태에서 <ICON ACT_BtnU>을<lf>누르면 강력한 피니시 공격이<lf>후속타로 뒤따릅니다.
+<string><skill player="g" id="136"><lf><lf>빠른 속도와 맹렬한 기세로 상대를<lf>향해 연속 킥을 퍼붓습니다. 콤보<lf>중에 버튼을 홀드하면 힘을 충전할<lf>수 있으며, 진 데빌 트리거 상태<lf>에서 <ICON ACT_BtnU>을 누르면 강력한 피니시<lf>공격이 후속타로 뒤따릅니다.
+<string><skill player="g" id="137"><lf><lf>공중에서 상대쪽으로 집중, 급강하로 돌진<lf>하면서 적을 날려버립니다.<lf>진 데빌 트리거 상태에서 <ICON ACT_BtnU>을 홀드하면<lf>플라잉 킥이 후속타로 뒤따릅니다.
+<string><skill player="g" id="138"><lf><lf>위력인 강해진 스타폴.<lf>더 큰 대미지를 줄 수 있습니다.
+<string><skill player="g" id="139"><lf><lf>맹렬한 회전 공격으로 적에게 접근하여<lf>강력한 뒷꿈치 킥을 날립니다. 진 데빌<lf>트리거 상태에서는 회전 속도가 급격히<lf>빨라지며 위력도 크게 증가합니다.
+<string><skill player="g" id="140"><lf><lf>루나 페이스가 더 강력해진 버전으로<lf>회전이 더 빨라지면서 위력이 증대되<lf>었습니다.
+<string><skill player="g" id="141"><lf><lf>적을 향해 돌진하면서 크고 강력한<lf>어퍼컷으로 적을 공중으로 날려버립<lf>니다.
+<string><skill player="g" id="142"><lf><lf>힘을 충전한 후, 위로 뛰어 오르면서<lf>적에게 어퍼컷을 날립니다.
+<string><skill player="g" id="143"><lf><lf>자신이 가진 모든 악마의 힘을 충전<lf>시킨 후, 뛰어오르면서 강력한 더블<lf>어퍼컷을 적을 향해 날립니다.<lf>진 데빌 트리거 상태에서는 더 강력<lf>해지며 세번째 어퍼컷이 추가됩니다.
+<string><skill player="g" id="144"><lf><lf>단순한 점프로 대미지를 줄 수 있게<lf>됩니다.
+<string><skill player="g" id="145"><lf><lf>적을 제압하고 강력한 킥을 여러번<lf>날립니다. <ICON ACT_BtnU>을 홀드하면 적을<lf>하늘로 날리고 자신도 뒤따릅니다.<lf>진 데빌 트리거 상태에서는 킥이<lf>더욱 강력해지며 킥의 횟수 또한<lf>증가합니다.
+<string><skill player="g" id="146"><lf><lf>혼신의 힘을 다한 한 방을 지면에 내리<lf>꽂습니다. 그 충격파는 무거운 적도<lf>날려버릴 수 있을 정도로 강력합니다.<lf>발동하면 SDT 게이지를 소모합니다.
+<string><skill player="g" id="150"><lf><lf>자신의 전방과 후방에 있는 적에게<lf>대미지를 줄 수 있는 콤보. 입력 후,<lf> <ICON ACT_BtnU>을 연타하면 추가로 찌르기 공격<lf>을 합니다. 진 데빌 트리거 상태에서<lf><ICON ACT_BtnU>을 누르면 세 번째 공격에서 2연속<lf>찌르기 공격을 날립니다.
+<string><skill player="g" id="151"><lf><lf>미라지 엣지와 야마토를 사용한 콤보.<lf>공격하면서 <ICON ACT_LS>으로 조작이 가능합니다.
+<string><skill player="g" id="152"><lf><lf>적을 향해 미라지 엣지를 던지면, 검이<lf>진공 회오리를 만들어 적을 끌어들이면<lf>서 갈기갈기 찢어버립니다.
+<string><skill player="g" id="153"><lf><lf>공중에서 아래로 급강하하면서 날리는<lf>이 공격은, 어떤 강한 무장 투구나<lf>악마의 해골이라도 산산조각 낼 수<lf>있을 정도로 강력합니다.
+<string><skill player="g" id="154"><lf><lf>더 빨라진 버전의 헬름 브레이커.
+<string><skill player="g" id="155"><lf><lf>적을 향해 빠르게 돌진하면서 위협적인<lf>찌르기 공격을 합니다. 진 데빌 트리거<lf>상태에서는 더 강력해지며 여러 번 공격<lf>하게 됩니다.
+<string><skill player="g" id="156"><lf><lf>스팅어의 강화 버전으로 더 빨리<lf>더 멀리 갈 수 있습니다.
+<string><skill player="g" id="157"><lf><lf>적에게 빠르게 다가가서 폭풍같은<lf>찌르기 공격을 날립니다.
+<string><skill player="g" id="158"><lf><lf>적을 하늘로 날려버리는 강력한 공격.<lf><ICON ACT_BtnU>을 홀드하여 공중의 적을 뒤따릅니다.<lf>진 데빌 트리거 상태에서는 여러 번 공격<lf>하며 그 위력도 크게 증가합니다.
+<string><skill player="g" id="159"><lf><lf>검이 만들어 내는 충격파로<lf>멀리 있는 적을 공격합니다.
+<string><skill player="g" id="160"><lf><lf>드라이브 다음으로 충격파를 날립니다.<lf>진 데빌 트리거 상태에서는 충격파가<lf>더 커지며, 더 많은 적을 끌어 들일 수<lf>있게 됩니다.
+<string><skill player="g" id="161"><lf><lf>야마토와 미라지 엣지를 사용한<lf>전신과 혼신을 다한 전방 돌진.<lf>발동하면 SDT 게이지를 소모합니다.
+<string><skill player="g" id="165"><lf><lf>악마의 힘으로 만들어진 검을<lf>날립니다.
+<string><skill player="g" id="166"><lf><lf>연사 속도와 사정 거리가 강화된 미라지<lf>블레이드.<lf><lf>한번에 불러낼 수 있는 미라지 블레이<lf>드의 수도 증가하여 미라지 블레이드를<lf>사용하는 다른 기술도 강력해집니다.
+<string><skill player="g" id="167"><lf><lf>연사 속도와 사정 거리가 최대로 강화된<lf>미라지 블레이드.<lf><lf>한번에 불러낼 수 있는 미라지 블레이<lf>드의 수도 증가하여 미라지 블레이드를<lf>사용하는 다른 기술도 강력해집니다.
+<string><skill player="g" id="168"><lf><lf>미라지 블레이드로 자신의 주변을 에워<lf>싸 방패로 활용합니다.<lf>발동하면 DT 게이지를 소모합니다.
+<string><skill player="g" id="169"><lf><lf>여러 개의 검으로 적을 에워싼 다음,<lf>동시에 공격하여 공중으로 날려버립니다.<lf>발동하면 DT 게이지를 소모합니다.
+<string><skill player="g" id="170"><lf><lf>자신의 주변에 미라지 블레이드를<lf>만들어 적을 향해 연속으로 발사합니다.<lf>발동하면 DT 게이지를 소모합니다.
+<string><skill player="g" id="171"><lf><lf>적의 머리 위로 무수히 많은 미라지<lf>블레이드를 만들어 내어 검의 비를<lf>내리고, 일시적으로 제자리에 적을<lf>고정시켜 놓습니다.<lf>발동하면 DT 게이지를 소모합니다.
+<string><skill player="g" id="175"><lf><lf>버질이 자신의 진정한 힘을 해방시켜<lf>내면에 숨겨진 악마의 모습으로 변합<lf>니다. SDT 게이지를 소모하며 공격력,<lf>방어력, 속도가 증가하고 시간이 지나<lf>면서 생명력을 회복합니다. <ICON ACT_LB>을<lf>누르면 인간의 모습으로 돌아갑니다.
+<string><skill player="g" id="176"><lf><lf>DT 게이지를 소모해<lf>SDT 게이지를 충전합니다.
+<string><skill player="g" id="177"><lf><lf>악마의 힘을 사용하여 데빌 클론을 만들어 냅니다.<lf>데빌 클론은 버질을 따라다니면서 그의 움직임을<lf>흉내냅니다. 데빌 클론의 반응을 <ICON ACT_DirR>로 빠르게<lf><ICON ACT_DirL>로 느리게로 조절할 수 있으며, <ICON ACT_DirU>로 보통<lf>으로 되돌릴 수 있습니다. <ICON ACT_LB> 또는 <ICON ACT_DirD>를 누르면<lf>데빌 클론의 소환을 해제할 수 있습니다. DT 게이<lf>지를 소모합니다.
+<string><skill player="g" id="178"><lf><lf>야마토의 힘을 사용하여 인간에게서 악마를<lf>분리시키고, V와 V의 악마들이 일제히 공격<lf>합니다. 발동 시 생명력을 회복하며 이 스킬<lf>로 적을 처치하면 그린 오브를 떨어뜨릴 확<lf>률이 증가합니다. 컨센트레이션 게이지를<lf>소모합니다.

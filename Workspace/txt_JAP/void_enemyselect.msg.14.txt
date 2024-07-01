@@ -1,0 +1,15 @@
+<string>
+<string>ENEMY SETTINGS
+<string>
+<string>敵の行動設定
+<string>敵のダメージ設定
+<string>
+<string>ON
+<string>OFF
+<string>
+<string>ENEMY SELECTION
+<string>DESCRIPTION
+<string>
+<string>ONにすると敵がアクションを行います
+<string>ONにすると敵がダメージを受けるように<lf>なります
+<string>敵を選択します

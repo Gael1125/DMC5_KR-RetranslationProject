@@ -1,0 +1,28 @@
+<string>
+<string>Adios.
+<string>Wow, this thing got real big...
+<string>You tryin' to compensate for something?
+<string>Yes. Your incompetence.
+<string>By the way, how'd it feel catching up with your kid?
+<string>There's no need for us to "catch up."
+<string>Well, with an attitude like that, you're never gonna meet your grandkids.
+<string>That's enough.
+<string>I don't want to hear it.
+<string>Now, don't get in my way.
+<string>Took the words right out of my mouth...!
+<string>
+<string>That's it. Time to die!
+<string>You're like an open book...<lf>I can read your every move
+<string>Too easy!
+<string>
+<string>
+<string>Why you gotta leave me hangin'!?<lf>We used to love saying that.
+<string>I have no recollection.
+<string>Well lemme jog your memory.
+<string>A little Vergil...
+<string>crying in the corner because mommy got mad?
+<string>I seem to recall YOU crying every time father raised his voice.
+<string>Hah! How would they feel if they saw us now?
+<string>What does it matter?<lf>We're still here aren't we?
+<string>Yeah, you're probably right.
+<string>

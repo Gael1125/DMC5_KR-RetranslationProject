@@ -1,0 +1,20 @@
+<string>
+<string>Dying... I'm dying!
+<string>It hurts...it huuurts!
+<string>What the—OH, MY BODY!!
+<string>
+<string>Wha, wha—!? No way!
+<string>Sh, sh, shit! What am I gonna do now!?
+<string>Hey, who's got my back!? Oh...me?
+<string>I'm heeeeerrreee!
+<string>I'm...I'm busy. You guys can finish it.
+<string>Get back! Get back now! One more hit and we're done for!
+<string>Theeeey're baaack! Now get 'em for me!
+<string>Chaaaaaarrrrge!
+<string>I'll swallow you whole!
+<string>I got a nice place to live, don'tcha think?
+<string>H-Hey! Don't ignore me!
+<string>Shit. Tougher than I thought...
+<string>Hmm, I think I've seen them before...
+<string>Not fair! You have backup!
+<string>I'm starving...

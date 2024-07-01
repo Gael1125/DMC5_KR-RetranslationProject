@@ -1,0 +1,513 @@
+<string>
+<string>Tilt <ICON ACT_LS>
+<string>Move <ICON ACT_RS>
+<string>Press and hold <ICON ACT_RB>
+<string>While on the ground, press <ICON ACT_BtnD>
+<string>Press <ICON ACT_CenL>
+<string>
+<string>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> horizontally +<ICON ACT_BtnD>
+<string>During a jump, press <ICON ACT_BtnD> near a wall
+<string>Hold <ICON ACT_LS> in any direction
+<string>In mid-air, press <ICON ACT_BtnD> near an enemy
+<string>During a jump, press <ICON ACT_BtnD>
+<string>When Devil Trigger is active:<lf>In mid-air, hold <ICON ACT_BtnD>
+<string>Automatic
+<string>Automatic
+<string>Press and hold <ICON ACT_LStP>+<ICON ACT_CenL>
+<string>Press <ICON ACT_LStP>+<ICON ACT_CenL> quickly
+<string>Press <ICON ACT_LB>
+<string>Automatic
+<string>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU>, then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>After executing a Stinger, release <ICON ACT_LS><lf>and hold <ICON ACT_BtnU>
+<string>With Rebellion equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU>, then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>After executing a Stinger, release <ICON ACT_LS><lf>and hold <ICON ACT_BtnU>
+<string>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU>, then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU>,<lf>then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>After executing a Stinger, release <ICON ACT_LS><lf>and hold <ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>After executing a Drive, press <ICON ACT_BtnU><lf>immediately after the shockwave
+<string>Hold <ICON ACT_BtnU> and release once the blade<lf>glows brighter
+<string>Hold <ICON ACT_BtnU> and release once the blade<lf>glows brighter
+<string>Hold <ICON ACT_BtnU> and release once the blade<lf>glows brighter
+<string>Change to Swordmaster style while in<lf>Devil Trigger, or while Swords Formation<lf>is activated
+<string>Change to Gunslinger style while in<lf>Devil Trigger, or while Swords Formation<lf>is activated
+<string>Change to Trickster style while in<lf>Devil Trigger, or while Swords Formation<lf>is activated
+<string>Change to Royalguard style while in<lf>Devil Trigger, or while Swords Formation<lf>is activated
+<string>
+<string>Press <ICON ACT_BtnD>
+<string>Activate 10 Counts in Blow Mode,<lf>or Heat Up in Kick Mode.
+<string>Activate 10 Counts in Blow Mode,<lf>or Heat Up in Kick Mode.
+<string>Activate 10 Counts in Blow Mode,<lf>or Heat Up in Kick Mode.
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>Land consecutive punches during Blow Mode
+<string>In Blow Mode:<lf>While on the ground, press <ICON ACT_BtnU>
+<string>In Blow Mode:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward<lf>+<ICON ACT_BtnU>
+<string>In Blow Mode:<lf>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>In Blow Mode:<lf>Hold <ICON ACT_BtnU> after an attack
+<string>In Blow Mode:<lf>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In Kick Mode:<lf>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In Kick Mode:<lf>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU>,<lf>then <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In Kick Mode:<lf>In mid-air, press <ICON ACT_BtnU>
+<string>In Kick Mode:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward<lf>+<ICON ACT_BtnU>
+<string>In Kick Mode:<lf>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>In Kick Mode:<lf>Hold <ICON ACT_BtnU> after an attack
+<string>In Blow Mode:<lf>After executing a Heavy Jolt,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>In Blow Mode:<lf>When moving left or right during<lf>Welter Move, press <ICON ACT_BtnU>
+<string>
+<string>While on the ground, press<lf><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU>,<lf>then <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>With King Cerberus equipped:<lf>Hold <ICON ACT_BtnR> until electrified<lf>While on the ground, release <ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>Hold <ICON ACT_BtnR> until electrified<lf>Press <ICON ACT_RB>+<ICON ACT_LS> forward, then release <ICON ACT_BtnR>
+<string>Hold <ICON ACT_BtnU> until electrified<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back, then release <ICON ACT_BtnU>
+<string>With King Cerberus equipped:<lf>Hold <ICON ACT_BtnR> until electrified<lf>In mid-air, release <ICON ACT_BtnR>
+<string>
+<string>Activated on attack impact
+<string>Press any <trc id="0"> during Gear Wheel
+<string>
+<string>Press any <trc id="0"> while your weapon glows<lf>during Gear Wheel
+<string>
+<string>Press any <trc id="0"> just as an attack<lf>finishes during Gear Wheel
+<string>
+<string>While on the ground, press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_BtnU><ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>In mid-air, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>
+<string>Press <ICON ACT_BtnL>
+<string>Hold <ICON ACT_BtnL> then release once both arms<lf>glow brighter
+<string>Hold <ICON ACT_BtnL> then release once both arms<lf>glow brighter
+<string>Hold <ICON ACT_BtnL> then release once both arms<lf>glow brighter
+<string>
+<string>Press <ICON ACT_BtnL>
+<string>Hold <ICON ACT_BtnL> then release<lf>once right arm glows brighter
+<string>Hold <ICON ACT_BtnL> then release<lf>once right arm glows brighter
+<string>Hold <ICON ACT_BtnL> then release<lf>once right arm glows brighter
+<string>
+<string>With Kalina Ann equipped:<lf>Press <ICON ACT_BtnL>
+<string>While on the ground, hold <ICON ACT_BtnL> then release<lf>when sparks fly from Kalina Ann
+<string>With Double Kalina Ann equipped:<lf>Press <ICON ACT_BtnL>
+<string>With Double Kalina Ann equipped:<lf>While on the ground, hold <ICON ACT_BtnL> then release<lf>when the two Kalina Anns couple together
+<string>
+<string>Press and hold <ICON ACT_BtnL>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnL><lf>Then <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnL> again to finish
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnL>
+<string>After executing a Set Hat or Mad Hatter,<lf>press <ICON ACT_BtnL> right when you catch the hat
+<string>Activates when Dr. Faust is equipped
+<string>Activates when Dr. Faust is equipped
+<string>Activates when Dr. Faust is equipped
+<string>Automatic
+<string>Automatic
+<string>
+<string>Automatic
+<string>Automatic
+<string>Automatic
+<string>While on the ground, press <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>In mid-air, press <ICON ACT_LS>+<ICON ACT_BtnR>
+<string>After executing a Dash, run into<lf>an enemy while holding <ICON ACT_BtnR>
+<string>After executing a Sky Star, run into<lf>an enemy while holding <ICON ACT_BtnR>
+<string>Press <ICON ACT_BtnR> while being sent flying by<lf>an enemy attack
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<ICON ACT_BtnR>
+<string>
+<string>Automatic
+<string>Automatic
+<string>Automatic
+<string>With Rebellion equipped:<lf>While on the ground, press <ICON ACT_BtnR>
+<string>With Rebellion equipped:<lf>While on the ground, press <ICON ACT_BtnR> after<lf>executing a Prop
+<string>With Rebellion equipped:<lf>In mid-air, press <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR>
+<string>With Rebellion equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward + tap <ICON ACT_BtnR> repeatedly
+<string>With Sparda equipped:<lf>While on the ground, press <ICON ACT_BtnR>
+<string>With Sparda equipped:<lf>While on the ground, press <ICON ACT_BtnR> after<lf>executing a Prop
+<string>With Sparda equipped:<lf>In mid-air, press <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR>
+<string>With Sparda equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Sparda equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward + tap <ICON ACT_BtnR> repeatedly
+<string>With Dante equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Dante equipped:<lf>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With Dante equipped:<lf>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Dante equipped:<lf>Hold and release <ICON ACT_BtnR>
+<string>With Dante equipped:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS><lf>back to<lf>forward and tap <ICON ACT_BtnR> repeatedly
+<string>With Balrog equipped in Blow Mode:<lf>While on the ground, press <ICON ACT_BtnR>
+<string>With Balrog equipped in Blow Mode:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>With Balrog equipped in Blow Mode:<lf>While on the ground, press <ICON ACT_RB><lf>+<ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With Balrog equipped in Blow Mode:<lf>After executing a Minimum Dragon,<lf>tap <ICON ACT_BtnR> repeatedly
+<string>With Balrog equipped in Blow Mode:<lf>After executing a Minimum Dragon,<lf>tap <ICON ACT_BtnR> until Dante's fist glows
+<string>With Balrog equipped in Blow Mode:<lf>While on the ground with Ignition active,<lf>press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Balrog equipped in Kick Mode:<lf>While on the ground, press <ICON ACT_BtnR>
+<string>With Balrog equipped in Kick Mode:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>With Balrog equipped in Kick Mode:<lf>While on the ground with Ignition active,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With Balrog equipped in Kick Mode:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>While on the ground, press <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>While on the ground,<lf>press <ICON ACT_BtnR>, then <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>While on the ground,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>Hold <ICON ACT_BtnU> until electrified<lf>On the ground, release <ICON ACT_BtnU>
+<string>Hold <ICON ACT_BtnU> until electrified<lf>Press <ICON ACT_RB>+<ICON ACT_LS> forward, then release <ICON ACT_BtnU>
+<string>With King Cerberus equipped:<lf>Hold <ICON ACT_BtnR> until electrified<lf>On the ground, press <ICON ACT_RB>+<ICON ACT_LS> back, then release <ICON ACT_BtnR>
+<string>With King Cerberus equipped:<lf>Hold <ICON ACT_BtnR> until electrified<lf>On the ground, press <ICON ACT_RB>+<ICON ACT_LS> back, then release <ICON ACT_BtnR>
+<string>Hold <ICON ACT_BtnU> until electrified<lf>Release <ICON ACT_BtnU> in mid-air
+<string>With Cavaliere equipped:<lf>While on the ground, press <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 
+<string>With Cavaliere equipped:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR> 
+<string>With Cavaliere equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Cavaliere equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back to<lf>forward +<ICON ACT_BtnU>
+<string>With Cavaliere equipped:<lf>In mid-air, press <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR>
+<string>With Cavaliere R equipped:<lf>Press <ICON ACT_RB>+<ICON ACT_LS> back to forward +<ICON ACT_BtnR>
+<string>
+<string>Automatic
+<string>Automatic
+<string>Automatic
+<string>With Ebony & Ivory equipped:<lf>While on the ground, press <ICON ACT_BtnR>
+<string>With Ebony & Ivory equipped:<lf>While on the ground, press <ICON ACT_BtnR> once<lf>Dante's left arm glows brighter.
+<string>With Ebony & Ivory equipped:<lf>While on the ground, press <ICON ACT_BtnR> once<lf>Dante's left arm glows brighter.
+<string>With Ebony & Ivory equipped:<lf>While on the ground, press <ICON ACT_BtnR> once<lf>Dante's left arm glows brighter.
+<string>With Ebony & Ivory equipped:<lf>Press <ICON ACT_BtnL>
+<string>With Ebony & Ivory equipped:<lf>Press <ICON ACT_BtnL> once Dante's right arm<lf>glows brighter
+<string>With Ebony & Ivory equipped:<lf>Press <ICON ACT_BtnL> once Dante's right arm<lf>glows brighter
+<string>With Ebony & Ivory equipped:<lf>Press <ICON ACT_BtnL> once Dante's right arm<lf>glows brighter
+<string>With Ebony & Ivory equipped: While on the<lf>ground, shoot with <ICON ACT_BtnL> and quickly press<lf><ICON ACT_BtnR>, or shoot with <ICON ACT_BtnR> and quickly press <ICON ACT_BtnL>
+<string>With Ebony & Ivory equipped:<lf>While on the ground, press <ICON ACT_RB>+<ICON ACT_LS> back<lf>to forward, then tap <ICON ACT_BtnR> repeatedly
+<string>With Ebony & Ivory equipped:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>With Coyote-A equipped:<lf>While on the ground, tap <ICON ACT_BtnR> repeatedly
+<string>With Coyote-A equipped:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>With Coyote-A equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Coyote-A equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With Coyote-A equipped: While on the<lf>ground with Gun Stinger active,<lf>press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With Coyote-A equipped:<lf>While on the ground with Gun Stinger<lf>active, press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Coyote-A equipped: While on the<lf>ground with Gun Stinger active,<lf>press <ICON ACT_RB>+<ICON ACT_LS> horizontally +<ICON ACT_BtnR>
+<string>With Kalina Ann equipped:<lf>While on the ground, press <ICON ACT_BtnR>
+<string>With Kalina Ann equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With Kalina Ann equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Kalina Ann equipped:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>With Double Kalina Ann equipped:<lf>While on the ground, hold <ICON ACT_BtnR>
+<string>With Double Kalina Ann equipped: While on<lf>the ground, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR>,<lf>then hold <ICON ACT_BtnR> once Cascade begins
+<string>With Double Kalina Ann equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>With Double Kalina Ann equipped:<lf>In mid-air, press <ICON ACT_BtnR>
+<string>With Dr. Faust equipped:<lf>Press <ICON ACT_BtnR>
+<string>With Dr. Faust equipped:<lf>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>With Dr. Faust equipped:<lf>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnR>, then<lf><ICON ACT_BtnL> after activation
+<string>
+<string>Automatic
+<string>Automatic
+<string>Automatic
+<string>While on the ground, press <ICON ACT_BtnR>
+<string>In mid-air, press <ICON ACT_BtnR>
+<string>Just as an enemy attacks, press <ICON ACT_BtnR>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>In the air, press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>Just as an enemy attacks, press <ICON ACT_RB>+<lf><ICON ACT_LS> forward +<ICON ACT_BtnR>
+<string>While on the ground, press <ICON ACT_RB>+<lf><ICON ACT_LS> back +<ICON ACT_BtnR>
+<string>
+<string>In human or devil form, hold <ICON ACT_LB>
+<string>Press <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU>
+<string>Press <ICON ACT_BtnL>
+<string>During a jump, press <ICON ACT_BtnD> while falling
+<string>Press <ICON ACT_BtnR>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> forward +<ICON ACT_BtnU>
+<string>Press <ICON ACT_RB>+<ICON ACT_LS> back +<ICON ACT_BtnU>
+<string>Press and hold <ICON ACT_LT>
+<string>Press <ICON ACT_RT>
+<string>Press <ICON ACT_BtnU>+<ICON ACT_BtnL>
+<string>When transformed into Sin Devil Trigger form<lf>with Stylish Rank SSS, press <ICON ACT_LB> when the<lf>SDT Gauge glows
+<string>
+<string>Tilt <ICON ACT_LS> in any direction to move<lf>the character in that direction.<lf>Tilt further to move faster.
+<string>Move the camera around to view your<lf>surroundings. Press <ICON ACT_RStP> to return the<lf>camera to the default position behind you.
+<string>Lock on to enemies and certain objects.<lf>Hold <ICON ACT_RB> to strafe, and press <ICON ACT_LStP><lf>to change lock-on target.
+<string>Jump into the air. The height of your jump<lf>changes depending on how long you hold <ICON ACT_BtnD>.
+<string>Taunt enemies in various ways on the<lf>ground or in mid-air. The taunt executed<lf>depends on your current Stylish Rank.
+<string>
+<string>Roll to the side to evade enemy attacks.
+<string>Jump again by pushing off of a wall.
+<string>Keep holding <ICON ACT_LS> in the same direction<lf>to build up speed into a full sprint.
+<string>In mid-air, use an enemy as a stepping<lf>stone to execute a double jump.
+<string>Focus your demonic power into<lf>a temporary mid-air platform,<lf>allowing you to double-jump.
+<string>Spread your wings and glide.<lf>To change direction tilt <ICON ACT_LS><lf>while gliding.
+<string>Increase the range from which you can<lf>gather orbs.
+<string>While Devil Trigger is active, the DT<lf>Gauge will deplete at a reduced rate.
+<string>A special taunt given only to those who<lf>paid a heavy price. Increases Stylish<lf>Rank more than a normal taunt.
+<string>A special taunt given only to those who<lf>braved the Bloody Palace and came away<lf>victorious. Sweep back your hair in a<lf>fashion resembling Vergil's look.
+<string>Unleash the demon within and transform<lf>into a fearsome devil form.<lf>Depletes the DT Gauge. Raises attack,<lf>defense and speed while activated,<lf>and restores vitality over time.
+<string>Forcibly expands weapon slots, putting all<lf>available weapons at your disposal. This<lf>state is unstable, however, and may make<lf>it harder to utilize each weapon's forte.<lf>Not recommended for the faint of heart.
+<string>
+<string>Perform a rapid three-stage combo.
+<string>A riff on Rebellion Combo A.<lf>Damage enemies behind<lf>while attacking those in front.
+<string>A devastating overhead attack<lf>with enough power to shatter even<lf>the sturdiest of demonic skull bones.
+<string>Lunge forward and send the enemy<lf>into the air. Hold <ICON ACT_BtnU> to join the enemy<lf>in the air for quick follow-up slices.
+<string>A high-speed lunge attack toward the<lf>enemy that skewers them through the middle.<lf>While Devil Trigger is active, the attack<lf>is more powerful, but expends the DT Gauge.
+<string>A powered-up version of the<lf>classic piercing attack.<lf>Has longer range than the original.
+<string>Rush in to stab the enemy<lf>with blinding speed.<lf>Repeatedly tap <ICON ACT_BtnU> for more stabs.
+<string>Hurl your sword towards the enemy and<lf>let it hack at them for a spell.<lf>Call back the blade with <ICON ACT_BtnR> or <ICON ACT_BtnU>.
+<string>
+<string>Perform a rapid three-stage combo.
+<string>A remix of Sparda Combo A.<lf>Damage enemies behind<lf>while attacking those in front.
+<string>A devastating overhead attack<lf>with enough power to shatter even<lf>the sturdiest of demonic skulls.
+<string>The blade warps into an infernal scythe<lf>to launch enemies skyward.<lf>Hold <ICON ACT_BtnU> to follow the launched enemy<lf>and administer the coup de grâce.
+<string>The blade shifts into a spear shape<lf>to run enemies through in the blink<lf>of an eye. While Devil Trigger is active,<lf>the attack is more powerful, but expends<lf>the DT Gauge.
+<string>A powered-up version of the Stinger<lf>that strikes enemies at a longer range.
+<string>Morph your blade into a spear, close the<lf>distance to the enemy and slash them to<lf>pieces. Repeatedly tap <ICON ACT_BtnU> for more slashes.
+<string>
+<string>Perform a rapid three-stage combo.
+<string>A different take on DSD Combo A.<lf>Damage enemies behind<lf>while attacking those in front.
+<string>Perform a two-stage attack then launch<lf>the enemy upwards for follow-up strikes.<lf>Hold <ICON ACT_BtnU> on the fourth stage to keep<lf>the party rocking.
+<string>A devastating overhead attack<lf>with enough power to shatter even<lf>the sturdiest of demonic skulls.
+<string>Trap the enemy in a mid-air blitz of<lf>sword strikes.
+<string>Propel enemies upward with a mighty<lf>sword slash.<lf>Hold <ICON ACT_BtnU> to leap up with<lf>them for follow-up attacks.
+<string>Race toward the enemy and skewer them on<lf>your sword-point before they can react.<lf>While Devil Trigger is active, the attack<lf>is more powerful, but expends the DT Gauge.
+<string>A powered-up version of the Stinger<lf>that strikes enemies at a longer range.
+<string>Rush into the enemy's face and give them<lf>the pincushion treatment.<lf>Repeatedly tap <ICON ACT_BtnU> for more stabs.
+<string>This blistering sword swing creates a<lf>shockwave that damages distant enemies.<lf>Hold <ICON ACT_BtnU> to make it hit harder.
+<string>A follow-up strike to Drive that lets<lf>fly two more shockwaves in rapid<lf>succession.
+<string>Conjures four swords that automatically<lf>attack, evade, and block on your behalf.<lf>Swords disappear after a set time.<lf>Consumes 2 units of the DT Gauge.
+<string>An upgrade to Swords Formation.<lf>Extends time swords can be summoned for,<lf>and shortens cooldown until they can be<lf>summoned once more.
+<string>The ultimate evolution of Swords Formation.<lf>The swords can be summoned for a much<lf>longer time, and have a much shorter<lf>cooldown until they can be summoned<lf>once more.
+<string>Your conjured swords follow up your<lf>melee weapon strikes with automatic<lf>attacks.
+<string>Your conjured swords detect nearby<lf>threats and slash automatically to<lf>keep them at bay.
+<string>Increases the number of times you<lf>can repeatedly jump, dash, and use<lf>Sky Star and Air Trick.
+<string>Blocking attacks causes your conjured<lf>swords to stand guard around you, charging<lf>the Royal Gauge. The swords will block<lf>incoming attacks, lessening the damage.
+<string>
+<string>Jumping discharges a blast wave that<lf>damages nearby enemies.
+<string>Activated by specific actions during<lf>Blow Mode or Kick Mode.<lf>Emits a burst of Balrog's superheated<lf>energy, temporarily boosting your<lf>attack capabilities.
+<string>Upgraded version of the Ignition attack<lf>buff technique.<lf>Effects remain active for longer.
+<string>Ultimate evolution of the Ignition attack<lf>buff technique.<lf>Dramatically lengthens effect duration.
+<string>Switches between the rapid punches<lf>of Blow Mode and the punishing kicks<lf>of Kick Mode.<lf>The moves at your disposal differ<lf>depending on the mode.
+<string>In Blow Mode, land repeated punches<lf>to raise the counter.<lf>Reaching a certain number triggers<lf>Ignition. Taking damage, jumping,<lf>or evading will reset the counter to zero.
+<string>Perform an agile punch combo.
+<string>Quickly dash inside the enemy's<lf>defenses and leave them reeling<lf>with a massive strike.
+<string>Cut loose with a kick as you switch<lf>from Blow Mode to Kick Mode.
+<string>Ride your own momentum after an<lf>attack to keep yourself clear of<lf>enemy counters.<lf>Tilt <ICON ACT_LS> left or right to dodge in<lf>that direction.
+<string>Perform a rapid three-hit aerial combo.
+<string>Whip yourself into a spin to deliver<lf>a whirlwind of three hard kicks.
+<string>A stylish Balrog Combo A spin-off.<lf>Your high-speed spin kicks will pull in<lf>nearby enemies for more punishment.
+<string>Slam downward with a powerful kick<lf>from mid-air.
+<string>A high-flying flip kick that launches <lf>enemies upward.<lf>Great for intercepting airborne foes.
+<string>Let rip with a punch attack as you<lf>switch from Kick Mode to Blow Mode.
+<string>Dazzle the dance floor and trigger<lf>Ignition. You take additional damage<lf>while Heat Up is active.
+<string>After charging forward with Heavy Jolt,<lf>send out your left fist to pound enemies<lf>into the air.
+<string>Execute a counter in the direction you<lf>dodged with Welter Move.<lf>Slip through enemy attacks and lay on<lf>the pain.
+<string>
+<string>Let yourself off the leash and hit<lf>enemies with this ferocious combo.
+<string>Another breed of Cerberus Combo A.<lf>Sweeps the area around you while<lf>hounding enemies out front.
+<string>Whirl in mid-air, slicing any nearby<lf>enemies with split-second speed.
+<string>Spin violently in mid-air before crashing<lf>into the enemy, dealing major impact<lf>damage. While Devil Trigger is active,<lf>the attack is more powerful, but expends<lf>the DT Gauge.
+<string>An improved version of the Revolver combo.<lf>Longer distance, and a more violent spin.
+<string>Slam a chain into the ground,<lf>thrusting a massive glacial blade<lf>upward into enemies.
+<string>Conjure a skin of rock-hard ice,<lf>protecting you from enemy attacks.
+<string>Wreathes your weapon in lightning<lf>for a broad, arcing attack that sends<lf>nearby enemies flying.
+<string>Wreathes your weapon in lightning<lf>for a multi-swing combo that slams<lf>all enemies within a wide radius.
+<string>Launches four lightning orbs that<lf>slowly chase down their targets.
+<string>Wreathes your weapon in lightning<lf>for a mid-air sweep attack that sends<lf>nearby enemies flying.
+<string>
+<string>Land this attack to drag the enemy into<lf>the spinning wheel, dealing combo damage.
+<string>While Gear Wheel is active, press<lf>another <trc id="0"> for this follow-up attack.
+<string>While Gear Wheel is active, wait for the<lf>weapon to glow before pressing another<lf><trc id="0"> for a quicker follow-up attack.
+<string>
+<string>While Gear Wheel is active, press<lf>another <trc id="0"> just as the attack finishes<lf>to trigger a much quicker and more<lf>powerful follow-up attack.
+<string>
+<string>Ride your momentum into a three-stage<lf>combo attack. Gear Wheel is active during<lf>the first and second stages. Chains into<lf>Cavaliere Combo B in Swordmaster style.<lf>While Devil Trigger is active, the attack<lf>is more powerful, but expends the DT Gauge.
+<string>Cross over your twin Cavaliere for a<lf>devastating slam attack.<lf>Activates Gear Wheel.
+<string>Send enemies flying with blows from<lf>your twin Cavaliere.
+<string>A two-stage combo attack whirling your<lf>twin Cavaliere in mid-air. Activates<lf>Gear Wheel. If using Swordmaster style,<lf>you can chain into Air Cavaliere Combo B<lf>during the combo.
+<string>This high-velocity attack ramps you<lf>skyward after the enemy you hit.<lf>Activates Gear Wheel.
+<string>Drag airborne enemies into the spinning<lf>wheels and dive into a backbreaking<lf>ground impact. Activates Gear Wheel.
+<string>
+<string>Fire standard shots that do little<lf>damage but can be rapid-fired.
+<string>Infuse a shot with demonic power<lf>to deal greater damage. Charges<lf>automatically in Gunslinger style.
+<string>An upgrade to Charge Shot.<lf>Longer duration.
+<string>The ultimate evolution of Charge Shot.<lf>Even longer duration.
+<string>
+<string>Fire a shotgun blast that peppers enemies<lf>in a wide area, or can devastate a single<lf>enemy at close range.
+<string>Channel your demonic power into a solid<lf>slug shot.
+<string>An upgrade to Charge Shell.<lf>Faster infusion of power into the shot.
+<string>The ultimate evolution of the Charge Shell.<lf>Fastest infusion of power into the shot.
+<string>
+<string>Launch a missile with an explosive<lf>payload.
+<string>Launch a powered-up missile<lf>packed with high explosive.
+<string>Launch twin missiles with explosive<lf>payloads.
+<string>Connect the twin Kalina Anns to fire<lf>a supercharged energy beam that pierces<lf>through enemies.
+<string>
+<string>Spit a high-velocity stream of Red Orbs<lf>at the enemy. Expends the Red Orbs<lf>you've collected.
+<string>Carpet the area around you with countless<lf>Red Orbs that will damage enemies on<lf>contact.<lf>Expends the Red Orbs you've collected.
+<string>Toss the hat, making any enemy it hits<lf>drop Red Orbs when struck with a weapon<lf>other than Dr. Faust. Taking any hits from<lf>enemies targeted by Set Hat will make you<lf>yourself lose Red Orbs.
+<string>Inflict damage on all enemies hit by<lf>Set Hat while absorbing Red Orbs.
+<string>Increases the Orbs earned and Orbs<lf>expended while Dr. Faust is equipped.<lf>Uses more Orbs for more attack power.
+<string>Further increases the Orbs earned and Orbs<lf>expended while Dr. Faust is equipped.
+<string>Maximizes the Orbs earned and Orbs<lf>expended while Dr. Faust is equipped.<lf>A high-risk, high-reward gambit with<lf>Red Orbs on the line. Use with caution.
+<string>Extend the effect duration of Set Hat<lf>and Mad Hatter (damaging enemies<lf>causes them to release Red Orbs).<lf>Also increases the number of enemies<lf>that can be affected.
+<string>Extend the effect duration of Hat Trick<lf>(all enemies release more Red Orbs<lf>for a set time).
+<string>
+<string>Learn Level 2 Trickster skills.<lf><lf> • <skill player="d" id="524"><lf> • <skill player="d" id="522">
+<string>Learn Level 3 Trickster skills.<lf><lf> • <skill player="d" id="523"><lf> • <skill player="d" id="525">
+<string>Learn the Level 4 Trickster skill.<lf><lf>• <skill player="d" id="526">
+<string>Dash in any direction (tilt <ICON ACT_LS>)<lf>and evade enemy attacks.
+<string>Focus your demonic power into<lf>a temporary mid-air platform,<lf>then move horizontally in any<lf>direction (tilt <ICON ACT_LS>).
+<string>Dash toward an enemy and kick<lf>off them to launch yourself upward.
+<string>Dash towards an enemy with Sky Star and<lf>use their body to come back down.<lf>Make the enemy your personal<lf>staircase back down to the ground.
+<string>Right yourself quickly after being<lf>sent flying by an attack.
+<string>Dash above an enemy's head and appear<lf>in mid-air.
+<string>Dash downward toward an enemy and appear<lf>on the ground.
+<string>
+<string>Learn Level 2 Swordmaster skills.
+<string>Learn Level 3 Swordmaster skills.
+<string>Learn Level 4 Swordmaster skills.
+<string>Whip Rebellion around in a high-rev<lf>spin, launching the enemy upward.
+<string>Follow up a Prop by thrusting your<lf>spinning blade forward to slice the enemy.<lf>Hold <ICON ACT_BtnR> to extend duration.
+<string>Trap the enemy in a mid-air blitz of<lf>sword strikes.
+<string>Cut up the dance floor in a wild tango<lf>that'll leave the enemy in pieces.
+<string>With the blade warped into an infernal<lf>scythe, throttle it up into a high-rev spin<lf>that'll launch the enemy upward.
+<string>Follow up a Prop by thrusting your<lf>scythe-shaped blade forward to<lf>slice the enemy.<lf>Hold <ICON ACT_BtnR> to extend duration.
+<string>Trap the enemy in a mid-air blitz of<lf>sword strikes.
+<string>With the blade warped into an infernal<lf>scythe, throw it at the enemy and do<lf>some remodeling.<lf>Press <ICON ACT_BtnR> or <ICON ACT_BtnU> to recall it.
+<string>Cut up the dance floor in a wild tango<lf>that'll leave the enemy in pieces.
+<string>A multi-hit attack using conjured swords.
+<string>Launch conjured swords at high<lf>speeds to pierce the enemy.
+<string>Use conjured swords to send the<lf>enemy soaring skyward.
+<string>Launch multiple conjured swords<lf>to cut through enemies.
+<string>Countless conjured swords join you<lf>step-for-step in what is sure to be<lf>the enemy's final waltz.
+<string>Spin up a high-velocity punch attack<lf>that slams into the enemy with<lf>powerful cyclone winds.
+<string>Deliver a brutal falling punch to<lf>a grounded enemy, coupled with an<lf>earthshaking shockwave that'll leave<lf>nearby enemies reeling.
+<string>Penetrate the enemy's defenses with<lf>a defiant uppercut that'll launch them<lf>skyward.
+<string>Focus your power into your fist,<lf>then release an uppercut so strong<lf>it'll launch you like a missile.
+<string>Focus your power into your fist, then<lf>let loose a spinning, leaping uppercut<lf>with the force of a rock drill.
+<string>Stop the enemy with a brutal body<lf>blow then let rip with a punch<lf>and knee strike combo.
+<string>Spin around lightning-fast to deliver<lf>attacks over a wide area. Extend your<lf>spin by tapping <ICON ACT_BtnR> repeatedly, and move<lf>around during the spin with <ICON ACT_LS>.
+<string>Go from a spin into a speedy one-two kick<lf>combo that launches enemies into the air.
+<string>Gain ground on the enemy and<lf>smash them with a barrage of kicks.
+<string>Make the battlefield your playground,<lf>back flipping to get around enemies.
+<string>A long-reaching three-hit combo.<lf>Strike the enemy with the tip of your<lf>weapon to deal maximum damage.
+<string>A vicious breed of Cerberus Combo C.<lf>Punish enemies in front of you with a<lf>long-reaching combo. Strike them with the<lf>tip of your weapon to deal maximum damage.
+<string>Slam your weapon into the ground and<lf>whirl around it in a dance of destruction.
+<string>Use your weapon as a support to launch<lf>a razor-sharp kick flying forward.
+<string>Set your weapon ablaze and sweep<lf>it through enemies, burning a wide<lf>area in front of you. While Devil Trigger<lf>is active, the attack is more powerful,<lf>but expends the DT Gauge.
+<string>Shift gears on the Hot Stuff technique,<lf>speeding it up.
+<string>Your weapon crackles with lightning<lf>as it stretches to full length, slamming<lf>into a distant enemy.
+<string>Your weapon crackles with lightning<lf>as it stretches to full length, turning<lf>mid-air spins into violent attacks.
+<string>Slam your weapon into the ground<lf>and call down a lightning strike.<lf>While Devil Trigger is active, the<lf>attack is more powerful, but expends<lf>the DT Gauge.
+<string>Cranks up the voltage of the standard<lf>Percussion to hit enemies in a wider area.
+<string>Your weapon crackles with lightning<lf>as it stretches to full length, sniping<lf>a distant enemy from mid-air.
+<string>Race your transformed motorcycle through<lf>the tight turns of a rapid combo.<lf>Gear Wheel is active during the first and<lf>second stages. You can chain into<lf>Cavaliere Combo A during the combo.
+<string>Straddle your motorcycle and twist the<lf>throttle, running down enemies with the<lf>spikes extending from the front.<lf>While Devil Trigger is active, the attack<lf>is more powerful, but expends the DT<lf>gauge.
+<string>Send enemies skyward with the rapid<lf>revolutions of your motorcycle wheels,<lf>then ramp upward to follow them.
+<string>Improves the Wheelie Jump attack,<lf>increasing the height you and<lf>your enemy jump to.
+<string>Ride your momentum forward and cross<lf>over your twin Cavaliere for a devastating<lf>slam attack. Activates Gear Wheel.<lf>Can chain into Cavaliere Combo A or<lf>Cavaliere Combo B's second step.
+<string>An upgrade to the Slipstream pincer attack.<lf>Lengthens your movement distance before<lf>the strike.
+<string>Spin your bike in mid-air and slam into<lf>enemies in an incredible stunt.<lf>Gear Wheel is active during the first and<lf>second stages. You can chain into<lf>Air Cavaliere Combo A during the combo.
+<string>Fly forward in a daredevil mid-air charge.<lf>Using Full Throttle off an edge into the<lf>air activates this skill automatically.
+<string>
+<string>Learn Level 2 Gunslinger skills.
+<string>Learn Level 3 Gunslinger skills.
+<string>Learn Level 4 Gunslinger skills.
+<string>Fire a high-powered shot that's likely<lf>to stagger enemies.
+<string>Auto-charges your demonic power,<lf>adding explosive power to your bullets.
+<string>A powered-up version of Auto Charge (E).<lf>Takes less time to reach full charge.
+<string>The ultimate evolution of Auto Charge (E).<lf>Takes minimal time to reach full charge.
+<string>Fires a three-round burst of low-damage<lf>shots that place firing speed above<lf>stopping power.
+<string>Auto-charges your demonic power,<lf>adding piercing capabilities to your shots.
+<string>A powered-up version of Auto Charge (I).<lf>Takes less time to reach full charge.
+<string>The ultimate evolution of Auto Charge (I).<lf>Takes minimal time to reach full charge.
+<string>Shoot two enemies at once in different<lf>directions.<lf>Tilt <ICON ACT_LS> while firing to change direction.
+<string>Tear up enemies in front of you with<lf>rapid gunfire.
+<string>Revolve in mid-air and shower the ground<lf>below in a storm of bullets.<lf>Hold <ICON ACT_BtnR> to shoot straight down.
+<string>Twirl your shotgun like nunchaku,<lf>shooting as you go.
+<string>Trigger the spinning shotgun technique<lf>Fireworks in mid-air.
+<string>While locked on to an enemy, quickly<lf>fire a shot at the enemy behind you.
+<string>Charge forward at top speed, ram your<lf>gun barrel into the enemy, and fire at<lf>point-blank range.
+<string>An offshoot of the Gun Stinger<lf>attack. Dash forward unloading<lf>your weapon. Combos seamlessly<lf>with other Cut-in moves. Press <ICON ACT_BtnD> while<lf>sliding for a jumping dodge attack.
+<string>An offshoot of the Gun Stinger<lf>attack. Dash backward unloading<lf>your weapon. Combos seamlessly<lf>with other Cut-in moves.
+<string>An offshoot of the Gun Stinger<lf>attack. Dash sideways unloading<lf>your weapon. Combos seamlessly<lf>with other Cut-in moves.
+<string>Automatically lock on to multiple enemies<lf>and launch a storm of homing missiles.
+<string>Lock on to a single enemy and launch<lf>a storm of homing missiles.
+<string>Launch a barrage of micro-missiles<lf>in a wide arc in front of you.<lf>Tap <ICON ACT_BtnR> repeatedly to increase<lf>the number of missiles launched.
+<string>Fire a cannon blast straight downward.
+<string>Automatically lock on to multiple foes<lf>and launch a bigger barrage of homing<lf>missiles from your twin Kalina Ann.
+<string>Connect the twin Kalina Anns to fire<lf>a supercharged energy beam that pierces<lf>through enemies.
+<string>Launch a barrage of micro-missiles<lf>in wide arcs in front of and behind you.<lf>Tap <ICON ACT_BtnR> repeatedly to increase<lf>the number of missiles launched.
+<string>Fire the twin Kalina Anns straight up<lf>and down to attack enemies above<lf>and below at once.
+<string>Send your Orb-bladed hat spinning around<lf>you, striking multiple enemies as it<lf>flies. Enemies hit by this attack will<lf>discharge Red Orbs on subsequent strikes<lf>from weapons other than Dr. Faust.
+<string>Summon a swarm of colossal Red Orbs<lf>to slam down on the enemy from above.<lf>Gains power the longer you hold <ICON ACT_BtnR>.<lf>Expends your Red Orbs.
+<string>The hat floats around Dante, unleashing<lf>its Red Shot attack like a turret.<lf>Expends Red Orbs.<lf>Execute the same command after<lf>activation to call the hat back.
+<string>
+<string>Learn the Level 2 Royalguard skill.<lf><lf> • <skill player="d" id="626">
+<string>Learn Level 3 Royalguard skills.<lf><lf> • <skill player="d" id="629"><lf> • Increases Royal Gauge (+3)
+<string>Learn Level 4 Royalguard skills.<lf><lf> • <skill player="d" id="631"><lf> • Increases Royal Gauge (+3)
+<string>Blocks enemy attacks and neutralizes<lf>damage while also filling the Royal Gauge.<lf>This technique expends the DT Gauge<lf>each time it is activated. While blocking,<lf>you can move around with <ICON ACT_LS>.
+<string>Activates a mid-air version of Block,<lf>neutralizing damage and filling the<lf>Royal Gauge.<lf>This technique expends the DT Gauge<lf>each time it is activated.
+<string>Block an enemy attack as close as<lf>possible to defend without expending<lf>the DT Gauge. Fills the Royal Gauge<lf>more than a standard Block.
+<string>Release the energy built up in your Royal<lf>Gauge, dealing massive damage to enemies.
+<string>Release the energy built up in your Royal<lf>Gauge in mid-air, dealing massive damage<lf>to enemies.
+<string>Draw in an enemy attack before releasing<lf>the energy built up in your Royal Gauge<lf>to deliver a tremendous blast of damage.
+<string>Use one stock of Royal Gauge to nullify<lf>enemy attacks and perform a counterattack.<lf>Hold <ICON ACT_BtnR> to maintain readiness.
+<string>
+<string>Expend the DT Gauge and charge<lf>the SDT Gauge.
+<string>Perform a crushing three-stage combo<lf>attack that unleashes the full power<lf>of the devil sword Dante.
+<string>Energy blasts from your palms slam<lf>into the enemy with terrific force.
+<string>Spread your wings and hover in the air.<lf>Tilt <ICON ACT_LS> to move while hovering, or<lf>press <ICON ACT_BtnD> to fold your wings and<lf>fall to earth.
+<string>Move at hyper speed, reaching the enemy<lf>in the blink of an eye.
+<string>Charge into the enemy surrounded by the<lf>whirlwind of Swords Formation. Tears<lf>through any enemy, leaving tattered shreds<lf>in your wake. Hold <ICON ACT_BtnU> to keep the attack<lf>going.
+<string>Slam a thunderous punch into the ground,<lf>making the fires of hell erupt around you<lf>and launch any nearby enemies into<lf>the air.
+<string>Grab an enemy and trigger a blast from<lf>within, shattering the enemy with raw<lf>explosive power.
+<string>Focus energy into your outstretched wings<lf>and raze the earth with a laser barrage.<lf>Hold <ICON ACT_RT> to keep the attack going.
+<string>Unleash all of your power at once, bathing<lf>nearby enemies in lethal damage.<lf>Expends all of your SDT Gauge.
+<string>When transformed into Sin Devil Trigger<lf>with Stylish Rank SSS:<lf>Press <ICON ACT_LB> while the SDT Gauge is glowing<lf>to disengage your transformation. This<lf>allows you to unleash your Sin Devil<lf>Trigger power for a moment and attack.
+<string>
+<string>Rebellion<lf> • <skill player="d" id="536">
+<string>Rebellion<lf> • <skill player="d" id="359">
+<string>Rebellion<lf> • <skill player="d" id="538">
+<string>Devil Sword Sparda<lf> • <skill player="d" id="540">
+<string>Devil Sword Sparda<lf> • <skill player="d" id="542">
+<string>Devil Sword Sparda<lf> • <skill player="d" id="543">
+<string>Devil Sword Dante<lf> • <skill player="d" id="545"><lf> • <skill player="d" id="546">
+<string>Devil Sword Dante<lf> • <skill player="d" id="547">
+<string>Devil Sword Dante<lf> • <skill player="d" id="548">
+<string>Balrog<lf> • <skill player="d" id="552"><lf> • <skill player="d" id="558">
+<string>Balrog<lf> • <skill player="d" id="553">
+<string>Balrog<lf> • <skill player="d" id="554"><lf> • <skill player="d" id="557">
+<string>King Cerberus<lf> • <skill player="d" id="562"><lf> • <skill player="d" id="440">
+<string>King Cerberus<lf> • <skill player="d" id="563"><lf> • <skill player="d" id="567">
+<string>King Cerberus<lf> • <skill player="d" id="564"><lf> • <skill player="d" id="568">
+<string>Cavaliere<lf> • <skill player="d" id="571">
+<string>Cavaliere<lf> • <skill player="d" id="572">
+<string>Cavaliere<lf> • <skill player="d" id="573">
+<string>Ebony & Ivory<lf> • <skill player="d" id="595">
+<string>Ebony & Ivory<lf> • <skill player="d" id="593">
+<string>Ebony & Ivory<lf> • <skill player="d" id="594">
+<string>Coyote-A<lf> • <skill player="d" id="598">
+<string>Coyote-A<lf> • <skill player="d" id="599">
+<string>Coyote-A<lf> • <skill player="d" id="600"><lf> • <skill player="d" id="601"><lf> • <skill player="d" id="602">
+<string>Kalina Ann<lf> • <skill player="d" id="606">
+<string>Kalina Ann<lf> • <skill player="d" id="605">
+<string>Kalina Ann<lf> • <skill player="d" id="604">
+<string>Double Kalina Ann<lf> • <skill player="d" id="610">
+<string>Double Kalina Ann<lf> • <skill player="d" id="609">
+<string>Double Kalina Ann<lf> • <skill player="d" id="608">
+<string>Dr. Faust<lf> • <skill player="d" id="613">
+<string>Dr. Faust<lf> • <skill player="d" id="509">
+<string>Dr. Faust<lf> • <skill player="d" id="612">

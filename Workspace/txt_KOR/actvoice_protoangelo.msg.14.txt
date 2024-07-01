@@ -1,0 +1,4 @@
+<string>
+<string>와라...!
+<string>돌격!
+<string>가라!

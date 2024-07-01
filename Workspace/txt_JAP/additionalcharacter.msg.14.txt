@@ -1,0 +1,44 @@
+<string>
+<string>NERO
+<string>DANTE
+<string>V
+<string>VERGIL
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ネロ
+<string>ダンテ
+<string>V
+<string>バージル
+<string>共通
+<string>ダンテ
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>The Devil Hunter
+<string>The Legendary Devil Hunter
+<string>The Mysterious One
+<string>The Alpha and the Omega
+<string>The Alpha and the Omega
+<string>The Legendary Devil Hunter
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>凄腕のデビルハンター
+<string>伝説のデビルハンター
+<string>謎の男
+<string>発端にして終焉
+<string>魔王なる人間
+<string>伝説のデビルハンター
+<string>
+<string>
+<string>
+<string>

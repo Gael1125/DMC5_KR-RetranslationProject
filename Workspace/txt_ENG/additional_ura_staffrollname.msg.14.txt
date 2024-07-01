@@ -1,0 +1,6 @@
+<string>
+<string>Usurper slain, an empty throne<lf>the crown lies covered in blood.
+<string>Power is its own reward and we have just begun.
+<string>So grab your blade, the time has come<lf>we only have each other.
+<string>
+<string>Let's settle the score once and for all, my dear brother.

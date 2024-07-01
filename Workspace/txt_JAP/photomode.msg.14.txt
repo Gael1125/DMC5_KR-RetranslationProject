@@ -1,0 +1,13 @@
+<string>
+<string>PHOTO MODE
+<string>
+<string><ICON Dir>　視点平行移動
+<string><ICON LS_UD>　カメラ前後移動
+<string><ICON RS_LR>　カメラ回転
+<string><ICON CenR>　ガイド表示ON/OFF
+<string><ICON BtnL>　情報表示ON/OFF
+<string><ICON BtnU>　難易度表示ON/OFF
+<string><ICON CANCEL>　戻る
+<string><ICON MOUSE_DRAG_3>　視点平行移動
+<string><ICON MOUSE_SCR_UD> 　カメラ前後移動
+<string><ICON KEY_DRAG>　カメラ回転

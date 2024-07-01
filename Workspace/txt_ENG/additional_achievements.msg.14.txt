@@ -1,0 +1,67 @@
+<string>
+<string>Sibling Rivalry
+<string>Concentrated Strength
+<string>Heart of a Swordsman
+<string>This is Power
+<string>A Legendary Return
+<string>A Champion Rises
+<string>Four Infernal Kings
+<string>
+<string>Clear all missions as Vergil.
+<string>Acquire all of Vergil's skills.
+<string>Clear Mission 19 as Vergil without using any weapons other than Yamato. (Heaven or Hell excluded)
+<string>Clear the Bloody Palace as Vergil.
+<string>Complete the game on Legendary Dark Knight mode.
+<string>Clear the Bloody Palace with any character.
+<string>Clear the Bloody Palace with all characters.
+<string>
+<string>Unlock all trophies.
+<string>Complete the game on Human mode as Nero, Dante, or V. 
+<string>Complete the game on Devil Hunter mode as Nero, Dante, or V .
+<string>Complete the game on Son of Sparda mode as Nero, Dante, or V.
+<string>Complete the game on Dante Must Die mode as Nero, Dante, or V.
+<string>Complete the game on Heaven or Hell mode as Nero, Dante, or V.
+<string>Complete the game on Hell and Hell mode as Nero, Dante, or V.
+<string>Clear the Prologue Mission as Nero, Dante, or V.
+<string>Defeat all enemies in Mission 01 as Nero, Dante, or V.
+<string>Collect Red Orbs from an unexpected spot in Mission 02 as Dante, Nero, or V.
+<string>Clear Mission 03 as Nero, Dante, or V.
+<string>Destroy a certain wall in Mission 04 as Nero, Dante, or V.
+<string>Fend off a menace from above in Mission 05 as Nero, Dante, or V.
+<string>Clear Mission 06 as Nero, Dante, or V.
+<string>Clear Mission 07 with both Nero and V. 
+<string>Clear Mission 08 as Nero, Dante, or V.
+<string>Destroy a certain wall in Mission 09 as Nero, Dante, or V. 
+<string>Clear Mission 10 as Nero, Dante, or V.
+<string>Use proper timing to get a leg up in battle against the boss in Mission 11 as Nero, Dante, or V.
+<string>Clear Mission 12 as Nero, Dante, or V.
+<string>Clear Mission 13 as Nero, Dante, and V.
+<string>Clear Mission 14 as Nero, Dante, or V.
+<string>Proceed with caution and avoid unneeded damage in Mission 15 as Nero, Dante, or V.
+<string>Go on the offensive in a roundabout way in the Mission 16 boss battle as Nero, Dante, or V.
+<string>Clear Mission 17 as Nero, Dante, or V.
+<string>Clear Mission 18 as Nero, Dante, or V.
+<string>Clear Missions 19 and 20 without continuing as Nero, Dante, or V. (Heaven or Hell excluded)
+<string>Perform a Stylish Rank S combo.
+<string>Perform a Stylish Rank SS combo.
+<string>Perform a Stylish Rank SSS combo.
+<string>Clear all secret missions as Nero, Dante, or V.
+<string>Defeat 5 enemies in 1 second.
+<string>Wield overwhelming power to exact an unexpected conclusion as Dante, Nero, or V.
+<string>Clear all missions with S rank as Nero, Dante, or V.
+<string>Clear all missions with S rank on all difficulties except Heaven or Hell as Nero, Dante, or V. (Legendary Dark Knight excluded)
+<string>Clear all missions with S rank on all difficulties as Nero, Dante, or V. (HoH, LDK excluded)
+<string>Rack up a total of 60 minutes in the air by jumping or other means
+<string>Acquire all of Nero's skills.
+<string>Acquire all of Dante's skills.
+<string>Acquire all of V's skills.
+<string>Upgrade your vitality gauge to max.
+<string>Upgrade your Devil Trigger Gauge to max.
+<string>Accept a new job from Morrison after the Red Grave incident. (Dante only)
+<string>Collect more than 1,000,000 Red Orbs total.
+<string>Defeat 1,000 enemies total.
+<string>Collect more than 100 Devil Breakers during missions. (Nero only)
+<string>Use more than 500,000 Red Orbs total with Dr. Faust.
+<string>Clear Mission 11 without equipping a weapon set for Dante. (Heaven or Hell excluded)
+<string>Beat Mission 07 without any starting Devil Breakers equipped. (Heaven or Hell excluded) 
+<string>Clear Mission 05 without V's demons getting stalemated. (Heaven or Hell excluded)

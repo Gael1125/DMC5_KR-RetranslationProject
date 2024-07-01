@@ -1,0 +1,5 @@
+<string>
+<string>난...너보다 강해!
+<string>너한테 필요한 건... 이거야!
+<string>좋아할 줄 알았어.
+<string>누가 먼저 죽을래?

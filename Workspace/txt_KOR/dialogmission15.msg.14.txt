@@ -1,0 +1,44 @@
+<string>
+<string>또 따로 가는 건가? 혼자가 더 편하긴 하지만.
+<string>아주 친절하구만...
+<string>갈림길이네... 어디로 가지?
+<string>날아서 건너가야겠네...<lf>한번 휘둘러볼까.
+<string>이 느낌... 뭔가 있어.
+<string>미안, 단테... 그 마왕은 내가 죽이겠어!
+<string>근처에서 악마가 느껴지는데...<lf>방해하면 죽여주마!
+<string>이걸 사용해.
+<string>가져가. 너 주려고 가지고 있던 거니까.
+<string>잘 아껴 써.
+<string>오, 친절하기도 하셔라.
+<string>좋아, 이거면 되겠어.
+<string>네놈은 제물로도 못 쓰겠구나!
+<string>
+<string>고작 인간의 눈으로는 날 쫓지 못할 거다!
+<string>코만 있으면 널 찾는 건 식은 죽 먹기지...<lf>냄새가 진동하거든.
+<string>
+<string>지옥 최강의 마법을 마음껏 맛봐라!
+<string>
+<string>내가 본 것 중에 제일 지루한 쇼인데.
+<string>
+<string>게임 끝났어, 새대가리야.
+<string>
+<string>아직도 싸울 힘이 있는 거야?
+<string>
+<string>일어나, 아직... 끝나지 않았다!
+<string>
+<string>절망을 선사해주마!
+<string>일어나라! 내 힘으로 부활하는 거다!
+<string>그만 좀 포기해라, 어!?
+<string>
+<string>무슨 짓이냐!?
+<string>왜, 이런 경험은 처음이신가?
+<string>
+<string>말도 안 돼!
+<string>말이 안 되긴 왜 안 돼?
+<string>안 될 이유 없잖아?
+<string>
+<string>넌. 이제. 죽었어!
+<string>아가씨들! 매너 좀 지켜주시죠!
+<string>
+<string>아니 어떻게...!?
+<string>정신 차려야지, 아가씨들!

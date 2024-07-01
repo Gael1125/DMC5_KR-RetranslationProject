@@ -1,0 +1,109 @@
+<string>
+<string>You will not be able to use online functionality<lf>because your Ethernet cable is not connected<lf>or you are not connected to a wireless network.
+<string>Network connection has been lost.
+<string>Failed to establish a connection.<lf>Would you like to try again?
+<string>Installing.<lf>Please wait...
+<string>You cannot access this item because you are not signed in.
+<string>Connecting to network.<lf>Please wait.
+<string>Connection to network has been interrupted.
+<string>Failed to connect to network.
+<string>A network error has occurred.
+<string>A network error has occurred.<lf>Retry?
+<string>Could not connect to the network, so network functions have<lf>been temporarily disabled. You can connect to the network<lf>from Network in the Options menu.
+<string>You received an invite, so your current<lf>information will be saved and you will join<lf>the session.
+<string>Join the current invited session.
+<string>You cannot join the session with this account.
+<string>Game data preparation is not yet complete.<lf>Please wait.
+<string>
+<string>Connected to Steam.
+<string>You cannot use Xbox Live features because<lf>you are not connected to Xbox Live.
+<string>Network connection has been lost.<lf>You cannot use Xbox Live features.
+<string>Failed to connect to Xbox Live.
+<string>Connecting to Xbox Live.<lf>Please wait.
+<string>Connected to Xbox Live.
+<string>You are not signed in to Xbox Live.
+<string>You will not be able to use online functionality<lf>since you are not signed in to Xbox Live.
+<string>You will not be able to use PlayStation™Network features<lf>if you start a game without signing in.<lf>Sign in?
+<string>You are not signed in.<lf>You must sign in to use PlayStation™Network features.<lf>Sign in?
+<string>Network connection has been lost.<lf>You cannot use PlayStation™Network features.
+<string>PlayStation™Store is disabled on your<lf>Sony Entertainment Network account.
+<string>Failed to connect to PlayStation™Network.
+<string>Connecting to PlayStation™Network.<lf>Please wait.
+<string>Connected to PlayStation™Network.
+<string>Sign-in to PlayStation™Network has been canceled.
+<string>You have been signed out of PlayStation™Network.
+<string>You have been signed out of PlayStation™Network.<lf>Returning to the title screen.
+<string>You are not signed in to PlayStation™Network.
+<string>You have signed out of PlayStation™Network.<lf>You cannot use PlayStation™Network online features.
+<string>You will not be able to use online functionality<lf>since you are not signed in to PlayStation™Network.
+<string>Go to the store?
+<string>Go to PlayStation™Store?
+<string>
+<string>Go to the Microsoft Store?
+<string>Any unsaved data will be lost.<lf>Change profile?
+<string>Profile has changed.<lf>Returning to the title screen.
+<string>No profile selected.<lf>You will not be able to play the game if you do not select a profile.
+<string>You cannot use this feature because the<lf>current profile does not have permission.
+<string>No controller found.<lf>Connect a controller to the console<lf>and press <ICON DECIDE>.
+<string>Press <ICON DECIDE> on the controller you want to use.
+<string>
+<string>Cannot find a room to join.
+<string>Failed to join the room via invite.
+<string>Failed to join the room via invite.<lf>Returning to menu.
+<string>Start the game?
+<string>Connecting...
+<string>Searching...
+<string>{0} has left the game.
+<string>
+<string>There are no add-ons available for download.
+<string>There are no add-ons available for download.
+<string>Checking add-ons.<lf>Please do not turn off your PC.
+<string>Checking add-ons.<lf>Please do not turn off your PlayStation®4 system.
+<string>Checking add-ons.<lf>Please do not turn off your Xbox One console.
+<string>Corrupt add-on has been detected.<lf>Please exit the game and redownload it from the<lf>PlayStation™Store. If you do not, some add-ons<lf>may not function properly.
+<string>Corrupt add-on has been detected.<lf>Please exit the game and redownload it from the Microsoft<lf>Store. If you do not, some add-ons may not function properly.
+<string>Corrupt add-on has been detected.<lf>Please exit the game and redownload it from the store.<lf>If you do not, some add-ons may not function properly.
+<string>Failed to load add-ons.<lf>They will not be available in-game.
+<string>Failed to load add-ons.<lf>They will not be available in-game. 
+<string>Add-on is corrupted.<lf>Please redownload it.
+<string>Add-on is corrupted.<lf>Please redownload it.
+<string>Add-on was not loaded properly<lf>and may not function properly in the game.
+<string>Add-on was not loaded properly<lf>and may not function properly in the game.
+<string>Add-on {0} data could not be found.<lf>Please redownload it.
+<string>Add-on {0} data could not be found.<lf>Please redownload it.
+<string>Add-on data could not be found.<lf>Please redownload it.
+<string>Add-on data could not be found.<lf>Please redownload it.
+<string>
+<string>
+<string>
+<string>
+<string>You have not downloaded this add-on.<lf>Go to the store to download it?
+<string>You have not downloaded this add-on.<lf>Go to PlayStation™Store to download it?
+<string>You have not downloaded this add-on.<lf>Go to the Microsoft Store to download it?
+<string>You have not downloaded this add-on.<lf>Go to the Microsoft Store to download it?
+<string>You have not purchased this add-on.<lf>Go to the store to purchase it?
+<string>You have not purchased this add-on.<lf>Go to PlayStation™Store to purchase content?
+<string>You have not purchased this add-on.<lf>Go to the Microsoft Store to purchase it?
+<string>You have not purchased this add-on.<lf>Go to the Microsoft Store to purchase it?
+<string>
+<string>{0} has been purchased.
+<string>
+<string>Downloading replay data.<lf>Please wait.
+<string>Uploading replay data.<lf>Please wait.
+<string>Connecting to the network and verifying information...
+<string>Verifying information...
+<string>Send rating to {0}.
+<string>A network error has occurred.<lf>Rating failed to upload.
+<string>
+<string>Today's login bonus:<lf>{0}
+<string>
+<string>Connecting to the {0} server.
+<string>Failed to connect to the {0} server.
+<string>
+<string>Check purchase information on PlayStation™Store<lf>and reflect it in your game?
+<string>Check purchase information on the Microsoft Store<lf>and reflect it in your game?
+<string>Check purchase information on the store<lf>and reflect it in your game?
+<string>A network error has occurred.<lf>Couldn't confirm purchase information on PlayStation™Store.<lf>Retry?
+<string>A network error has occurred.<lf>Couldn't confirm purchase information on the Microsoft Store.<lf>Retry?
+<string>A network error has occurred.<lf>Couldn't confirm purchase information on the store.<lf>Retry?
+<string>Your browser could not be opened<lf>due to settings or a network error.

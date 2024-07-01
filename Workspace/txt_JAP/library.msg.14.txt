@@ -1,0 +1,10 @@
+<string>
+<string>LIBRARY
+<string>
+<string>LETTERS
+<string>PROFILES
+<string>DOCUMENTS
+<string>
+<string>モリソンから届いた手紙を確認します
+<string>人物情報を確認します
+<string>その他の様々な情報を確認します

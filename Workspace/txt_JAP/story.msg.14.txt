@@ -1,0 +1,25 @@
+<string>
+<string>STORY
+<string>
+<string>VIDEO 1
+<string>VIDEO 2
+<string>VIDEO 3
+<string>
+<string>「HISTORY OF DMC」の映像を再生します
+<string>ミッション中の各種カットシーンを再生します
+<string>ミッション中の各種カットシーン（ビデオコンテ版）を再生します
+<string>
+<string>HISTORY OF DMC
+<string>TITLE BACK
+<string>MISSION {0}
+<string>ENDING
+<string>
+<string>PROLOGUE
+<string>OPENING
+<string>SCENE {0}
+<string>SCENE {0} NERO
+<string>SCENE {0} DANTE
+<string>SCENE {0} V
+<string>ANOTHER ENDING
+<string>TRUE ENDING
+<string>PLAY ALL SCENES

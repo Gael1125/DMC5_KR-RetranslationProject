@@ -1,0 +1,68 @@
+<string>
+<string>Red Orb
+<string>Green Orb
+<string>White Orb
+<string>Black Orb
+<string>Blue Orb Fragment
+<string>Blue Orb
+<string>Purple Orb Fragment
+<string>Purple Orb
+<string>Gold Orb
+<string>
+<string>
+<string>
+<string>
+<string>Nidhogg Hatchling
+<string>Goliath Shard
+<string>Artemis Orb
+<string>Geryon Splinter
+<string>Gilgamesh Plate
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>レッドオーブ
+<string>グリーンオーブ
+<string>ホワイトオーブ
+<string>
+<string>ブルーオーブの欠片
+<string>ブルーオーブ
+<string>パープルオーブの欠片
+<string>パープルオーブ
+<string>ゴールドオーブ
+<string>
+<string>ニーズヘッグベビー
+<string>ゴリアテの破片
+<string>アルテミスの破片
+<string>ゲリュオンの破片
+<string>ギルガメスの破片
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>レッドオーブ
+<string>グリーンオーブ
+<string>ホワイトオーブ
+<string>
+<string>ブルーオーブの欠片
+<string>ブルーオーブ
+<string>パープルオーブの欠片
+<string>パープルオーブ
+<string>ゴールドオーブ
+<string>
+<string>ニーズヘッグベビー

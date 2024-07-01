@@ -1,0 +1,3 @@
+<string>C'mon!
+<string>Started heat up!
+<string>Ok!...This may be fun.

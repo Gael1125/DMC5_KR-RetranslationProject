@@ -1,0 +1,53 @@
+<string>
+<string>BATTLE TRACKS
+<string>
+<string>Devil Trigger
+<string>Subhuman
+<string>Crimson Cloud
+<string>Public Enemy
+<string>Ultra Violet
+<string>Lock & Load
+<string>Fire Away
+<string>Wings of the Guardian
+<string>Shoot the Works
+<string>Battle-1
+<string>Vergil Battle-2
+<string>Devils Never Cry
+<string>The Time Has Come
+<string>Lock and Load -Blackened Angel mix-
+<string>Sworn Through Swords
+<string>Bury the Light
+<string>Vergil Battle-1
+<string>Beowulf Battle
+<string>Let's Just See
+<string>"DEVILS NEVER CRY" HR/HM Ver.
+<string>
+<string>Devil May Cry 5/Nero Combat Music
+<string>Devil May Cry 5/Dante Combat Music
+<string>Devil May Cry 5/V Combat Music
+<string>Devil May Cry/Dante Combat Music 1
+<string>Devil May Cry/Nelo Angelo Fight
+<string>Devil May Cry/Dante Combat Music 2
+<string>Devil May Cry 2/Dante Combat Music 1
+<string>Devil May Cry 2/Lucia Combat Music
+<string>Devil May Cry 2/Dante Combat Music 2
+<string>Devil May Cry 3/Dante Combat Music
+<string>Devil May Cry 3/Vergil Fight 2
+<string>Devil May Cry 3/Credits
+<string>Devil May Cry 4/Nero Combat Music
+<string>Devil May Cry 4/Dante Combat Music
+<string>Devil May Cry 4/Berial Fight
+<string>Devil May Cry 5 SE/Vergil Combat Music
+<string>Devil May Cry 3 SE/Vergil Combat Music
+<string>Devil May Cry 3/Beowulf Fight
+<string>Devil May Cry 4 SE/Vergil's Arrival to Fortuna
+<string>From the album "DEVIL MAY CRY" HR/HM Ver.
+<string>
+<string>Sample, purchase, and set battle music for Nero.
+<string>Sample, purchase, and set battle music for Dante.
+<string>Sample, purchase, and set battle music for V.
+<string>Sample, purchase, and set battle music for Vergil. 
+<string>
+<string>
+<string>
+<string>

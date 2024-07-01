@@ -1,0 +1,18 @@
+<string>
+<string>ITEM REPORTS
+<string>
+<string><item id="0">
+<string><item id="1">
+<string><item id="2">
+<string><item id="4">
+<string><item id="5">
+<string><item id="6">
+<string><item id="7">
+<string><item id="8">
+<string><item id="13">
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>View information about this item: "{0}"

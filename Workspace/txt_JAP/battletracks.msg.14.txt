@@ -1,0 +1,53 @@
+<string>
+<string>BATTLE TRACKS
+<string>
+<string>Devil Trigger
+<string>Subhuman
+<string>Crimson Cloud
+<string>PUBLIC ENEMY
+<string>ULTRA VIOLET
+<string>LOCK&LOAD
+<string>FIRE AWAY
+<string>WINGS OF THE GUARDIAN
+<string>SHOOT THE WORKS
+<string>BATTLE-1
+<string>VERGIL BATTLE-2
+<string>“DEVILS NEVER CRY”
+<string>The Time Has Come
+<string>Lock and Load -Blackened Angel mix-
+<string>Sworn Through Swords
+<string>Bury the Light
+<string>BATTLE-1(VERGIL)
+<string>Beowulf Battle
+<string>Let's Just See
+<string>"DEVILS NEVER CRY" HR/HM Ver.
+<string>
+<string>Devil May Cry5 / ネロ汎用戦闘曲
+<string>Devil May Cry5 / ダンテ汎用戦闘曲
+<string>Devil May Cry5 / V汎用戦闘曲
+<string>Devil May Cry / ダンテ汎用戦闘曲1
+<string>Devil May Cry / ネロアンジェロ戦
+<string>Devil May Cry / ダンテ汎用戦闘曲2
+<string>Devil May Cry2 / ダンテ汎用戦闘曲1
+<string>Devil May Cry2 / ルシア汎用戦闘曲
+<string>Devil May Cry2 / ダンテ汎用戦闘曲2
+<string>Devil May Cry3 / ダンテ汎用戦闘曲
+<string>Devil May Cry3 / バージル戦2
+<string>Devil May Cry3 / スタッフロール
+<string>Devil May Cry4 / ネロ汎用戦闘曲
+<string>Devil May Cry4 / ダンテ汎用戦闘曲
+<string>Devil May Cry4 / べリアル戦
+<string>Devil May Cry5 Special Edition / バージル汎用戦闘曲
+<string>Devil May Cry3 Special Edition / バージル汎用戦闘曲
+<string>Devil May Cry3 / ベオウルフ戦
+<string>Devil May Cry4 Special Edition / バージルゲーム オープニング「フォルトゥナ」
+<string>「DEVIL MAY CRY HR/HM ARRANGE」より
+<string>
+<string>ネロの戦闘曲の試聴、購入、設定を行います
+<string>ダンテの戦闘曲の試聴、購入、設定を行います
+<string>Vの戦闘曲の試聴、購入、設定を行います
+<string>バージルの戦闘曲の試聴、購入、設定を行います
+<string>
+<string>
+<string>
+<string>

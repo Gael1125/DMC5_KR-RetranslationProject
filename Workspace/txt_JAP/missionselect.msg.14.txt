@@ -1,0 +1,26 @@
+<string>
+<string>MISSION SELECT
+<string>
+<string>HUMAN
+<string>DEVIL HUNTER
+<string>SON OF SPARDA
+<string>DANTE MUST DIE
+<string>HEAVEN OR HELL
+<string>HELL AND HELL
+<string>
+<string>開始
+<string>
+<string>RECORD:
+<string>SCORE
+<string>RANK
+<string>
+<string>GAME MODE
+<string>LINK MISSION
+<string>
+<string>デビルメイクライシリーズ未経験者に<lf>オススメのモードです
+<string>過去にデビルメイクライシリーズをプレイ<lf>したことのある方にオススメのモードです
+<string>スタイリッシュプレイが要求される<lf>モードです
+<string>上級者向けの最難度モードです
+<string>一撃の駆け引きで生死が決まる<lf>スリリングなモードです
+<string>一度でもダメージを受ければ死んでしまう<lf>苛酷なモードです
+<string>プレイするミッションを選択してください

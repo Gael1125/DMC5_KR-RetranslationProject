@@ -1,0 +1,36 @@
+<string>
+<string>버튼
+<string>BUTTON
+<string>Button
+<string>PlayStation™Store
+<string>□
+<string>△
+<string>R1
+<string>R2
+<string>
+<string>버튼
+<string>BUTTON
+<string>Button
+<string>Microsoft Store
+<string>X
+<string>Y
+<string>RB
+<string>RT
+<string>
+<string>버튼
+<string>BUTTON
+<string>Button
+<string>상점
+<string>X
+<string>Y
+<string>RB
+<string>RT
+<string>
+<string>버튼
+<string>BUTTON
+<string>Button
+<string>Microsoft Store
+<string>X
+<string>Y
+<string>RB
+<string>RT

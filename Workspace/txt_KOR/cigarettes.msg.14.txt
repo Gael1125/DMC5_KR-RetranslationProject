@@ -1,0 +1,7 @@
+<string>
+<string>Smoking is harmful to you and those around you.
+<string>This game does not promote smoking or the use of cigarettes.
+<string>
+<string>
+<string>"흡연은 자신은 물론 주변 사람에게도 피해를 줍니다."
+<string>"이 게임은 흡연 또는 담배 사용을 권장하지 않습니다."

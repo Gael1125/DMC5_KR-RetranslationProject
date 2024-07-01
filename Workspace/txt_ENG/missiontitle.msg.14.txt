@@ -1,0 +1,47 @@
+<string><SIZE 180>P</SIZE>ROLOGUE
+<string><SIZE 180>M</SIZE>ISSION
+<string>PROLOGUE
+<string>MISSION 
+<string>MISSION 20
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>NERO
+<string>QLIPHOTH
+<string>FLYING HUNTER
+<string>V
+<string>THE DEVIL SWORD SPARDA
+<string>STEEL IMPACT
+<string>UNITED FRONT
+<string>DEMON KING
+<string>GENESIS
+<string>AWAKEN
+<string>REASON
+<string>YAMATO
+<string>THREE WARRIORS
+<string>DIVERGING POINT: V
+<string>DIVERGING POINT: NERO
+<string>DIVERGING POINT: DANTE
+<string>BROTHERS
+<string>AWAKENING
+<string>VERGIL
+<string>TRUE POWER

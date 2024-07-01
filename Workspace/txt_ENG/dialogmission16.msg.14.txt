@@ -1,0 +1,33 @@
+<string>
+<string>All right... This is the real deal.
+<string>Full speed ahead!
+<string>No time to screw around.
+<string>Good, enough power... Time to go full throttle!
+<string>Looks like they're both holding their own...
+<string>Hopefully they can catch up.
+<string>Onward and...downward. Oh well, better get to it.
+<string>
+<string>Huh, you're a bit tougher than the rest of your breed.
+<string>Fear me! Fear my flames!
+<string>
+<string>You again? Jeez, cool off, hothead...
+<string>My flames will be your end! Nothing else!
+<string>
+<string>Oh, that's nice. Things were getting a little toasty here.
+<string>Then I'll freeze you down to your very soul!
+<string>
+<string>I've seen these moves before...<lf>You haven't shat out any puppies, have ya?
+<string>Do not mock me! Others of my kind cannot compare!
+<string>
+<string>This fight's a real shocker!<lf>You holding up okay there, pup?
+<string>Not bad... But I'll be even better once you die!
+<string>
+<string>Ahh, turning tail? C'mere,<lf>I've got a bone for ya! Here, boy!
+<string>Such petty taunts... I am not so easy to deceive!
+<string>
+<string>Even Berial stands powerless before my flames!
+<string>Ice and lightning are nothing compared to flame!
+<string>A petty demon like Bael is nothing before me...
+<string>The power of ice reigns supreme!
+<string>Taste the most powerful lightning in all of Hell!
+<string>Fire and ice are mere child's play!

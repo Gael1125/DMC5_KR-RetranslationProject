@@ -1,0 +1,38 @@
+<string>
+<string>자, 새 팔을 좀 보라고!!
+<string>여기 신상 무기가 있어!
+<string>자, 최신형 무기 팝니다!
+<string>
+<string>이런 걸작이...! 내 작품이야!
+<string>새로운 물건을 준비했어.<lf>한번 둘러 봐.
+<string>정말 힘들게 만들었다고!
+<string>
+<string>여기.
+<string>손님!
+<string>자, 여기.
+<string>어서 와.
+<string>손님!
+<string>안녕!
+<string>구경해.
+<string>보고 가.
+<string>저기.
+<string>어서 와.
+<string>그냥 구경만 하려고?
+<string>미리 챙겨둬서 나쁠 거 없지!
+<string>
+<string>맘에 드는 거 있어?
+<string>값이 꽤 나가니까 잘 고르라고.
+<string>새 팔을 착용해 볼래?
+<string>
+<string>훌륭한 선택이야!
+<string>오, 잘 골랐는데!
+<string>보는 눈이 있네!
+<string>또 필요한 거 없어?
+<string>잘 관리하라고.
+<string>
+<string>최고를 원해?
+<string>제대로 찾아왔네.
+<string>파스타 좋아하지?
+<string>이거 한번 써 봐.
+<string>여기. 가려운 곳 긁기 딱이지.
+<string>키리에가 좋아할 걸! 무슨 말인지 알지?

@@ -1,0 +1,16 @@
+<string>
+<string>GALLERY
+<string>
+<string>NICO'S REPORTS
+<string>LIBRARY
+<string>ART
+<string>STORY
+<string>JUKEBOX
+<string>
+<string>Read up on information compiled by Nico.
+<string>View information collected in-game.
+<string>View weapon blueprints and other artwork.
+<string>View videos related to the story.
+<string>Browse music and check sound settings.
+<string>
+<string>???

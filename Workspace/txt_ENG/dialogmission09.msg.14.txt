@@ -1,0 +1,39 @@
+<string>
+<string>It's coming from the Qliphoth's root.
+<string>Hey, you lost? Get it together, buddy!
+<string>Oh no, oh no! What do we do, V!?
+<string>I think you better split! You can't take much more!
+<string>I've got a bad feeling about this place...<lf>But I think it might get us where we need to go.
+<string>Almost there... You gonna make it, V?
+<string>Hey look, V, a phone! Check and see if it still works!
+<string>Impressive.
+<string>This presence...it's the devil sword Sparda!<lf>No doubt about it.
+<string>Awwww you miss your mommy? You need a hug?
+<string>I've never seen him before...<lf>What's with all the S&M gear?
+<string>If we had the devil sword Sparda...<lf>Nero might just be able to defeat him.
+<string>Do you think Dante's dead?
+<string>Quite possibly. He has no reason to keep Dante alive.
+<string>You're awfully quiet, V. Thinking about mommy dearest?
+<string>I'd be lying if I said I wasn't.<lf>But the past is...a bitter place for me.
+<string>Yeeaaaah! That felt good!
+<string>Descend it is...
+<string>
+<string>Its mask changed...?
+<string>So that's your tactic? I'll be sure to watch out for that.
+<string>
+<string>Ugh, what's with that creepy dance!?<lf>I'm losing the will to fly...
+<string>It's an eyesore. I'd rather not see it a second time.
+<string>Agreed! Finish 'em off before they can bust any more moves!
+<string>
+<string>It's my turn to play with the devil sword.
+<string>Dev—! De, de, devvvvvv!
+<string>Well, that pissed it off. Eww, still creepy.
+<string>
+<string>
+<string>All right, Missy, you're up!
+<string>Keep squawking, little chickee.
+<string>
+<string>
+<string>What's the password?
+<string>Hell if I know! Just get over here!
+<string>

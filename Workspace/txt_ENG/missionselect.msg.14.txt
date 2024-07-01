@@ -1,0 +1,26 @@
+<string>
+<string>MISSION SELECT
+<string>
+<string>HUMAN
+<string>DEVIL HUNTER
+<string>SON OF SPARDA
+<string>DANTE MUST DIE
+<string>HEAVEN OR HELL
+<string>HELL AND HELL
+<string>
+<string>Start
+<string>
+<string>RECORD:
+<string>SCORE
+<string>RANK
+<string>
+<string>GAME MODE
+<string>LINK MISSION
+<string>
+<string>A mode recommended for new Devil May Cry<lf>players.
+<string>A mode for veterans of the Devil May Cry<lf>series.
+<string>You'll have to be stylish to survive<lf>this mode.
+<string>Extreme difficulty only for the best of the best.
+<string>A thrilling mode where a single hit<lf>means death.
+<string>A single hit spells your doom in this<lf>hellish mode.
+<string>Select a mission to play.

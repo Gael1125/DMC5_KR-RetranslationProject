@@ -1,0 +1,44 @@
+<string>
+<string>NERO
+<string>DANTE
+<string>V
+<string>VERGIL
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Nero
+<string>Dante
+<string>V
+<string>Vergil
+<string>Common
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>The Devil Hunter
+<string>The Legendary Devil Hunter
+<string>The Mysterious One
+<string>The Alpha and the Omega
+<string>The Alpha and the Omega
+<string>The Legendary Devil Hunter
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>The Alpha and the Omega
+<string>
+<string>
+<string>
+<string>
+<string>

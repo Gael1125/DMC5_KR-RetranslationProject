@@ -1,0 +1,25 @@
+<string>
+<string>Loading.
+<string>Load successful.
+<string>The saved data appears to be corrupted<lf>and could not be loaded.
+<string>Failed to load saved data.
+<string>Creating saved data.
+<string>Cancel saved data creation?
+<string>Checking saved data.<lf>Do not turn off the system.
+<string>Checking saved data.<lf>Do not turn off the console.
+<string>Save successful.
+<string>Failed to save game.
+<string>Failed to save game.<lf>Try saving again?
+<string>Saving.<lf>Do not turn off the system.
+<string>Saving.<lf>Do not turn off the console.
+<string>Overwrite saved data?
+<string>Delete this saved data and create new saved data?
+<string>Delete corrupted saved data and create new saved data?
+<string>Saved data is corrupted.
+<string>Saved data deleted.
+<string>Start the game without creating saved data?
+<string>The game will not be saved because there is no saved data.
+<string>No save data exists.<lf>You must create new save data to save your game.<lf><lf>(You cannot start the game without save data.)
+<string>
+<string>SYSTEM DATA
+<string>NETWORK DATA

@@ -1,0 +1,14 @@
+<string>
+<string>NEW GAME
+<string>INFORMATION
+<string>We recommend setting your display to Game Mode.
+<string>
+<string>NEW GAME OPTIONS
+<string>GAME MODE
+<string>Finish and continue
+<string>Change the game mode.
+<string>Save settings and start the game?
+<string>HUMAN
+<string>DEVIL HUNTER
+<string>A mode recommended for new<lf>Devil May Cry players.
+<string>A mode for veterans of the<lf>Devil May Cry series.

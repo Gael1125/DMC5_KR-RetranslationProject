@@ -1,0 +1,6 @@
+<string>
+<string>プレイ中
+<string>ストーリーモードプレイ中
+<string>ブラッディパレスプレイ中
+<string>ギャラリー鑑賞中
+<string>練習中

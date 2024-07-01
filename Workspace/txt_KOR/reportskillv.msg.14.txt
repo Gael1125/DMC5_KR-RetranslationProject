@@ -1,0 +1,140 @@
+<string>
+<string><ICON ACT_LS> 기울이기
+<string><ICON ACT_RS> 기울이기
+<string><ICON ACT_RB> 누르고 홀드
+<string>땅에서 <ICON ACT_BtnD> 누르기
+<string>점프 중에 벽과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string>공중에서 적과 가까울 때<lf><ICON ACT_BtnD> 누르기
+<string><ICON ACT_CenL> 누르기
+<string>자동
+<string>
+<string>자동
+<string>자동
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 누르고 홀드
+<string><ICON ACT_LStP>+<ICON ACT_CenL> 연타
+<string>
+<string><ICON ACT_BtnR> 누르기
+<string><ICON ACT_RB>+<ICON ACT_BtnR> 누르기
+<string>체크메이트로 적을 해치우는 순간<lf><ICON ACT_BtnR> 누르기
+<string><ICON ACT_RT> 누르고 홀드
+<string><ICON ACT_LB> 누르기
+<string>자동
+<string>나이트메어 활성: 타려면 <ICON ACT_LB>+<ICON ACT_BtnR> 누르기,<lf>또는 나이트메어 근처 공중에서 <ICON ACT_BtnD> 누르기<lf>내리려면 공중에서 <ICON ACT_LB>+<ICON ACT_BtnD> 또는 <ICON ACT_BtnD> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로+<ICON ACT_BtnD> 누르기
+<string>점프 중에 <ICON ACT_BtnD> 누르기<lf>잠깐 활공하려면 <ICON ACT_BtnD> 홀드
+<string>
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 가로 방향 +<ICON ACT_BtnD> 누르기
+<string>같은 방향으로 <ICON ACT_LS> 계속 홀드
+<string><ICON ACT_RB>+ <ICON ACT_LS> 한 번 회전 +<ICON ACT_BtnR> 누르기
+<string><ICON ACT_LT>+<ICON ACT_BtnL> 또는 <ICON ACT_BtnU> 누르기<lf>(DT 게이지 1칸 사용)
+<string>
+<string><ICON ACT_BtnL> 누르기
+<string><ICON ACT_BtnL> 홀드 후 놓기
+<string><ICON ACT_BtnL> 더 길게 홀드 후 놓기
+<string><ICON ACT_BtnL> 최대한 길게 홀드 후 놓기
+<string><ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnL> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 +<ICON ACT_BtnL> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 누르기 +<lf><ICON ACT_BtnL> 홀드 후 놓기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로 누르기 +<lf><ICON ACT_BtnL> 길게 홀드 후 <ICON ACT_BtnL> 놓기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<ICON ACT_BtnL> 누르기
+<string><ICON ACT_RB>+<ICON ACT_LS><lf>뒤로 누르고<lf><ICON ACT_BtnL> 홀드 후 놓기
+<string><ICON ACT_RB>+<ICON ACT_LS> 뒤로 +<lf><ICON ACT_BtnL> 길게 홀드 후 <ICON ACT_BtnL> 놓기
+<string>자동
+<string>자동
+<string>자동
+<string>
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU> 누른 다음, <ICON ACT_BtnU><ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_BtnU><ICON ACT_BtnU> 누른 다음 <ICON ACT_BtnU> 연타
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로<lf>+<ICON ACT_BtnU> 누르기
+<string>
+<string>땅에서 <ICON ACT_BtnU> 홀드 후 놓기
+<string>땅에서 <ICON ACT_BtnU> 누르고 홀드
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤로<lf>+<ICON ACT_BtnU> 누르기
+<string>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서<lf>앞으로 +<ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_BtnU> 누르기
+<string>공중에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 또는 뒤로 +<ICON ACT_BtnU> 누르기
+<string>
+<string>자동
+<string>자동
+<string>자동
+<string>땅에서 쉐도우가 적 근처에<lf>나타납니다
+<string>
+<string>프로모션 중:<lf>땅에서 <ICON ACT_BtnR><ICON ACT_BtnR><ICON ACT_BtnR> 누르기
+<string>프로모션 중:<lf>땅에서 <ICON ACT_BtnR><ICON ACT_BtnR> 누른 다음 <ICON ACT_BtnR> 연타
+<string>일리걸 무브 중 <ICON ACT_BtnR> 홀드
+<string>프로모션 중:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 앞으로 +<ICON ACT_BtnR> 누르기
+<string>스트롱포인트 활성화 후<lf><ICON ACT_BtnR> 누르고 홀드
+<string>프로모션 중:<lf>공중에서 <ICON ACT_BtnR> 누르기
+<string>프로모션 중:<lf>땅에서 <ICON ACT_RB>+<ICON ACT_LS> 뒤에서 앞으로<lf>(또는 앞으로 두 번) 누르기
+<string>프로모션 중:<lf>땅에서 <ICON ACT_BtnL>+<ICON ACT_BtnU>+<ICON ACT_BtnR> 누르고 홀드
+<string>
+<string><skill player="v" id="101"><lf><lf><ICON ACT_LS>을 기울이면 캐릭터가 그 방향으로 <lf>움직입니다. 크게 기울이면 빨리 움직입니다.
+<string><skill player="v" id="102"><lf><lf>카메라를 움직여 주변을 봅니다. <lf><ICON ACT_RStP>을 누르면 캐릭터 뒤에서 보는<lf>기본값으로 돌아갑니다. 
+<string><skill player="v" id="103"><lf><lf>적과 특정 물체에 록온합니다.<lf><ICON ACT_RB>를 홀드하면 공격하고, <lf><ICON ACT_LStP>을 누르면 록온 타겟이 <lf>변경됩니다.
+<string><skill player="v" id="104"><lf><lf>공중으로 점프합니다. 점프 높이는<lf><ICON ACT_BtnD>을 누르는 시간에 따라 달라집니다.
+<string><skill player="v" id="105"><lf><lf>벽을 박차면서 한 번 더 점프합니다.
+<string><skill player="v" id="106"><lf><lf>공중에서 적을 발판 삼아<lf>이중 점프를 합니다.
+<string><skill player="v" id="107"><lf><lf>땅이나 공중에서 적을 다양하게<lf>도발합니다. 도발 종류는<lf>현재의 스타일리시<lf>랭크에 따라 달라집니다.
+<string><skill player="v" id="108"><lf><lf>오브를 수집할 수 있는<lf>범위가 증가합니다.
+<string>
+<string><skill player="v" id="110"><lf><lf>나이트메어가 활성 상태일 때에는<lf>적에게서 그린 오브를<lf>획득할 확률이 증가합니다.
+<string><skill player="v" id="111"><lf><lf>나이트메어가 활성 상태일 때에는<lf>적에게서 화이트 오브를<lf>획득할 확률이 증가합니다.
+<string><skill player="v" id="112"><lf><lf>큰 값을 치른 자에게만 주어지는<lf>특수 도발입니다. 일반 도발보다<lf>스타일리시 랭크가 많이 증가합니다.
+<string><skill player="v" id="113"><lf><lf>블러디 팰리스에서 용맹하게 싸워 <lf>승리한 자에게만 주어지는 특수 <lf>도발입니다. 에너지를 지팡이에 <lf>집중시켜 휘두릅니다.
+<string>
+<string><skill player="v" id="116"><lf><lf>죽어가는 적을 끝냅니다.
+<string><skill player="v" id="117"><lf><lf>순간 이동 기술입니다. 타겟에<lf>지팡이를 던지면 그 옆에 나타납니다.<lf>죽어가는 적에게 이동해 즉시<lf>죽일 수 있습니다.
+<string><skill player="v" id="118"><lf><lf>앞에 있는 적을 끝내는 순간<lf>다음 타겟으로 순간 이동합니다.
+<string><skill player="v" id="119"><lf><lf>전투 중 집중해서 DT 게이지를 채웁니다.<lf>계속 힘을 모으려면 <ICON ACT_RT>을 홀드합니다.
+<string><skill player="v" id="120"><lf><lf>악마의 힘을 써서 마계의 야수,<lf>나이트메어를 소환합니다.<lf>나이트메어는 자동으로 적을 공격하고,<lf>활성 상태인 동안 DT 게이지를 소모합니다.<lf>나이트메어가 활성 상태인 동안<lf>방어력이 증가합니다.
+<string><skill player="v" id="121"><lf><lf>나이트메어가 활성 상태인 동안에는<lf>DT 게이지가 서서히 소모됩니다.
+<string><skill player="v" id="122"><lf><lf>악마 야수, 나이트메어에 올라탑니다.
+<string><skill player="v" id="123"><lf><lf>그리폰을 붙잡고 뒤로 물러섭니다.<lf>그리폰이 잠에 빠져 싸울 수<lf>없을 때는 발동되지 않습니다.
+<string><skill player="v" id="124"><lf><lf>그리폰을 붙잡고 더 높이 점프합니다.<lf>그리폰이 잠에 빠지면 발동되지<lf>않습니다. 그리폰을 계속 붙잡고 있으면<lf>천천히 땅으로 내려옵니다.
+<string>
+<string><skill player="v" id="126"><lf><lf>쉐도우의 민첩함을 빌려 모든<lf>방향의 적 공격을 잽싸게 피합니다.<lf>쉐도우가 잠에 빠져 싸울 수<lf>없을 때는 발동되지 않습니다.
+<string><skill player="v" id="127"><lf><lf>쉐도우의 민첩함을 빌려 빠르게<lf>움직입니다. 전투 중이거나<lf>쉐도우가 잠에 빠져<lf>싸울 수 없을 때는 발동되지 않습니다.
+<string><skill player="v" id="128"><lf><lf>공중에서 악마의 지팡이가 쏟아지며,<lf>범위 내 죽어가는 모든 적을 한 번에<lf>해치웁니다. DT 게이지를 소모합니다.
+<string><skill player="v" id="129"><lf><lf>DT 게이지 1칸을 소모해<lf>그리폰과 쉐도우가 적을<lf>자동으로 공격하게 합니다. 이 시간<lf>동안에는 둘의 공격력이 증가하고<lf>명령을 다시 입력하면<lf>이 상태를 더 오래 유지할 수 있습니다.
+<string>
+<string><skill player="v" id="141"><lf><lf>그리폰의 입에서<lf>번개구를 발사합니다.
+<string><skill player="v" id="142"><lf><lf>그리폰의 힘을 이용해 적에게<lf>지옥의 번개 기둥을 발사합니다.
+<string><skill player="v" id="143"><lf><lf>블로케이드를 강화해 한 번에<lf>번개 기둥 세 개를 소환합니다.
+<string><skill player="v" id="144"><lf><lf>가장 강한 블로케이드로,<lf>전장에 번개 기둥 다섯 개를<lf>소환합니다.
+<string><skill player="v" id="145"><lf><lf>그리폰이 적에게 돌진해<lf>공중으로 날려버립니다.
+<string><skill player="v" id="146"><lf><lf>그리폰의 힘을 사용해 전기<lf>충격으로 적을 강타합니다.
+<string><skill player="v" id="147"><lf><lf>더블 체크의 파워를 올려 전기<lf>충격을 연속으로 두 번 쏩니다.
+<string><skill player="v" id="148"><lf><lf>가장 강력한 더블 체크로 전기 충격을<lf>연속 세 번 발사합니다.
+<string><skill player="v" id="149"><lf><lf>그리폰을 V 옆으로 이동시켜 광역에<lf>전기 충격을 내려칩니다.
+<string><skill player="v" id="150"><lf><lf>라운드 로빈이 강화되어 광역으로<lf>더 많은 번개를 퍼붓습니다.
+<string><skill player="v" id="151"><lf><lf>가장 강한 라운드 로빈으로,<lf>더 많은 전기 충격을 쏟아 붓습니다.
+<string><skill player="v" id="152"><lf><lf>그리폰의 방어력이 증가해<lf>잠에 빠지기까지 더 많은 공격을<lf>받아냅니다.
+<string><skill player="v" id="153"><lf><lf>그리폰의 방어력이 더 크게 증가합니다.
+<string><skill player="v" id="154"><lf><lf>잠에 빠진 그리폰이 회복하는 데<lf>필요한 시간이 감소합니다.
+<string>
+<string><skill player="v" id="161"><lf><lf>쉐도우의 발톱 공격 이후<lf>연속 촉수 공격이 이어집니다.<lf>공중 타겟에게는 자동으로<lf>공중 공격을 가합니다.
+<string><skill player="v" id="162"><lf><lf>쉐도우의 추가 콤보가 발동해,<lf>꼬리를 휘둘러 적을 날려버리고<lf>거대한 송곳니로 찢어버립니다.
+<string><skill player="v" id="163"><lf><lf>쉐도우의 발톱 공격에 이어지는 콤보로,<lf>목이 채찍으로 변해 가까이 있는 적을<lf>힘껏 후려칩니다.
+<string><skill player="v" id="164"><lf><lf>쉐도우가 땅을 뚫고 앞으로<lf>돌진하면서 촉수로 공격합니다.
+<string>
+<string><skill player="v" id="166"><lf><lf>쉐도우가 스파이크로 변신해<lf>모든 방향으로 공격합니다.
+<string><skill player="v" id="167"><lf><lf>헤지호그가 강화되어 <lf>쉐도우 뒤쪽 땅에서 가시들이 방출됩니다.
+<string><skill player="v" id="168"><lf><lf>쉐도우의 꼬리가 도끼로 변해<lf>적을 날려버립니다.<lf><ICON ACT_BtnU>을 홀드하면 쉐도우가 적을 <lf>공중으로 쫓아갑니다. 
+<string><skill player="v" id="169"><lf><lf>쉐도우의 머리가 가시로 변해<lf>적을 찌릅니다. V가 공격 중인<lf>가시에 올라탈 수도 있습니다.
+<string><skill player="v" id="170"><lf><lf>쉐도우의 온몸이 회전하는 칼날로 변해 <lf>회전 공격으로 적을 강타합니다.
+<string><skill player="v" id="171"><lf><lf>쉐도우의 몸이 변하는 회전 돌진 공격입니다. <lf>다이빙 돌진은 <ICON ACT_RB>+<ICON ACT_LS> 앞으로,<lf>드롭 공격은 <ICON ACT_RB>+<ICON ACT_LS> 뒤로 누르기입니다.
+<string>
+<string><skill player="v" id="173"><lf><lf>쉐도우의 방어력이 증가해<lf>잠에 빠지기까지 더 많은 공격을<lf>받아냅니다.
+<string><skill player="v" id="174"><lf><lf>쉐도우의 방어력이 더 크게 증가합니다.
+<string><skill player="v" id="175"><lf><lf>잠에 빠진 쉐도우가 회복하는 데<lf>필요한 시간이 감소합니다.
+<string><skill player="v" id="176"><lf><lf>쉐도우가 톱니 모습으로<lf>땅에서 튀어나와 적을 공격합니다.
+<string>
+<string><skill player="v" id="181"><lf><lf>나이트메어가 적에게<lf>무자비한 펀치를 쏟아붓습니다.
+<string><skill player="v" id="182"><lf><lf>나이트메어의 새 콤보로, 강력한<lf>주먹을 광역으로 퍼붓습니다.
+<string><skill player="v" id="183"><lf><lf>나이트메어가 직선으로<lf>레이저를 발사합니다.<lf><ICON ACT_LS>으로 각도를 조금 조절할 수 있습니다.
+<string><skill player="v" id="184"><lf><lf>나이트메어의 광역 레이저가<lf>넓게 퍼지면서 적을 태워버립니다.
+<string><skill player="v" id="185"><lf><lf>나이트메어가 땅에서 하늘로<lf>레이저를 넓게 발사합니다.
+<string><skill player="v" id="186"><lf><lf>나이트메어가 두 주먹으로<lf>땅을 강하게 내려칩니다.
+<string><skill player="v" id="187"><lf><lf>나이트메어가 즉시 타겟을 향해<lf>움직입니다.
+<string><skill player="v" id="188"><lf><lf>전력을 다해 범위 내 모든 적을 말살합니다.<lf>DT 게이지를 모두 소모합니다. <lf>악마 동료가 하나라도 잠에 빠지면 <lf>발동할 수 없습니다.

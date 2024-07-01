@@ -1,0 +1,65 @@
+<string>
+<string>PAUSE MENU
+<string>CONTINUE
+<string>CHECKPOINT
+<string>RETRY MISSION
+<string>QUIT MISSION
+<string>TUTORIAL
+<string>SKILL LIST
+<string>PHOTO MODE
+<string>OPTIONS
+<string>EXIT
+<string>
+<string>게임으로 돌아갑니다.
+<string>최근 체크포인트에서 다시 시작합니다.
+<string>미션 시작 지점에서 다시 시작합니다.
+<string>메인 메뉴로 돌아갑니다.
+<string>이전에 본 튜토리얼을 확인합니다.
+<string>스킬 목록을 확인합니다.
+<string>화면촬영을 보조하는 사진 모드를 켭니다.
+<string>다양한 설정을 조정합니다.
+<string>타이틀 화면으로 돌아갑니다.
+<string>비밀 미션을 종료합니다.
+<string>
+<string>
+<string>도발
+<string>일시 중지
+<string>카메라
+<string>카메라 재설정
+<string>이동
+<string>록온 변경
+<string>(사용하지 않음)
+<string>
+<string>근접 공격
+<string>건 어택
+<string>데빌 브레이커
+<string>점프
+<string>록온
+<string>데빌 브링어
+<string>브레이크 어웨이
+<string>익시드
+<string>데빌 트리거
+<string>
+<string>근접 공격
+<string>건 어택
+<string>스타일 액션
+<string>점프
+<string>록온
+<string>근접 무기 변경
+<string>데빌 트리거
+<string>건 변경
+<string>트릭스터
+<string>건슬링어
+<string>소드마스터
+<string>로얄가드
+<string>
+<string>쉐도우 공격
+<string>그리폰 공격
+<string>최후의 일격
+<string>점프
+<string>록온
+<string>DT 게이지 충전
+<string>나이트메어
+<string>데빌 트리거
+<string>
+<string>SECRET MISSIONS

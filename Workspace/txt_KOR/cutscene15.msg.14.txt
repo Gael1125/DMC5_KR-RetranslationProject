@@ -1,0 +1,33 @@
+<string>
+<string>제길, 얼마 못 버티겠네...
+<string>이대로는 오래 못 가겠어.
+<string>
+<string>안녕, 자기. 도와줄까?
+<string>미쳤어?<lf>누굴 치어 죽이려고!?
+<string>성질 낼거면 레이디한테 해.<lf>이번엔 걔가 운전했으니까.
+<string>
+<string>좋아, 말싸움은 됐고. 필요한 게 뭐야?
+<string>
+<string>
+<string>어디 있을까...
+<string>한눈 팔지 마, 자기.
+<string>스파다의 혈육... 하지만 넌<lf>힘없는 빈 껍데기일 뿐이다.
+<string>아무리 강해 봤자 인간이겠지.
+<string>이봐, 인간은 보기보다 강하다고.
+<string>뭐... 확인할 방법은 하나뿐이겠지.
+<string>재미있겠어.
+<string>
+<string>
+<string>어떻게 그런 힘이 남아있는 거지?
+<string>이제 나와도 돼!
+<string>신세를 졌군.
+<string>넌 돌아가.<lf>그 몸으로는 오래 못 버텨.
+<string>아니, 안 돼. 가야 해!
+<string>젠장, V.
+<string>무리하지 마. 넌 쉬어야 한다고!
+<string>가야 해... 유리즌이 있는 곳으로.
+<string>왜!? 대체 왜 그렇게...
+<string>제발!
+<string>내 마지막 부탁이야.
+<string>알겠어.
+<string>도착하면 단테가 난리 치겠군...

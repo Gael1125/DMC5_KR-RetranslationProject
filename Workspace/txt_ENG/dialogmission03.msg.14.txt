@@ -1,0 +1,36 @@
+<string>
+<string>So this Qliphoth... Screw it.<lf>We're taking that fucking thing down.
+<string>Use the wire hook to your advantage,<lf>unless you wanna stretch your arm out.
+<string>
+<string>Think I'll handle the closer one first.<lf>Gotta start somewhere...
+<string>V... That bastard wrecked the bridge.
+<string>Using demons to kill demons... What the hell is he?
+<string>Not bad!
+<string>Oh great, now the roots are in my way.
+<string>These roots have to be coming from somewhere...
+<string>Bingo!
+<string>You want me to follow you? No way, asshole.<lf>You bring that shit to me.
+<string>This demon... Something different about it...
+<string>Kyrie... I wonder what she's up to...
+<string>
+<string>Without strength, you can't protect anything....<lf>I know that.
+<string>Whoa! Seriously!?
+<string>A phone... Lemme give Nico a call.
+<string>
+<string>Hey! Don't you, uh, need those? 
+<string>
+<string>
+<string>
+<string>This doesn't look good... I need to stop her!
+<string>
+<string>
+<string>Your voice is SO annoying! How about I shut you up?
+<string>
+<string>You're up, Nico.
+<string>You know I got you covered, asshole.
+<string>
+<string>I'm starving. Bring me a pizza?
+<string>Only if you tip big.
+<string>
+<string>Hey, get your butt in gear.
+<string>Way ahead of ya.

@@ -1,0 +1,36 @@
+<string>
+<string>クリフォトね…<lf>要はブッタ斬りゃいいんだろ？
+<string>ワイヤーフックをうまく使え<lf>手を伸ばすよりは楽だろ？
+<string>
+<string>近い方から片付けるか。<lf>目障りな観葉植物だ…
+<string><RUBY><RB>V</RB><RT>ブイ</RT></RUBY>め…橋をブッ壊しやがって
+<string>悪魔を使って悪魔を倒してやがる…<lf>何者だ、アイツ？
+<string>ハハッ！　やるな！
+<string>根っこが通せんぼしてやがる…
+<string>この根を枯らすには…<lf>どっかに大元があるはずだな
+<string>…ビンゴ！
+<string>俺を誘ってんのか？<lf>てめェが来いよ、クソ悪魔！
+<string>この悪魔…<lf>他のヤツとは気配が違う…！
+<string>キリエのやつ…今頃どうしてるかな
+<string>
+<string>力がなきゃ何も守れねェ<lf>分かってるさ、そんな事は…
+<string>おいおい…マジかよ！
+<string>電話か…ニコに繋がるかな
+<string>
+<string>おいおい！そこ、大事な場所だろ？いいのかよ？
+<string>
+<string>
+<string>
+<string>デカいのが来そうだな…！その前に叩き落す！
+<string>
+<string>
+<string>その声、カンに障るんだよ。そろそろ黙って貰えるか？
+<string>
+<string>早く来いよ
+<string>もう来てるさ
+<string>
+<string>腹ペコだ ピザ１枚
+<string>チップ弾めよ
+<string>
+<string>急ぎで頼むぜ
+<string>満足か？

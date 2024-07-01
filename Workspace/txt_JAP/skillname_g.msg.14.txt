@@ -1,0 +1,201 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>PROVOCATION
+<string>SIDE ROLL
+<string>KICK JUMP
+<string>SPEED
+<string>ENEMY STEP
+<string>BLOCK
+<string>GET MORE ORBS
+<string>TRIGGER HEART
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>DOPPLEGANGER
+<string>AIR TRICK
+<string>GRIM TRICK
+<string>TRICK UP
+<string>TRICK DODGE
+<string>TRICK DOWN
+<string>YAMATO COMBO A
+<string>YAMATO COMBO B
+<string>YAMATO COMBO C
+<string>AERIAL RAVE A
+<string>AERIAL RAVE B
+<string>JUDGEMENT CUT
+<string>RAPID SLASH
+<string>RISING STAR
+<string>UPPER SLASH
+<string>UPPER SLASH 2
+<string>JUDGEMENT CUT END
+<string>AERIAL CLEAVE
+<string>VOID SLASH
+<string>
+<string>
+<string>BEOWULF COMBO A
+<string>BEOWULF COMBO B
+<string>STARFALL
+<string>STARFALL 2
+<string>LUNAR PHASE
+<string>LUNAR PHASE 2
+<string>BEAST UPPERCUT
+<string>RISING DRAGON
+<string>DRAGON BREAKER
+<string>FLUSH
+<string>KICK 13
+<string>HELL ON EARTH
+<string>
+<string>
+<string>
+<string>MIRAGE EDGE COMBO A
+<string>MIRAGE EDGE COMBO B
+<string>ROUND TRIP
+<string>HELM BREAKER
+<string>HELM BREAKER 2
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>HIGH TIME
+<string>DRIVE
+<string>OVER DRIVE
+<string>DEEP STINGER 
+<string>
+<string>
+<string>
+<string>MIRAGE BLADE
+<string>MIRAGE BLADE 2
+<string>MIRAGE BLADE 3
+<string>SPIRAL BLADES
+<string>STORM BLADES
+<string>BLISTERING BLADES
+<string>HEAVY RAIN BLADES
+<string>
+<string>
+<string>
+<string>SIN DEVIL TRIGGER
+<string>ACCUMULATE
+<string><COLOR FF0000>#Rejected#</COLOR> SkillName_G_tagE_1570
+<string>WORLD OF V
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>移動
+<string>カメラ
+<string>ロックオン
+<string>ジャンプ
+<string>挑発
+<string>サイドロール
+<string>キックジャンプ
+<string>スピード
+<string>エネミーステップ
+<string>ブロック
+<string>ゲットモアオーブ
+<string>トリガーハート
+<string>ＥＸ挑発
+<string>スペシャル挑発
+<string>ドッペルゲンガー
+<string>エアトリック
+<string>グリムトリック
+<string>トリックアップ
+<string>トリックドッジ
+<string>トリックダウン
+<string>閻魔刀連斬・壱
+<string>閻魔刀連斬・弐
+<string>閻魔刀連斬・参
+<string>閻魔刀飛翔斬・壱
+<string>閻魔刀飛翔斬・弐
+<string>次元斬
+<string>疾走居合
+<string>羅閃天翔
+<string>抜刀斬り上げ
+<string>抜刀斬り上げ２
+<string>次元斬・絶
+<string>閻魔刀墜撃斬
+<string>時空裂閃
+<string>
+<string>
+<string>ベオウルフコンボA
+<string>ベオウルフコンボB
+<string>流星脚
+<string>流星脚２
+<string>月輪脚
+<string>月輪脚２
+<string>ビーストアッパー
+<string>ライジングドラゴン
+<string>ドラゴンブレイカ―
+<string>フラッシュ
+<string>キック13
+<string>ヘルオンアース
+<string>
+<string>
+<string>
+<string>ミラージュエッジコンボA
+<string>ミラージュエッジコンボB
+<string>ラウンドトリップ
+<string>兜割り
+<string>兜割り２
+<string>スティンガー
+<string>スティンガー２
+<string>ミリオンスタッブ
+<string>ハイタイム
+<string>ドライブ
+<string>オーバードライブ
+<string>ディープスティンガー
+<string>
+<string>
+<string>
+<string>幻影剣
+<string>幻影剣２
+<string>幻影剣３
+<string>円陣幻影剣
+<string>烈風幻影剣
+<string>急襲幻影剣
+<string>五月雨幻影剣
+<string>
+<string>
+<string>
+<string>真魔人
+<string>アクムレイト
+<string>ドッペルゲンガー
+<string>ワールドオブV
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

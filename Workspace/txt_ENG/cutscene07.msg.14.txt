@@ -1,0 +1,48 @@
+<string>
+<string>So what happened to him? And Trish? They end up like you?
+<string>Trish, she... She was captured. I remember that.
+<string>But I don't know what happened to Dante.
+<string>Dammit.
+<string>You can't travel through here in a car.
+<string>Yeah, we know. We're just waitin' on you.
+<string>There's only one way up that tree.<lf>Hang on, I'll get ready.
+<string>
+<string>I'm glad to see you look so well.
+<string>You too, I guess...
+<string>I found these. If they're of any use to you, they're yours.
+<string>Wow! I can make something truly awesome out of this.
+<string>Shocker... Can we trust him?
+<string>Your guess is as good as mine. He might be useful, though.
+<string>Enough talking, get some rest. You need it.
+<string>
+<string>Yo, Lady, wake up!
+<string>It's time to get to work.
+<string>I was just told to get some rest.
+<string>Aww, you were just told to get some rest?<lf>Well we need to make a path, so start digging.
+<string>
+<string>— C'mon, get up, get up, get up!
+<string>— Okay...
+<string>Got something to wear that's good for digging?
+<string>
+<string>Nice, getting the band back together, huh?
+<string>What evil lurks...
+<string>I must destroy.
+<string>I thought that was the plan all along.
+<string>
+<string>Took us long enough to get here.
+<string>What, tired already?
+<string>I've just remembered something...<lf>This town was attacked once before.
+<string>
+<string>Is that so?
+<string>I was here... I can still see it.
+<string>In fact, I was playing right here.
+<string>That was the house.
+<string>This is where we part ways. You go ahead.
+<string>You're gonna miss all the fun.
+<string>No, I must seek out the devil sword Sparda.
+<string>What?
+<string>Yeah, I don't think that's such a good idea, trust me.
+<string>You're not the only one who thinks so.
+<string>But to win this fight, we're going to need<lf>all the help we can get.
+<string>Not the only one? 
+<string>What the hell aren't you telling me?

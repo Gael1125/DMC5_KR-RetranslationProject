@@ -1,0 +1,41 @@
+<string>
+<string>PLAYER SETTINGS
+<string>
+<string>Adjust player settings.
+<string>
+<string>ON
+<string>OFF
+<string>Automatic
+<string>Unlimited
+<string>MAGAZINE
+<string>MAGAZINE 01
+<string>MAGAZINE 02
+<string>MAGAZINE 03
+<string>
+<string>Recover Devil Trigger Gauge
+<string>Recover Exceed
+<string>Recover Reload Charge
+<string>Unlimited Devil Breakers
+<string>Switch Devil Breaker Magazine
+<string>
+<string>Recover Devil Trigger Gauge
+<string>Recover Royal Guard Gauge
+<string>Recover Sin Devil Trigger Gauge
+<string>Quadruple S Activated
+<string>
+<string>Recover Devil Trigger Gauge
+<string>Devil Trigger Time Extension
+<string>
+<string>"ON" makes the Devil Trigger Gauge<lf>recover slowly over time. Devil Trigger<lf>will not deactivate even if the gauge<lf>runs out. "OFF" disables this effect.
+<string>"Automatic" makes Exceed restore to<lf>maximum automatically over time.<lf>"Unlimited" makes Exceed stay full at all<lf>times. "OFF" disables these effects.
+<string>"Automatic" fully charges the Reload<lf>move automatically over time.<lf>"Unlimited" maintains full charge at all<lf>times. "OFF" disables these effects.
+<string>"ON" prevents equipped Devil Breakers<lf>from being destroyed when they take<lf>damage (does not apply to Break Away).<lf>"OFF" disables this effect.
+<string>Swap between Devil Breaker magazines<lf>configured on the Customize screen.
+<string>
+<string>"ON" makes the Devil Trigger Gauge<lf>recover slowly over time. Devil Trigger<lf>will not deactivate even if the gauge<lf>runs out. "OFF" disables this effect.
+<string>"Automatic" makes the Royal Guard Gauge<lf>recover slowly over time. "Unlimited"<lf>makes the gauge stay full at all times.<lf>"OFF" disables this effect.
+<string>"Automatic" makes the Sin Devil Trigger<lf>Gauge recover slowly over time.<lf>"Unlimited" makes the gauge stay full at<lf>all times. "OFF" disables this effect.
+<string>"ON" relaxes the conditions for activating<lf>Quadruple S, making it available anytime<lf>(usually requires a SSS Stylish Rank).<lf>"OFF" disables this effect.
+<string>
+<string>"ON" makes the Devil Trigger Gauge<lf>restore slowly over time.<lf>"OFF" disables this effect.
+<string>"ON" reduces consumption of the Devil<lf>Trigger Gauge, allowing your demons to<lf>attack autonomously for longer during<lf>Devil Trigger. "OFF" disables this effect.

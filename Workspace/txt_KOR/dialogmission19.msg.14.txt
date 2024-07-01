@@ -1,0 +1,23 @@
+<string>
+<string>네 맘대로 하게 놔둘 것 같냐!
+<string>재미있군...
+<string>
+<string>네 인형한테는 이 정도로도 충분하지.
+<string>얕보다가는 큰코다칠걸?
+<string>
+<string>이제 끝장을 내자.
+<string>그래... 덤벼!
+<string>
+<string>날 이길 수 있을 것 같아?<lf>백만 년이 지나도 어림없어.
+<string>그런 소리는 이기고 나서 해. 불가능하겠지만.
+<string>
+<string>이러려고 아들놈 팔까지 자른 거야?
+<string>아들 따위... 나한테 아무 의미 없어!
+<string>
+<string>너한테는 절대 지지 않아... 동생아!
+<string>고작 이 정도냐...
+<string>
+<string>실망이군, 단테.
+<string>그만 죽어라...
+<string>
+<string>멍청하긴... 무작정 덤빌 줄밖에 모르냐?

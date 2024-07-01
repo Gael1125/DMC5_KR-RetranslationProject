@@ -1,0 +1,12 @@
+<string>
+<string>Come one, come all! Just makes it easier for me!
+<string>
+<string>Hoooo-ee! Nice work, lil bro.<lf>Damn, you make my creations look good!
+<string>Oh, come on! You can do better than that!
+<string>Took out more than you did.<lf>You ready to accept defeat, Vergil?
+<string>Look at that, a tie. Are we ever gonna settle this?
+<string>You beat me this time...<lf>But the battle's just begun!
+<string>You're sluggish... Are you still wounded<lf>from your fight with Nero?
+<string>You're one to talk!
+<string>Useless pests... They must be ready to die.
+<string>Fine by me! Let's give 'em what they want!

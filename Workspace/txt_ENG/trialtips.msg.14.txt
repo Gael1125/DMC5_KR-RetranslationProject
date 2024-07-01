@@ -1,0 +1,157 @@
+<string>
+<string>TIPS
+<string>STORY
+<string>CHARACTER
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Hold <ICON ACT_BtnL> to charge your weapon with more power.<lf>Skillful use of charging during battle can make it<lf>easier to raise your Stylish Rank.
+<string>If you start running low on Devil Breakers, try<lf>searching around for more. You might find some on<lf>the street, down alleys, or hidden behind something.<lf>But be warned, enemies in the area are liable to<lf>crush them underfoot, so be sure to grab one as<lf>soon as you see it.
+<string>Nico's Devil Breakers are fragile, shattering if<lf>you take a hit while using them. Know when to<lf>use them sparingly and when to go all out.
+<string>
+<string>
+<string>
+<string>Devil Breaker: Overture<lf>A user-friendly Devil Breaker with average power.<lf>Can take out puny demons in one hit.
+<string>Battery<lf>An Overture skill that allows the user to<lf>fire electricity from the Devil Breaker's palm.<lf>Its effectiveness changes depending on whether the<lf>enemy is airborne, knocked down, or near a wall.
+<string>Exploder<lf>An Overture skill that allows the user to<lf>set time bombs and detonate them remotely.<lf>Up to three bombs can be set at once for extra<lf>damage.
+<string>Devil Breaker: Gerbera<lf>Provides airborne movement and piercing<lf>beam attacks. Good against strong flyers.
+<string>Jocky<lf>A Gerbera skill that allows the user to release<lf>a powerful shockwave from the palm of their hand.<lf>Good for evading and stopping enemy projectiles<lf>in mid-air.
+<string>Petal Ray<lf>A Gerbera skill. In mid-air it allows the user to<lf>fire piercing beams. Firing them down narrow<lf>passages will cause them to ricochet violently,<lf>dealing multiple hits to enemies in their path.
+<string>Devil Breaker: Punch Line<lf>An armored arm with propulsion power.<lf>Use it to restrain enemies, ride around,<lf>send demons flying, and more.
+<string>Jet Gadget<lf>A Punch Line skill that allows the user to shoot<lf>their forearm as a guided missile. After launch,<lf>the missile can be detonated remotely.
+<string>Boost Knuckle<lf>A Punch Line skill that allows the user to throw<lf>a punch with maximum propulsion. Even larger<lf>enemies will be knocked back by a clean hit.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Devil Breaker: Buster Arm<lf>An arm that recreates Nero's Buster attack.<lf>Turns into a giant arm surrounded by a force field.
+<string>Super Buster<lf>A Buster Arm skill. After charging, unleash this<lf>move to perform a powerful throw that cannot be<lf>interrupted by enemy attacks.
+<string>Devil Breakers can be found scattered around mission<lf>locales. But be warned, enemies in the area are<lf>liable to crush them underfoot, so be sure to grab<lf>one as soon as you see it.
+<string>Press <ICON ACT_LB> to detonate your equipped Devil Breaker.<lf>Activate Break Away in a horde of enemies to beat<lf>a hasty retreat, so send the whole group flying.<lf>Be warned that this will destroy the equipped<lf>Devil Breaker for good, so use this with caution.
+<string>Holding down <ICON ACT_BtnR> until your Devil Breaker crackles<lf>with energy will unlock its latent potential.<lf>Releasing the button unleashes a powerful attack,<lf>destroying the arm in the process. Receiving an<lf>attack while pressing <ICON ACT_BtnR> will also destroy the<lf>Devil Breaker, so use this technique with caution.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>If a certain location catches your eye, it's worth<lf>taking the time to investigate. Maybe you can find<lf>a hidden stash of Red Orbs! Not every spot will<lf>yield a reward, of course, but don't let that dim<lf>your curiosity.
+<string>
+<string>
+<string>
+<string>Devil Hunters don't have time to get lost. Hold <ICON ACT_LStP><lf>at any time to swivel the camera towards your<lf>next objective.
+<string>Press <ICON ACT_BtnD> to jump over obstacles or up to higher<lf>levels. If a single jump isn't enough, you can use<lf>a wall jump to climb a bit higher. Press <ICON ACT_BtnD> again<lf>near the wall to gain the extra air you need.
+<string>Using a provocation in battle (<ICON ACT_CenL>) raises your<lf>Stylish Rank. Throw one out at the end of an<lf>impressive combo to really stick it to enemies.<lf>You can even taunt in the air!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Try out auto-assist if you want to chain together<lf>a slick combo without too much fuss. Use the same<lf>attack inputs to dish out stylish techniques with<lf>ease. Auto-assist can be turned on or off during<lf>gameplay by holding <ICON ACT_RStP>.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Open the Pause Menu with <ICON CenR> to check the input<lf>controls in the upper-right corner of the screen.<lf>Come back here anytime to review the basics.
+<string>Check out the Skill List in the Pause Menu to see<lf>what stylish moves your character can pull off.<lf>Controls for various actions are displayed here.

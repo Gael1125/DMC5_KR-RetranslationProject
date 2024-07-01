@@ -1,0 +1,21 @@
+<string>PRESS ANY <trc id="1">
+<string>
+<string>
+<string>©CAPCOM CO., LTD. 2018 ALL RIGHTS RESERVED.
+<string>
+<string>Devil May Cry 5
+<string>DEVIL MAY CRY 5
+<string>dmc5
+<string>DMC5
+<string>NEW GAME
+<string>CONTINUE
+<string>MAIN MENU
+<string>OPTIONS
+<string>HISTORY OF DMC
+<string>EXIT
+<string>新たにゲームを始めます
+<string>進行中のミッションを再開します
+<string>メインメニューに移動します
+<string>ゲーム内の各種設定を行います
+<string>デビルメイクライシリーズの歴史をまとめた映像を鑑賞します
+<string>ゲームを終了します

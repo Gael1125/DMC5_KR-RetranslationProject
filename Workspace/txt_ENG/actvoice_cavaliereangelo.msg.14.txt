@@ -1,0 +1,9 @@
+<string>
+<string>Sparda...
+<string>Unforgivable...
+<string>Dante...
+<string>
+<string>Death upon you!
+<string>You will die!
+<string>You cannot get away!
+<string>Sparda...!

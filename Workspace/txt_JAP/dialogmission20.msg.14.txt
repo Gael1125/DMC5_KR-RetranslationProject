@@ -1,0 +1,26 @@
+<string>
+<string>片っ端からブン投げてやる！
+<string>落とし物だぜ…
+<string>
+<string>数に頼るようじゃおしまいだな！
+<string>
+<string>貴様には関係のない話だ…下がれ
+<string>関係ねェって？　ふざけんじゃねェぞ…
+<string>ネロ…
+<string>認めさせてやるよ…俺の存在をな！
+<string>
+<string>Fuck you！
+<string>貴様…！
+<string>
+<string>ようやくまともに見やがったな…俺を！
+<string>
+<string>そろそろ認める気になったか？
+<string>お前の存在をか？　それともお前の力をか…？
+<string>どっちもだ！　クソ親父！
+<string>
+<string>嬉しいだろ？　息子がこんなに成長してよ？
+<string>勝った気になるのは…まだ早い…！
+<string>
+<string>愚か者め…
+<string>その程度の力で…
+<string>憐れだな…ネロ

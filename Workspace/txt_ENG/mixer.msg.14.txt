@@ -1,0 +1,10 @@
+<string>
+<string>This game is compatible with Mixer Interactivity.<lf>You can enable this feature in the Options menu<lf>under Network.
+<string>Failed to connect to the Mixer server.<lf>You must connect to Mixer in order to use<lf>Mixer Interactivity features.
+<string>
+<string>MIXER INTERACTIVITY
+<string>ON
+<string>OFF
+<string>Enable touch actions from users while<lf>streaming the game with Mixer.
+<string>Disable touch actions from users while<lf>streaming the game with Mixer.
+<string>Turn Mixer Interactivity on/off.

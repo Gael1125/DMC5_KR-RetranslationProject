@@ -1,0 +1,210 @@
+<string>
+<string>RESULTS
+<string>Stylish Pts
+<string>Bonus & Penalty
+<string>Total Stylish Pts
+<string> pts
+<string>Bonus Red Orbs
+<string>Extra Bonus
+<string>Total Red Orbs
+<string>Penalties
+<string>
+<string>TOTAL RESULTS
+<string>Pro
+<string>07 N
+<string>07 V
+<string>13 N
+<string>13 D
+<string>13 V
+<string>SECRET MISSIONS
+<string>RECORD:
+<string>CLEAR COUNTS
+<string>TOTAL STYLISH POINTS
+<string>
+<string>아이템 없음
+<string>대미지 없음
+<string>계속하기 없음
+<string>골드 오브 하나 사용
+<string>오브 부활 세 번 사용
+<string>계속하기 세 번 사용
+<string>슈퍼 캐릭터
+<string>자동 지원으로 클리어
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>휘프 킹
+<string>트리거 해피
+<string>스톰 오브 소드
+<string>머스킷티어
+<string>트리플 에너미 스텝
+<string>컨시스턴트 스타일
+<string>맥스 바이탈리티 빅토리
+<string>컴백 킹
+<string>니어데스 익스피리언스
+<string>프롬 데스 투 라이프
+<string>드로운아웃 데빌
+<string>컨티뉴 정키
+<string>체크포인트 정키
+<string>더블 데스
+<string>트리플 테이크다운
+<string>파이브 퍼탤리티스
+<string>익스플로시브 미스테이크
+<string>콤보 대미지
+<string>브루털 블로
+<string>데프트 다저
+<string>톤트 마스터
+<string>에어 톤트
+<string>겟 섬 에어
+<string>어스바운드
+<string>샌드배기드
+<string>패스트 파이터
+<string>슬로우 스크래퍼
+<string>노 데빌 트리거
+<string>데빌 트리거 정키
+<string>굿 팀워크(협동)
+<string>고잉 솔로(협동)
+<string>레드 오브 루저
+<string>레드 오브 위너
+<string>건 엔수지에스터
+<string>마스터 소드맨
+<string>데스 프롬 어버브
+<string>팝 플라이 히터
+<string>스나이퍼
+<string>데빌 브레이커 브레이커
+<string>브레이커 키퍼
+<string>브레이크 어웨이 피니시
+<string>암리스 빅토리
+<string>제트 세터
+<string>에어 트릭 마스터
+<string>트리플 버스터
+<string>바머 맨
+<string>익시드 엑설런스
+<string>북웜
+<string>나이트매리시 빅토리
+<string>트리플 데빌 트리거
+<string>노 스테일메이트
+<string>노 피니싱 블로
+<string>데몬 리프리브
+<string>피니싱 블로 블로아웃
+<string>웨이브 라이더
+<string>고잉 잇 어롱
+<string>노 웨폰 체인지
+<string>올 웨폰 체인지
+<string>노 스타일 체인지
+<string>올 스타일 체인지
+<string>언이큅트 빅토리
+<string>더블 SDT
+<string>이그니션 이네이블드
+<string>시프트 인투 톱 기어
+<string>레드 핫 나이트 맥스 차지
+<string>페달 투 더 메탈
+<string>SSS 진 데빌 트리거
+<string>트리플 임팩트
+<string>익스텐디드 히트 업
+<string>로얄 리벤지
+<string>핀디시 프렌들리 파이어
+<string>피블 레지스턴스
+<string>인스턴트 디스패치
+<string>패리 프린스
+<string>패리 킹
+<string>뉴비 디플렉터
+<string>어댑트 디플렉터
+<string>가드 브레이크 비기너
+<string>가드 브레이크 에이스
+<string>리스크 테이커
+<string>레드 엠푸사 헌터
+<string>엠푸사 이스케이프
+<string>베지 로스트
+<string>다윗 앤 골리앗
+<string>저스트 버스터
+<string>마운튼 클라이머
+<string>점프 스루 후프
+<string>게이트 크래셔
+<string>퍼피 트레이너
+<string>레이븐 헌터
+<string>씬 피니시
+<string>레전드 피니시
+<string>스피드 클리어 B
+<string>스피드 클리어 A
+<string>스피드 클리어 S
+<string>오브 어보이더
+<string>터미네이터
+<string>노 레드 오브
+<string>333 오브 잭팟
+<string>인바이런먼트 렉커
+<string>인바이런먼트 프로텍터
+<string>팔로우 더 리더
+<string>저스트 패싱 스루
+<string>페니 핀처
+<string>플랫 브로크
+<string>윈도우 쇼퍼
+<string>노 니코
+<string>데몰리션 더비
+<string>메이저 로스
+<string>겟 웻
+<string>익스플로전 정키
+<string>헤일 투 더 킹
+<string>데몬 킹 다저
+<string>익시드 위드 웨커
+<string>호텔 투어
+<string>벌룬 파퍼
+<string>데몬 퍼스트
+<string>월 크러셔
+<string>레그 왈롭
+<string>브레이크 어 레그
+<string>코핀 브레이커
+<string>어게인스트 올 오즈
+<string>노 니드호그 해츨링
+<string>제트 가젯 그루브
+<string>블러드 클랏 블로아웃
+<string>블러드 클랏 컨저제이셔니스트
+<string>협동 지속
+<string>팀업 트리오
+<string>악마 채집꾼
+<string>노 러닝
+<string>맥시멈 컨센트레이션
+<string>컨센트레이션 제로
+<string>저지먼트 컷 숙련가
+<string>저지먼트 컷 명인
+<string>검을 거두어야 할 때를 아는 자
+<string>V 월드
+<string>도플갱어 피니시
+<string>내면의 악마
+<string>올 웨폰 어택
+<string>
+<string>본 투 비 와일드
+<string>가디언 마운트

@@ -1,0 +1,44 @@
+<string>
+<string>Split up again, huh? I work better alone anyway.
+<string>That's awfully generous...
+<string>Crossroads... Which way should I go?
+<string>Gotta get airborne if I wanna cross...<lf>Let's give it a whirl.
+<string>This presence... Something's here.
+<string>Sorry, Dante... But the Demon King's mine!
+<string>I can feel a demon nearby...<lf>Get in my way and I'll crush you!
+<string>Put it to good use.
+<string>Take it. I was babysitting it for you.
+<string>Don't let it go to waste.
+<string>Oh hey, that's nice of you!
+<string>Heh, this'll do just fine.
+<string>You won't even make a good offering!
+<string>
+<string>Try to follow me with your foolish human eyes!
+<string>Anything with a nose could follow you... You stink.
+<string>
+<string>Feast your eyes upon Hell's mightiest sorcery!
+<string>
+<string>Most boring magic show I've ever seen.
+<string>
+<string>Game over, birdie.
+<string>
+<string>Still got some fight in ya, huh?
+<string>
+<string>Get up, this is not the end...yet!
+<string>
+<string>I'll show you utter despair!
+<string>Resurrect! Rise with my power!
+<string>Don't wanna give up the ghost, do ya!?
+<string>
+<string>How DARE you!?
+<string>What's the matter, not into gettin' tied up?
+<string>
+<string>Unfathomable!
+<string>Trust me, you're about to fuckin' fathom it!
+<string>Glad I could broaden your horizons!
+<string>
+<string>You. Are. DEAD!
+<string>Ladies! Gotta watch your manners.
+<string>
+<string>How could he...!?
+<string>Gotta be on point, ladies!

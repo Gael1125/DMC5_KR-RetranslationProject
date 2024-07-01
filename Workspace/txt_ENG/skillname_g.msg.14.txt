@@ -1,0 +1,201 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>PROVOCATION
+<string>SIDE ROLL
+<string>KICK JUMP
+<string>SPEED
+<string>ENEMY STEP
+<string>BLOCK
+<string>GET MORE ORBS
+<string>TRIGGER HEART
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>DOPPELGANGER
+<string>AIR TRICK
+<string>GRIM TRICK
+<string>TRICK UP
+<string>TRICK DODGE
+<string>TRICK DOWN
+<string>YAMATO COMBO A
+<string>YAMATO COMBO B
+<string>YAMATO COMBO C
+<string>AERIAL RAVE A
+<string>AERIAL RAVE B
+<string>JUDGMENT CUT
+<string>RAPID SLASH
+<string>RISING STAR
+<string>UPPER SLASH
+<string>UPPER SLASH 2
+<string>JUDGMENT CUT END
+<string>AERIAL CLEAVE
+<string>VOID SLASH
+<string>
+<string>
+<string>BEOWULF COMBO A
+<string>BEOWULF COMBO B
+<string>STARFALL
+<string>STARFALL 2
+<string>LUNAR PHASE
+<string>LUNAR PHASE 2
+<string>BEAST UPPERCUT
+<string>RISING DRAGON
+<string>DRAGON BREAKER
+<string>FLUSH
+<string>KICK 13
+<string>HELL ON EARTH
+<string>
+<string>
+<string>
+<string>MIRAGE EDGE COMBO A
+<string>MIRAGE EDGE COMBO B
+<string>ROUND TRIP
+<string>HELM BREAKER
+<string>HELM BREAKER 2
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>HIGH TIME
+<string>DRIVE
+<string>OVER DRIVE
+<string>DEEP STINGER 
+<string>
+<string>
+<string>
+<string>MIRAGE BLADE
+<string>MIRAGE BLADE 2
+<string>MIRAGE BLADE 3
+<string>SPIRAL BLADES
+<string>STORM BLADES
+<string>BLISTERING BLADES
+<string>HEAVY RAIN BLADES
+<string>
+<string>
+<string>
+<string>SIN DEVIL TRIGGER
+<string>ACCUMULATE
+<string><COLOR FF0000>#Rejected#</COLOR> SkillName_G_tagE_1570
+<string>WORLD OF V
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>PROVOCATION
+<string>SIDE ROLL
+<string>KICK JUMP
+<string>SPEED
+<string>ENEMY STEP
+<string>BLOCK
+<string>GET MORE ORBS
+<string>TRIGGER HEART
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>DOPPELGANGER
+<string>AIR TRICK
+<string>GRIM TRICK
+<string>TRICK UP
+<string>TRICK DODGE
+<string>TRICK DOWN
+<string>YAMATO COMBO A
+<string>YAMATO COMBO B
+<string>YAMATO COMBO C
+<string>AERIAL RAVE A
+<string>AERIAL RAVE B
+<string>JUDGMENT CUT
+<string>RAPID SLASH
+<string>RISING STAR
+<string>UPPER SLASH
+<string>UPPER SLASH 2
+<string>JUDGMENT CUT END
+<string>AERIAL CLEAVE
+<string>VOID SLASH
+<string>
+<string>
+<string>BEOWULF COMBO A
+<string>BEOWULF COMBO B
+<string>STARFALL
+<string>STARFALL 2
+<string>LUNAR PHASE
+<string>LUNAR PHASE 2
+<string>BEAST UPPERCUT
+<string>RISING DRAGON
+<string>DRAGON BREAKER
+<string>FLUSH
+<string>KICK 13
+<string>HELL ON EARTH
+<string>
+<string>
+<string>
+<string>MIRAGE EDGE COMBO A
+<string>MIRAGE EDGE COMBO B
+<string>ROUND TRIP
+<string>HELM BREAKER
+<string>HELM BREAKER 2
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>HIGH TIME
+<string>DRIVE
+<string>OVER DRIVE
+<string>DEEP STINGER 
+<string>
+<string>
+<string>
+<string>MIRAGE BLADE
+<string>MIRAGE BLADE 2
+<string>MIRAGE BLADE 3
+<string>SPIRAL BLADES
+<string>STORM BLADES
+<string>BLISTERING BLADES
+<string>HEAVY RAIN BLADES
+<string>
+<string>
+<string>
+<string>SIN DEVIL TRIGGER
+<string>ACCUMULATE<lf>
+<string>DOPPELGANGER
+<string>WORLD OF V
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

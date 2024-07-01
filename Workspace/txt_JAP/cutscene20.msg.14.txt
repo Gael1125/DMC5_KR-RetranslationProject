@@ -1,0 +1,77 @@
+<string>
+<string>…もしもし？
+<string>ネロ？ ネロよね？
+<string>大丈夫？
+<string>キリエ…
+<string>俺にとって家族と呼べるのは――
+<string>君とクレドだけだ
+<string>でも本当の父親が現れてさ
+<string>どうすれば…
+<string>
+<string>貴方は もう分かっているはずよ
+<string>迷わないで
+<string>
+<string>ありがとう
+<string>勇気を貰えた
+<string>
+<string>あと ひと仕事して――
+<string>家に帰るよ
+<string>
+<string>クレドは死んだ…
+<string>あの時 俺に<RUBY><RB>力<RT>ちから</RUBY>がなかったせいで！
+<string>今度こそ！
+<string>絶対に！
+<string>誰も死なせねえ！
+<string>
+<string>…どういう事だ？
+<string>ネロ…！？
+<string>この<RUBY><RB>力<RT>ちから</RUBY>は 一体！？
+<string>マジかよ…
+<string>後は俺がやる
+<string>何度も言わせんな お前には…
+<string>聞けよ “足手まとい”
+<string>殺し合うな
+<string>他に方法があるだろ
+<string>俺が このクソ喧嘩を止める
+<string>そんな理由で ここまで来たか
+<string>バージル…？ <RUBY><RB>Ｖ<RT>ブイ</RUBY>…？<lf>どっちでもいいけどよ
+<string>ダンテは死なせねえ… あんたもだ
+<string>文句あるか？
+<string>“死なせねえ”？
+<string>…死にかけたぜ
+<string><lf>危うく逝くトコだ…
+<string>ネロに勝てば――
+<string>お前に勝ったと言えるな ダンテ？
+<string>好きにすりゃイイさ
+<string>俺は休憩だ
+<string>負けたら言うコト聞けよ
+<string>…親父
+<string>
+<string>なるほどな
+<string>おやおや…
+<string>息子の腕まで斬って負けるかね？
+<string>よせよ バカ！
+<string>手遅れになる前に魔界化を止めたい
+<string>確かに “扉”を閉じなきゃな
+<string>負け犬はどうする？
+<string>俺はまだ やれる
+<string>だがこれ以上 魔界化が進めば<lf>勝負の妨げになるな
+<string>お前にしちゃ いい返事だ
+<string>片付いたら 勝負の続きか
+<string>当然だ
+<string>どこ行く気だ？
+<string>魔界でクリフォトの根を断ち――
+<string><RUBY><RB>閻魔刀<RT>ヤマト</RUBY>で“扉”を閉じる
+<string>
+<string>待てよ 戻る方法は？
+<string>俺も行くさ １人にしておけねえ
+<string>何のために俺が…
+<string>地上は任せるぜ
+<string>お前がいるから行けるんだ
+<string>遅いぞ ダンテ
+<string>分かってるって
+<string>おい 待てよ！
+<string>元気でな ネロ… あばよ！
+<string>次は負けん
+<string>それまで預ける
+<string>バカ野郎…

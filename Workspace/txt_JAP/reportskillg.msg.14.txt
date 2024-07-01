@@ -1,0 +1,140 @@
+<string>
+<string><ICON ACT_LS>
+<string><ICON ACT_RS>
+<string><ICON ACT_RB>を押し続ける
+<string>地上で<ICON ACT_BtnD>
+<string><ICON ACT_CenL>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>横方向＋<ICON ACT_BtnD>
+<string>ジャンプ後に壁の近くで<ICON ACT_BtnD>
+<string><ICON ACT_LS>を入力し続ける
+<string>空中で敵に近づき<ICON ACT_BtnD>
+<string>集中ゲージがレベル１以上で<lf>敵が攻撃してきたときに<lf><ICON ACT_RB>
+<string>常時発動
+<string>常時発動
+<string><ICON ACT_LStP>＋<ICON ACT_CenL>を押し続ける
+<string><ICON ACT_LStP>＋<ICON ACT_CenL>を短く押す
+<string><ICON ACT_LB>または<ICON ACT_DirU>
+<string><ICON ACT_RB>＋<ICON ACT_BtnR><lf>または<lf><ICON ACT_RB>＋<ICON ACT_LS>＋<ICON ACT_BtnR>
+<string>グリムグリップを <lf><ICON ACT_RB>でロックオンして<ICON ACT_BtnR>
+<string><ICON ACT_BtnR>
+<string>地上で<lf><ICON ACT_LS>＋<ICON ACT_BtnR>
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnR>
+<string>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>連打
+<string>空中で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string><ICON ACT_BtnU>を押し続けて離す。<lf>鞘が光ったタイミングで離すと<lf>性能が強化される。
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>疾走居合入力後<lf>攻撃がヒットするまで<ICON ACT_BtnU>を押し続ける
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>長押し
+<string>真魔人化中または人間時にSDTゲージMAXで<lf>集中ゲージがレベル２以上の状態で 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>＋<ICON ACT_BtnR>
+<string>空中で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>空中で<ICON ACT_BtnU>
+<string>空中で<ICON ACT_BtnU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>ビーストアッパー入力後<lf>ボタンを押し続け、拳が光ったら離す
+<string>ビーストアッパー入力後<lf>ボタンを押し続け、拳が２度光ったら離す
+<string>地上で<ICON ACT_BtnD>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>真魔人化中または人間時にSDTゲージMAXで<lf>集中ゲージがレベル２以上の状態で 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>＋<ICON ACT_BtnR>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_BtnU>→<ICON ACT_BtnU>→少し待って<ICON ACT_BtnU>→<ICON ACT_BtnU>連打
+<string><ICON ACT_BtnU>を押し続ける<lf>剣が光ったら離す
+<string>空中で<ICON ACT_BtnU>
+<string>空中で<ICON ACT_BtnU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>
+<string>スティンガー入力後　地上で<lf><ICON ACT_BtnU>を長押し後、<ICON ACT_BtnU>連打
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnU>
+<string>地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnU>
+<string>ドライブ入力後　地上で<lf><ICON ACT_BtnU>を再度入力し押し続ける<lf>剣が光ったら離す
+<string>真魔人化中または人間時にSDTゲージMAXで<lf>集中ゲージがレベル２以上の状態で 地上で<lf><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnU>＋<ICON ACT_BtnR>
+<string><ICON ACT_BtnL>
+<string><ICON ACT_BtnL>
+<string><ICON ACT_BtnL>
+<string><ICON ACT_BtnL>を押し続ける
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方＋<ICON ACT_BtnL><lf>を押し続けて離す
+<string><ICON ACT_RB>＋<ICON ACT_LS>前方＋<ICON ACT_BtnL><lf>を押し続けて離す
+<string><ICON ACT_RB>＋<ICON ACT_LS>後方→前方＋<ICON ACT_BtnL><lf>を押し続けて離す
+<string>SDTゲージが最大時に<lf><ICON ACT_LB>長押し
+<string>人間の状態で<ICON ACT_LB>を押し続ける
+<string>ＤＴゲージが３つ溜まった状態で<lf><ICON ACT_LB>または<ICON ACT_DirU>
+<string><ICON ACT_RB>＋<ICON ACT_LS>一回転＋<ICON ACT_BtnR>
+<string>
+<string><skill player="g" id="100"><lf><lf><ICON ACT_LS>を倒した方向に、<lf>キャラクターを移動させる。<lf>倒し具合によって移動速度を調整できる。
+<string><skill player="g" id="101"><lf><lf>カメラを自由に操作し、周囲を見渡せる。<lf><ICON ACT_RStP>でカメラ位置を正面方向に戻す。
+<string><skill player="g" id="102"><lf><lf>敵または特定の対象物に、ロックオン<lf>マーカーを付けて狙いを定める。<lf><ICON ACT_RB>を押しながらの構え移動が可能。<lf><ICON ACT_LStP>でロックオン対象を切り替える。
+<string><skill player="g" id="103"><lf><lf>空中に飛び上がる。<lf><ICON ACT_BtnD>を短く押すと低く、押し続けると<lf>高くジャンプする。
+<string><skill player="g" id="104"><lf><lf>地上や空中で、敵を挑発する様々な動作を<lf>行う。<lf>スタイリッシュランクに応じて動作内容が<lf>変化する。
+<string><skill player="g" id="105"><lf><lf>横方向に転がり敵の攻撃をかわす。
+<string><skill player="g" id="106"><lf><lf>壁を足場にして再度ジャンプする。
+<string><skill player="g" id="107"><lf><lf><ICON ACT_LS>を同じ方向に入れ続けると、<lf>より速く走る。
+<string><skill player="g" id="108"><lf><lf>空中で敵を踏み台にして再度ジャンプする。
+<string><skill player="g" id="109"><lf><lf>敵の攻撃を防いでダメージを無効化する。<lf>集中ゲージを消費する。<lf>発動時の集中ゲージがレベル２以上であれば<lf>性能が強化され、華麗にいなすことができる。
+<string><skill player="g" id="110"><lf><lf>オーブを吸収できる範囲がより広くなる。
+<string><skill player="g" id="111"><lf><lf>ドッペルゲンガー発動中の<lf>消費ＤＴゲージ量、および、<lf>真魔人化中の<lf>消費SDTゲージ量が減少する。
+<string><skill player="g" id="112"><lf><lf>高額な代価を払った者だけに与えられる<lf>特別な挑発動作。<lf>通常の挑発よりもスタイリッシュランク<lf>が上がりやすくなっている。
+<string><skill player="g" id="113"><lf>　　　　　　　　　　　<lf>ブラッディパレスをクリアした者だけに<lf>与えられる特殊な挑発動作。<lf>研ぎ澄まされた美しい一太刀を<lf>見せつける。
+<string><skill player="g" id="114"><lf><lf>魔力でできた分身・閻魔刀魔人を生み出す。<lf>分身はバージルを追従して行動する。<lf>追従タイミングは<ICON ACT_DirR>で早く/<ICON ACT_DirL>で遅くなり<lf><ICON ACT_DirU>で標準に戻る。<lf><ICON ACT_LB>または<ICON ACT_DirD>で解除できる。<lf>デビルトリガーゲージを消費する。
+<string><skill player="g" id="115"><lf><lf>幻影剣を撃ち込んだ相手に一瞬で接近する。<lf>幻影剣が複数の敵に刺さっている場合<lf><ICON ACT_LS>を倒した方向の敵に接近する。
+<string><skill player="g" id="116"><lf><lf>グリムグリップに幻影剣を撃ち込み、<lf>一瞬で移動する。
+<string><skill player="g" id="117"><lf><lf>自分の真上に一瞬で移動する。
+<string><skill player="g" id="118"><lf><lf><ICON ACT_LS>を倒した方向に一瞬で移動する。
+<string><skill player="g" id="119"><lf><lf>空中で繰り出すと斜め下後方に、<lf>地上では後方に一瞬で移動する。
+<string>
+<string><skill player="g" id="120"><lf><lf>鞘での素早い殴打と、抜刀斬りに<lf>よるコンボ。<lf>真魔人化中は<ICON ACT_BtnU>を追加入力することで、<lf>高威力のフィニッシュ攻撃を放てる。
+<string><skill player="g" id="121"><lf><lf>敵を大きく吹き飛ばし、幻影剣で追撃する。<lf>さらに、納刀時に突き刺さった幻影剣を<lf>爆発させて追加ダメージを与える。<lf>真魔人化中は<ICON ACT_BtnU>の追加入力により<lf>２連撃で吹き飛ばし、追撃する幻影剣の<lf>本数が増加する。
+<string><skill player="g" id="122"><lf><lf>無数の斬撃を相手に浴びせた後、<lf>強力な一閃で両断する。<lf>真魔人化中はフィニッシュの攻撃範囲が<lf>大きく拡大される。
+<string><skill player="g" id="123"><lf><lf>空中で繰り出す連続攻撃。
+<string><skill player="g" id="124"><lf><lf>空中で回転しながら相手を<lf>斬り刻んだ後、渾身の一撃で<lf>地面に叩きつけるコンボ。
+<string><skill player="g" id="125"><lf><lf>神速の居合で次元の狭間を斬り、<lf>相手を斬撃の渦に巻き込む神技。<lf>閻魔刀のほとんどの技から続けて出せ、<lf>タイミングよく<ICON ACT_BtnU>を離すと性能が強化される。<lf>真魔人化中は同時に３発放たれる。
+<string><skill player="g" id="126"><lf><lf>疾走しながら無数の斬撃を放ち、<lf>真空の刃を発生させ相手を切り裂く。<lf>真魔人化中は斬撃と同時に幻影剣を刺し、<lf>納刀時に爆発で追加ダメージを与える。<lf>また、コマンド再入力で連続発動が可能。
+<string><skill player="g" id="127"><lf><lf>自分が上昇しつつ、周囲の敵を<lf>らせん状の斬撃に巻き込み打ち上げる。
+<string><skill player="g" id="128"><lf><lf>抜刀からの斬り上げにより相手を<lf>瞬時に打ち上げる。<lf>真魔人化中は攻撃時に複数の斬撃を放ち、<lf>威力が大きく上昇する。
+<string><skill player="g" id="129"><lf><lf>抜刀斬り上げの後、<ICON ACT_BtnU>を押し続ける事で<lf>自分も上空に舞い上がる。
+<string><skill player="g" id="130"><lf><lf>超高速移動によって分身を生み出し、<lf>それぞれが次元を裂く斬撃を放つ秘奥義。<lf>発動時にSDTゲージを消費する。
+<string><skill player="g" id="131"><lf><lf>一瞬で真下に急降下して<lf>繰り出す神速の落下攻撃。
+<string><skill player="g" id="132"><lf><lf>前方の空間を神速の抜刀術で<lf>空間ごと切り取る事で対象を<lf>少し引き寄せる特殊技。
+<string><skill player="g" id="135"><lf><lf>二連回し蹴りでフィニッシュする<lf>高威力のコンボ。全ての攻撃はボタンを<lf>押し続けてパワーを溜める事ができる。<lf>真魔人化中は<ICON ACT_BtnU>を追加入力することで、<lf>高威力のフィニッシュ攻撃を放てる。
+<string><skill player="g" id="136"><lf><lf>百烈脚を繰り出すスピードコンボ。<lf>全ての攻撃はボタンを押し続けて<lf>パワーを溜める事ができる。<lf>真魔人化中は<ICON ACT_BtnU>を追加入力することで、<lf>高威力のフィニッシュ攻撃を放てる。
+<string><skill player="g" id="137"><lf><lf>空中から相手めがけて急降下しつつ、<lf>衝撃で吹き飛ばす蹴り技。<lf>真魔人化中は<ICON ACT_BtnU>を長押しすると<lf>蹴り上げによる追撃に派生する。
+<string><skill player="g" id="138"><lf><lf>威力が増大した流星脚。
+<string><skill player="g" id="139"><lf><lf>猛烈な回転で相手に接近し、<lf>勢いを乗せたカカト落としを放つ。<lf>真魔人化中は回転速度が大きく上昇し<lf>威力が大きく上昇する。
+<string><skill player="g" id="140"><lf><lf>回転速度が上昇し、<lf>威力が増大した月輪脚。
+<string><skill player="g" id="141"><lf><lf>踏み込んで近付きつつ拳を突き<lf>上げて、敵を上空に打ち上げる。
+<string><skill player="g" id="142"><lf><lf>パワーを溜めた後に、飛び上がり<lf>ながら放つ必殺の拳。
+<string><skill player="g" id="143"><lf><lf>パワーを溜めた後に、飛び上がり<lf>ながらのアッパーを２度叩き込む<lf>強力な連携技。<lf>真魔人化中は性能が強化され、<lf>３度ものアッパーを放つ。
+<string><skill player="g" id="144"><lf><lf>跳躍時に衝撃をまとう事で、<lf>ジャンプ中にダメージを<lf>与えられるようになる。
+<string><skill player="g" id="145"><lf><lf>敵に向かって行き、無数の蹴りを<lf>叩き込む荒技。<ICON ACT_BtnU>を押し続ける事で<lf>自分も上空に舞い上がる。<lf>真魔人化中は性能が強化され、<lf>蹴る回数が増加する。
+<string><skill player="g" id="146"><lf><lf>渾身の力を込めた拳を地面に叩き付ける。<lf>その衝撃は重い敵も打ち上げる秘奥義。<lf>発動時にSDTゲージを消費する。
+<string><skill player="g" id="150"><lf><lf>前方の敵に攻撃しつつ、背後の敵に<lf>対してもダメージを与えるコンボ。<lf>3段目の後に<ICON ACT_BtnU>連打で連続突きが発生する。<lf>真魔人化中は３段目が２連突きになる。
+<string><skill player="g" id="151"><lf><lf>ミラージュエッジと閻魔刀による<lf>二刀流コンボ。<lf>連打中に<ICON ACT_LS>で操作可能。
+<string><skill player="g" id="152"><lf><lf>ミラージュエッジを敵に投げ付ける。<lf>投げ付けられた剣は真空の渦を<lf>発生させ、相手を引き寄せながら<lf>斬り刻み続ける。
+<string><skill player="g" id="153"><lf><lf>空中から真下に急降下して繰り出す<lf>強烈な一撃。
+<string><skill player="g" id="154"><lf><lf>降下速度が上昇した兜割り。
+<string><skill player="g" id="155"><lf><lf>高速で相手に接近して放つ、<lf>一撃必殺の突き技。<lf>真魔人化中は性能が強化され、<lf>一度の突きで複数回相手を貫く。
+<string><skill player="g" id="156"><lf><lf>移動距離と速度が上昇した<lf>スティンガー。
+<string><skill player="g" id="157"><lf><lf>高速で相手に接近して放つ、<lf>無数の突きの嵐。
+<string><skill player="g" id="158"><lf><lf>相手を打ち上げる強力な斬撃。<lf><ICON ACT_BtnU>を押し続ける事で自分も上空に<lf>舞い上がる。<lf>真魔人化中は攻撃時に複数の斬撃を放ち、<lf>威力が大きく上昇する。
+<string><skill player="g" id="159"><lf><lf>剣風によって生み出される衝撃波に<lf>より離れた相手を攻撃する。
+<string><skill player="g" id="160"><lf><lf>ドライブから、さらに強力な衝撃波を<lf>放つ。<lf>真魔人化中は衝撃波が拡大され<lf>より多くの敵をまきこめる。
+<string><skill player="g" id="161"><lf><lf>全身全霊を込めたミラージュエッジと閻魔刀<lf>による二刀流、突進秘奥義。<lf>発動時にSDTゲージを消費する。
+<string><skill player="g" id="165"><lf><lf>魔力によって生成した剣を相手に<lf>飛ばす。
+<string><skill player="g" id="166"><lf><lf>連射速度と射程距離が強化された<lf>幻影剣。<lf><lf>一度に生成できる本数も増加し、<lf>幻影剣を使った他の技も強化される。
+<string><skill player="g" id="167"><lf><lf>連射速度と射程距離が最大まで<lf>強化された幻影剣。<lf><lf>一度に生成できる本数も増加し、<lf>幻影剣を使った他の技も強化される。
+<string><skill player="g" id="168"><lf><lf>自分の周囲を幻影剣で取り囲み、<lf>敵から身を守る。<lf>デビルトリガーゲージを消費する。
+<string><skill player="g" id="169"><lf><lf>無数の幻影剣で相手を取り囲み、<lf>一斉に発射する。<lf>相手は着弾の衝撃により上空に<lf>打ち上がる。<lf>デビルトリガーゲージを消費する。
+<string><skill player="g" id="170"><lf><lf>周囲に無数の幻影剣を生成し、<lf>相手に向かって連続で発射する。<lf>デビルトリガーゲージを消費する。
+<string><skill player="g" id="171"><lf><lf>相手の頭上に無数の幻影剣を<lf>生成し、斬撃の雨を降らせる。<lf>さらに斬撃を受けた相手の動きを<lf>一定時間拘束する。<lf>デビルトリガーゲージを消費する。
+<string><skill player="g" id="175"><lf><lf>バージルの真の力を開放する事で<lf>真魔人に変身できる。<lf>SDTゲージを消費する。<lf>発動中は攻撃力・防御力・移動スピードが<lf>上昇し、時間経過により体力が回復する。<lf>発動中に<ICON ACT_LB>で任意解除も可能。
+<string><skill player="g" id="176"><lf><lf>ＤＴゲージを消費して、ＳＤＴゲージを<lf>蓄積する。
+<string><skill player="g" id="177"><lf><lf>魔力でできた分身・閻魔刀魔人を生み出す。<lf>分身はバージルを追従して行動する。<lf>追従タイミングは<ICON ACT_DirR>で早く/<ICON ACT_DirL>で遅くなり<lf><ICON ACT_DirU>で標準に戻る。<lf><ICON ACT_LB>または<ICON ACT_DirD>で解除できる。<lf>デビルトリガーゲージを消費する。
+<string><skill player="g" id="178"><lf><lf>閻魔刀の力で魔と人間を別ち、<lf>Vと従者による一斉攻撃を行う。<lf>発動時に体力が回復し、<lf>敵を倒した時にグリーンオーブが出やすい。<lf>集中ゲージを消費する。

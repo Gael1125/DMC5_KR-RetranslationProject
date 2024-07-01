@@ -1,0 +1,43 @@
+<string>
+<string>Guess there's no point thinking about it...
+<string>Perfect timing... Now we're startin' to act like a team.
+<string>Ew! You, like, flirtin' with me?
+<string>Knock it off... Get in the car.
+<string>Oh my gawd...
+<string>
+<string>Well, no point in turnin' back now...
+<string>Not that that was ever an option.
+<string>Time for some payback.
+<string>
+<string>Hey douchebag, miss me?
+<string>Where's Dante?
+<string>No body? No dried up Dante jerky? Nothin'?
+<string>You've come here to die?
+<string>He talks.
+<string>Urizen, huh?
+<string>I bet your parents didn't like you much,<lf>'cause your name sucks.
+<string>I am without a name.
+<string>I am power, absolute.
+<string>Well, No Name... I'll be sure to<lf>put that on your tombstone.
+<string>You will suffer...
+<string>And...die.
+<string>
+<string>I'll show you dead weight.
+<string>
+<string>It's about time I landed somethin'.
+<string>Weak mortal.
+<string>Demon power does not course through your veins.
+<string>Yet, you try...
+<string>How dare you strike ME!?
+<string>The hell...!?
+<string>You will regret...being born useless and human.
+<string>I will show you...
+<string>your worst nightmares!
+<string>I will give you...
+<string>despair and death!
+<string>
+<string>Merely human. Petulant mortal flesh.
+<string>Cursed...the moment you were brought into this world.
+<string>Who dares interfere?
+<string>What creature stands against a king!?
+<string>Is that...a demon?

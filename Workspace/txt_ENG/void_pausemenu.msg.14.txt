@@ -1,0 +1,21 @@
+<string>
+<string>PAUSE MENU
+<string>
+<string>PLAYER SETTINGS
+<string>ENEMY SETTINGS
+<string>RESET
+<string>SKILL LIST
+<string>PLAYER SELECT
+<string>OPTIONS
+<string>EXIT
+<string>
+<string>Adjust player settings.
+<string>Adjust enemy settings.
+<string>Reset the player and enemy, removing all damage. 
+<string>Check the skill list.
+<string>Select a character to control.
+<string>Adjust various settings.
+<string>Leave the Void.
+<string>
+<string>REPLAY
+<string>Check your most recent actions.

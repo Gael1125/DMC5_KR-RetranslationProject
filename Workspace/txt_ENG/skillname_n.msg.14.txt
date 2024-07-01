@@ -1,0 +1,340 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>ENEMY STEP
+<string>AIR HIKE
+<string>SIDE ROLL
+<string>TABLE HOPPER
+<string>TABLE HOPPER 2
+<string>TABLE HOPPER 3
+<string>PROVOCATION
+<string>RAINBOW
+<string>SPEED
+<string>GET MORE ORBS
+<string>
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>RECOVERY PROVOCATION
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RED QUEEN COMBO A
+<string>RED QUEEN COMBO B
+<string>RED QUEEN COMBO C
+<string>RED QUEEN COMBO D
+<string>AERIAL COMBO
+<string>ROULETTE SPIN
+<string>HIGH ROLLER
+<string>EX HIGH ROLLER
+<string>STREAK
+<string>STREAK 2
+<string>EX STREAK
+<string>SPLIT
+<string>DOUBLE DOWN
+<string>CALIBUR
+<string>EX CALIBUR
+<string>SHUFFLE
+<string>EX SHUFFLE
+<string>HARD WAY
+<string>HARD WAY
+<string>PAYLINE
+<string>EX PAYLINE
+<string>
+<string>
+<string>
+<string>
+<string>NORMAL SHOT
+<string>COLOR UP
+<string>HIGH SHOT
+<string>CHARGE SHOT
+<string>CHARGE SHOT 2
+<string>CHARGE SHOT 3
+<string>COLOR UP 2
+<string>COLOR UP 3
+<string>
+<string>
+<string>EXCEED
+<string>EXCEED 2
+<string>EXCEED 3
+<string>EX-Act
+<string>MAX-Act
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>DEVIL TRIGGER
+<string>TRIGGER HEART
+<string>BUSTER
+<string>DEVIL BUSTER
+<string>BRINGER KNUCKLE
+<string>DOUBLE BRINGER KNUCKLE
+<string>WIRE SNATCH
+<string>WIRE SNATCH 2
+<string>WIRE SNATCH 3
+<string>
+<string>DUAL SNATCH
+<string>
+<string>HELL BOUND
+<string>HOLD
+<string>DUAL HOLD
+<string>
+<string>FLAP TOP
+<string>SUMMONED SWORDS
+<string>BRINGER CLAW
+<string>MAXIMUM BET
+<string>SHOWDOWN
+<string>SNATCH
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>BREAK AGE
+<string>BREAK AWAY
+<string>SCAPEGOAT
+<string>
+<string>BREAKER PLUS
+<string>BREAKER PLUS 2
+<string>BREAKER PLUS 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>WIRE BOUND
+<string>
+<string>
+<string>
+<string>BATTERY
+<string>EXPLODER
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>
+<string>JET GADGET
+<string>BOOST KNUCKLE
+<string>ONE NIGHT STAND
+<string>RENDEZVOUS
+<string>EX SHOT
+<string>EX SHOT AIR
+<string>EX CHARGE SHOT
+<string>RED QUEEN COMBO EX
+<string>RED QUEEN AIR EX
+<string>BLOODY QUEEN
+<string>BLOODY QUEEN AIR
+<string>DRILL RIG
+<string>DRILL MASTER
+<string>SLOW SPHERE
+<string>SLOW WORLD
+<string>SIDE WINDER
+<string>LOOP THE LOOP
+<string>NEO BUSTER
+<string>SUPER BUSTER
+<string>BREAKER PLUS 4
+<string>BREAKER PLUS 5
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>KICK JUMP
+<string>ENEMY STEP
+<string>AIR HIKE
+<string>SIDE ROLL
+<string>TABLE HOPPER
+<string>TABLE HOPPER 2
+<string>TABLE HOPPER 3
+<string>PROVOCATION
+<string>RAINBOW
+<string>SPEED
+<string>GET MORE ORBS
+<string>
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>RECOVERY PROVOCATION
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>RED QUEEN COMBO A
+<string>RED QUEEN COMBO B
+<string>RED QUEEN COMBO C
+<string>RED QUEEN COMBO D
+<string>AERIAL COMBO
+<string>ROULETTE SPIN
+<string>HIGH ROLLER
+<string>EX HIGH ROLLER
+<string>STREAK
+<string>STREAK 2
+<string>EX STREAK
+<string>SPLIT
+<string>DOUBLE DOWN
+<string>CALIBUR
+<string>EX CALIBUR
+<string>SHUFFLE
+<string>EX SHUFFLE
+<string>HARD WAY
+<string>HARD WAY
+<string>PAYLINE
+<string>EX PAYLINE
+<string>
+<string>
+<string>
+<string>
+<string>NORMAL SHOT
+<string>COLOR UP
+<string>HIGH SHOT
+<string>CHARGE SHOT
+<string>CHARGE SHOT 2
+<string>CHARGE SHOT 3
+<string>
+<string>
+<string>
+<string>
+<string>EXCEED
+<string>EXCEED 2
+<string>EXCEED 3
+<string>EX-Act
+<string>MAX-Act
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>DEVIL TRIGGER
+<string>TRIGGER HEART
+<string>BUSTER
+<string>DEVIL BUSTER
+<string>BRINGER KNUCKLE
+<string>DOUBLE BRINGER KNUCKLE
+<string>
+<string>
+<string>
+<string>
+<string>DUAL SNATCH
+<string>
+<string>HELL BOUND
+<string>HOLD
+<string>DUAL HOLD
+<string>
+<string>FLAP TOP
+<string>SUMMONED SWORDS
+<string>BRINGER CLAW
+<string>MAXIMUM BET
+<string>SHOWDOWN
+<string>SNATCH
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>BREAK AWAY
+<string>SCAPEGOAT
+<string>
+<string>BREAKER PLUS
+<string>BREAKER PLUS 2
+<string>BREAKER PLUS 3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>WIRE BOUND
+<string>
+<string>
+<string>
+<string>BATTERY
+<string>EXPLODER
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>
+<string>JET GADGET
+<string>BOOST KNUCKLE
+<string>ONE NIGHT STAND
+<string>RENDEZVOUS
+<string>EX SHOT
+<string>EX SHOT AIR
+<string>EX CHARGE SHOT
+<string>RED QUEEN COMBO EX
+<string>RED QUEEN AIR EX
+<string>BLOODY QUEEN
+<string>BLOODY QUEEN AIR
+<string>DRILL RIG
+<string>DRILLMASTER
+<string>SLOW SPHERE
+<string>SLOW WORLD
+<string>SIDE WINDER
+<string>LOOP THE LOOP
+<string>NEO BUSTER
+<string>SUPER BUSTER
+<string>BREAKER PLUS 4
+<string>BREAKER PLUS 5
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>PASTA JET
+<string>PASTA MIX
+<string>BRIEF RELIEF
+<string>SWEET RELEASE
+<string>MEGA SHOT
+<string>MEGA CHARGE SHOT
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>JOCKY
+<string>STAMEN RAY / PETAL RAY
+<string>PASTA JET
+<string>PASTA MIX
+<string>BRIEF RELIEF
+<string>SWEET RELEASE
+<string>MEGA SHOT
+<string>MEGA CHARGE SHOT

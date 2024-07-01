@@ -1,0 +1,13 @@
+<string>NICO'S REPORT
+<string>CHARACTER REPORT
+<string>ENEMY REPORT
+<string>WEAPON REPORT
+<string>ITEM REPORT
+<string>ACTION REPORT
+<string>TUTORIAL REPORT
+<string>キャラクターに関するレポートを確認します
+<string>敵に関するレポートを確認します
+<string>武器に関するレポートを確認します
+<string>アイテムに関するレポートを確認します
+<string>キャラクターのアクション情報を確認します
+<string>今までに見たチュートリアルを確認します

@@ -1,0 +1,2177 @@
+<string>
+<string>test001
+<string>TEST002
+<string>TEST003
+<string>TEST004
+<string>EXECUTIVE PRODUCER
+<string>Jun Takeuchi
+<string>SENIOR PRODUCER
+<string>Michiteru Okabe
+<string>DIRECTOR
+<string>Hideaki Itsuno
+<string>ART DIRECTOR
+<string>Koki Kinoshita
+<string>MOVIE DIRECTOR
+<string>Yuji Shimomura<lf>U’DEN FLAME WORKS Co., Inc.
+<string>CHARACTER DESIGNER
+<string>Tatsuya Yoshikawa
+<string>SCENARIO WRITER
+<string>Bingo Morihashi<lf>Nine Stories Inc.
+<string>CREATURE DESIGNER
+<string>Daigo Ikeno
+<string>DEVIL BREAKER DESIGN
+<string>Shoji Kawamori<lf>SATELIGHT Inc.
+<string>MOVIE PRODUCER
+<string>Hiromasa Inoue<lf>SHIROGUMI Inc.
+<string>PRODUCERS
+<string>Tsuyoshi Kanda
+<string>Matt Walker
+<string>Peter Fabiano
+<string>NERO'S DEVIL TRIGGER
+<string>SUMMONED SWORDS
+<string>BRINGER CLAW
+<string>BUSTER
+<string>DUAL BUSTER
+<string>DEVIL SNATCH
+<string>DUAL SNATCH
+<string>HOLD
+<string>DUAL HOLD
+<string>When Devil Trigger is active:<lf>Press <SIZE 38><FONT 1><trc id="4"></FONT></SIZE>
+<string>When Devil Trigger is active:<lf>Press <SIZE 38><FONT 1><trc id="5"></FONT></SIZE>
+<string>Press <SIZE 38><FONT 1><trc id="7"></FONT></SIZE>near an enemy
+<string>When Devil Trigger is active:<lf><SIZE 32><FONT 1>Press <trc id="7"></FONT></SIZE>  near an enemy <SIZE 32><FONT 7>+<trc id="7"></FONT></SIZE>
+<string>When Devil Trigger is active:<lf>Press <SIZE 32><FONT 1><trc id="6">+<trc id="7"></FONT></SIZE>
+<string>When Devil Trigger is active:<lf>Press <SIZE 36><FONT 1><trc id="6">+<trc id="7"></FONT></SIZE>
+<string>After executing a Buster, <lf>continue to hold <SIZE 36><FONT 1><trc id="7"></FONT></SIZE>
+<string>When Devil Trigger is active:<lf>After executing a Buster, continue to<lf>hold <SIZE 36><FONT 1><trc id="7"></FONT></SIZE> with another enemy nearby
+<string>GAME DESIGN
+<string>LEAD DESIGNER
+<string>Yoichiro Ikeda
+<string>DESIGNERS
+<string>Haruo Murata
+<string>Junya Kumabe
+<string>Masaki Moritsugu
+<string>Kazuhisa Inoue
+<string>Misuzu Watanabe
+<string>Tomohiro Shingu
+<string>Nanako Miura
+<string>Norimasa Sankoda
+<string>Ryosuke Yoshida
+<string>Tsubasa Saimen
+<string>Tomonari Goto
+<string>Koji Kakae
+<string>Kenichi Suzuki
+<string>Ryota Suzuki
+<string>Masanori Komine
+<string>Hidekatsu Tetsuda
+<string>ENVIRONMENT
+<string>CONCEPT ARTISTS
+<string>Rintaro Komori
+<string>Keitaro Kato
+<string>LEAD ARTIST
+<string>Shinji Mikami
+<string>ARTISTS
+<string>Shinya Morita
+<string>Saki Isshiki
+<string>Shoki Giga
+<string>Hisae Arimura
+<string>Hiroshi Sugiyama
+<string>Yasuyuki Maeda
+<string>Tomohiro Fujimoto
+<string>Shinichi Nishihira
+<string>Tetsuya Shibasaki
+<string>Taira Hasegawa
+<string>Miwako Goda
+<string>Keishi Yoshioka
+<string>Takahide Sunagawa
+<string>Miyuki Yakushiji
+<string>Shinji Kajihara
+<string>Naoki Motori
+<string>Hongju Shin
+<string>Natsumi Furuya
+<string>Akihiro Koketsu
+<string>Shoichi Hasegawa
+<string>Tomoko Fujita
+<string>USER INTERFACE
+<string>CREATURE & GUI CONCEPT ARTIST
+<string>Mai Okura
+<string>LEAD UI DESIGNER
+<string>Reiko Nakano
+<string>UI DESIGNERS
+<string>Junya Nishino
+<string>Dairi Hayakawa
+<string>Kana Masumoto
+<string>Marie Yamaguchi
+<string>Masaki Sugita
+<string>Tomoyuki Isozaki
+<string>Eul Noh
+<string>Saki Kawano
+<string>Takeaki Toyooka
+<string>Kana Sasaki
+<string>Aoi Yokota
+<string>Miwako Iwasa
+<string>Dai Tanaka
+<string>Goro Tokuda
+<string>UI TECHNICAL ENGINEERS
+<string>Yuichi Nishio
+<string>Eiji Takata
+<string>CHARACTER ART
+<string>CONCEPT ARTISTS
+<string>Draude Alexander
+<string>Kenichi Ueda
+<string>LEAD ARTIST
+<string>Hirochika Nagaki
+<string>PLAYER MODEL LEAD
+<string>Keiji Nakaoka
+<string>ARTISTS
+<string>Wilson Ong
+<string>Masako Ofuku
+<string>Shinya Yoshimoto
+<string>Hiroaki Nakanishi
+<string>Taku Kurono
+<string>Kenjiro Miyabe
+<string>Hitoshi Igarashi
+<string>Kota Tsuchikawa
+<string>Tadashi Noyama
+<string>SHADER ARTIST
+<string>Tsukasa Aso
+<string>ANIMATION
+<string>LEAD ARTIST
+<string>Yuichiro Hiraki
+<string>ARTISTS
+<string>Tomoko Asakura
+<string>Koichi Egawa
+<string>Tsuyoshi Fujisawa
+<string>Yoshihiko Akita
+<string>Yuji Kimura
+<string>Marie Arakawa
+<string>Seiichi Shibata
+<string>Yuichi Hasegawa
+<string>ANIMATION
+<string>ARTISTS
+<string>Hiroyuki Nara
+<string>Takayasu Yanagihara
+<string>Syofu Ohashi
+<string>Yoko Kinoshita
+<string>Kenichi F Ueda
+<string>Naruhiko Nishio
+<string>Mizuho Kageyama
+<string>Shinya Miyamoto
+<string>Yoshihiro Tamura
+<string>Mizuki Takamura
+<string>Joosook Eom
+<string>Tsuyoshi Kobayashi
+<string>Yukinobu Kinoshita
+<string>Yusuke Nakayama
+<string>Shota Araki
+<string>Natsumi Arai
+<string>Yudai Shoga
+<string>Misaki Maekawa
+<string>Machi Yoda
+<string>Yukiya Tomiyama
+<string>Yunju Cho
+<string>Kazushi Asano
+<string>Toshimi Amano
+<string>Chihiro Ando
+<string>Yo Ikeda
+<string>Makiko Ishikawa
+<string>Xiao Wang
+<string>Kosuke Oba
+<string>Satoshi Kaniwa
+<string>Seika Kori
+<string>Keita Sato
+<string>Takamasa Chijimatsu
+<string>Makoto Tsukahara
+<string>Mai Tsujimura
+<string>Kohei Tomita
+<string>Mutsuki Tomiyama
+<string>Kaho Nakajima
+<string>Masato Fujiura
+<string>Mayuko Mizuno
+<string>Kota Miyoshi
+<string>Maya Murata
+<string>Yumiko Kitago
+<string>Chihjen Lai
+<string>Nobuyuki Asada
+<string>Yuiko Hirakuchi
+<string>Keisuke Tachibana
+<string>ANIMATION
+<string>MANAGERS
+<string>Chisako Arai
+<string>Koji Kanemori
+<string>Ryo Kanaya
+<string>Yukako Nagata
+<string>Shinya Kobayashi
+<string>MOCAP OPERATORS
+<string>Katsumi Kobayashi
+<string>Ikuo Nakayama
+<string>Tsunenori Shirahama
+<string>Naoki Fujisawa
+<string>Masahiro Nakano
+<string>Takeshi Nose
+<string>Tsuyoshi Nagae
+<string>MOCAP ACTORS
+<string>Yoshiaki Yuasa
+<string>Masatoshi Fukidome
+<string>VISUAL EFFECTS
+<string>LEAD ARTIST
+<string>Toshihiro Yokota
+<string>ARTISTS
+<string>Manabu Shimada
+<string>Masahito Aiso
+<string>Jumpei Yamada
+<string>Hiroki Ogawa
+<string>Koki Murakami
+<string>Taiga Sei
+<string>Takehisa Obayashi
+<string>Mitsunobu Takushima
+<string>Yoko Kishimoto
+<string>Takuro Kakazu
+<string>Takayuki Shinohara
+<string>Masamine Horie
+<string>Seitaro Takai
+<string>Takuya Komatsu
+<string>Koji Matushima
+<string>Yuki Shinta
+<string>Akiko Uchida
+<string>Riho Tanahashi
+<string>Kazuhiro Yamamoto
+<string>Kenji Hatatsuka
+<string>Yosuke Katsumata
+<string>Yutaka Tomosada
+<string>Chengyu Zhang
+<string>Jinwoo Mok
+<string>MANAGERS
+<string>Kanna Nakata
+<string>Junichiro Ogawa
+<string>LIGHTING
+<string>LEAD ARTIST
+<string>Hirofumi Aihara
+<string>ARTISTS
+<string>Hideto Yoneda
+<string>Satoshi Ueda
+<string>Takatoshi Inoue
+<string>Masanao Yamazaki
+<string>DESTRUCTION & SECONDARY ANIMATION
+<string>LEAD ARTIST
+<string>Takami Taki
+<string>ARTIST
+<string>Senichi Kaetsu
+<string>PROGRAMMING
+<string>LEAD PROGRAMMER
+<string>Yoshiharu Nakao
+<string>PROGRAMMERS
+<string>Sasuke Shimoyama
+<string>Hiroshi Inaba
+<string>Michiaki Masuda
+<string>Yohei Doi
+<string>Masaki Nagata
+<string>Wakana Yamaguchi
+<string>Takeyuki Yamamoto
+<string>ZhiCheng Zhu
+<string>Yudai Yamashita
+<string>Takaki Nagazumi
+<string>Yuta Handa
+<string>Hidenori Takaya
+<string>Takahiro Tsuboi
+<string>Tsutomu Terada
+<string>Ryo Narita
+<string>Takanori Yoshioka
+<string>Yuta Taki
+<string>Taku Nishimura
+<string>Akihiro Hirama
+<string>Yuma Horikoshi
+<string>Kazuki Kihara
+<string>Ren Horiguchi
+<string>TzuHsun Kao
+<string>Hiroshi Hattori
+<string>TECHNICAL ARTIST
+<string>Tomohiro Ago
+<string>RE ENGINE STAFF
+<string>Shigeki Niino
+<string>Daisuke Sanekane
+<string>Tomofumi Ishida
+<string>Masaaki Korematsu
+<string>Kazuhiro Takahara
+<string>Akiyoshi Takahashi
+<string>Stefanus Nanami
+<string>Hitoshi Mishima
+<string>Kenta Yamaki
+<string>Yuki Noto
+<string>Yusuke Ichiyama
+<string>Koichi Kubo
+<string>Haruna Akuzawa
+<string>Hong Hu
+<string>Takakimi Hashimoto
+<string>Akihiro Shimizu
+<string>Takumi Yamada
+<string>Tatsuya Okamoto
+<string>Takumi Sato
+<string>Shunsuke Saito
+<string>Haruki Noritake
+<string>Tatsunori Aoyama
+<string>Soichi Uchiyama
+<string>Sho Kitami
+<string>Tomohiro Shimizu
+<string>Ojiro Tanaka
+<string>Takaya Nishii
+<string>Seiya Sugo
+<string>Tsukasa Murayama
+<string>Hiroki Sone
+<string>Katsuya Kikuchi
+<string>Yuki Kitajima
+<string>Yusuke Saito
+<string>Masakazu Sakoya
+<string>Naoki Suenaga
+<string>Yuki Furuta
+<string>Atsuhiko Murata
+<string>Yasuto Tsuchisaka
+<string>Hideki Shiojiri
+<string>Isao Higashino
+<string>Hitoshi Yokota
+<string>Koji Misu
+<string>Shingo Ito
+<string>Daigo Matsuura
+<string>Masatoshi Nakamura
+<string>AUDIO
+<string>AUDIO DIRECTOR
+<string>Kakunoshin Atsumi
+<string>LEAD COMPOSER
+<string>Kota Suzuki
+<string>COMPOSERS
+<string>Hiromitsu Maeba
+<string>Yoshiya Terayama
+<string>LEAD SOUND DESIGNER
+<string>Yoshihiko Wada
+<string>SOUND DESIGNERS
+<string>Taichi Ezoe
+<string>Hirokazu Nishida
+<string>Nami Motoi
+<string>Shunichi Suwa
+<string>LEAD SOUND PROGRAMMER
+<string>Masahiko Minami
+<string>SOUND PROGRAMMERS
+<string>Kenji Kojima
+<string>Yusuke Kinoshita
+<string>Toshiaki Morimoto
+<string>CINEMATIC SOUND DESIGNER
+<string>Arata Iwashina
+<string>CINEMATIC SOUND COORDINATER
+<string>Mitsuhiko Takano
+<string>MIXING ENGINEERS
+<string>Kazuya Takimoto
+<string>Takashi Moriguchi
+<string>Ryota Takei
+<string>SOUND STUDIO COORDINATOR
+<string>Setsuo Yamamoto
+<string>SOUND MANAGER
+<string>Yoshinori Koike
+<string>CINEMATICS
+<string>LEAD ARTIST
+<string>Kimihiro Tomino
+<string>LEAD IN GAME ARTIST
+<string>Junya Yamamoto
+<string>LEAD FACIAL ARTIST
+<string>Naoki Tanimoto
+<string>ARTISTS
+<string>Keiji Koto
+<string>Yuki Kishimoto
+<string>Naoki Kishida
+<string>Rushio Moriyama
+<string>Soichiro Miyake
+<string>Nao Tanimoto
+<string>Masahiko Ueda
+<string>Yoshiki Takegaki
+<string>Toshiya Kotani
+<string>Koichi Kikutani
+<string>Shigehiro Ochi
+<string>Takuro Yoshimura
+<string>Yuki Kato
+<string>Kei Asakawa
+<string>Mika Kawai
+<string>Toshiya Kotani
+<string>Kumiko Fujiwara
+<string>Megumi Kitagawa
+<string>PROJECT MANAGEMENT
+<string>LEAD MANAGER
+<string>Hiroyuki Nabeshima
+<string>MANAGERS
+<string>Masashi Yamaura
+<string>Toru Arikawa
+<string>Tomo Fujiwara
+<string>OUTSOURCING COMPANIES
+<string>SIDE UK
+<string>CASTING & PRODUCTION MANAGER
+<string>Andrew Skillen
+<string>HEAD COSTUMIER
+<string>Madeleine Jenkins
+<string>COSTUME MAKERS
+<string>Kate Tabor
+<string>Penny Sanford
+<string>Lucy Thaxter
+<string>COSTUME BUYER ASSISTANT
+<string>Jodie Bell
+<string>COSTUME JUNIORS
+<string>Denise Anderson
+<string>Kathryn Lawton
+<string>LOCATION MANAGER
+<string>Simon Hassard
+<string>3LATERAL
+<string>PRINCIPAL R&D ENGINEER
+<string>Vladimir Mastilovic
+<string>PRODUCER
+<string>Sonja Markovic
+<string>PROJECT COORDINATORS
+<string>Uros Sikimic
+<string>Jelena Blazic
+<string>Jelena Radanovic
+<string>Bojana Sarac
+<string>PRODUCTION ASSISTANT
+<string>Jelena Nenadov
+<string>SUPERVISOR CHARACTER RIGGERS
+<string>Nikola Visnjic
+<string>Vojislav Pavkov
+<string>CHARACTER RIGGERS
+<string>Arman Musovic
+<string>Aleksandar Nikolic
+<string>JUNIOR CHARACTER RIGGERS
+<string>Tatjana Bojovic
+<string>Igor Budai
+<string>Vlada Janjatovic
+<string>LEAD CHARACTER ARTIST
+<string>Aleksandar Popov
+<string>SUPERVISOR CHARACTER ARTISTS
+<string>Lazar Damjanov
+<string>Goran Mamic
+<string>Biljana Zlatkovic
+<string>Luka Lakic
+<string>Josip Vrandecic
+<string>Vojislav Vukadin
+<string>CHARACTER ARTISTS
+<string>Marko Bugarski
+<string>Dragutin Sukovic
+<string>Marko Brkovic
+<string>Aleksa Bracic
+<string>Aleksandra Kalaj
+<string>Aron Vajda
+<string>Nikola Stosic
+<string>Vladimir Kuzevski
+<string>Filip Petronijevic
+<string>Nikola Milosavljevic
+<string>Milena Vrandecic
+<string>Miroslav Jovcov
+<string>Dragan Maric
+<string>Gordana Gogic
+<string>Nenad Vukic
+<string>Ana Bogdanovic
+<string>Dorde Lazic
+<string>LEAD PROGRAMMER
+<string>Nikola Kudus
+<string>PROGRAMMERS
+<string>Relja Ljubobratovic
+<string>Bojan Torbica
+<string>Predrag Mihic
+<string>LEAD SCAN TECHNICIAN
+<string>Vuk Rajkovic
+<string>SUPERVISOR SCAN TECHNICIANS
+<string>Milica Mastilovic
+<string>Boris Cetkovic
+<string>SCAN TECHNICIANS
+<string>Igor Tejic
+<string>Dejan Dragojlov
+<string>LEAD SYSTEM ENGINEER
+<string>Milan Kljajic
+<string>SYSTEM ENGINEER
+<string>Miroslav Milosevic
+<string>IT TECHNICIANS
+<string>Dalibor Joksimovic
+<string>Rade Pantelic
+<string>HR MANAGER
+<string>Jelena Blazic
+<string>FINANCES
+<string>Jelena Mastilovic
+<string>STUDIO MANAGER
+<string>Jelena Brkic
+<string>STUDIO ASSISTANT
+<string>Natasa Nadalin
+<string>TECHNICAL MODELLERS<lf> SUPERVISOR
+<string>Bojana Sarac
+<string>Brankica Nikic
+<string>Dijana Musovic
+<string>Dragan Davidovic
+<string>Miroslav Radmanovic
+<string>Igor Budai
+<string>TECHNICAL MODELLERS
+<string>Tatjana Bojovic
+<string>Marko Cveticanin
+<string>Zorana Stevanovic
+<string>Vladimir Kuzevski
+<string>Filip Petronijevic
+<string>Nikola Stosic
+<string>Marija Blaskovic
+<string>Miroslav Jovcov
+<string>Igor Eric
+<string>Caba Mesaros
+<string>Sasa Kocis
+<string>Vladimir Vujkov
+<string>Dijana Stuparusic Sljukic
+<string>CUBIC MOTION LTD.
+<string>EXECUTIVE PRODUCER
+<string>David Barton
+<string>PRODUCER
+<string>Chris Walter
+<string>LEAD FACIAL ANIMATOR
+<string>Wei Xing Yong
+<string>FACIAL ANIMATORS
+<string>Charlotte Mosey
+<string>Adam Walton
+<string>LEAD MOTION TRACKER
+<string>Seb Gough
+<string>MOTION TRACKERS
+<string>Reece Thomas
+<string>Niall Selman
+<string>VOLTA
+<string>PROJECT MANAGER
+<string>Elliot Stevens
+<string>ART DIRECTOR
+<string>David Giraud
+<string>ART LEAD
+<string>Fabio Henrique
+<string>ARTISTS
+<string>Kevin Demyunk
+<string>Mathieu Grenier
+<string>David Borba
+<string>Luiz Alves
+<string>Guillaume Mollé
+<string>VIRTUOS
+<string>CEO
+<string>Gilles Langourieux
+<string>DIRECTOR OF<lf> BUSINESS DEVELOPMENT
+<string>Philippe Angely
+<string>ART PRODUCERS
+<string>Yang Peilin
+<string>Lu Zhanyi
+<string>ART DIRECTORS
+<string>Zhang Chong
+<string>Wang Jing
+<string>Li Zhonghua
+<string>TEAM LEADERS
+<string>Gan Songlin
+<string>Huang Junfeng
+<string>Zhang Ke
+<string>Pan Mougang
+<string>Li Yongpeng
+<string>CHARACTER ARTISTS
+<string>Hu Long
+<string>Liao Ke
+<string>Miao Jiawei
+<string>Tang Xiaoyi
+<string>Tao Song
+<string>Wang Yueyuan
+<string>Zhao Mengsha
+<string>WEAPON ARTISTS
+<string>He Junqi
+<string>Jia Jia
+<string>Ma Yuhong
+<string>Peng Bo
+<string>Wang Xian
+<string>Yang Qian
+<string>ENVIRONMENT ARTISTS
+<string>Chen Kuan
+<string>Fu Zhongyi
+<string>Gong Lei
+<string>Gou Guozhi
+<string>Han Xu
+<string>He Shuai
+<string>Huang Yikai
+<string>Leng Junya
+<string>Li Senyang
+<string>Li Xiaoqian
+<string>Li Xuehui
+<string>Liang Yuwen
+<string>Liu Xuedan
+<string>Liu Yaling
+<string>Liu Yucheng
+<string>Luo Qianqian
+<string>Ning Zuoteng
+<string>Tang Xianglong
+<string>Wang Peigui
+<string>Wang Xiaoli
+<string>Xu Haijin
+<string>Xu Xiang
+<string>Yan Zhuangling
+<string>Yang Zhengmiao
+<string>Zeng Yao
+<string>Zhang Kaisong
+<string>Zhang Tong
+<string>Zhang Xiang
+<string>Zhang Yanmei
+<string>Zhu Huawei
+<string>Zhu Ziqi
+<string>Zou Bingqian
+<string>XPEC Art Center Inc.
+<string>CHAIRMAN
+<string>Gordon Lin
+<string>SALES MANAGER
+<string>David Kao
+<string>ART DIRECTOR
+<string>Huali Song
+<string>ART LEADERS
+<string>Wentao Zhang
+<string>Kai Yang
+<string>ARTISTS
+<string>Xiaoyan Bao
+<string>Lei Chen
+<string>Yong Chen
+<string>Xiangyu Ding
+<string>Jiwei Fan
+<string>Zhenwei Ge
+<string>Dawei Yang
+<string>Zhou Chen
+<string>Heng Zhao
+<string>Qingmei Zhao
+<string>Shiqing Zhao
+<string>Shiqing Li
+<string>Mei Qin
+<string>Zhigang Song
+<string>Chunjie Wang
+<string>Ying Wang
+<string>Xiaoe Zhang
+<string>Huanhuan Zhou
+<string>NXA STUDIOS
+<string>PROJECT MANAGERS
+<string>Peter Sean (Xiao Chao Zhong)
+<string>Alice Lin (Lin Yuan Yuan)
+<string>TEAM LEADER
+<string>Eric Yao (Yao Zhen Yu)
+<string>ARTISTS
+<string>Niu Peng Zhen
+<string>Yang Dong Mei
+<string>Shi Jie
+<string>Yu Jiao Long
+<string>Xu Dian Xing
+<string>Wang Bin
+<string>Xu Hao
+<string>Si Ma Jia Qi
+<string>Liu Chen
+<string>Yu Meng
+<string>Hu Peng Fei
+<string>Wang Tao Yue
+<string>Xie Si Ning
+<string>Zhang Rui
+<string>Liu Yang
+<string>Yang Wei Jian
+<string>Yang Chao
+<string>Wang Yu Xiong
+<string>Liu Peng
+<string>Li Hong Yu
+<string>SHANGHAI ARTS UNITED SOFTWARE CO., LTD.
+<string>PRODUCER
+<string>Ling Chao
+<string>ART DIRECTOR
+<string>Sean Zhang
+<string>SENIOR PROJECT MANAGER
+<string>Zhao Jingyi
+<string>PROJECT MANAGER
+<string>Zhang Yu
+<string>QUALITY ASSURANCE
+<string>Song Yanan
+<string>LEAD ARTISTS
+<string>Yao Yuan
+<string>Li Hui
+<string>Shi Wen
+<string>3D ARTISTS
+<string>Cai Jiajun
+<string>Cao Yang
+<string>Chai Guodong
+<string>Chen Guohui
+<string>Chen Junhua
+<string>Deng Zhuo
+<string>Dou Deli
+<string>Fang Bin
+<string>Feng Da
+<string>Liang Jingcan
+<string>Liang Shiping
+<string>Lin Shijiao
+<string>Liu Tianyu
+<string>Liu Yongguang
+<string>Luo Huanxin
+<string>Ma Xiaonan
+<string>Meng Kuiyu
+<string>Meng Qianqian
+<string>Meng Xiangshun
+<string>Qian Mengyu
+<string>Qin Yu
+<string>Rao Anlan
+<string>Song Yonghai
+<string>Song Zheng
+<string>Su Yizheng
+<string>Tan Weiyang
+<string>Tang Jiahao
+<string>Tian Zhao
+<string>Wan Zhengfei
+<string>Wang Dong
+<string>Wang Kun
+<string>Wang Tianming
+<string>Wang Xinghong
+<string>Wei Chengxuan
+<string>Xiao Linfang
+<string>Xu Hui
+<string>Xu Ke
+<string>Ye Ling
+<string>Zhang Feixiang
+<string>Zhang Xuechuan
+<string>Zhang Yichi
+<string>Zhang Zheyuan
+<string>Zhao Jie
+<string>Zheng Yafei
+<string>Rascals
+<string>ART LEADS
+<string>Jiri Svetinsky
+<string>Roman Mindek
+<string>ARTISTS
+<string>Jaroslav Pijacek
+<string>Stanislav Ostrikov
+<string>Maria Panfilova
+<string>Pavel Protasov
+<string>PRODUCTION DIRECTOR
+<string>Tomas Roller
+<string>BUSINESS DIRECTOR
+<string>Martin Korman
+<string>LIQUID DEVELOPMENT
+<string>STUDIO DIRECTOR
+<string>Darren Bartlett
+<string>BUSINESS MANAGER
+<string>Heather Dyer
+<string>CREATIVE DIRECTOR
+<string>Stefan Henry Biskup
+<string>ARTISTS
+<string>Sherry Kuchera
+<string>Cian Shelley
+<string>ORIGINAL FORCE LTD.
+<string>ANIMATION
+<string>ANIMATION SUPERVISOR
+<string>Tao Zhong
+<string>PROJECT MANAGER
+<string>Agnes Wang, Kim Li
+<string>PROJECT LEADS
+<string>Lie Ma
+<string>Tangrui Li
+<string>QUALITY CHECK
+<string>HuanHuan Yang
+<string>Yaping Wu
+<string>ANIMATORS
+<string>KeFei Zhao
+<string>CanCan Yang
+<string>HaiYang Wang
+<string>JiangTao Cao
+<string>JunXi Chen
+<string>Li Cao
+<string>PeiYuan Tu
+<string>Qian Lei
+<string>Qian Ma
+<string>ShenRong Ma
+<string>XiaoDong Li
+<string>XiaoLei Li
+<string>XingChao Yang
+<string>Xu Zhang
+<string>Ya Zhang
+<string>YaNian Tian
+<string>YingChuang Feng
+<string>Yuan Cao
+<string>ZhaoXiang Xing
+<string>Zhen Xiong
+<string>ZhenCai Yang
+<string>ZuoYi Li
+<string>Xiaomei Zhu
+<string>CHARACTER MODELING
+<string>ART SUPERVISOR
+<string>Xiaodong Han
+<string>PROJECT MANAGER
+<string>Agnes Wang, Lynn Zhang
+<string>TEAM LEAD
+<string>Shiguang Song
+<string>QUALITY CHECK
+<string>Yali Gao
+<string>3D ARTISTS
+<string>Zhongnan Mao
+<string>Yongchun Xie
+<string>Shiguang song
+<string>HAIR MODELING
+<string>ART SUPERVISOR
+<string>Xiaodong Han
+<string>PROJECT MANAGER
+<string>Agnes Wang, Lynn Zhang
+<string>CHIEF ARTIST
+<string>Yongchun Xie
+<string>QUALITY CHECK
+<string>Yali Gao
+<string>K2 CO., LTD.
+<string>CHARACTER ARTISTS
+<string>Takeshi Inoue
+<string>Akihiro Takamoto
+<string>Wataru Mizuno
+<string>ENVIRONMENT ARTIST
+<string>Tetsuya Deguchi
+<string>DIGITAL FRONTIER INC.
+<string>PRODUCERS
+<string>Takehisa Yoshimura
+<string>Yoichiro Tajiri
+<string>CHARACTER RIGGING LEAD
+<string>Shingo Matsuyama
+<string>CHARACTER RIGGING ARTISTS
+<string>Hirotaka Tanaka
+<string>Ryoji Tabuchi
+<string>Ko Sakurai
+<string>Ryo Koyama
+<string>Takayuki Yanagisawa
+<string>Xinyu Yang
+<string>Chiang Kai Fan
+<string>Tadaaki Udo
+<string>Wataru Oguchi
+<string>Bigot Wilfried
+<string>FACIAL RIGGING LEAD
+<string>Kensaku Ishiyama
+<string>FACIAL RIGGING ARTIST
+<string>Masahiro Mushikami
+<string>LEAD TECHNICAL DIRECTOR
+<string>Toshio Ishida
+<string>TECHNICAL DIRECTOR
+<string>Tomomichi Ichikawa
+<string>COORDINATORS
+<string>Yuka Mouri
+<string>Takao Muraoka
+<string>Wataru Senzaki
+<string>NEURON·AGE CO., LTD.
+<string>ANIMATORS
+<string>Shinji Ishii
+<string>Shin Kazoe
+<string>Mana Ikawa
+<string>Yui Kada
+<string>EVENTSCENE ARTIST
+<string>Kanae Onishi
+<string>GAME DESIGNER
+<string>Yasunobu Wada
+<string>ACCESS GAMES INC.
+<string>LEAD ANIMATORS
+<string>Isao Hiroyoshi
+<string>Shun Moritake
+<string>ANIMATORS
+<string>Daisuke Ogura
+<string>Ryota Nakatani
+<string>Yusaku Amatani
+<string>Kyoka Tanehashi
+<string>Tomoya Hisatsune
+<string>PRODUCER
+<string>Nobuo Tomita
+<string>Ignis Imageworks Corp.
+<string>MOTION DESIGNERS
+<string>Yuki Date
+<string>Shigemi Karaki
+<string>Yuta Fukushi
+<string>Yuki Hamatani
+<string>Manabu Hanawa
+<string>Yasuyuki Watanabe
+<string>Souta Ichinoseki
+<string>Takumi Nishiyama
+<string>White Owls Inc.
+<string>ANIMATION DIRECTOR
+<string>Chimorin Shogun
+<string>ANIMATOR
+<string>Kimihiro Ozaki
+<string>PRODUCTION MANAGER
+<string>SWERY
+<string>POWER ARTS Inc.
+<string>MOTION ACTORS
+<string>Hirotaka Matsushita
+<string>Keita Hayashi
+<string>KATSUGEKIZA Inc.
+<string>MOTION & ACTION ADVISORS
+<string>Wataru Koga
+<string>Akira Sugihara
+<string>Yutaka Kanbe
+<string>MOTION ACTOR
+<string>Ryuta Hara
+<string>Himawari Theatre Group Inc.
+<string>MOTION ACTORS
+<string>Naomi Furubayashi
+<string>Nana Tanaka
+<string>Torisan Co., Ltd.
+<string>LEAD DESIGNER
+<string>Ryosuke Koyanagi
+<string>DESIGNERS
+<string>Mika Kambe
+<string>Kouzen Chin
+<string>MUSIC
+<string>“Subhuman”
+<string>Music by
+<string>Cody Matthew Johnson
+<string>Vocal by
+<string>Michael Barr
+<string>Mixed by
+<string>Mark Needham
+<string>Courtesy Of Nuclear Blast
+<string>“Devil Trigger (feat. Ali Edwards)”
+<string>Music and Words by
+<string>Casey Edwards
+<string>Additional Vocal by
+<string>Cliff Llorett
+<string>Mixed by
+<string>Daniel Kresco
+<string>“Crimson Cloud (feat. Rachel Fannan)”
+<string>Music by
+<string>Jeff Rona
+<string>Words by
+<string>Rachel Fannan
+<string>Mixed by
+<string>Mark Needham
+<string>“Legacy (feat. Ali Edwards)”
+<string>Music by
+<string>Kota Suzuki
+<string>Words by
+<string>Ali Edwards
+<string>Mixed by
+<string>Daniel Kresco
+<string>LOS ANGELES MUSIC PRODUCTIONS
+<string>ADDITIONAL ARRANGER AND<lf> SCORE PRODUCER
+<string>John R. Graham And Casey Edwards
+<string>RECORDING SESSION SUPERVISOR
+<string>Jeff Rona
+<string>SCORE WRANGLER
+<string>Alec Justice
+<string>SCORE COORDINATOR
+<string>Lucky Bell
+<string>RECORDING ENGINEERS
+<string>Gerson Chacnama And Michael Woodrum
+<string>James Hill
+<string>RECORDING CONSULTANT<lf> SUPERVISOR
+<string>Francis Buckley
+<string>RECORDING STUDIOS
+<string>The Village Studios, Los Angeles, Ca
+<string>Michael Woodrum Productions, Burbank, Ca
+<string>Musicians Institute, Hollywood, Ca
+<string>MIXING STUDIOS
+<string>Red Oak Studios, Los Angeles, Ca
+<string>Remote Control Productions, Santa Monica, Ca
+<string>SESSION VIDEOGRAPHY
+<string>Erik Nielsen And Clinton Jones
+<string>SESSION PHOTOGRAPHY
+<string>Amelia Rona
+<string>SPECIAL THANKS
+<string>Esp Guitars
+<string>MUSIC PRODUCTION ASSISTANT
+<string>Hiroo Nakano
+<string>MUSIC DIRECTOR AND<lf>MUSIC PRODUCTION SUPERVISOR
+<string>Koyo Sonae
+<string>THE SOUND LAB at TECHNICOLOR
+<string>SUPERVISING SOUND DESIGNERS
+<string>Scott Gershin
+<string>Masanobu 'Tomi' Tomita
+<string>SOUND DESIGNERS
+<string>Nick Interlandi
+<string>Mike Schapiro
+<string>ASOCIATE SOUND DESIGNER
+<string>Jesse Garcia
+<string>SOUND DESIGN PRODUCER
+<string>Debbie Gonzalez
+<string>ASSET CORDINATOR
+<string>Anthony Alfaro
+<string>ATTIC INC.
+<string>COMPOSER
+<string>Steven Mcnair
+<string>GUITAR
+<string>Daiki Umase
+<string>COORDINATOR
+<string>Chizu Iwaki
+<string>Otonarium Co.,Ltd.
+<string>CINEMATIC SOUND DESIGNER
+<string>Hiromune Kurahashi
+<string>TOHO STUDIOS SERVICE
+<string>FOLEY RECORDING MIXER
+<string>Takahiro Fujishima
+<string>FOLEY ARTIST & EDITOR
+<string>Akihiko Okase
+<string>FOLEY ASSISTANT
+<string>Go Hasegawa
+<string>FOLEY BOOM OPERATOR
+<string>Naoto Watanabe
+<string>MANAGERS
+<string>Chiaki Tachikawa
+<string>Humihito Hayakawa
+<string>Sadaaki Nishinoo
+<string>Forcewick Sound Design Co.,Ltd.
+<string>AUDIO EDITORS
+<string>Masayuki Endou
+<string>Masayoshi Umezu
+<string>Ryo Inakura
+<string>CAST
+<string>- NERO -
+<string>SCAN MODEL
+<string>Karlo Baker
+<string>MOTION CAPTURE
+<string>Johnny Yong Bosch
+<string>VOICE
+<string>Johnny Yong Bosch
+<string>- V -
+<string>SCAN MODEL
+<string>Owen Mcginnity
+<string>MOTION CAPTURE / VOICE
+<string>Brian Hanford
+<string>- DANTE -
+<string>SCAN MODEL
+<string>Adam Cowie
+<string>MOTION CAPTURE/VOICE
+<string>Reuben Langdon
+<string>- NICO - 
+<string>SCAN MODEL
+<string>Emily Bador
+<string>MOTION CAPTURE / VOICE
+<string>Faye Kingslee
+<string>- TRISH -
+<string>SCAN MODEL
+<string>Ariana Damant
+<string>MOTION CAPTURE
+<string>Faye Kingslee
+<string>VOICE
+<string>Wendee Lee
+<string>- LADY -
+<string>SCAN MODEL
+<string>Andrea Tivador
+<string>MOTION CAPTURE
+<string>Agnes Olech
+<string>VOICE
+<string>Kate Davis
+<string>- MORRISON -
+<string>SCAN MODEL
+<string>Antony Fitzgerald
+<string>MOTION CAPTURE
+<string>Dan Southworth
+<string>VOICE
+<string>Joey Camen
+<string>- VERGIL -
+<string>SCAN MODEL
+<string>Maxim Nazarov
+<string>MOTION CAPTURE / VOICE
+<string>Dan Southworth
+<string>U'DEN FLAME WORKS Co., Inc.
+<string>VIDEO CONTINUITY ACTORS
+<string>Masanori Mimoto (DANTE)
+<string>Shinji Suzuki (NERO)
+<string>Hiroko Yashiki (NICO/TRISH)
+<string>Kazuki Tsujimoto (V/VERGIL)
+<string>Naoki Nakamura (MORRISON/GRIFFON)
+<string>Yoshino Imamura (LADY)
+<string>ACTION STAFF
+<string>Ayako Hino
+<string>Katsu Itagaki
+<string>VIDEO CONTINUITY CAMERA
+<string>Shinichi Fujita
+<string>SHIROGUMI Inc.
+<string>ASSISTANT PRODUCER
+<string>Masayo Ono
+<string>CG DIRECTORS
+<string>Satoru Sasaki
+<string>Masahito Honda
+<string>Chihiro Hashimoto
+<string>DIGITAL ARTISTS
+<string>Tsubasa Ishida
+<string>Suguru Tanaka
+<string>Atsushi Tsugaruya
+<string>Toshiaki Kawashima
+<string>Yu Shimizu
+<string>Atsushi Yamaki
+<string>Yuta Sukegawa
+<string>Kento Kume
+<string>Hiroki Hayashi
+<string>Norimasa Ohata
+<string>Takumi Shinbori
+<string>Hikaru Yamane
+<string>Hayato Matsuo
+<string>Motosuke Kuroda
+<string>Minako Okuguchi
+<string>Yuu Hoshi
+<string>Yui Suzuki
+<string>Yukihiko Nishitouge
+<string>Kaori Obara
+<string>SUPPORT
+<string>Sawako Itoi
+<string>Kazuki Yanagisawa
+<string>SYSTEM ADMINISTRATORS
+<string>Masaru Suzuki
+<string>Tomohiko Tatsumi
+<string>Takamitsu Nyuta
+<string>Takayuki Koshikawa
+<string>TECHNICAL GROUP
+<string>TOEI CO., LTD. ZUKUN LABORATORIES
+<string>TECHNICAL DIRECTOR<lf> / CHIEF DESIGNER
+<string>Kenya Miki
+<string>FACIAL TECHNICAL DIRECTOR
+<string>Hiromu Kinoshita
+<string>FACIAL CAPTURE DESIGNERS
+<string>Diogo Ribeiro
+<string>Shinichi Nagaki
+<string>Taisei Kurita
+<string>Haruka Hisada
+<string>Manami Kira
+<string>MOTION CAPTURE DESIGNERS
+<string>Yuuka Tomita
+<string>Kouta Isomura
+<string>Kazuya Takahashi
+<string>Cheng Ze
+<string>PREVIS SCRIPTER
+<string>Yuri Amakasu
+<string>PREVIS ASSISTANTS
+<string>Tetsuya Noji
+<string>Shoma Muto
+<string>Yukihito Kawaguchi
+<string>PRODUCTION ASSISTANT
+<string>Kaori Fujino
+<string>PROJECT MANAGER
+<string>Yuko Sadaki
+<string>PRODUCER
+<string>Sawami Takahashi
+<string>ZINOU PHARMACEUTICS, INC.
+<string>CG PRODUCER
+<string>Koichi Nobuta
+<string>LEAD RIGGING ARTIST
+<string>Takahiro Nowatari
+<string>RIGGING ARTISTS
+<string>Takaya Naito
+<string>Haruna Hasegawa
+<string>Taisuke Isogai
+<string>CG ANIMATORS
+<string>Shota Deguchi
+<string>Miyu Higuchi
+<string>Haruka Kikuchi
+<string>Kazuki Kodama
+<string>Yutaka Iwama
+<string>Kensuke Saito
+<string>Akane Osawa
+<string>Nobuo Hosoyama
+<string>Yusuke Hirota
+<string>Yuta Yamashita
+<string>Satoru Ohori
+<string>Takuya Oki
+<string>Kei Hashimoto
+<string>Masaya Ishihara
+<string>PRODUCTION MANAGERS
+<string>Asuka Yamaguchi
+<string>Ryo Yamazaki
+<string>Just Cause Productions, Inc.
+<string>ACTOR COORDINATION
+<string>PRODUCER
+<string>Takuya Shibata
+<string>PRODUCTION ASISTANTS
+<string>Yuika Nakajima
+<string>Yoriko Komura
+<string>LOCALIZATION
+<string>Mikey Mcnamara
+<string>(STRANGELY COMPELLING MULTIMEDIA INC)
+<string>rouge sound
+<string>ADR PRODUCERS
+<string>Mari Ueda
+<string>Kumiko Ogawa
+<string>ADR DIRECTORS
+<string>Liam O'Brien
+<string>Stephanie Sheh
+<string>Wendee Lee
+<string>LEAD ADR SOUND ENGINNER
+<string>Jamison Boaz
+<string>ASSISTANT ADR SOUND ENGINEER
+<string>Eddie R. Correa
+<string>(MIXTER ED INDUSTRIES INC)
+<string>LOCALIZATION
+<string>Mikey Mcnamara
+<string>(STRANGELY COMPELLING MULTIMEDIA INC)
+<string>Mari Ueda
+<string>ENGLISH SCRIPT ADAPTATION
+<string>Jamie Mortellaro
+<string>PRODUCTION ACCOUNTANT
+<string>Eiren Chong
+<string>CASTING (MOTION CAPTURE)
+<string>Mari Ueda
+<string>CASTING (ADR)
+<string>Kumiko Ogawa
+<string>ON SET TRANSLATOR<lf> (MOTION CAPTURE)
+<string>Mari Ueda
+<string>VOICE CAST
+<string>EVA
+<string>Wendee Lee
+<string>KYRIE
+<string>Stephanie Sheh
+<string>PATTY
+<string>Haviland Stillwell
+<string>GRIFFON / NIGHTMARE
+<string>Brad Venable
+<string>GOLIATH
+<string>Joey Camen
+<string>MALPHAS
+<string>Becky Boxer
+<string>NIDHOGG
+<string>Jay Preston
+<string>ARTEMIS
+<string>Elizabeth Hales
+<string>CAVALIERE ANGELO
+<string>Jamison Boaz
+<string>KING CERBERUS
+<string>Pauk Stanko
+<string>KING CERBERUS B
+<string>Nicky Scorpio
+<string>KING CERBERUS C
+<string>Patrick Seitz
+<string>URIZEN
+<string>Dan Southworth
+<string>HELL JUDECCA
+<string>Molly Scarpine
+<string>NOBODY / BAPHOMET
+<string>Todd Haberkorn
+<string>PROTO ANGELO
+<string>Matt Mountjoy
+<string>DEATH SCISSORS
+<string>Liisa Lee
+<string>BALROG
+<string>Michael Schwalbe
+<string>SCUDO ANGELO
+<string>Harrison Bacon
+<string>SOLDIER
+<string>Patrick Seitz
+<string>unknownCASE inc.
+<string>CG PRODUCER
+<string>Hiroyuki Kashima
+<string>CG ANIMATION DIRECTOR
+<string>Atsushi Sakiyama
+<string>DIGITAL ARTISTS
+<string>Takashi Kudo
+<string>Shunta Sakai
+<string>Sho Miyashita
+<string>Shogo Takata
+<string>Yuriko Sugiyama
+<string>Yuya Yamaguchi
+<string>Masato Arai
+<string>Makoto Takeuchi
+<string>RIOT Visualization Co., Ltd.
+<string>DIRECTOR / DESIGNER
+<string>Kuniomi Ito
+<string>DESIGNERS
+<string>Taku Arakawa
+<string>Akinori Higuchi
+<string>TECHNICAL ARTIST
+<string>Takahiro Tanaka
+<string>MANAGER
+<string>Hiroyuki Okuyama
+<string>PRODUCER
+<string>Kimihiro Ueno
+<string>SPEED INC.
+<string>CG ARTISTS
+<string>Shinji Kato
+<string>Kanji Kawai
+<string>Mitsuyoshi Takeda
+<string>FLOP DESIGN
+<string>FLOP DESIGN
+<string>SATELIGHT Inc.
+<string>COORDINATORS
+<string>Norihiro Masuda
+<string>Yasuhiro Kamima
+<string>BINARI SONORI A KEYWORDS STUDIO
+<string>SENIOR PROJECT MANAGER
+<string>Giuseppe Barra
+<string>LANGUAGE PROJECT LEAD
+<string>Francesco Riccobono
+<string>ENGINEER PROJECT LEAD
+<string>Stefano Sammartano
+<string>LEAD PROJECT MANAGER
+<string>Francesco Panfili
+<string>Testronic Laboratories
+<string>QA DIRECTOR
+<string>Erik Hittenhausen
+<string>HEAD OF PRE-PRODUCTION
+<string>Julian Mower
+<string>HEAD OF LQA
+<string>Edward Buffery
+<string>LQA MANAGER
+<string>Gaelle Caballero
+<string>LQA PROJECT MANAGER
+<string>Jouhaina Ramy
+<string>LQA PROJECT LEAD
+<string>Marta Cannilla
+<string>LQA SENIOR TECHNICIANS
+<string>Imelda Vallejo Hinojosa
+<string>Cato Rusten
+<string>POLISH LQA TECHNICIANS
+<string>Ariadna Pawluk
+<string>Natalia Nguyen Van
+<string>Tadeusz Mencel
+<string>RUSSIAN LQA TECHNICIANS
+<string>Mikita Huryn
+<string>Oleksandr Bieliakov
+<string>Roman Zheliba
+<string>Vitaliy Sosnytskyy
+<string>BRAZILIAN PORTUGUESE<lf> LQA TECHNICIANS
+<string>Rodrigo De Lascio
+<string>Sinuhe Bodstein
+<string>Tiago de Lima Albuquerque
+<string>KOREAN LQA TECHNICIANS
+<string>Eun Sung Park
+<string>HyeSeon You
+<string>Junyoung Park
+<string>Kyung Hwan Jung
+<string>SIMPLIFIED CHINESE<lf> LQA TECHNICIANS
+<string>Li Muchen
+<string>Tsz Shing Lam (Alex)
+<string>Yan Jinrong
+<string>TRADITIONAL CHINESE<lf> LQA TECHNICIANS
+<string>Charles Kit Chou
+<string>Lily Lee Lee Ngan
+<string>Lucia Chung
+<string>Winnifer Wan Lai Ha
+<string>Pole To Win Co., Ltd.
+<string>TITLE LEADER
+<string>Takashi Tanaka
+<string>CHIEFS
+<string>Kentaro Motojima
+<string>Atsuko Otani
+<string>TESTERS
+<string>Haruo Hotta
+<string>Daichi Miyamoto
+<string>Yu Fujiwara
+<string>Mika Mizoguchi
+<string>Masanobu Moriwaki
+<string>Yoshiki Kawakabe
+<string>Kousuke Ujiie
+<string>Shohei Hamahata
+<string>Ayano Kobayashi
+<string>Junko Kanazawa
+<string>Mai Negoro
+<string>Shingo Shimoyama
+<string>Ryoko Yamashiro
+<string>Yuzo Iwabuchi
+<string>Dai Tanaka
+<string>Ryuhei Karimata
+<string>Rei Higuchi
+<string>Tetsunoshin Yuzawa
+<string>DEVELOPMENT SUPPORT
+<string>CAPCOM CO., LTD.
+<string>GLOBAL PRODUCTION
+<string>PRODUCTION MANAGER
+<string>Yu Yamaguchi
+<string>LOCALIZATION GROUP
+<string>LOCALIZATION GROUP MANAGER
+<string>Miguel E. Corti
+<string>LOCALIZATION COORDINATORS
+<string>Kaori F. Matsue
+<string>Gianluigi Riccio
+<string>Soichi Yasato
+<string>LOCALIZATION DIRECTOR
+<string>Jonathan Leflore
+<string>FIGS MANAGER
+<string>Luca Baldassarre
+<string>SOLUTIONS DEVELOPER
+<string>Graham Mcrobbie
+<string>ENGLISH LOCALIZATION
+<string>David Cockman
+<string>Alex Kirkpatrick
+<string>Mark Reichwein
+<string>Jeffrey Windham
+<string>FRENCH LOCALIZATION
+<string>Ugo Ricard
+<string>Francis Ishii
+<string>ITALIAN LOCALIZATION
+<string>Luca Baldassarre
+<string>Stefano Ivan Stinga
+<string>GERMAN LOCALIZATION
+<string>Maurice Ossenbrink
+<string>Florian Seidel
+<string>SPANISH LOCALIZATION
+<string>Manuel Trillo Carmona
+<string>Alberto Paqué Ramírez
+<string>SPECIAL THANKS
+<string>Andrew Alfonso
+<string>Marco Bombasi
+<string>VENDOR MANAGEMENT TEAM
+<string>VENDOR MANAGERS
+<string>Vilhelm Smari Isleifsson
+<string>Andrew Weil
+<string>WEB DESIGN
+<string>PACKAGE DESIGN
+<string>SPECIAL PACKAGE ARTISTS
+<string>Bengus
+<string>Shinkiro
+<string>Daigo Ikeno
+<string>Chisato Mita
+<string>Tatsuya Yoshikawa
+<string>PACKAGE MANUAL DESIGN
+<string>Shinichiro Komizu
+<string>TITLE DESIGN
+<string>Satoshi Ukai
+<string>PROMOTIONAL VIDEO EDITING
+<string>Yoshihiro Kura
+<string>Yukiko Sasaki
+<string>Akira Tsumuraya
+<string>Yuki Hoshino
+<string>RELEASE MANAGEMENT
+<string>Madoka Ohashi
+<string>Yuki Yamasaki
+<string>SUBMISSION COORDINATE
+<string>Nobuya Yoshizumi
+<string>Hiroshi Yamaguchi
+<string>Kotaro Fujioka
+<string>Takuya Kamiura
+<string>GLOBAL MARKETING STRATEGY &<lf> PLANNING DEPARTMENT<lf> CONSUMER GAMES MARKETING
+<string>GENERAL MANAGER
+<string>Tsutomu Masuda
+<string>GLOBAL BUSINESS DEVELOPMENT &<lf> STRATEGY DEPARTMENT
+<string>Kaoru Miyamoto
+<string>Masayuki Fukumoto
+<string>GLOBAL BUSINESS DEVELOPMENT TEAM
+<string>Moto Shinobe
+<string>Kosuke Nakano
+<string>Motohisa Tezuka
+<string>Thomas Veraart
+<string>Takara Hirose
+<string>GLOBAL BUSINESS STRATEGY & PLANNING TEAM
+<string>Ayumu Terada
+<string>Kazunari Higashi
+<string>Keisuke Nagae
+<string>Shogo Imanishi
+<string>EXTERNAL AFFAIRS SECTION
+<string>Kunio Funahara
+<string>Shinich Sato
+<string>Mototaka Ido
+<string>Yukihisa Yamaguchi
+<string>PROMOTION PLANNING SECTION
+<string>SENIOR MANAGER
+<string>Tetsuya Tabuchi
+<string>BRAND PROMOTION TEAM
+<string>MANAGERS
+<string>Isao Kimura
+<string>Mitsuhiko Ikegami
+<string>Yumi Adachi
+<string>Yoshitaka Amimoto
+<string>Sai Ogata
+<string>Kota Oshida
+<string>INTERACTIVE PR TEAM
+<string>MANAGERS
+<string>Hironori Ojima
+<string>Teruyuki Yoneyama
+<string>CAPCOM TV!
+<string>Shoji Takeshita
+<string>Takekuni Uchida
+<string>Shusaku Ikezoe
+<string>Takeshi Horinouchi
+<string>Reishi Kitawaka
+<string>JAPAN & ASIA MARKETING STRATEGY SECTION
+<string>Akihiro Kobayashi
+<string>BRAND STRATEGY TEAM
+<string>Hironori Sasaki
+<string>Chihiro Nakamoto
+<string>Takashi Yamanaka
+<string>ONLINE STRATEGY TEAM
+<string>Kouhei Kubota
+<string>Norio Tanaka
+<string>Dai Suzuki
+<string>Akito Yoshida
+<string>CONSUMER GAMES SALES DEPARTMENT
+<string>Koichi Nishiguchi
+<string>Akitoshi Sakaguchi
+<string>Hiroki Tatsumoto
+<string>SALES PLANNING SECTION
+<string>Hideki Ohnuki
+<string>SALES PROMOTION TEAM
+<string>Nobuhiko Kobayashi
+<string>Yoshihisa Matsumoto
+<string>Shuka Ito
+<string>E-COMMERCE TEAM
+<string>Mitsuaki Sugibayashi
+<string>Eiji Osada
+<string>Kana Urasawa
+<string>Chiaki Maeda
+<string>CHARACTER CONTENTS BUSINESS DEVELOPMENT SECTION
+<string>Kenji Kato
+<string>MEDIA LICENSE TEAM
+<string>Masahide Akitake
+<string>Noriomi Ito
+<string>LICENSE TEAM
+<string>Naoto Minamide
+<string>Tomoyuki Wakizaka
+<string>MERCHANDISE MANAGEMENT TEAM
+<string>Shuji Kawasaki
+<string>Takeshi Kawano
+<string>Kazuo Tamura
+<string>ASIA BUSINESS SECTION
+<string>Tetsuya Ohno
+<string>ASIA BUSINESS DEVELOPMENT TEAM
+<string>Taku Arai
+<string>Xingru Xie
+<string>Koichiro Shimura
+<string>Jihae Choi
+<string>Tomohiro Murakami
+<string>LICENSE DEVELOPMENT TEAM
+<string>Mareo Yamada
+<string>Rieko Nakai
+<string>
+<string>PRODUCT MANAGEMENT
+<string>CAPCOM U.S.A., INC.
+<string>CHIEF EXECUTIVE OFFICER
+<string>Kiichiro Urata
+<string>SENIOR VICE PRESIDENT,<lf> DIGITAL PLATFORMS
+<string>William Yagi-Bacon
+<string>SENIOR DIRECTOR, MARKETING
+<string>David Zemke
+<string>DIRECTOR OF BRAND MARKETING
+<string>Charlene Ingram
+<string>BRAND MANAGER, MARKETING
+<string>Tristan Corbett
+<string>SENIOR DIRECTOR,<lf> PR & COMMUNICATIONS
+<string>Alicia Kim
+<string>PR MANAGER
+<string>Stephanie Palermo
+<string>SENIOR COMMUNITY<lf> & ONLINE SPECIALIST
+<string>Yuri Araujo
+<string>CUSTOMER SUPPORT<lf> REPRESENTATIVE
+<string>Patrick Kulikowski
+<string>DIRECTOR,<lf> DIVISIONAL COMMUNICATIONS
+<string>Kaori Tsukuda
+<string>ASSOCIATE DIRECTOR
+<string>Ted Tsung
+<string>VICE PRESIDENT, SALES
+<string>Debbie Mola
+<string>NATIONAL SALES DIRECTOR
+<string>Dean Taraboi
+<string>AREA SALES MANAGERS
+<string>Kathy Kackley
+<string>Karl Kabler
+<string>DIRECTOR, DIGITAL PLATFORMS
+<string>Mai Kawaguchi
+<string>DIGITAL ACCOUNT MANAGER
+<string>Danh Huynh
+<string>BUSINESS DEVELOPMENT<lf> SPECIALIST
+<string>Yohko Kawakami
+<string>BUSINESS STRATEGY ANALYST
+<string>Ayuko Suzuki
+<string>DIRECTOR,<lf> LICENSING & ESPORTS
+<string>John Diamonon
+<string>ASSOCIATE DIRECTOR
+<string>Noriko Matsunaga
+<string>LICENSING OPERATIONS MANAGER
+<string>Susan Suarez
+<string>ASSOCIATE LICENSING MANAGER
+<string>Bao Le
+<string>DIRECTOR, BUSINESS STRATEGY
+<string>Sakae Osumi
+<string>MANAGER, STRATEGIC PLANNING
+<string>Yuya Goda
+<string>DIRECTOR, MARKETING OPERATIONS,<lf> EVENTS & CREATIVE SERVICES
+<string>Laili Bosma
+<string>EVENTS MANAGER
+<string>Joshua Collard
+<string>DIRECTOR,<lf> PRODUCT OPERATIONS<lf> & SUBMISSIONS
+<string>Jon Airhart
+<string>DIRECTOR,<lf> PRODUCT OPERATIONS
+<string>Brian Yip
+<string>ASSOCIATE PROJECT MANAGERS
+<string>Matt Landi
+<string>David Marques
+<string>DEVELOPMENT SUPPORT<lf> TECHNICIAN
+<string>Michael Desenganio
+<string>VICE PRESIDENT, OPERATIONS
+<string>Louie Reyes
+<string>SENIOR OPERATIONS MANAGER
+<string>Edmund Wong
+<string>OPERATION SUPPORT SPECIALIST
+<string>Sachiyo Llamas
+<string>VP, GENERAL COUNSEL, LEGAL
+<string>Hiro Tachibana
+<string>CORPORATE COUNSEL, LEGAL
+<string>Dara Ashrafi
+<string>BRAZIL TERRITORY DIRECTOR,<lf> SALES & MARKETING
+<string>Jean Toledo
+<string>BRAZIL PR MANAGER
+<string>Fabio Santana
+<string>COMMUNITY MANAGER
+<string>Dennys Michelassi
+<string>CE EUROPE LTD.
+<string>CEO
+<string>Kunio Neo
+<string>COO
+<string>Stuart Turner
+<string>COMMERCIAL DIRECTOR
+<string>Andy Davis
+<string>MARKETING DIRECTOR
+<string>Antoine Molant
+<string>DIRECTOR, BUSINESS SERVICES
+<string>Shigemi Tanaka-Lee
+<string>SENIOR BRAND MANAGER
+<string>Brian Ayers
+<string>COMMUNITY & E-SPORTS MANAGER
+<string>Matthew Edwards
+<string>DIGITAL SALES<lf> ACCOUNT MANAGER
+<string>Anthony Darling
+<string>HEAD OF DIGITAL SALES
+<string>Matt Glover
+<string>PRODUCTION SERVICES MANAGER
+<string>David Haddon
+<string>RESEARCH & PLANNING MANAGER
+<string>Simon Haley
+<string>RESEARCH & PLANNING ASSISTANT
+<string>Tiffanie Zheng
+<string>SPECIAL PRODUCTS MANAGER
+<string>Kim McCauley
+<string>MARKETING SERVICES MANAGER
+<string>Carlene Honiss
+<string>BUSINESS CO-ORDINATION<lf> ASSISTANT
+<string>BUSINESS SERVICE MANAGERS
+<string>Patrick Shields
+<string>Ayaka Segami
+<string>SENIOR PR MANAGER
+<string>Laura Skelly
+<string>CAPCOM ENTERTAINMENT FRANCE, SAS
+<string>COMMUNICATIONS MANAGER
+<string>Cyril Berrebi
+<string>SALES MANAGER
+<string>Cynthia Lehnhard
+<string>MARKETING MANAGER
+<string>Emmanuel Melero
+<string>CAPCOM ENTERTAINMENT GERMANY GmbH
+<string>COMMERCIAL DIRECTOR
+<string>Kai Stuewe
+<string>SENIOR MARKETING MANAGER
+<string>Matthias Mirlach
+<string>PRODUCTS & EVENTS MANAGER
+<string>Claudia Awe
+<string>SALES MANAGER
+<string>Christian Patrini
+<string>SALES & MARKETING<lf> CO-ORDINATOR
+<string>Giulia Bongiovanni
+<string>PR MANAGER
+<string>Claas Wolter
+<string>COMMUNITY MANAGER
+<string>Stefanie Pirsich
+<string>CAPCOM ASIA CO., LTD.
+<string>SALES & MARKETING DIRECTOR
+<string>Alex Ng Ka Wai
+<string>BUSINESS DEVELOPMENT<lf> MANAGER
+<string>BUSINESS DEVELOPMENT MANAGER
+<string>Franky Lo Siu Fa
+<string>MARKETING MANAGER
+<string>Carrie Lam Ying Ying
+<string>MARKETING SUPERVISOR
+<string>Sonia Chan Lok Yiu
+<string>MARKETING EXECUTIVE
+<string>Kyra Yeung Ting Kwan
+<string>CAPCOM ENTERTAINMENT KOREA CO., LTD.
+<string>MANAGEMENT DEPARTMENT
+<string>Kim Jin Wook
+<string>QUALITY ASSURANCE
+<string>LEAD TESTER
+<string>Kenji Yabuki
+<string>QA PLANNER
+<string>Yuka Andoh
+<string>ASSISTANT LEAD TESTERS
+<string>Ryota Sano
+<string>Yusuke Hisahori
+<string>Yuki Kasegawa
+<string>Chieko Otani
+<string>Yuuki Ishimura
+<string>SENIOR TESTERS
+<string>Nobuhiko Uemura
+<string>Terukazu Yamane
+<string>Hideki Tanaka
+<string>Akihiro Matsumura
+<string>Naoki Ishizu
+<string>Fumikazu Ohara
+<string>Hiroshi Tada
+<string>COMPLIANCE TESTERS
+<string>Ami Matsumoto
+<string>Junya Yoshimura
+<string>Narito Akase
+<string>Ai Nishikawa
+<string>Mitsuyuki Ikeda
+<string>NETWORK TESTER
+<string>Tatsuya Inokuchi
+<string>TESTERS
+<string>Masato Namba
+<string>Eri Nakagawa
+<string>Mako Hamada
+<string>Chika Sugahara
+<string>Maki Fujita
+<string>Hatsumi Takakuma
+<string>Sayaka Kibino
+<string>Erika Ueta
+<string>Yuuki Ishimura
+<string>Kazuki Kinoshita
+<string>Tatsuya Tomiyoshi
+<string>Momo Kawabata
+<string>Nana Watabe
+<string>Yuto Ashikari
+<string>Takumi Kitagawa
+<string>Kohei Uemura
+<string>Aki Ugawa
+<string>Yuishin Nagamitsu
+<string>Miyuki Nomura
+<string>Hiroki Iwashita
+<string>Kengo Shiota
+<string>Tomokazu Kogita
+<string>Toshiki Iwai
+<string>Yuki Ono
+<string>Hiroyoshi Matsuba
+<string>Ryota Morinaka
+<string>Yusuke Morimoto
+<string>CONTENTS ANALYSIS TEAM
+<string>Junichiro Takashi
+<string>Tomoaki Kamaura
+<string>Yusuke Kojima
+<string>PROGRESS CONTROL TEAM
+<string>Yasuhiro Matsuo
+<string>Kenichi Noda
+<string>Susumu Kobayashi
+<string>Takaaki Maeno
+<string>Takashi Ikeda
+<string>Kenji Morino
+<string>Shota Murata
+<string>Takaaki Tanaka
+<string>Masami Oyama
+<string>Yuto Yoshida
+<string>QA MANAGER
+<string>Shigeyoshi Kuwamura
+<string>CONTENTS ANALYSIS TEAM
+<string>SUPPORTING COMPANIES
+<string>LEGAL SECTION
+<string>Satoru Ishigooka
+<string>Makiko Nakamura
+<string>Ippei Arikawa
+<string>Yuki Shimada
+<string>Kazuhiro Asami
+<string>Takashi Chiba
+<string>Yuto Komori
+<string>Miki Owa
+<string>Sang-Woo Kim
+<string>TRADEMARK & COPYRIGHT TEAM
+<string>Yuko Yasuda
+<string>Masako Kishimoto
+<string>Kenji Yamada
+<string>Mami Maeda
+<string>Takashi Chihara
+<string>Kana Onozawa
+<string>R&D CONTRACT TEAM
+<string>Shigeyoshi Kobayashi
+<string>Kyosuke Takahashi
+<string>Naoki Yamauchi
+<string>TOKYO R&D CONTRACT TEAM
+<string>Jun Nishino
+<string>Daiki Arai
+<string>SERVICE INFRASTRUCTURE TEAM
+<string>Kazuyuki Takano
+<string>Miho Nihei
+<string>Sungmin Cho
+<string>Masahiro Yoshitachi
+<string>Norihito Nakae
+<string>SPECIAL THANKS
+<string>Takashi Yoshikawa
+<string>Asae Nishitsuji
+<string>Tomohiro Goto
+<string>Yuichi Nishio
+<string>Masako Homma
+<string>Manami Nasu
+<string>Shinsuke Okada
+<string>Akihiko Narita
+<string>Zhenlan Kang
+<string>Shotaro Nakayama
+<string>Go Ozawa
+<string>Satoshi Kawasaki
+<string>Nana Hina
+<string>Tomohiro Goto
+<string>Manami Nasu
+<string>Haruka Akiyama
+<string>Aoi Yokota
+<string>Izumi Taniguchi
+<string>Masako Homma
+<string>Shinsuke Okada
+<string>Naoya Taniguchi
+<string>Kazuki Shimada
+<string>Shuhei Fujiwara
+<string>Masao Ueda
+<string>Akihiko Narita
+<string>ZhenLan Kang
+<string>Shotaro Nakayama
+<string>Riccardo Minervino
+<string>Yasuyuki Takagi
+<string>Konatsu Taniyama
+<string>Go Nishimura
+<string>Tsubasa Miyamoto
+<string>Shuhei Manome
+<string>Riccardo Minervino
+<string>Chieko Hishita
+<string>ALL CAPCOM STAFF
+<string>JAPANESE VOICE CAST
+<string>NERO
+<string>Kaito Ishikawa
+<string>V
+<string>Koki Uchiyama
+<string>DANTE
+<string>Toshiyuki Morikawa
+<string>NICO
+<string>Lynn
+<string>TRISH / EVA
+<string>Atsuko Tanaka
+<string>LADY
+<string>Fumiko Orikasa
+<string>MORRISON
+<string>Akio Otsuka
+<string>VERGIL
+<string>Hiroaki Hirata
+<string>KYRIE
+<string>Saori Hayami
+<string>PATTY
+<string>Yu Shimamura
+<string>GRIFFON
+<string>Tomoyuki Shimura
+<string>GOLIATH
+<string>Kenta Miyake
+<string>MALPHAS
+<string>Toa Yukinari
+<string>NIDHOGG
+<string>Tadashi Miyazawa
+<string>CAVALIERE ANGELO
+<string>Takayuki Nakatsukasa
+<string>KING CERBERUS
+<string>Naomi Kusumi
+<string>KING CERBERUS B
+<string>Tetsuo Gotoh
+<string>KING CERBERUS C
+<string>Tsuyoshi Koyama
+<string>URIZEN
+<string>Syunsuke Sakuya
+<string>PROTO ANGELO
+<string>Hironori Kondoh
+<string>SOLDIER 
+<string>
+<string>CITIZENS
+<string>Takaki Ootomari
+<string>Naoki Takimura
+<string>Masashi Nogawa
+<string>Takashi Aoki
+<string>Yuki Kazu
+<string>Haruka Shimizu
+<string>TOHOKUSHINSHA FILM CORPORATION
+<string>RECORDING DIRECTOR
+<string>Yuka Sasaki
+<string>JAPANESE TRANSLATORS
+<string>Yuuko Ooura
+<string>Hiroko Tokuda
+<string>RECORDING COORDINATORS
+<string>Yo Nishiyama
+<string>Kantaro Imai
+<string>SOUND EDITOR
+<string>Yukinori Takada
+<string>ADR ENGINEERS
+<string>Kazumi Kanaya
+<string>Saori Yumoto
+<string>RECORDING STUDIOS
+<string>STUDIO UNI
+<string>SOUND INN STUDIO
+<string>Localizations Tools and Support provided by XLOC, Inc.
+<string>The typefaces included herein are solely developed by DynaComware.
+<string>Font Design by Fontworks Inc.
+<string>Special Thanks: Monotype K.K.
+<string>Artbeats Digital Film Library
+<string>Getty Images
+<string>Final Light - Visual Effects Stock Footage
+<string>Visual Effects Stock Footage provided by FX Elements.
+<string>'Contains modified Copernicus Sentinel data 2017' for Sentinel data<lf>'Contains modified Copernicus Service information 2017'<lf>for Copernicus Service Information.
+<string>WeGame X Staff
+<string>Michiteru Okabe
+<string>Takashi Matsuda
+<string>Konatsu Taniyama
+<string>Yoshitatsu Mori
+<string>Ryo Yasukawa
+<string>Ryo Narita
+<string>Yuta Handa
+<string>Kenji Miyanishi
+<string>Takashi Nishimura
+<string>Go Ozawa
+<string>Koji Misu
+<string>Yoji Mikami
+<string>Ukyo Yoshida
+<string>Kyra Yeung Ting Kwan
+<string>Alex Ng Ka Wai
+<string>Franky Lo Siu Fa
+<string>Carrie Lam Ying Ying
+<string>Sonia Chan Lok Yiu
+<string>QA_1
+<string>QA_2
+<string>QA_3
+<string>QA_4
+<string>QA_5
+<string>QA_6
+<string>QA_7
+<string>QA_8
+<string>
+<string>Takashi Ishihara
+<string>Mai Takeda
+<string>Takumi Sugimoto
+<string>Daisuke Watanabe
+<string>Masashi Sugyo
+<string>Toru Yamaguchi
+<string>Koji Matsushima
+<string>Takeshi Kida
+<string>Yuka Chi
+<string>
+<string>Eijiro Kitsu
+<string>Taku Morimoto
+<string>Shintaro Takemae
+<string>Takahiro Sakai
+<string>Soki Nakao
+<string>Tomohisa Marutani
+<string>Motoi Kishimoto
+<string>Yubo Hua
+<string>Josiah Wilson
+<string>Takuma Uehigashi
+<string>Hayato Kaji
+<string>Miki Ikeda
+<string>Yusaku Kitagawa
+<string>Takeaki Toyooka
+<string>Haruka Akiyama
+<string>Yutse Shih
+<string>Manami Kitatani
+<string>Takuya Matsukawa
+<string>Rinpei Nozaki
+<string>Takuya Matsukawa
+<string>Kazushi Sano
+<string>Yuki Shimono
+<string>Naoto Kuroshima
+<string>Nathaniel Somers
+<string>Josiah T. Wilson
+<string>Veronica Galibardi
+<string>Anke Räder-Großmann
+<string>Michael Ho
+<string>Huiming Qiu
+<string>Wooree Oh
+<string>Yoshinori Chuta Ishida
+<string>Rob Dyer
+<string>Jason Andersen
+<string>Blake Shaffer
+<string>Daniel Helmhold
+<string>Adam Krause
+<string>Jaclyn Simmons
+<string>Dominic Abordo
+<string>Michael Delacruz
+<string>William Yagi-Bacon
+<string>Rommel Hernandez
+<string>Shinji Saito
+<string>Aiko Sekiguchi
+<string>Bill Wu
+<string>Sabrina Rozetti
+<string>Anna Hill
+<string>Maria Anna Calle
+<string>Karl Unterholzner
+<string>Rica Landreneau
+<string>Daniel Fiel
+<string>Jason Kausch
+<string>Marina Koh
+<string>Yuma Nakanishi
+<string>Kanae Muraki
+<string>Amy Oliver
+<string>Jack O'Donnell
+<string>Tristan Chilvers
+<string>James MacPearson
+<string>Miyuki Nakajima
+<string>Ayana Nakamura
+<string>Kengo Sadamoto
+<string>Nobuyuki Tanaka
+<string>Toru Shibano
+<string>Yasue Sasaki
+<string>Mayuko Imada
+<string>Akari Yamamoto
+<string>Seiji Hamakita
+<string>Kazuki Hagihara
+<string>Shigemi Komatsu
+<string>Takahiro Tokuda
+<string>Minoru Horike
+<string>Takanobu Nishino
+<string>Kitting Leung
+<string>Akihiro Nagasaki
+<string>Tomohiro Nozue
+<string>Yuya Onizuka
+<string>Yoshitaka Seita
+<string>Hajime Nomo
+<string>Yoshiyuki Tonoe
+<string>Mark Musashi
+<string>Moe Kataoka
+<string>Seiya Kato
+<string>Yuki Noto
+<string>Juhui Wu
+<string>Atsuhiko Murata
+<string>Hajime Yagawa
+<string>Li Muzhi
+<string>Yuki Sodesaki
+<string>Hiroshi Honjo
+<string>Naoto Kushida
+<string>Masaki Nagata
+<string>Yoshiaki Hirabayashi
+<string>Masataka Nemoto
+<string>Masaru Ijuin
+<string>Haruki Shimizu
+<string>Motoki Nishikura
+<string>Kazuki Iiboshi
+<string>Yixiong Gong
+<string>Yoshimi Matsukawa
+<string>Taiga Yano
+<string>Kazuma Mori
+<string>Ginga Kato
+<string>Keita Ishihara
+<string>Yoshiki Saito
+<string>Toshihiro Yamauchi
+<string>Masayoshi Murakami
+<string>Takaya Nakano
+<string>Yuki Igarashi
+<string>Hiroyuki Ikenaga
+<string>Yoshihiro Kimura
+<string>Tomoaki Ofuku
+<string>Toby Ieong Chin Tung
+<string>Sachiyo Kawai
+<string>Yoshihiko Akita
+<string>Victor Borba
+<string>Anup Sastry
+<string>Jeff Ball
+<string>Andrew Dunn
+<string>Adam "Nolly" Getgood
+<string>Steve Foley
+<string>Anup Sastry
+<string>Audio Valley Studios, Ottawa, Canada
+<string>Audio Valley Studios,
+<string>Ottawa, Canada
+<string>Rina Sawada
+<string>Daiki Yonezawa
+<string>Nahyun Park
+<string>Junichi Higuchi
+<string>Mike Mcnamara
+<string>Rouge MoCap
+<string>Daisuke Minatoya
+<string>Nobuhiko Suzuki
+<string>Angga Prima
+<string>Chan Yung Kin
+<string>Davin Hans
+<string>Vlad Yoshida
+<string>Hiroto Narita
+<string>Kam Siu Nam
+<string>Akira Inagaki
+<string>Ayano Kawamata
+<string>ARUGO SHINOHARA
+<string>Simone Mazzoleni
+<string>Sara Oldani
+<string>Tsubasa Tada
+<string>Mai Sasai
+<string>P’S STUDIO
+<string>Yoshie Uno
+<string>Nam Eunji
+<string>Hiromasa Inoue
+<string>Masayo Ono
+<string>Satoru Sasaki
+<string>Masahito Honda
+<string>Tsubasa Ishida
+<string>Motosuke Kuroda
+<string>Yuji Shimomura
+<string>Masaki Onishi
+<string>Umi Tanoue
+<string>Kazunori Yajima
+<string>Tsutomu Uchigasaki
+<string>Kazuya Osumi
+<string>Bingo Morihashi
+<string>VERGIL BATTLE THEME MUSIC
+<string>Nine Stories Inc.
+<string>AGNI-FLARE CO., LTD.
+<string>KEYWORDS STUDIOS
+<string>SAKURA WING.LLC
+<string>JAPAN & ASIA BUSINESS DIVISION
+<string>QUALITY VERIFICATION SECTION
+<string>CONTRACT TEAM
+<string>DIGITAL ANALYSIS SECTION
+<string>JAPANESE VOICE
+<string>MUSIC DIRECTOR
+<string>Music and Words by
+<string>Vocals
+<string>Guitars
+<string>Drums
+<string>Violin and Viola
+<string>Cello
+<string>Mixing Engineer
+<string>Recording Engineer (Vocals)
+<string>Recording Engineer (Drums)
+<string>Recording Studio (Vocals)
+<string>Music Director and Music Producer Supervisor
+<string>Music Production Assistant
+<string>ADR STUDIO
+<string>MODELERS
+<string>VFX ARTISTS
+<string>LINE PRODUCER
+<string>SENIOR PRODUCT MANAGERS
+<string>LANGUAGE PROJECT LEADS
+<string>GROUP MANAGER
+<string>LOCALIZATION DIRECTORS
+<string>TOOLS PROGRAMMING
+<string>TRADITIONAL CHINESE LOCALIZATION
+<string>SIMPLIFIED CHINESE LOCALIZATION
+<string>KOREAN LOCALIZATION
+<string>HEAD
+<string>CHIEF OPERATING OFFICER
+<string>SENIOR DIRECTOR, COMMUNICATIONS
+<string>ASSOCIATE PR MANAGER
+<string>SENIOR MANAGER, SOCIAL MEDIA & COMMUNITY
+<string>HEAD OF MARKETING
+<string>DIRECTOR OF GROWTH MARKETING
+<string>BRAND MARKETING MANAGER
+<string>SENIOR DIRECTOR, DIVISIONAL COMMUNICATIONS
+<string>ASSOCIATE DIRECTOR, DIVISIONAL COMMUNICATIONS
+<string>SENIOR NATIONAL SALES DIRECTOR
+<string>SENIOR MANAGER, PARTNER MARKETING
+<string>SENIOR VICE PRESIDENT, DIGITAL PLATFORMS
+<string>SENIOR DIGITAL SALES MANAGER
+<string>MANAGER, BUSINESS DEVELOPMENT
+<string>ASSOCIATE MANAGER, STRATEGIC PLANNING & CORPORATE ADMINISTRATION
+<string>ASSOCIATE MANAGER,
+<string>STRATEGIC PLANNING & CORPORATE ADMINISTRATION
+<string>DATA ANALYST
+<string>SENIOR DIRECTOR, CREATIVE SERVICES & EVENTS
+<string>PROJECT MANAGER, CREATIVE SERVICES
+<string>SENIOR GRAPHIC DESIGNER
+<string>GRAPHIC DESIGNER
+<string>DIRECTOR, PRODUCT OPERATIONS & SUBMISSIONS
+<string>SUBMISSIONS MANAGER
+<string>ASSOCIATE PROJECT MANAGER
+<string>CUSTOMER SERVICE ASSOCIATE
+<string>DEVELOPMENT SUPPORT TECHNICIAN
+<string>BRAZIL TERRITORY DIRECTOR, SALES & MARKETING
+<string>BRAZIL COMMUNITY MANAGER
+<string>COMMERCIAL DIRECTOR, DIGITAL DIVISION
+<string>SENIOR COMMUNITY & ESPORTS MANAGER
+<string>LEGAL MANAGER
+<string>BUSINESS SERVICES MANAGER
+<string>BUSINESS SERVICES ASSISTANT
+<string>PRODUCTION SERVICES COORDINATOR
+<string>DATA & INSIGHTS ANALYST 
+<string>LICENSING COORDINATOR
+<string>DIGITAL SALES ACCOUNT MANAGER
+<string>ACCOUNT MANAGER
+<string>OSAKA R&D CONTRACT TEAM MANAGER
+<string>OSAKA R&D CONTRACT TEAM
+<string>TOKYO R&D CONTRACT TEAM MANAGER
+<string>DIGITAL MARKETING DIRECTOR
+<string>DATA ENGINEERS
+<string>DATA ANALYSTS
+<string>ANIMATION SUPPORT
+<string>TECHNICAL ENGINEER
+<string>TECHNICAL SUPPORT
+<string>SOUND PROGRAMMER
+<string>ACTION DIRECTOR
+<string>MOTION CAPTURE ACTORS
+<string>UI DESIGNERS
+<string>MANAGER
+<string>SOUND DESIGNER
+<string>COMPOSER
+<string>SENIOR TESTER
+<string>MIXING ENGINEER
+<string>MARKETING EXECUTIVES
+<string>ASSISTANT MARKETING MANAGER
+<string>TECHNICAL ARTISTS
+<string>SOUND MANAGERS
+<string>"Bury the Light"

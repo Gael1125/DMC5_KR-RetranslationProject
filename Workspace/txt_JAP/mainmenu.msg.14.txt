@@ -1,0 +1,21 @@
+<string>MAIN MENU
+<string>CONTINUE
+<string>MISSION SELECT
+<string>SECRET MISSIONS
+<string>TOTAL RESULTS
+<string>BLOODY PALACE
+<string>THE VOID
+<string>GALLERY
+<string>OPTIONS
+<string>STORE
+<string>EXIT
+<string>進行中のミッションを再開します
+<string>プレイするミッションを選択します
+<string>発見済みのシークレットミッションを再度プレイします
+<string>ミッションの総合成績を確認します
+<string>ブラッディパレスに挑戦します
+<string>操作や技の練習を行います
+<string>ニコのレポートの閲覧やジュークボックスを視聴します
+<string>ゲーム内の各種設定を行います
+<string>オンラインストアに移動し、アイテム等を購入します
+<string>ゲームを終了します
