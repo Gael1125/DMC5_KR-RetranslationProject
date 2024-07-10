@@ -1,0 +1,13 @@
+<string>살펴본다
+<string>확인
+<string>???
+<string>커스터마이즈
+<string>시크릿 미션
+<string>전화를 받는다
+<string>전화를 건다
+<string>{0}을/를 사용
+<string>들어간다
+<string>그리폰을 해방
+<string>섀도우를 해방
+<string>나이트메어을 해방
+<string><ICON DECIDE>{0}

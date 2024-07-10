@@ -1,0 +1,15 @@
+<string>
+<string>Devil May Cry 5
+<string>Devil May Cry 5 디럭스 에디션
+<string>TITLE SCREEN
+<string>■Devil May Cry 5®
+<string>■Devil May Cry 5® 디럭스 에디션
+<string>최강의 악마 사냥꾼이 돌아왔습니다!<lf>스타일리시 액션의 시초를 연 데빌 메이 크라이가<lf>팬들의 염원 끝에 마침내 부활했습니다!
+<string>최강의 악마 사냥꾼이 돌아왔습니다!<lf>스타일리시 액션의 시초를 연 데빌 메이 크라이가<lf>팬들의 염원 끝에 마침내 부활했습니다!
+<string>디럭스 에디션은 특전으로 5개의 무기,<lf>12개의 전투 테마, 추가적인 보이스,<lf>라이브 액션 콘티 영상이 수록되어있습니다!
+<string>
+<string>일본어 더빙 추가
+<string>유저 옵션 데이터 콜렉션 플로우 추가
+<string>추가 콘텐츠를 위한 데이터/기능 추가
+<string>버그픽스
+<string>블러디 팰리스가 개방되었습니다

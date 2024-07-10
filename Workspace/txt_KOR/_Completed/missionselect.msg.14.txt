@@ -1,0 +1,26 @@
+<string>
+<string>MISSION SELECT
+<string>
+<string>HUMAN
+<string>DEVIL HUNTER
+<string><COLOR C000C0>SON OF SPARDA</COLOR>
+<string><COLOR 7000C0>DANTE MUST DIE</COLOR>
+<string><COLOR FFE340>HEAVEN</COLOR> OR <COLOR FF4040>HELL</COLOR>
+<string><COLOR C03030>HELL AND HELL</COLOR>
+<string>
+<string>시작
+<string>
+<string>RECORD:
+<string>SCORE
+<string>RANK
+<string>
+<string>GAME MODE
+<string>LINK MISSION
+<string>
+<string>입문하시는 분들에게 강력히 추천합니다.<lf>적들이 보다 덜 호전적이며 매우 허약합니다.<lf><COLOR FFF6B2>플레이어와 적들의 공격력이 각각 150%/50%로 조정</COLOR>
+<string>경험많은 사냥꾼들을 위한 난이도입니다.<lf>11년만에 돌아온 악마 사냥을 즐겨보세요!<lf><COLOR FFF6B2>본작의 기본 난이도입니다.</COLOR>
+<string>살아남으려면 조금 더 스타일리시해져야 할 겁니다.<lf><COLOR FFF6B2>플레이어와 적들의 공격력이 각각 75%/150%로 조정</COLOR><lf><COLOR FF7FFF>적들의 좀 더 다양한 공격을 시도</COLOR>
+<string>고인물을 위한 극악의 난이도입니다.<lf><COLOR FFF6B2>플레이어와 적들의 공격력이 각각 50%/300%로 조정</COLOR><lf><COLOR FF7FFF>적들의 더욱 더 다양한 공격을 시도</COLOR><lf><COLOR CD80FF>적들이 특정 조건에서 마인화를 발동</COLOR>
+<string>인간도 악마도 공평하게 일격에 죽어나갑니다.<lf>이것이 과연 천국인가, 지옥인가...<lf><lf><COLOR FFFBB3>기회는 단 3번입니다.</COLOR>
+<string>생각지도 못한 일격이 파멸을 초래할 수 있습니다.<lf><COLOR C03030>이번엔 그쪽만 한 방이다.</COLOR><lf><lf><COLOR FFFBB3>기회는 단 3번입니다.</COLOR>
+<string>진행할 미션을 선택합니다.

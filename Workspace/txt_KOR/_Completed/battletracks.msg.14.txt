@@ -1,0 +1,53 @@
+<string>
+<string>BATTLE TRACKS
+<string>
+<string>Devil Trigger
+<string>Subhuman
+<string>Crimson Cloud
+<string>Public Enemy
+<string>Ultra Violet
+<string>Lock & Load
+<string>Fire Away
+<string>Wings of the Guardian
+<string>Shoot the Works
+<string>Taste The Blood ~Dante Battle-1~
+<string>Vergil Battle-2
+<string>Devils Never Cry
+<string>The Time Has Come
+<string>Lock and Load -Blackened Angel mix-
+<string>Sworn Through Swords
+<string>Bury the Light
+<string>Out of My Way ~Vergil Battle-1~
+<string>Suffer ~Beowulf Battle~
+<string>Let's Just See
+<string>"DEVILS NEVER CRY" HR/HM Ver.
+<string>
+<string>DMC5/네로의 테마곡
+<string>DMC5/단테의 테마곡
+<string>DMC5/V의 테마곡
+<string>DMC/단테의 테마곡 1
+<string>DMC/넬로 안젤로 BGM
+<string>DMC/단테의 테마곡 2
+<string>DMC2/단테의 테마곡 1
+<string>DMC2/루시아의 테마곡
+<string>DMC2/단테의 테마곡 2
+<string>DMC3/단테의 테마곡 1
+<string>DMC3/버질 2차전 BGM
+<string>DMC3/주제가
+<string>DMC4/네로의 테마곡
+<string>DMC4/단테의 테마곡
+<string>DMC4/베리알 BGM
+<string>DMC5SE/버질의 테마곡
+<string>DMC3SE/버질의 테마곡 1
+<string>DMC3/베오울프 BGM
+<string>DMC4SE/버질 모드 오프닝 컷신
+<string>앨범 "DEVIL MAY CRY HR/HM ARRANGE"에 수록
+<string>
+<string>네로의 테마곡을 샘플링, 구입, 설정합니다.
+<string>단테의 테마곡을 샘플링, 구입, 설정합니다.
+<string>V의 테마곡을 샘플링, 구입, 설정합니다.
+<string>버질의 테마곡을 샘플링, 구입, 설정합니다.
+<string>
+<string>
+<string>
+<string>

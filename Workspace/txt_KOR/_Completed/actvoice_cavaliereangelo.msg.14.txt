@@ -1,0 +1,9 @@
+<string>
+<string>스파다...
+<string>용서 못 한다...
+<string>단테...
+<string>
+<string>죽어버려라!
+<string>죽여버리겠다!
+<string>도망칠 수 없다!
+<string>스파다...!

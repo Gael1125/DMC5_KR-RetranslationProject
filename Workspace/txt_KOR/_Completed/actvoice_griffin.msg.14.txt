@@ -1,0 +1,20 @@
+<string>
+<string>처음부터 맘에 안들었다고...
+<string>그럭저럭 하는데 그래.
+<string>축복해주마... 쓸모는 있을 거다.
+<string>역시 이렇게 되는구만...
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

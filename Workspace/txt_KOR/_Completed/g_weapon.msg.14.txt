@@ -1,0 +1,31 @@
+<string>
+<string>Yamato
+<string>Beowulf
+<string>Mirage Edge
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>야마토
+<string>베오울프
+<string>미라지 엣지
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>야마토
+<string>베오울프
+<string>미라지 엣지
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

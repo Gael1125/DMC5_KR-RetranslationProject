@@ -1,0 +1,26 @@
+<string>
+<string>USE ORBS?
+<string>RED ORBS
+<string>GOLD ORB
+<string>GIVE UP
+<string>레드 오브를 사용해 부활합니다.
+<string>골드 오브를 사용해 부활합니다.
+<string>부활하지 않습니다.(오브 사용 안 함)
+<string>
+<string>RED ORBS:
+<string>체력 게이지를 {0}칸 채우고 부활합니다.<lf>(부활할 때마다 더 많은 레드 오브를 소모)
+<string>체력 게이지를 {0}칸,<lf>마력 게이지를 {1}칸 채우고 부활합니다.<lf>(부활할 때마다 더 많은 레드 오브를 소모)
+<string>주변의 적들에게 데미지를 주면서<lf>체력과 마력 게이지를 가득 채우고 부활합니다.<lf>(부활할 때마다 더 많은 레드 오브를 소모)
+<string>주변의 적들에게 데미지를 주면서,<lf>체력 게이지와 탄창이 가득 채우고 부활합니다.<lf>(부활할 때마다 더 많은 레드 오브를 소모)
+<string>주변의 적들에게 데미지를 주면서,<lf>체력과 마력 게이지를 가득 채우고 부활합니다.<lf>((부활할 때마다 더 많은 레드 오브를 소모)
+<string>체력을 회복했다
+<string>다음
+<string>
+<string>The Last Judgment Draweth Nigh...
+<string>최후의 심판이 도래했다...
+<string>CHECKPOINT
+<string>RETRY MISSION
+<string>MAIN MENU
+<string>마지막 체크포인트에서 다시 시작합니다.
+<string>미션을 처음부터 다시 시작합니다.
+<string>메인 메뉴로 돌아갑니다.

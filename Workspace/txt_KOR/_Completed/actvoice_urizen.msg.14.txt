@@ -1,0 +1,35 @@
+<string>
+<string>난... 아직 싸울 수 있다!
+<string>뭣이라...!
+<string>
+<string>먼지처럼 흩어져라...
+<string>눈엣가시로다.
+<string>무례한 것이!
+<string>하찮기만 하다.
+<string>헛된 노력이였다...
+<string>태어난 걸 후회하게 될 것이다!
+<string>내게 이기리라 생각하느냐!
+<string>시시하군...
+<string>힘이 곧 진리다.
+<string>고작 구더기에 불과한 놈이!
+<string>쓸모도 없는 쓰레기 녀석이!
+<string>인간이란... 오만하고 무가치한 놈들이지...
+<string>어디 도망쳐 보거라...
+<string>숨을 곳은 없다!
+<string>고통뿐이다!
+<string>놈을 덮쳐라!
+<string>괜한 짓거리를 하는군!
+<string>굴복하라... 당장!
+<string>꺼져라!
+<string>해충 새끼가!
+<string>죽어라!
+<string>흩어져라!
+<string>노력의 낭비였군...
+<string>실로 따분하도다...
+<string>절망을 맛보아라!
+<string>진정한 힘을 마주하라...!
+<string>이걸로 끝이다!
+<string>이쪽이다...
+<string>힘... 더 많은 힘을...
+<string>모조리 쓸어주마!
+<string>진정한 절망은... 이제 시작이다.

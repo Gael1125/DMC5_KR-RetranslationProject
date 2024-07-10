@@ -1,0 +1,14 @@
+<string>
+<string>물러... 나야만...
+<string>스파다... 내가... 스파다를...
+<string>
+<string>버틸 수 없을 거다!
+<string>시간이여...!
+<string>멈춰라!
+<string>
+<string>끝났군...
+<string>이럴수가!?
+<string>와라!
+<string>네놈! 뭐하는 짓이냐!?
+<string>내 창이 그 육신을 꿰뚫으리라!
+<string>내 번개가 그 육신을 불태우리라!

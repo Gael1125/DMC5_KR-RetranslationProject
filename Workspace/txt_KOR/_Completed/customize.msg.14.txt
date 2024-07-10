@@ -1,0 +1,110 @@
+<string>
+<string>CUSTOMIZE
+<string>
+<string>SKILLS
+<string>DEVIL BREAKERS
+<string>EQUIPMENT
+<string>ITEMS
+<string>
+<string>ABILITIES
+<string>
+<string>RED QUEEN
+<string>BLUE ROSE
+<string>EXCEED
+<string>DEVIL BREAKER
+<string>DEVIL BRINGER
+<string>
+<string>REBELLION
+<string>DEVIL SWORD SPARDA
+<string>DEVIL SWORD DANTE
+<string>BALROG
+<string>CAVALIERE
+<string>KING CERBERUS
+<string>EBONY & IVORY
+<string>COYOTE-A
+<string>KALINA ANN
+<string>DOUBLE KALINA ANN
+<string>DR. FAUST
+<string>TRICKSTER
+<string>SWORDMASTER
+<string>GUNSLINGER
+<string>ROYALGUARD
+<string>SIN DEVIL TRIGGER
+<string>CAVALIERE R
+<string>
+<string>GRIFFON
+<string>SHADOW
+<string>NIGHTMARE
+<string>CANE
+<string>
+<string>MAGAZINE
+<string>SWORDS
+<string>GUNS
+<string>
+<string>캐릭터의 기술을 해금합니다.
+<string>데빌 브레이커를 구매합니다.
+<string>장착할 장비를 선택합니다.
+<string>유용한 아이템을 구매합니다.
+<string>장착할 무기를 선택합니다.
+<string>
+<string>캐릭터의 능력을 해금합니다.
+<string>{0}을/를 해금합니다.
+<string>
+<string>레드 퀸을 수리해 익시드를 개선합니다.
+<string>데빌 브링어 기술들을 해금합니다.
+<string>데빌 브레이커 기술들을 해금합니다.
+<string>
+<string>각 스타일마다의 기술들을 해금합니다.
+<string>진 마인화의 기술들을 해금합니다.
+<string>
+<string>{0}을/를 강화합니다.
+<string>
+<string>구매한다
+<string>체험한다
+<string>배워본다
+<string>확장한다
+<string>강화한다
+<string>장착한다
+<string>수정한다
+<string>교체한다
+<string>???
+<string>Remove
+<string>
+<string>Equipped
+<string>
+<string>ASK NICO
+<string><ICON SORT> 니코가 엄선한 탄창을 사용
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>니코가 특별히 엄선한 탄창
+<string>
+<string>COMMAND
+<string>탄창 슬롯 +1
+<string>마력 게이지 +1
+<string>체력 게이지 +1
+<string><item id="39"> +1
+<string>BUY IN BULK
+<string>브레이커 올매수<lf><lf>메뉴판의 모든 브레이커를 하나씩 구매합니다.<lf>대량구매에 따른 할인은 없습니다.
+<string>재고
+<string>SOLD OUT
+<string>
+<string>얼마나?
+<string>구매
+<string>취소

@@ -1,0 +1,22 @@
+<string>
+<string>BLOODY PALACE
+<string>
+<string>START
+<string>WARM UP
+<string>CUSTOMIZE
+<string>
+<string>
+<string>
+<string>블러디 팰리스에 도전합니다.
+<string>이전에 제패한 스테이지를 선택해 연습합니다.
+<string>캐릭터를 커스터마이즈합니다.
+<string>
+<string>
+<string>
+<string>SCOREBOARD
+<string>최대 도달 스테이지
+<string>
+<string>최고 랭크
+<string>최종 플레이 시간
+<string>최종 추가 시간
+<string>

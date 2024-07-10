@@ -1,0 +1,10 @@
+<string>
+<string>ART
+<string>
+<string>BLUEPRINTS
+<string>BONUS ART
+<string>PUBLICITY ART
+<string>
+<string>획득한 무기의 설계도를 감상합니다.
+<string>보너스 이미지를 감상합니다.
+<string>홍보에 사용된 이미지를 감상합니다.

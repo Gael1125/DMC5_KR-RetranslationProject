@@ -1,0 +1,57 @@
+<string>
+<string>스테이지 클리어 보너스
+<string>노히트 보너스
+<string>
+<string>스테이지 시간 점수
+<string>스테이지 보너스 시간
+<string>스테이지 플레이 시간
+<string>
+<string>
+<string>
+<string>NEW RECORD!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>레드 오브 보너스
+<string><COLOR FFF095>스테이지 {0}</COLOR> 클리어 보너스
+<string>{0}분 남음
+<string><COLOR FFF095>추가 시간 {0}분</COLOR>
+<string>
+<string>Stages Cleared
+<string>Total Play Time
+<string>Total Red Orbs
+<string>
+<string>Cleared
+<string>Total Time Added
+<string>All Stages 
+<string>Timer Bonus
+<string>Super Character
+<string>스테이지 클리어
+<string>
+<string>Total Time Added
+<string>
+<string>Clear Bonus Records
+<string>클리어 보너스
+<string>Total Play Time
+<string>Final Extra Time
+<string>Red Orb Total
+<string>
+<string>The Legend Continues...
+<string>전설은 계속된리라...
+<string>
+<string>GAME OVER
+<string>TIME OVER
+<string>블러디 팰리스
+<string>이어하기 지점
+<string>Stage {0}
+<string>Rest Area 
+<string>(Next: Stage {0})
+<string>(Next: Stage {0})

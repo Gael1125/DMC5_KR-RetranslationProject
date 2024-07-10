@@ -1,0 +1,12 @@
+<string>
+<string>내가... 패배하는 일은 없다!
+<string>이 새끼가...!
+<string>이럴리가... 없다...
+<string>웃기지 말란 말이다...
+<string>
+<string>썩 꺼져라, 쓰레기 놈!
+<string>내 힘을 보여주마!
+<string>고작 그 정도냐, 같잖은 인간 녀석?
+<string>죽어버려라!
+<string>그 열매는 내 것이다!
+<string>성가시게 굴지 마라!

@@ -1,0 +1,64 @@
+<string>
+<string>NERO/DANTE/V
+<string>VERGIL
+<string>LEGENDARY DARK KNIGHT
+<string>NERO/DANTE/V
+<string>VERGIL
+<string>GET VERGIL
+<string>
+<string>악마들에게 점령당한 '레드 그레이브' 시에서 네로와 단테, 그리고 V가 겪은 일을 체험합니다.
+<string>스파다의 아들이자 고독한 푸른 악마, 버질로서 본편의 미션들을 플레이할 수 있습니다.
+<string>높은 스킬을 가진 플레이어를 위한 모드.<lf>악마들이 대량으로 출현합니다.
+<string>높은 스킬을 가진 플레이어를 위한 모드.
+<string>스팀 페이지에서 버질 DLC를 구입합니다.
+<string>
+<string>STORY EX
+<string>
+<string>버질 모드의 컷신을 재생합니다.
+<string>
+<string><ICON BtnU>
+<string>
+<string>비활성화
+<string>Level 0
+<string>Level 1
+<string>Level 2
+<string>
+<string>마인화 게이지 회복
+<string>집중도 게이지 고정
+<string>진 마인화 게이지 회복
+<string>
+<string>"활성화"는 마인화 게이지를 서서히 회복시킵니다.<lf>게이지가 고갈되어도 도플갱어가 해제되지 않습니다.<lf>"비활성화"는 이 효과를 끄게 됩니다.
+<string>집중도 게이지를 원하는 단계로 고정시킵니다.<lf>"비활성화"는 이 효과를 끄게 됩니다.
+<string>"자동"은 진 마인화 게이지를 서서히 회복시킵니다.<lf>"무한"은 게이지가 항상 최대치로 유지됩니다.<lf>"비활성화"는 이 효과를 끄게 됩니다.
+<string>
+<string>ORIGINAL
+<string>EX COLOR
+<string>SUPER VERGIL<lf>ORIGINAL
+<string>SUPER VERGIL<lf>EX COLOR
+<string>
+<string>ABILITIES
+<string>YAMATO
+<string>BEOWULF
+<string>MIRAGE EDGE
+<string>MIRAGE BLADE
+<string>
+<string>힘을 추구하는 고독한 푸른 악마, 버질의 능력을 해방합니다.
+<string>공간조차 베어내는 파마의 검, <RUBY><RB>염마도</RB><RT>야마토</RT></RUBY>의 기술을 해방합니다.
+<string>대지를 분쇄하는 격투 장갑, 베오울프의 기술을 해방합니다.
+<string>환영으로 재현된 스파다의 마검, 미라지 엣지의 기술을 해방합니다.
+<string>의지대로 날아가 꽃히는 칼날, <RUBY><RB>환영검</RB><RT>미라지 블레이드</RT></RUBY>의 기술을 해방합니다.
+<string>
+<string>근접 공격
+<string><RUBY><RB>환영검</RB><RT>미라지 블레이드</RT></RUBY>
+<string>트릭 액션
+<string>점프
+<string>록온
+<string>근접 무기 변경(우측)
+<string>도플갱어 발동
+<string>근접 무기 변경(좌측)
+<string>분신 제어: 보통으로
+<string>분신 제어: 느리게
+<string>분신 제어: 빠르게
+<string>분신 소환 해제
+<string>
+<string>데빌 메이 크라이 5 스페셜 에디션

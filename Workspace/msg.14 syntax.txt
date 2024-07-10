@@ -1,0 +1,25 @@
+줄바꿈
+ㄴ "본문"<lf>"다음줄"
+
+컬러링 적용법
+ㄴ <COLOR "RGB 코드">"본문"</COLOR>
+
+사이즈 변경법
+ㄴ <SIZE "사이즈">"본문"</SIZE>
+
+폰트 변경법
+ㄴ <FONT "폰트 번호">"본문"</FONT>
+   ㄴ 폰트번호:
+      1 Brewery No 2 Black
+	  2 Logia Expanded
+	  3 dmc5block
+	  4 윤고딕 740
+	  5 dmc5
+	  6 윤고딕 740
+	  7 윤고딕 770
+	  8 ???
+	  9 ???
+	  10 윤고딕 740
+
+루비 문자 적용법
+ㄴ <RUBY><RB>"본문"</RB><RT>"윗주"</RT></RUBY>

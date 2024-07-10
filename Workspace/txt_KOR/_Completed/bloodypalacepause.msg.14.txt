@@ -1,0 +1,18 @@
+<string>
+<string>PAUSE MENU
+<string><SIZE 180>S</SIZE>TAGE
+<string><SIZE 180>R</SIZE>EST AREA
+<string>
+<string>SUSPEND
+<string>GIVE UP
+<string>
+<string>
+<string>
+<string>현재 상태를 저장하고 메인 메뉴로 돌아갑니다.
+<string>그만두고 메인 메뉴로 돌아갑니다.
+<string>연습을 멈추고 스테이지 선택으로 돌아갑니다.
+<string>
+<string>
+<string>전투 도중에는 이 항목을 선택할 수 없습니다.
+<string>
+<string>TIME LIMIT

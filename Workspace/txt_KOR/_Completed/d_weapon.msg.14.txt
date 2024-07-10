@@ -1,0 +1,56 @@
+<string>
+<string>Rebellion
+<string>Ebony & Ivory
+<string>Coyote-A
+<string>Balrog
+<string>Devil Sword Sparda
+<string>Devil Sword Dante
+<string>King Cerberus
+<string>Kalina Ann
+<string>Kalina Ann II
+<string>Double Kalina Ann
+<string>Cavaliere
+<string>Dr. Faust
+<string>Cavaliere R
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>리벨리온
+<string>에보니 & 아이보리
+<string>코요테-A
+<string>발록
+<string>마검 스파다
+<string>마검 단테
+<string>킹 케르베로스
+<string>카리나 안
+<string>카리나 안 II
+<string>더블 카리나 안
+<string>카발리에
+<string>닥터 파우스트
+<string>카발리에 R
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>리벨리온
+<string>에보니 & 아이보리
+<string>코요테-A
+<string>발록
+<string>마검 스파다
+<string>마검 단테
+<string>킹 케르베로스
+<string>카리나 안
+<string>카리나 안 II
+<string>더블 카리나 안
+<string>카발리에
+<string>닥터 파우스트
+<string>카발리에 R

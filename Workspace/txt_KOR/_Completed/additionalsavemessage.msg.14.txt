@@ -1,0 +1,11 @@
+<string>
+<string>VERGIL SAVED DATA
+<string>ENEMY PHOTO DATA
+<string>
+<string>저장 데이터의 로딩에 실패했습니다.
+<string>저장 데이터를 확인 중입니다.<lf>기기를 끄지 마십시오.
+<string>저장 데이터를 확인 중입니다.<lf>기기를 끄지 마십시오.
+<string>저장하는 중입니다.<lf>기기를 끄지 마십시오.
+<string>저장하는 중입니다.<lf>기기를 끄지 마십시오.
+<string>손상된 저장 데이터를 삭제하고 새로운 저장 데이터를 만드시겠습니까?
+<string>저장 데이터가 확인되지 않습니다.<lf>게임을 저장하려면 새 저장 데이터를 생성해야 합니다.<lf><lf>(데이터를 저장하지 않으면 게임을 시작할 수 없습니다.)

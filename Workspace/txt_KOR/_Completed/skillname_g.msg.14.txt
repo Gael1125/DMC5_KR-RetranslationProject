@@ -1,0 +1,201 @@
+<string>
+<string>MOVE
+<string>CAMERA
+<string>LOCK-ON
+<string>JUMP
+<string>PROVOCATION
+<string>SIDE ROLL
+<string>KICK JUMP
+<string>SPEED
+<string>ENEMY STEP
+<string>BLOCK
+<string>GET MORE ORBS
+<string>TRIGGER HEART
+<string>EX PROVOCATION
+<string>SPECIAL PROVOCATION
+<string>DOPPELGANGER
+<string>AIR TRICK
+<string>GRIM TRICK
+<string>TRICK UP
+<string>TRICK DODGE
+<string>TRICK DOWN
+<string>YAMATO COMBO A
+<string>YAMATO COMBO B
+<string>YAMATO COMBO C
+<string>AERIAL RAVE A
+<string>AERIAL RAVE B
+<string>JUDGEMENT CUT
+<string>RAPID SLASH
+<string>RISING STAR
+<string>UPPER SLASH
+<string>UPPER SLASH 2
+<string>JUDGEMENT CUT END
+<string>AERIAL CLEAVE
+<string>VOID SLASH
+<string>
+<string>
+<string>BEOWULF COMBO A
+<string>BEOWULF COMBO B
+<string>STARFALL
+<string>STARFALL 2
+<string>LUNAR PHASE
+<string>LUNAR PHASE 2
+<string>BEAST UPPERCUT
+<string>RISING DRAGON
+<string>DRAGON BREAKER
+<string>FLUSH
+<string>KICK 13
+<string>HELL ON EARTH
+<string>
+<string>
+<string>
+<string>MIRAGE EDGE COMBO A
+<string>MIRAGE EDGE COMBO B
+<string>ROUND TRIP
+<string>HELM BREAKER
+<string>HELM BREAKER 2
+<string>STINGER
+<string>STINGER 2
+<string>MILLION STAB
+<string>HIGH TIME
+<string>DRIVE
+<string>OVER DRIVE
+<string>DEEP STINGER
+<string>
+<string>
+<string>
+<string>MIRAGE BLADE
+<string>MIRAGE BLADE 2
+<string>MIRAGE BLADE 3
+<string>SPIRAL BLADES
+<string>STORM BLADES
+<string>BLISTERING BLADES
+<string>HEAVY RAIN BLADES
+<string>
+<string>
+<string>
+<string>SIN DEVIL TRIGGER
+<string>ACCUMULATE
+<string><COLOR FF0000>#Rejected#</COLOR> SkillName_G_tagE_1570
+<string>WORLD OF V
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>이동
+<string>카메라
+<string>록온
+<string>점프
+<string>도발
+<string>사이드 롤
+<string>킥 점프
+<string>스피드
+<string>에너미 스텝
+<string>블록
+<string>겟 모어 오브
+<string>트리거 하트
+<string>EX 도발
+<string>특수 도발
+<string>도플갱어
+<string>에어 트릭
+<string>그림 트릭
+<string>트릭 업
+<string>트릭 닷지
+<string>트릭 다운
+<string>야마토 콤보 A
+<string>야마토 콤보 B
+<string>야마토 콤보 C
+<string>에어리얼 레이브 A
+<string>에어리얼 레이브 B
+<string>저지먼트 컷
+<string>래피드 슬래시
+<string>라이징 스타
+<string>어퍼 슬래시
+<string>어퍼 슬래시 2
+<string>저지먼크 컷 엔드
+<string>에어리얼 클리브
+<string>보이드 슬래시
+<string>
+<string>
+<string>베오울프 콤보 A
+<string>베오울프 콤보 B
+<string>스타폴
+<string>스타폴 2
+<string>루나 페이즈
+<string>루나 페이즈 2
+<string>비스트 어퍼컷
+<string>라이징 드래곤
+<string>드래곤 브레이커
+<string>플러시
+<string>킥 13
+<string>헬 온 어스
+<string>
+<string>
+<string>
+<string>미라지 엣지 콤보 A
+<string>미라지 엣지 콤보 B
+<string>라운드 트립
+<string>헬름 브레이커
+<string>헬름 브레이커 2
+<string>스팅어
+<string>스팅어 2
+<string>밀리언 스탭
+<string>하이 타임
+<string>드라이브
+<string>오버 드라이브
+<string>딥 스팅어
+<string>
+<string>
+<string>
+<string>미라지 블레이드
+<string>미라지 블레이드 2
+<string>미라지 블레이드 3
+<string>스파이럴 블레이드
+<string>스톰 블레이드
+<string>블리스터링 블레이드
+<string>헤비 레인 블레이드
+<string>
+<string>
+<string>
+<string>진 마인화
+<string>어큐뮬레이트
+<string>도플갱어
+<string>월드 오브 V
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

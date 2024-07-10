@@ -1,0 +1,14 @@
+<string>
+<string>이것 좀 보셔...<lf>날 상대하려면 
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0005
+<string>흐하하! 그래, 한번 놀아보자 이거지? 어디 놀아보실까.
+<string>떨고 계시구만...<lf>겁에 질리셨나, 아니면 신나기라도 하셨나?
+<string><COLOR FF0000>#Rejected#</COLOR> additional_dia_m19_20_0025
+<string>죽이는데!
+<string>이번엔 한 방 먹었어...
+<string>좀 하시는데!
+<string>이봐, 진짜 재미있는 건 지금부터야!
+<string>설마 이 정도가 고작인 건 아니지? 아이고, 우리 버질 어린이 눈물이 나오시나?
+<string>
+<string>작별이다, 단테.
+<string>무엇이든 끝이 있다, 단테. 우리도 말이다...
