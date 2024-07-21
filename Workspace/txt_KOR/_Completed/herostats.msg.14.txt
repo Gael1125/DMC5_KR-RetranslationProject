@@ -1,0 +1,4 @@
+<string>
+<string>S 랭크 달성 미션 
+<string>획득한 골드 오브
+<string>기술 해금 상태

@@ -1,0 +1,38 @@
+<string>
+<string>자, 자, 신상 의수가 나왔어!
+<string>자, 신상품이 나왔다고!
+<string>자, 새로 만든 의수야!
+<string>
+<string>이런 걸작이...! 내 작품이야!
+<string>새로운 물건을 준비했어.<lf>한번 둘러 봐.
+<string>정말 힘들게 만들었다고!
+<string>
+<string>안녕.
+<string>어서 옵쇼!
+<string>어서 와.
+<string>잘 왔어.
+<string>잘 오셨어!
+<string>반갑다!
+<string>잘 오셨어.
+<string>잘 왔네.
+<string>왔네.
+<string>어서 와.
+<string>뭐야 너, 구경이나 하러 왔어?
+<string>미리 챙겨둬서 나쁠 거야 없지!
+<string>
+<string>그래서, 뭐 하나 골랐어?
+<string>값이 꽤 나가는 거야. 잘 고르라고.
+<string>그건 아직 써보지도 않은 거야?
+<string>
+<string>잘 고르셨네!
+<string>그렇지, 보는 눈이 있다니까!
+<string>보는 눈이 있으시네!
+<string>또 필요한 건 없지?
+<string>잘 다루고 다니라고.
+<string>
+<string>가장 최상품을 원하신다?
+<string>이거면 되겠네.
+<string>너, 파스타는 좋아하지?
+<string>사이즈가 좀 맞는지 봐줘.
+<string>자. 가려운 곳 긁기엔 딱이지.
+<string>키리에가 좋아하겠네! 무슨 말인지 알지?

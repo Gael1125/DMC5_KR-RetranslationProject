@@ -7,9 +7,9 @@
 <string>SAVING
 <string>LOADING
 <string>STARRING
-<string>파트너 기다림
+<string>파트너 대기 중
 <string>
-<string><ICON ACT_BtnR> 누르기
+<string><ICON ACT_BtnR> 입력
 <string>
 <string>Edgelord
 <string>Dismal

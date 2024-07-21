@@ -1,0 +1,21 @@
+<string>MAIN MENU
+<string>CONTINUE
+<string>MISSION SELECT
+<string>SECRET MISSIONS
+<string>TOTAL RESULTS
+<string>BLOODY PALACE
+<string>THE VOID
+<string>GALLERY
+<string>OPTIONS
+<string>STORE
+<string>EXIT
+<string>마지막 체크포인트에서 시작합니다.
+<string>진행할 미션을 선택합니다.
+<string>발견한 시크릿 미션을 다시 진행합니다.
+<string>미션들의 전체 결과를 확인합니다.
+<string>블러디 팰리스에 도전합니다.
+<string>조작법과 기술들을 연습해봅니다.
+<string>니코의 보고서를 읽어보고 주크박스를 감상합니다.
+<string>인게임 설정을 변경합니다.
+<string>스팀 페이지에서 아이템을 구매합니다.
+<string>게임을 종료합니다.

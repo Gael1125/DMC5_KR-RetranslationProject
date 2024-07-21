@@ -1,0 +1,10 @@
+<string>
+<string>LIBRARY
+<string>
+<string>LETTERS
+<string>PROFILES
+<string>DOCUMENTS
+<string>
+<string>모리슨이 보낸 편지를 확인합니다.
+<string>캐릭터의 정보를 확인합니다.
+<string>여러가지 기타 정보를 확인합니다.

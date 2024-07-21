@@ -1,0 +1,8 @@
+<string>
+<string>EVALUATION
+<string>
+<string>함께 싸운 시간
+<string>
+<string>"멋져요!"로 평가
+<string>평가하지 않음
+<string>사용자 정보 확인

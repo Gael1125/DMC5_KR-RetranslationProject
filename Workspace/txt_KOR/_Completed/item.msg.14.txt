@@ -34,17 +34,17 @@
 <string>그린 오브
 <string>화이트 오브
 <string>
-<string>블루 오브 프래그먼트
+<string>블루 오브의 파편
 <string>블루 오브
-<string>퍼플 오브 프래그먼트
+<string>퍼플 오브의 파편
 <string>퍼플 오브
 <string>골드 오브
 <string>
-<string>니드호그 해츨링
-<string>골리앗 샤드
-<string>아르테미스 오브
-<string>게리온 스플린터
-<string>길가메시 플레이트
+<string>니드호그의 유충
+<string>골리앗의 비늘
+<string>아르테미스의 보옥
+<string>게리온의 가시
+<string>길가메시의 판금
 <string>
 <string>
 <string>
@@ -59,10 +59,10 @@
 <string>그린 오브
 <string>화이트 오브
 <string>
-<string>블루 오브 프래그먼트
+<string>블루 오브의 파편
 <string>블루 오브
-<string>퍼플 오브 프래그먼트
+<string>퍼플 오브의 파편
 <string>퍼플 오브
 <string>골드 오브
 <string>
-<string>니드호그 해츨링
+<string>니드호그의 유충

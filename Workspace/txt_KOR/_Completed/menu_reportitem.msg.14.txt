@@ -15,4 +15,4 @@
 <string>
 <string>
 <string>
-<string>아이템 "{0}"에 관한 정보를 확인합니다.
+<string>{0}에 관한 정보를 읽습니다.

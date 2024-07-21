@@ -6,6 +6,6 @@
 <string>OPTIONS
 <string>미션을 시작합니다.
 <string>캐릭터를 선택합니다.
-<string>캐릭터를 커스터마이징합니다.
+<string>커스터마이즈 화면으로 이동합니다.
 <string>메인 메뉴로 돌아갑니다.
 <string>게임 설정을 변경합니다.

@@ -41,9 +41,9 @@
 <string><enemy id="27">
 <string><enemy id="33">
 <string><enemy id="37">
-<string><enemy id="37"> (Mission 08)
-<string><enemy id="37"> (Mission 17)
+<string><enemy id="37"> (<FONT 4>미션 08</FONT>)
+<string><enemy id="37"> (<FONT 4>미션 17</FONT>)
 <string><enemy id="38">
 <string><char id="2">
 <string>
-<string>이 적에 관한 정보를 확인합니다: {0}
+<string>{0}에 대한 정보를 확인합니다.

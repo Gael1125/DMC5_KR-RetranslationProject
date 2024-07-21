@@ -1,4 +1,0 @@
-<string>
-<string>미션 S 랭크 달성
-<string>골드 오브 획득
-<string>스킬 해제 상황

@@ -1,0 +1,13 @@
+<string>NICO'S REPORTS
+<string>CHARACTER REPORTS
+<string>ENEMY REPORTS
+<string>WEAPON REPORTS
+<string>ITEM REPORTS
+<string>ACTION REPORTS
+<string>TUTORIAL REPORTS
+<string>등장인물들에 대해 적어놓은 일지를 읽습니다.
+<string>적들을 분석한 걸 적어놓은 일지를 읽습니다.
+<string>무기들에 대해 설명하는 일지를 읽습니다.
+<string>각종 아이템들에 대해 작성된 일지를 읽습니다.
+<string>캐릭터별 액션 정보를 검토합니다.
+<string>이전에 본 튜토리얼을 확인합니다.

@@ -3,62 +3,62 @@
 <string>뒤로
 <string>다음
 <string>이전
-<string>줌인
-<string>줌아웃
-<string>모델 회전
+<string>줌 인
+<string>줌 아웃
+<string>모델을 회전
 <string>선택
 <string>설정
 <string>설정/제거
-<string>기본값으로 재설정
+<string>기본값으로 초기화
 <string>위
 <string>아래
 <string>왼쪽
 <string>오른쪽
-<string>카메라 재설정
+<string>카메라 재정렬
 <string>정렬
 <string>텍스트 스크롤
 <string>보기
 <string>다음 장면
 <string>이전 장면
-<string>일시 중지
+<string>일시정지
 <string>종료
-<string>기본값으로 재설정
-<string>상세 정보
+<string>기본값으로 초기화
+<string>상세
 <string>보기
-<string>줌 인/줌 아웃
+<string>줌 인/아웃
 <string>
 <string>카메라 이동
 <string>닫기
-<string>다시 찍기 설정
+<string>재촬영 설정
 <string>구입
 <string>취소
 <string>기본 설정
 <string>변경
-<string>듣기
-<string>메뉴 표시
+<string>감상
+<string>메뉴 보이기
 <string>메뉴 숨기기
 <string>모델 뷰어
-<string>모델 전환
-<string>베리에이션 전환
-<string>줌인/줌아웃
-<string>중지
-<string>캐릭터 전환
-<string>장면 전환
-<string>온라인 상점으로 이동
-<string>프로필 전환
+<string>모델을 전환
+<string>바리에이션을 전환
+<string>줌 인/아웃
+<string>정지
+<string>캐릭터를 전환
+<string>장면을 전환
+<string>스팀 페이지로 이동
+<string>프로필을 전환
 <string>건너뛰기
-<string>난이도 변경
-<string>카테고리 전환
-<string>캐릭터 전환
-<string>탄창 전환
-<string>복장 전환
-<string>컨트롤 표시 켜기
-<string>컨트롤 표시 끄기
+<string>난이도를 변경
+<string>카테고리를 전환
+<string>캐릭터를 전환
+<string>탄창을 전환
+<string>코스튬을 전환
+<string>조작키 표시 활성화
+<string>조작키 표시 비활성화
 <string>메인 메뉴
 <string>미션 선택
 <string>스크롤
-<string>현재 무기 제거
-<string>설정 조정
+<string>이 무기를 제거
+<string>설정을 조정
 <string>사용자 정보 보기
 <string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="1">
 <string><ICON DECIDE><key id="0"> <ICON CANCEL><key id="32">

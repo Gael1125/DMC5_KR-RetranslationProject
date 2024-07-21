@@ -25,4 +25,4 @@
 <string><weapon player="d" id="9">
 <string><weapon player="d" id="11">
 <string>
-<string>{0}에 관한 정보를 확인합니다.
+<string>{0}에 관한 정보를 읽습니다.

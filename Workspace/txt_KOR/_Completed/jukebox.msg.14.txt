@@ -1,0 +1,19 @@
+<string>
+<string>JUKEBOX
+<string>
+<string>BATTLE TRACKS
+<string>STYLISH VOICE
+<string>TITLE VOICE
+<string>
+<string>전투 시 재생되는 테마곡을 변경합니다(보스전 및 특정 컷신 제외).
+<string>스타일리시 랭크에서 재생되는 음성을 변경합니다.
+<string>게임 타이틀 음성을 변경합니다.
+<string>
+<string>이 곡이 선택한 캐릭터의 전투 시 테마곡으로 재생됩니다.
+<string>선택한 캐릭터의 스타일리시 랭크의 음성이 특별한 대사로 변경됩니다.
+<string>게임 타이틀 음성이 다양한 캐릭터의 음성 중 무작위로 재생됩니다.
+<string>
+<string>STYLISH RANK
+<string>TITLE SCREEN
+<string>스타일리시 랭크 음성 설정
+<string>게임 타이틀 음성 설정
