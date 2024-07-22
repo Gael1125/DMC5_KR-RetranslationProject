@@ -1,0 +1,26 @@
+<string>단테...
+<string>너 따위 놈이야 팔 없이도 충분해!
+<string>악마들이 서로 돕고 있다고...?<lf>세상이 어떻게 돌아가는 거야?
+<string>딱 기다려, 단테...
+<string>빨리 가, 멍청아!
+<string>날개가 없다고? 하, 참 안타깝구만!
+<string>등에 메고 있는 건 장난감이냐!
+<string>장난감 총도 있는 게 어디냐,<lf>임마? 좀 갈겨봐라!
+<string>뭘 꼬라봐? V가 부른다고!
+<string>네로, 여기다!
+<string>아오 세상에, 좀 진정을 못 하겠냐?<lf>그걸 한번에 다 날리고 앉았구만!
+<string>단테조차 힘을 못 쓰다니... 대체 뭐하는 놈이지?
+<string>V... 너 믿어도 되겠지?
+<string>좋아. 어서 단테한테 가볼까.
+<string>이쪽이다, 네로. 어서!
+<string>뜸 들이지 말라고.
+<string>단테가 곤란해보이는군 그래.
+<string>먼저 갈게...
+<string>아이 엿같은 새끼,<lf>우리가 뭐 지도라도 하나 그려주랴?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>이게... 내 한계인가...?

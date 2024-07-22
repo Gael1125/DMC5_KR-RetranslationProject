@@ -161,14 +161,14 @@
 <string>테이블 호퍼
 <string>테이블 호퍼 2
 <string>테이블 호퍼 3
-<string>프로버케이션
+<string>도발
 <string>레인보우
 <string>스피드
-<string>겟 모어 오브
+<string>오브 추가 획득
 <string>
-<string>EX 프로버케이션
-<string>스페셜 프로버케이션
-<string>리커버리 프로버케이션
+<string>EX 도발
+<string>특수 도발
+<string>회복 도발
 <string>
 <string>
 <string>
@@ -215,13 +215,13 @@
 <string>익시드 2
 <string>익시드 3
 <string>EX 액트
-<string>맥스 액트
+<string>MAX 액트
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>데빌 트리거
+<string>마인화
 <string>트리거 하트
 <string>버스터
 <string>데빌 버스터
@@ -237,7 +237,7 @@
 <string>홀드
 <string>듀얼 홀드
 <string>
-<string>플랩 톱
+<string>플랩 탑
 <string>서몬드 소드
 <string>브링어 클로
 <string>맥시멈 베트
@@ -270,8 +270,8 @@
 <string>
 <string>배터리
 <string>익스플로더
-<string>쟈키
-<string>스테이먼 레이 / 페탈 레이
+<string>저키
+<string>스테이맨 레이 / 페탈 레이
 <string>
 <string>제트 가젯
 <string>부스트 너클
@@ -284,8 +284,8 @@
 <string>레드 퀸 에어 EX
 <string>블러디 퀸 
 <string>블러디 퀸 에어
-<string>드릴 리그
-<string>드릴마스터
+<string>드릴 릭
+<string>드릴 마스터
 <string>슬로우 스피어
 <string>슬로우 월드
 <string>사이드 와인더
@@ -330,8 +330,8 @@
 <string>
 <string>
 <string>
-<string>쟈키
-<string>스테이먼 레이 / 페탈 레이
+<string>저키
+<string>스테이맨 레이 / 페탈 레이
 <string>파스타 제트
 <string>파스타 믹스
 <string>브리프 릴리프

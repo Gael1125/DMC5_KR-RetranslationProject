@@ -1,0 +1,96 @@
+<string>
+<string>"낮에도 밤에도 나무는 자라나서 밝은 사과 한 알이 맺혔네."<lf>-윌리엄 블레이크의 시 '독나무' 중-
+<string>우리가 알고 지낸 것도 꽤나 오래였지만...
+<string>이런 트러블은 겪어본 적이 없구먼.
+<string>해낼 수 있겠나, 단테?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>나도 참 뭐하는 짓이냐, 여기서 시간낭비나 하고.<lf>저 놈이 알아서 잡을텐데.
+<string>저 악마 놈을 너무 얕보지 말도록.
+<string>결국 저 악마는 네 오른팔을 가져가...
+<string>...저런 엄청난 힘을 얻어냈으니까 말이다.
+<string>먼저 가겠다.
+<string>너무 뒤처지지 않는 게 좋을 거야.
+<string>퍽이나...
+<string>좋아, V... 너도 좀 수상하긴 하지만, 그쪽 말이 맞네.
+<string>나도 저 개새끼한테 갚을 빚이 있거든.
+<string>
+<string>
+<string>
+<string>그래, 어디 시작해볼까.<lf>첫빠따는 누구냐?
+<string>
+<string>어이! 먼저 가신 거 아니었어?
+<string>아직도 이해가 안 되나?<lf>너 없이는 기대도 할 수 없는 싸움이다.
+<string>그런 거지 꼬맹이, 그쪽은 싸가지나 잘 챙겨두시고.<lf>이제 어서 가기나 해, 여긴 우리가 맡을테니까.
+<string>
+<string>
+<string>뭐... 꼴을 보니 시간낭비는 아니었구만 그래.
+<string>야이 개새끼야!
+<string>어머니가 도둑질은 나쁘다고 안 가르쳐주시던?
+<string>미안, 단테...
+<string>이 새끼는 내가 조질 거야!
+<string>
+<string>다 끝났어! 다 끝났다고!<lf>이젠 가망이 없단 말이야!
+<string>
+<string>2 라운드다!
+<string>V, 네로 데리고 어서 튀어!<lf>너무 무대포로 들이박았어!
+<string>난 아직 싸울 수 있어!
+<string>그냥 좀 가라, 네로!<lf>짐짝이나 되지 말고.
+<string>이거 놔!
+<string>빨리 와라!
+<string>이거 놓으라고!
+<string>우선 도망쳐야 한다.<lf>놈의 강함이 우리 상상을 아득히 넘었을 줄이야.
+<string>저 새끼가 나보고 짐짝이라잖아!<lf>내가 저딴 말이나 듣자고 여기 온 줄 알아!
+<string>
+<string>그렇게 자책할 바엔, 더 강해져서 도움이 될 방법이나 생각해라.
+<string>단테가 진다면... 유리즌에게 맞설 수 있는 건 오직 너 밖에 없다.
+<string>그게 저 새끼 이름이냐?
+<string>그래. 마왕, 유리즌...
+<string>그게 네 팔을 빼앗아간 악마의 이름이다.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>단테는 어찌 됐나?
+<string>단테는 어디 있지?
+<string>시간을 벌고 있을 텐데, 아마... 잘 안풀린 모양이군.
+<string>세상에 어찌 이런 일이... 단테가 졌단 말인가?
+<string>포기해라, 뭔가 해줄 수 있는 것도 아니잖나...
+<string>어서 가지.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

@@ -334,7 +334,7 @@
 <string>카메라
 <string>록온
 <string>점프
-<string>프로버케이션
+<string>도발
 <string>
 <string>사이드 롤
 <string>킥 점프
@@ -342,18 +342,18 @@
 <string>에너미 스텝
 <string>에어 하이크
 <string>글라이더
-<string>겟 모어 오브
+<string>오브 추가 획득
 <string>트리거 하트
-<string>EX 프로버케이션
-<string>스페셜 프로버케이션
-<string>데빌 트리거
+<string>EX 도발
+<string>특수 도발
+<string>마인화
 <string>이레귤러 풀 커스텀
 <string>
 <string>
 <string>
 <string>리벨리온 콤보 A
 <string>리벨리온 콤보 B
-<string>헬멧 브레이커
+<string><RUBY><RB>헬름 브레이커</RB><RT>투구 깨기</RT></RUBY>
 <string>하이 타임
 <string>스팅어
 <string>스팅어 2
@@ -368,7 +368,7 @@
 <string>
 <string>스파다 콤보 A
 <string>스파다 콤보 B
-<string>헬름 브레이커
+<string><RUBY><RB>헬름 브레이커</RB><RT>투구 깨기</RT></RUBY>
 <string>하이 타임
 <string>스팅어
 <string>스팅어 2
@@ -381,10 +381,10 @@
 <string>
 <string>
 <string>
-<string>데빌 소드 단테 콤보 A
-<string>데빌 소드 단테 콤보 B
-<string>데빌 소드 단테 콤보 C
-<string>헬름 브레이커
+<string>마검 단테 콤보 A
+<string>마검 단테 콤보 B
+<string>마검 단테 콤보 C
+<string><RUBY><RB>헬름 브레이커</RB><RT>투구 깨기</RT></RUBY>
 <string>에어리얼 레이브
 <string>하이 타임
 <string>스팅어
@@ -417,11 +417,11 @@
 <string>스위치 킥
 <string>웰터 무브
 <string>페더 콤보
-<string>발로그 콤보 A
-<string>발로그 콤보 B
+<string>발록 콤보 A
+<string>발록 콤보 B
 <string>프릭션
 <string>업드래프트
-<string>스위치 블로
+<string>스위치 블로우
 <string>히트 업
 <string>플라이 드래곤
 <string>밴텀 리벤지
@@ -453,8 +453,8 @@
 <string>
 <string>기어 휠
 <string>로우 기어
-<string>톱 기어
-<string>오버톱 기어
+<string>탑 기어
+<string>오버탑 기어
 <string>카발리에 콤보 A
 <string>크로스 라인
 <string>아이들링
@@ -481,19 +481,19 @@
 <string>
 <string>
 <string>
-<string>샷 쉘
-<string>차지 쉘
-<string>차지 쉘 2
-<string>차지 쉘 3
+<string>샷 셸
+<string>차지 셸
+<string>차지 셸 2
+<string>차지 셸 3
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>하위쳐 샷
+<string>하위처 샷
 <string>하이 익스플로시브
-<string>트윈 하위쳐
+<string>트윈 하위처
 <string>캐스케이드
 <string>
 <string>
@@ -516,13 +516,13 @@
 <string>
 <string>
 <string>
-<string>TS 스타일 레벨 2
-<string>TS 스타일 레벨 3
-<string>TS 스타일 레벨 4
-<string>대쉬
+<string>트릭스터 레벨 2
+<string>트릭스터 레벨 3
+<string>트릭스터 레벨 4
+<string>대시
 <string>스카이 스타
-<string>무스탕
-<string>무스탕 에어
+<string>머스탱
+<string>머스탱 에어
 <string>플리퍼
 <string>에어 트릭
 <string>그라운드 트릭
@@ -531,29 +531,29 @@
 <string>
 <string>
 <string>
-<string>SM 스타일 레벨 2
-<string>SM 스타일 레벨 3
-<string>SM 스타일 레벨 4
+<string>소드마스터 레벨 2
+<string>소드마스터 레벨 3
+<string>소드마스터 레벨 4
 <string>프롭
 <string>슈레더
 <string>에어리얼 레이브
-<string>댄스 마카브레
+<string>댄스 마카브르
 <string>프롭
 <string>슈레더
 <string>에어리얼 레이브
 <string>라운드 트립
-<string>댄스 마카브레
+<string>댄스 마카브르
 <string>포 핸디드
-<string>스팅어스
+<string>스팅어즈
 <string>하이 타임즈
 <string>라운드 트립스
-<string>댄스 마카브레
+<string>댄스 마카브르
 <string>미들 브레이크
 <string>크루저 다이브
 <string>미니멈 드래곤
-<string>라이징 드래곤
-<string>디바인 드래곤
-<string>리얼 임팩트
+<string><RUBY><RB>라이징 드래곤</RB><RT>승룡권</RT></RUBY>
+<string><RUBY><RB>디바인 드래곤</RB><RT>신룡권</RT></RUBY>
+<string><RUBY><RB>리얼 임팩트</RB><RT>진 승룡권</RT></RUBY>
 <string>브레이크 스파이럴
 <string>파이어스톰
 <string>파이로매니아
@@ -581,9 +581,9 @@
 <string>
 <string>
 <string>
-<string>GS 스타일 레벨 2
-<string>GS 스타일 레벨 3
-<string>GS 스타일 레벨 4
+<string>건슬링어 레벨 2
+<string>건슬링어 레벨 3
+<string>건슬링어 레벨 4
 <string>에보니 샷
 <string>오토 차지 (E)
 <string>오토 차지 2 (E)
@@ -593,23 +593,23 @@
 <string>오토 차지 2 (I)
 <string>오토 차지 3 (I)
 <string>투썸 타임
-<string>허니콤 파이어
+<string>허니컴 파이어
 <string>레인스톰
-<string>파이어웍스
-<string>파이어웍스 에어
+<string>파이어워크
+<string>파이어워크 에어
 <string>백슬라이드
 <string>건 스팅어
-<string>컷인프런트
-<string>컷인백
-<string>컷인사이드
+<string>컷인 프론트
+<string>컷인 백
+<string>컷인 사이드
 <string>멀티플
 <string>파라노이아
 <string>히스테릭
 <string>블래스터
-<string>멀티플 트윈스
+<string>멀티플 트윈즈
 <string>메가 캐스케이드
-<string>히스테릭 트윈스
-<string>블래스터 트윈스
+<string>히스테릭 트윈즈
+<string>블래스터 트윈즈
 <string>매드 해터
 <string>레드 핫 나이트
 <string>매직 해트
@@ -621,9 +621,9 @@
 <string>
 <string>
 <string>
-<string>RG 스타일 레벨 2
-<string>RG 스타일 레벨 3
-<string>RG 스타일 레벨 4
+<string>로얄가드 레벨 2
+<string>로얄가드 레벨 3
+<string>로얄가드 레벨 4
 <string>블록
 <string>에어 블록
 <string>로얄 블록
@@ -645,8 +645,8 @@
 <string>SDT 콤보
 <string>더 옴브라
 <string>에어 레이드
-<string>애드벤트
-<string>진스팅어
+<string>어드벤트
+<string>진 스팅어
 <string>진 인페르노
 <string>데몰리션
 <string>더 루체

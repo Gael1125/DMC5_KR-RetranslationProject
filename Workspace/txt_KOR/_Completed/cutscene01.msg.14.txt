@@ -1,0 +1,112 @@
+<string>
+<string>현재 완전히 기능이 마비되어버린<lf>레드 그레이브와 주변 도시의 상황은
+<string>약 한달 전부터 공격을 시작한<lf>정체불명의 나무가 원인으로 보입니다.
+<string>이러한 상황 속에서 정부는 현재—
+<string>악마라고요! 이 두눈으로 똑똑히 봤다고요!
+<string>레드 그레이브는 완전히 넘어갔어요!
+<string>우리 모두 기도합시다. 이것은 하늘이<lf>우리에게 내린 시련일 터... 끝에는—
+<string>
+<string>똑같은 개소리가, 매일 매일 나오네.
+<string>그래서 어때?
+<string>뭐가 어떠냐니?
+<string>지 아비 죽인 놈을 구하러 가시는 소감 말이야?
+<string>어머, 우리 사이가 언제 그렇게나 가까웠더라.
+<string>뭐, 나랑 엄마가 뒤지던 말던 버리고 가셨으니까...
+<string>아무 감정도 없어.
+<string>올해의 아버지상 받는 건 글러먹은 놈이었지, 아마?
+<string>연구는 나쁘지 않더라고. 잘 써먹기도 했고.
+<string>그것만 고마울 뿐이지...
+<string>
+<string>여기서 꼭 피우셔야 되겠어?
+<string>안 그래도 냄새까지 나는데...
+<string>그건 네 냄새고.
+<string>어이, 니코!
+<string>이미 봤으니까, 가슴 붙들어 매셔!
+<string>야, 도로의 방지턱은 다 찾아서 밟을 셈이야?
+<string>리듬감이 영 꽝이네!
+<string>
+<string>
+<string>놈들을 막아. 저 놈들 막으라고! 무조건 막아야 한다!
+<string>뭐가 어떻게 된 거야? 이것들은 다 뭐고!?
+<string>
+<string>좀 안아달라는 표정이시네, 나한테는 어림도 없을 거야.
+<string>— 어서 꺼지기나 해.
+<string>— 뭐야 쟤는?
+<string>이봐, 당신 누구야?<lf>어이, 당신 그러다 정말 죽어!
+<string>신경 쓰지 마. 저게 취미인 놈이니까.
+<string>자기 일 하게 냅둬.
+<string>내 말이 안 들리냐, 이 병신같은<lf>외팔이 새끼야!? 그러다 죽어!
+<string>응원이나 해, 돌격머리.
+<string>필기는 하고 있지?
+<string>좋아, 어디 실컷 죽여보실까.
+<string>
+<string>
+<string>보다시피 쟤가 악마들 패는 건 프로 선수거든.
+<string>그러니까 개쩌는 의수로 하나 달아준 거지...<lf>어디 더 많이 패보라고 말이야.
+<string>야이, 미친 새끼야! 물건 값은 니가 내냐!
+<string>야, 그만 징징대고 어서 숨기나 해!
+<string>
+<string>
+<string>화초가 참 이쁘구만 그래.
+<string>아, 그렇단 말이지...
+<string>누구 마시멜로 있는 사람?<lf>불은 내가 가지고 왔지.
+<string>
+<string>어이, 터프가이.<lf>숨 좀 돌렸긴 했지만, 그리 오래는 못 간다더라.
+<string>뭔 소리야?
+<string>군인 놈 얘기를 들어보니 지금 도시가<lf>마계에 점령당해서 생지옥이 됐다고 하더라.
+<string>지금 여기 말고도, 사방천지가 그렇다네.
+<string><RUBY><RB>염마도</RB><RT>야마토</RT></RUBY>가 원인이구만...
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>내가 니 전속 정비사라도 되냐?
+<string>버릇 들이진 말라고...
+<string>내가 교단 자료도 보여줬잖아, 니코.<lf>아직 갚으실 거 남았다고, 알지?
+<string>
+<string>거기 너희 둘! 저녁밥 다 됐어!
+<string>금방 갈게!
+<string>야, 먼저 먹지 그러냐? 난 이것부터 끝내련다.
+<string>
+<string>내가 네 몫도 제대로... 다 먹어야지.
+<string>저기, 그, 볼일이 있으시나?
+<string>뭐야 당신, 배고파서 그래?
+<string>그럼 운이 좋으시네. 밥은 다 됐고,<lf>키리에는 손이 너무 커서 탈이니까.
+<string>많이 시끄러운 건 좀 참아줘,<lf>위에 수다쟁이가 둘이나 있어가지고.
+<string>맘에 드는 거라도 있나?
+<string>뭐야 이거?
+<string>너 설마 악마냐?
+<string>음식 다 식겠다, 네로. 무슨 일인—?
+<string>안으로 들어가, 키리에! 당장!
+<string>
+<string>이건 되돌려받겠다.
+<string>더이상은 시간이 없다...
+<string>거기 서...
+<string>거기 서!
+<string>네로!
+<string>고작 2분 정도 혼자 둔 거잖아,<lf>그 사이에 대체 뭔 지랄이 난 거야!?
+<string>
+<string>V가 저 앞에서 기다리고 있을 거야.
+<string>거기까지는 안 뒤지면서 가보자고.

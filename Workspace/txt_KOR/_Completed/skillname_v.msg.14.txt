@@ -106,13 +106,13 @@
 <string>점프
 <string>킥 점프
 <string>에너미 스텝
-<string>프로버케이션
-<string>겟 모어 오브
+<string>도발
+<string>오브 추가 획득
 <string>
 <string>그린 게이너
 <string>화이트 게이너
-<string>EX 프로버케이션
-<string>스페셜 프로버케이션
+<string>EX 도발
+<string>특수 도발
 <string>
 <string>
 <string>체크메이트
@@ -128,7 +128,7 @@
 <string>포스드 무브
 <string>퀵플레이
 <string>로얄 포크
-<string>데빌 트리거
+<string>마인화
 <string>
 <string>
 <string>
@@ -140,10 +140,10 @@
 <string>
 <string>
 <string>
-<string>불릿
-<string>블로케이드
-<string>블로케이드 2
-<string>블로케이드 3
+<string>불렛
+<string>블록케이드
+<string>블록케이드 2
+<string>블록케이드 3
 <string>플랭크 어택
 <string>더블 체크
 <string>더블 체크 2
@@ -165,11 +165,11 @@
 <string>쉐도우 콤보 C
 <string>브레이크쓰루
 <string>
-<string>헤지호그
-<string>헤지호그 2
+<string>헤지혹
+<string>헤지혹 2
 <string>아비터
 <string>스큐어
-<string>베이어넷
+<string>배요넷
 <string>기요틴
 <string>
 <string>쉐도우 비거
