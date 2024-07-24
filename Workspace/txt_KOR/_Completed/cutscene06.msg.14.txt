@@ -1,0 +1,30 @@
+<string>
+<string>뭐, 죽지는 않았어.
+<string>근데 몸매는 죽여주네, 진짜.
+<string>나도 정말이지—간신히 눈치챌 정도로.
+<string>있잖아, 이제 니 할 일이나 하러 가. 내가 볼테니까.
+<string>그래.
+<string>뭐야 이건?
+<string>어우... 그냥 냅두기엔 너무 큰 놈인데.<lf>내가 처리하는 게 낫겠어.
+<string>조심 좀 하시고.
+<string>
+<string>그 밑에서 뭣들 하시나?
+<string>설마 혼자 다 해먹었다고 생각하는 거냐, 너?
+<string>있잖아, 널 튀기면 치킨 맛이 나지 않겠냐...
+<string>이 개새끼가 이젠 싸가지를—
+<string>저 괴수는 너한테 맡기겠다.
+<string>난 갈 곳이 있으니까.
+<string>
+<string>그럼...
+<string>이제 너랑 나 단둘이시네, 바퀴벌레 자식.
+<string>
+<string>이것도 뿌리다, 이거냐. 이게 다 뭐람?
+<string>야, 레이디 일어났다.
+<string>물어볼 거 있으면, 빨리하는 게 좋을 걸.
+<string>알았어.
+<string>야 잠깐 잠깐 잠깐 잠깐, 써먹을 수 있겠네. 주워와.
+<string>그거 말고, 다른 거.
+<string>— 이거?
+<string>— 그, 옆에—옆에 거!
+<string>세상에, 니코. 이걸?
+<string>그래.
