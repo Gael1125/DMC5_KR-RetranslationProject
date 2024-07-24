@@ -3,4 +3,4 @@
 
 
 현재 버전: alpha1
-[다운로드] (https://github.com/Gael1125/DMC5_KR-RetranslationProject/releases/download/alpha/DMC5_KR-RetranslationProject.rar)
+## [다운로드] (https://github.com/Gael1125/DMC5_KR-RetranslationProject/releases/download/alpha/DMC5_KR-RetranslationProject.rar)
