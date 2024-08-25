@@ -1,0 +1,12 @@
+<string>
+<string>WARM UP
+<string>
+<string>STAGE
+<string>랭크:
+<string>BEST TIME SCORE
+<string>점수 최고 기록
+<string>플레이 최고 기록
+<string>보너스 최고 기록
+<string>INCOMING ENEMIES
+<string>
+<string>스테이지 {0}에서 연습합니다.

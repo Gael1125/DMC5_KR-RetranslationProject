@@ -1,0 +1,210 @@
+<string>
+<string>RESULTS
+<string>Stylish Pts
+<string>Bonus & Penalty
+<string>Total Stylish Pts
+<string> pts
+<string>Bonus Red Orbs
+<string>Extra Bonus
+<string>Total Red Orbs
+<string>Penalties
+<string>
+<string>TOTAL RESULTS
+<string>Pro
+<string>07 N
+<string>07 V
+<string>13 N
+<string>13 D
+<string>13 V
+<string>SECRET MISSIONS
+<string>RECORD:
+<string>CLEAR COUNTS
+<string>TOTAL STYLISH POINTS
+<string>
+<string>노 아이템
+<string>노 데미지
+<string>한 번에 클리어
+<string>골드 오브를 사용했음
+<string>오브 부활 횟수 3회
+<string>이어하기 횟수 3회
+<string>슈퍼 캐릭터 페널티
+<string>오토 어시스트 사용
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>헛방질 왕
+<string>트리거 해피
+<string>몰아치는 검들
+<string>총사
+<string>트리플 에너미 스텝
+<string>일관된 스타일
+<string>최대 체력으로 승리
+<string>왕의 귀환
+<string>빈사 경험
+<string>사망이나 생명이나
+<string>해방된 악마
+<string>이어하기 중독
+<string>체크포인트 중독
+<string>2연속 사망
+<string>3연속 테이크다운
+<string>5연속 페이탈리티
+<string>폭발적인 실수
+<string>콤보 데미지
+<string>잔혹한 일겨
+<string>재주넘치는 회피
+<string>도발의 달인
+<string>공중 도발
+<string>바람이나 좀 쐐
+<string>땅에 얽매인 자
+<string>샌드백 당함
+<string>날쌘 싸움꾼
+<string>느려터진 주걱
+<string>마인화 없이
+<string>마인화 중독
+<string>좋은 팀워크(협동)
+<string>천천히 가보자고(협동)
+<string>레드 오브 떡락
+<string>레드 오브 떡상
+<string>총기애호가
+<string>검술의 달인
+<string>내려앉는 죽음
+<string>내야뜬공
+<string>저격수
+<string>브레이커 파괴자
+<string>브레이커 수호자
+<string>마무리는 브레이크 어웨이로
+<string>의수 없이 승리
+<string>제트 세터
+<string>에어 트릭의 달인
+<string>트리플 버스터
+<string>폭탄마
+<string>훌륭한 익시드
+<string>책벌레
+<string>악몽 같은 승리
+<string>3연속 마인화
+<string>스테일메이트 없이
+<string>마무리 일격 없이
+<string>악마의 구원
+<string>마무리 일격으로 피니시
+<string>파도타기
+<string>나 홀로서
+<string>무기 변경 없이
+<string>모든 무기로 변경했음
+<string>스타일 변경 없이
+<string>모든 스파일로 변경했음
+<string>비무장 승리
+<string>2연속 진 마인화
+<string>이그니션 활성화
+<string>탑 기어로 바꾸다
+<string>최대 출력 레드 핫 나이트
+<string>가속 페달 끝까지
+<string>SSS 진 마인화
+<string>트리플 임팩트
+<string>히트 업 연장
+<string>로얄 리벤지
+<string>악의적인 오인사격
+<string>연약한 저항
+<string>긴급출동
+<string>패리의 왕자
+<string>그것은 패리의 왕
+<string>뉴비절단기
+<string>고인물절단기
+<string>가드 브레이크 초보자
+<string>가드 브레이크 고인물
+<string>안전불감증
+<string>레드 엠푸사 사냥꾼
+<string>엠푸사 탈출
+<string>야채 굽기
+<string>다윗과 골리앗
+<string>저스트 버스터
+<string>마운틴 클라이머
+<string>고리 너머로 점프
+<string>게이트 파괴자
+<string>애완견 조련사
+<string>까마귀 사냥꾼
+<string>죄스러운 마무리
+<string>전설적인 마무리
+<string>스피드 클리어 B
+<string>스피드 클리어 A
+<string>스피드 클리어 S
+<string>오브 편식
+<string>터미네이터
+<string>레드 오브가 없네
+<string>333 오브 잭팟
+<string>환경파괴자
+<string>환경보호자
+<string>대장 말을 따르라
+<string>지나가는 길이라고
+<string>동전 줍는 자
+<string>쫄딱 망했어
+<string>구경만 하자
+<string>니코는 부르지 마
+<string>철거 시합
+<string>막대한 손실
+<string>흠뻑 젖었어
+<string>폭발 중독
+<string>왕을 찬배하라
+<string>마왕은 질색이야
+<string>익시드로 잡초 제거
+<string>호텔 관광
+<string>풍선은 다 터트려야지
+<string>데몬 퍼스트
+<string>벽부수기
+<string>다리로 구타
+<string>행운을 빌어
+<string>관짝 파괴자
+<string>모든 불평등에 맞서
+<string>니드호그 유충 없이
+<string>제트 가젯 그루브
+<string>핏덩이 날려버리기
+<string>핏덩이도 환경보호를
+<string>지속적인 협동
+<string>3인조 결성
+<string>악마 포획꾼
+<string>뛰지 마세요
+<string>집중도 최대
+<string>단 하나의 목적
+<string>공정한 심판
+<string>활인검
+<string>검을 쉬게 하다
+<string>V의 세계
+<string>도플갱어 피니시
+<string>내면의 악마
+<string>적재적소에 따라서
+<string>
+<string>천성부터 야인
+<string>가디언 마운트

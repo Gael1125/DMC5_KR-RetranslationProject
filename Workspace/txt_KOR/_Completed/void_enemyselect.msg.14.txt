@@ -1,0 +1,15 @@
+<string>
+<string>ENEMY SETTINGS
+<string>
+<string>적 공격 여부
+<string>적 데미지 여부
+<string>
+<string>활성화
+<string>비활성화
+<string>
+<string>ENEMY SELECTION
+<string>DESCRIPTION
+<string>
+<string>"활성화"를 선택하면 적이 공격 동작을 시전합니다.
+<string>"활성화"를 선택하면 적이 데미지를 받습니다.
+<string>상대해볼 적을 선택합니다. 

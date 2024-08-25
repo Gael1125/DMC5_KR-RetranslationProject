@@ -1,0 +1,26 @@
+<string>
+<string>샌드백 마냥 날려버려주마!
+<string>떨어뜨리셨네!
+<string>
+<string>다구리에 의지해봤자 아무 소용이 없을텐데!
+<string>
+<string>이건 너가 상관한 일이 아니다. 물러나거라.
+<string>내가 상관할 일이 아니다!? 하나부터 열까지 상관할 일이잖아!
+<string>네로...
+<string>내 존재를... 받아들이란 말이야!
+<string>
+<string>좆까!
+<string>이 자식이...!
+<string>
+<string>이제야 제대로 할 생각이 들어!?
+<string>
+<string>아직도 못 받아들이셨어?
+<string>네 존재를 말이냐? 아님 네 힘을 말이냐?
+<string>둘 다지, 이 개씨발 좆같은 새끼야!
+<string>
+<string>대견하지 않아? 아들이 벌써 다 컸다고.
+<string>아직 이긴 게 아니라고...
+<string>
+<string>어리석은 놈...
+<string>겨우 이게 네 힘의 한계더냐?
+<string>비참하구나, 네로...

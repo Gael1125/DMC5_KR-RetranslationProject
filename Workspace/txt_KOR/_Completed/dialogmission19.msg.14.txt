@@ -1,0 +1,23 @@
+<string>
+<string>언제나 그쪽 맘대로 하게 두진 않는다고!
+<string>재미있군 그래...
+<string>
+<string>인형술 치고는 충분히 괜찮으신데 말이야.
+<string>그리 얕보다간 쓴맛을 보게 될 것이다!
+<string>
+<string>슬슬 결판을 내야하지 않겠어.
+<string>그렇겠군... 덤벼라!
+<string>
+<string>나한테 이겨보시게? 백만년은 이르다고.
+<string>그런 건 이기고 나서나 말하도록, 할 수 있다면 말이다.
+<string>
+<string>고작 이것 때문에 아들내미 팔도 자르셨다?
+<string>아들 따위... 아무 의미조차 없다!
+<string>
+<string>결코 네놈에게 지지는 않겠다... 내 아우야!
+<string>고작 이 정도냐...
+<string>
+<string>실망시키는구나, 단테.
+<string>죽어야만 하리라...
+<string>
+<string>어리석군... 겨우 무작정 달려드는 것이 고작이냐?

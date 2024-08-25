@@ -1,8 +1,0 @@
-<string>
-<string>STORY THEATER
-<string>
-<string>PLAY ALL SCENES
-<string>SCENE LIST
-<string>
-<string>모든 장면을 순서대로 재생합니다.
-<string>리플레이할 장면을 선택합니다.

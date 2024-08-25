@@ -270,7 +270,7 @@
 <string>
 <string>배터리
 <string>익스플로더
-<string>저키
+<string>자키
 <string>스테이맨 레이 / 페탈 레이
 <string>
 <string>제트 가젯
@@ -330,7 +330,7 @@
 <string>
 <string>
 <string>
-<string>저키
+<string>자키
 <string>스테이맨 레이 / 페탈 레이
 <string>파스타 제트
 <string>파스타 믹스

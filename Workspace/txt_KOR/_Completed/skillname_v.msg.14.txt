@@ -118,7 +118,7 @@
 <string>체크메이트
 <string>갬빗
 <string>터치 앤 무브
-<string>더 북
+<string>책 읽기
 <string>나이트메어
 <string>트리거 하트
 <string>프로모션
@@ -140,7 +140,7 @@
 <string>
 <string>
 <string>
-<string>불렛
+<string>불릿
 <string>블록케이드
 <string>블록케이드 2
 <string>블록케이드 3
@@ -160,21 +160,21 @@
 <string>
 <string>
 <string>
-<string>쉐도우 콤보 A
-<string>쉐도우 콤보 B
-<string>쉐도우 콤보 C
-<string>브레이크쓰루
+<string>섀도우 콤보 A
+<string>섀도우 콤보 B
+<string>섀도우 콤보 C
+<string>브레이크스루
 <string>
-<string>헤지혹
-<string>헤지혹 2
+<string>헤지호그
+<string>헤지호그 2
 <string>아비터
 <string>스큐어
-<string>배요넷
+<string>바요넷
 <string>기요틴
 <string>
-<string>쉐도우 비거
-<string>쉐도우 비거 2
-<string>쉐도우 빔
+<string>섀도우 비거
+<string>섀도우 비거 2
+<string>섀도우 빔
 <string>앰부쉬
 <string>
 <string>

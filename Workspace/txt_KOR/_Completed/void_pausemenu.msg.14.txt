@@ -1,0 +1,21 @@
+<string>
+<string>PAUSE MENU
+<string>
+<string>PLAYER SETTINGS
+<string>ENEMY SETTINGS
+<string>RESET
+<string>SKILL LIST
+<string>PLAYER SELECT
+<string>OPTIONS
+<string>EXIT
+<string>
+<string>플레이어 설정을 조정합니다.
+<string>적의 설정을 조정합니다.
+<string>보이드의 현재 상황을 초기화합니다. 
+<string>기술 목록을 확인합니다.
+<string>조작할 캐릭터를 선택합니다.
+<string>캐릭터 별 설정을 조정합니다.
+<string>보이드에서 퇴장합니다.
+<string>
+<string>REPLAY
+<string>가장 최근의 동작을 확인합니다.

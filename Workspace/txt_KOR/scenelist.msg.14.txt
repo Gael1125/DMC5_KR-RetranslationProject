@@ -6,4 +6,4 @@
 <string>MISSION 
 <string>ENDING
 <string>
-<string>리플레이할 장면을 선택합니다.
+<string>재생할 장면을 선택합니다.

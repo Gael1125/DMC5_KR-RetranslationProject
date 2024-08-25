@@ -109,7 +109,7 @@
 <string>스피드
 <string>에너미 스텝
 <string>블록
-<string>겟 모어 오브
+<string>오브 추가 획득
 <string>트리거 하트
 <string>EX 도발
 <string>특수 도발
@@ -119,30 +119,30 @@
 <string>트릭 업
 <string>트릭 닷지
 <string>트릭 다운
-<string>야마토 콤보 A
-<string>야마토 콤보 B
-<string>야마토 콤보 C
-<string>에어리얼 레이브 A
-<string>에어리얼 레이브 B
-<string>저지먼트 컷
-<string>래피드 슬래시
-<string>라이징 스타
-<string>어퍼 슬래시
-<string>어퍼 슬래시 2
-<string>저지먼크 컷 엔드
-<string>에어리얼 클리브
-<string>보이드 슬래시
+<string><RUBY><RB>염마도 연참 · 일</RB><RT>야마토 콤보 A</RT></RUBY>
+<string><RUBY><RB>염마도 연참 · 이</RB><RT>야마토 콤보 B</RT></RUBY>
+<string><RUBY><RB>염마도 연참 · 삼</RB><RT>야마토 콤보 C</RT></RUBY>
+<string><RUBY><RB>염마도 비상참 · 일</RB><RT>에어리얼 레이브 A</RT></RUBY>
+<string><RUBY><RB>염마도 비상참 · 이</RB><RT>에어리얼 레이브 B</RT></RUBY>
+<string><RUBY><RB>차원참</RB><RT>저지먼트 컷</RT></RUBY>
+<string><RUBY><RB>질주거합</RB><RT>래피드 슬래시</RT></RUBY>
+<string><RUBY><RB>나섬천상</RB><RT>라이징 스타</RT></RUBY>
+<string><RUBY><RB>발도 베어올리기</RB><RT>어퍼 슬래시</RT></RUBY>
+<string><RUBY><RB>발도 베어올리기</RB><RT>어퍼 슬래시</RT></RUBY> 2
+<string><RUBY><RB>차원참 · 절</RB><RT>저지먼트 컷 엔드</RT></RUBY>
+<string><RUBY><RB>염마도 추격참</RB><RT>에어리얼 클리브</RT></RUBY>
+<string><RUBY><RB>시공열섬</RB><RT>보이드 슬래시</RT></RUBY>
 <string>
 <string>
 <string>베오울프 콤보 A
 <string>베오울프 콤보 B
-<string>스타폴
-<string>스타폴 2
-<string>루나 페이즈
-<string>루나 페이즈 2
+<string><RUBY><RB>스타폴</RB><RT>유성각</RT></RUBY>
+<string><RUBY><RB>스타폴</RB><RT>유성각</RT></RUBY> 2
+<string><RUBY><RB>루나 페이즈</RB><RT>월륜각</RT></RUBY>
+<string><RUBY><RB>루나 페이즈</RB><RT>월륜각</RT></RUBY> 2
 <string>비스트 어퍼컷
-<string>라이징 드래곤
-<string>드래곤 브레이커
+<string><RUBY><RB>라이징 드래곤</RB><RT>승룡권</RT></RUBY>
+<string><RUBY><RB>드래곤 브레이커</RB><RT>승룡열파</RT></RUBY>
 <string>플러시
 <string>킥 13
 <string>헬 온 어스
@@ -152,8 +152,8 @@
 <string>미라지 엣지 콤보 A
 <string>미라지 엣지 콤보 B
 <string>라운드 트립
-<string>헬름 브레이커
-<string>헬름 브레이커 2
+<string><RUBY><RB>헬름 브레이커</RB><RT>투구 깨기</RT></RUBY>
+<string><RUBY><RB>헬름 브레이커</RB><RT>투구 깨기</RT></RUBY> 2
 <string>스팅어
 <string>스팅어 2
 <string>밀리언 스탭
@@ -164,18 +164,18 @@
 <string>
 <string>
 <string>
-<string>미라지 블레이드
-<string>미라지 블레이드 2
-<string>미라지 블레이드 3
-<string>스파이럴 블레이드
-<string>스톰 블레이드
-<string>블리스터링 블레이드
-<string>헤비 레인 블레이드
+<string><RUBY><RB>환영검</RB><RT>미라지 블레이드</RT></RUBY>
+<string><RUBY><RB>환영검</RB><RT>미라지 블레이드</RT></RUBY> 2
+<string><RUBY><RB>환영검</RB><RT>미라지 블레이드</RT></RUBY> 3
+<string><RUBY><RB>원진환영검</RB><RT>스파이럴 블레이드</RT></RUBY>
+<string><RUBY><RB>열풍환영검</RB><RT>스톰 블레이드</RT></RUBY>
+<string><RUBY><RB>급습환영검</RB><RT>블리스터링 블레이드</RT></RUBY>
+<string><RUBY><RB>장마환영검</RB><RT>헤비 레인 블레이드</RT></RUBY>
 <string>
 <string>
 <string>
 <string>진 마인화
-<string>어큐뮬레이트
+<string>어큐멀레이트
 <string>도플갱어
 <string>월드 오브 V
 <string>

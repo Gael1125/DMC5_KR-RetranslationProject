@@ -1,12 +1,12 @@
 <string>
 <string>고민이나 해봤자 별 소용도 없겠지...
 <string>타이밍 죽이네... 이제서야 한 팀이 된 기분이야.
-<string>우웩! 너, 지금, 나 꼬시는 거냐?
-<string>집어 치우고... 어서 타기나 해.
+<string>우웩! 너 지금 나 꼬시냐?
+<string>집어 치워... 어서 차에 타.
 <string>오 주님 세상에...
 <string>
-<string>뭐, 이제 돌아갈 길도 없겠네.
-<string>초장부터 생각도 안했지만.
+<string>뭐, 이제 돌아갈 길도 없구만.
+<string>그럴 생각조차 없었다고.
 <string>빚을 갚으러 가보실까.
 <string>
 <string>야이 개새끼야, 반갑다?
@@ -15,29 +15,29 @@
 <string>여기에 죽으러 온 것이냐?
 <string>말은 하네.
 <string>유리즌, 맞지?
-<string>부모님이 너 싫어하셨나보다,<lf>이름이 그 따위인 걸 보면.
+<string>부모님이 너 싫어하셨나보네.<lf>그런 구린 이름을 지어준 걸 보면.
 <string>내게 이름은 없다.
-<string>난 절대적인, 힘이다.
-<string>뭐, 무명이시라...<lf>니 새끼 묘비에 반드시 그렇게 써줄게.
+<string>난 절대적인, 힘일 뿐.
+<string>뭐, 이름이 없다면...<lf>니 새끼 묘비에 반드시 그렇게 써줄게.
 <string>네놈은 고통받으며...
-<string>결국... 죽으리라.
+<string>끝내... 죽으리라.
 <string>
-<string>어디 그 짐짝 맛 좀 보여주마.
+<string>그 짐짝 맛 톡톡히 보여주마.
 <string>
 <string>슬슬 한 방 먹일 때가 됐지.
 <string>나약한 필멸자여.
 <string>그 육신에는 마력이 흐르지도 않을 터.
-<string>그런데도, 네놈이...
-<string>감히 이 몸을 공격한 것이렷다!?
+<string>그럼에도, 네 녀석이...
+<string><SIZE 50><COLOR FF0000>감히 내게 공격을 가한 것이냐!?</COLOR></SIZE>
 <string>미친...!?
-<string>후회토록 하라... 자신이 쓸모없는 인간인 것을.
+<string>그저 쓸모없는 인간으로 태어난 것을 후회하게 될 것이다.
 <string>내 직접 보여주마...
-<string>네 최악의 악몽을!
+<string><SIZE 50><COLOR EE0000>네 최악의 악몽을!</COLOR></SIZE>
 <string>내 직접 선사하마...
-<string>그 절망과 죽음을!
+<string><SIZE 50><COLOR EE0000>그 절망과 죽음을!</COLOR></SIZE>
 <string>
 <string>고작 인간일 뿐. 거만한 필멸의 육신이로다.
 <string>저주하라... 네놈이 이 세상에 태어난 그 순간을.
-<string>누가 감히 방해하는가?
-<string>왕에게 맞서는 네 녀석은 대체 무엇이냐!?
+<string>감히 누가 방해하는가?
+<string>왕에게 맞서는 네놈은 대체 무엇이냐!?
 <string>저건... 악마인가?

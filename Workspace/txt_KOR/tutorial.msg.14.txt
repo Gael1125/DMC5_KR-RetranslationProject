@@ -102,52 +102,52 @@
 <string>STATUE OF SPARDA
 <string>GRIM TRICK 1
 <string>
-<string>플레이어 변경 -네로-
-<string>플레이어 변경 -단테-
-<string>플레이어 변경 -V-
-<string>봉인
-<string>모리슨의 편지
-<string>가게
-<string>스타일리시 랭크
-<string>비밀 미션
-<string>전화 부스
-<string>악마의 나무 핏덩이
-<string>신성한 조각상
-<string>이동
-<string>카메라
+<string>네로로 캐릭터 변경
+<string>단테로 캐릭터 변경
+<string>V로 캐릭터 변경
+<string>봉인이란?
+<string>모리슨이 보낸 편지
+<string>상점 매뉴얼
+<string>스타일리시 랭크란?
+<string>시크릿 미션
+<string>공중전화
+<string>마계수의 핏덩이
+<string>여신상이란?
+<string>이동 조작
+<string>카메라 조작
 <string>점프
 <string>킥 점프
-<string>록온
-<string>록온 변경
-<string>피하기
+<string>록온을 하는 법
+<string>록온의 목표 변경
+<string>회피기
 <string>일반 공격
 <string>특수 공격
 <string>근접 공격
 <string>원거리 공격
 <string>하이 롤러
 <string>컬러 업
-<string>익시드
-<string>엑스 액트
+<string>익시드란?
+<string>EX 액트
 <string>와이어 바운드 1
 <string>데빌 브레이커
 <string>브레이크 에이지
 <string>브레이크 어웨이
-<string>데빌 브레이커 획득
+<string>데빌 브레이커의 습득
 <string>와이어 스내치
 <string>와이어 바운드 2
 <string>그림 그립
-<string>데빌 트리거
+<string>네로의 마인화
 <string>버스터
 <string>더블 버스터
-<string>쉐도우
+<string>섀도우
 <string>체크메이트
 <string>그리폰
 <string>포스드 무브
 <string>책 읽기
 <string>갬빗
 <string>나이트메어
-<string>잠든 상태
-<string>데빌 트리거
+<string>잠든 상태란?
+<string>V의 마인화
 <string>무기 교체
 <string>무기 교체 2
 <string>스타일 액션
@@ -155,50 +155,50 @@
 <string>건슬링어
 <string>소드마스터
 <string>로얄가드
-<string>데빌 트리거
-<string>진 데빌 트리거
-<string>팁
-<string>타겟 변경
-<string>데빌 브레이커 재장착
-<string>천국 아니면 지옥
-<string>지옥 또 지옥
-<string>블러드스트림
+<string>단테의 마인화
+<string>진 마인화
+<string>약간의 팁
+<string>목표 변경
+<string>데빌 브레이커의 재장착
+<string><COLOR FFE340>HEAVEN</COLOR> OR <COLOR FF4040>HELL</COLOR>
+<string><COLOR C03030>HELL AND HELL</COLOR>
+<string>혈류
 <string>제트 가젯
-<string>팁
-<string>자동 지원
+<string>약간의 팁
+<string>오토 어시스트
 <string>닥터 파우스트
 <string>카발리에
-<string>데빌 소드 단테
+<string>마검 단테
 <string>킹 케르베로스
-<string>전화 부스
-<string>전화
-<string>니코의 전화
-<string>추억의 사진
+<string>공중전화
+<string>전화하기
+<string>니코에게 전화하기
+<string>추억돋는 사진
 <string>스타일리시!
 <string>블러디 팰리스
-<string>연기
-<string>레드오브보너스 1
-<string>레드오브보너스 2
+<string>중단하기
+<string>레드 오브 보너스 1
+<string>레드 오브 보너스 2
 <string>워밍업
-<string>커스터마이징
-<string>보이드
-<string>생명력 게이지
-<string>컨트롤 가이드
-<string>데빌 브레이커 교체하기
+<string>커스터마이즈 화면
+<string>보이드란?
+<string>체력 게이지
+<string>조작법 가이드
+<string>데빌 브레이커의 교체
 <string>MIXER 상호작용
 <string>다음 목표
 <string>근접 공격
-<string>미라지 블레이드
-<string>어퍼 슬래시
+<string><RUBY><RB>환영검</RB><RT>미라지 블레이드</RT></RUBY>
+<string><RUBY><RB>발도 베어올리기</RB><RT>어퍼 슬래시</RT></RUBY>
 <string>트릭 액션
 <string>그림 트릭 2
 <string>무기 교체
-<string>컨센트레이션
+<string>집중도란?
 <string>도플갱어
-<string>진 데빌 트리거
+<string>진 마인화
 <string>월드 오브 V
-<string>트레일러
-<string>스파다 석상
+<string>니코의 트레일러
+<string>스파다의 석상
 <string>그림 트릭 1
 <string>
 <string><ICON ACT_LS> 누르기
